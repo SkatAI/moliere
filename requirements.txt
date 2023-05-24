@@ -1,0 +1,8 @@
+ipython
+numpy
+pandas
+pytest
+pytest-cov
+openai
+spacy
+Levenshtein

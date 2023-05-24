@@ -1,0 +1,17 @@
+{
+    "acte" : {
+        "num": 1,
+        "scenes" : [
+            {
+                "num": 1,
+
+                "original": {
+                    "intro": "SGANARELLE, MARTINE, paroissant sur le théâtre en se querellant.",
+                    "texte": "SGANARELLE.
+                    NON, je te dis que je n'en veux rien faire, et que c'est à moi de parler
+                    et d'être le maître."
+                },
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+
+.DS_store
+__pycache__/
+
+.coverage
+
+.ipynb_checkpoints
+
+.~lock.*
+~$*
+
+./data/src/*.csv
+
+log/*.log
