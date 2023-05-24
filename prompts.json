@@ -8,8 +8,8 @@ instructions = [
     {
         "version": "02",
         "prompt": "Reecris le texte suivant paragraphe par paragraphe; garde la structure de dialogue; simplifie et raccourci chaque paragraphe;  utilise un vocabulaire simple d'un enfant.",
-        "dialogue_structure": "half the time",
-        "issues": "3/5",
+        "dialogue_structure": "3/5",
+        "issues": "",
     },
     {
         "version": "03",
@@ -27,7 +27,7 @@ instructions = [
     {
         "version": "05",
         "prompt": "simplifie chaque vers de ce dialogue entre les différents personnages; utilise des mots modernes;",
-        "dialogue_structure": "6/6",
+        "dialogue_structure": "5/5",
         "issues": "1 english verse",
     },
     {

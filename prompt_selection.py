@@ -3,7 +3,7 @@ results should
 - rewrite in modern french
 - keep dialogue structure: no summary
 - keep most or all verses
-- reduce length of longer verses
+- reduce length of long verses
 - be able to perform on extracts or full version of the scene
 '''
 
@@ -31,24 +31,18 @@ def get_completion(prompt, model="gpt-3.5-turbo", temp=0):
 
 
 instructions = [
-    "Reecris le texte suivant; garde la structure de dialogue; simplifie et raccourci chaque tirade;  utilise un vocabulaire simple d'un enfant.",
-    "Reecris le texte suivant paragraphe par paragraphe; garde la structure de dialogue; simplifie et raccourci chaque paragraphe;  utilise un vocabulaire simple d'un enfant.",
-    "Simplifie et raccourci le texte suivant sous forme de dialogue; utilise un vocabulaire simple;",
-    "Simplifie le dialogue suivant entre les deux personnages tout en conservant l'essence de chaque vers; utilise un vocabulaire simple; reduit la longueur des vers;",
-    "simplifie chaque vers de ce dialogue entre les différents personnages; utilise des mots modernes;",
-    "écris le dialogue suivant vers par vers en simplifiant chaque phrase; utilise un vocabulaire simple; ",
-    ""
+    '''Le texte suivant est une pièce de theatre de Molière. Reecris chaque vers en francais avec un vocabulaire simple et moderne.'''
 ]
 
 def save(df, filename):
     with open(filename, 'w', encoding='utf-8') as f:
-        df.to_json(f , force_ascii=False, orient = 'records')
+        df.to_json(f , force_ascii=False, orient = 'records', indent = 4)
 
 
 if __name__ == "__main__":
     openai.api_key = os.getenv("OPENAI_API_KEY")
     model   ="gpt-3.5-turbo"
-    filename = 'textes/medecin-malgre-lui.json'
+    filename = 'textes/medecin-malgre-lui_02.json'
 
     df = pd.read_json(filename)
 
