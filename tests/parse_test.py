@@ -4,6 +4,7 @@ import os
 
 from parse import Verse
 
+
 def test_remove_brackets():
     original = "first verse line[1]\nsecond verse line.[2]\n\n"
     expected = "first verse line\nsecond verse line.\n\n"
@@ -12,6 +13,7 @@ def test_remove_brackets():
     transformed = vrs.remove_brackets()
 
     assert transformed == expected
+
 
 def test_character_name():
     original = "CHARACTER.\n\nCAPS, first verse line\nsecond verse line.\n\n"
@@ -22,6 +24,7 @@ def test_character_name():
 
     assert transformed == expected
 
+
 def test_remove_lr_within():
     original = "first verse line\nsecond verse line.\n\n"
     expected = "first verse line second verse line.\n\n"
@@ -30,6 +33,7 @@ def test_remove_lr_within():
     transformed = vrs.remove_lr_within()
 
     assert transformed == expected
+
 
 def test_remove_lr_punctuation():
     original = "first verse line!\nsecond verse line.\n\n"
@@ -48,6 +52,7 @@ def test_remove_lr_punctuation():
 
     assert transformed == expected
 
+
 def test_remove_lr_questionmark():
     original = "first verse line?\nsecond verse line?\n\nhello"
     expected = "first verse line? second verse line?\n\nhello"
@@ -58,9 +63,8 @@ def test_remove_lr_questionmark():
     assert transformed == expected
 
 
-
 def test_transform_real_verse():
-    original = '''
+    original = """
 SGANARELLE, MARTINE, paroissant sur le théâtre en se querellant.
 
 
@@ -84,8 +88,8 @@ MARTINE.
 C'est bien à toi vraiment à te plaindre de cette affaire!
 Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme?
 et méritois-tu d'épouser une personne comme moi?
-'''
-    expected = '''
+"""
+    expected = """
 SGANARELLE, MARTINE, paroissant sur le théâtre en se querellant.
 
 
@@ -96,7 +100,7 @@ MARTINE: Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je 
 MARTINE: Voyez un peu l'habile homme, avec son benêt d'Aristote!
 
 MARTINE: C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme? et méritois-tu d'épouser une personne comme moi?
-'''
+"""
 
     original = original.strip()
     expected = expected.strip()
@@ -108,8 +112,7 @@ MARTINE: C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu 
 
 
 def test_verses():
-
-    original= '''
+    original = """
 SGANARELLE.
 
 Oui, habile homme. Trouve-moi un faiseur de fagots qui sache, comme moi,
@@ -123,15 +126,15 @@ Peste du fou fieffé!
 SGANARELLE.
 
 Peste de la carogne!
-    '''
+    """
 
-    expected  = '''
+    expected = """
 SGANARELLE: Oui, habile homme. Trouve-moi un faiseur de fagots qui sache, comme moi, raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par coeur.
 
 MARTINE: Peste du fou fieffé!
 
 SGANARELLE; Peste de la carogne!
-'''
+"""
     original = original.strip()
     expected = expected.strip()
 

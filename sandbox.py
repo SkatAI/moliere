@@ -2,16 +2,15 @@ import openai
 import os
 import random
 
+
 def get_completion(prompt, model="gpt-3.5-turbo", temp=0.5):
     messages = [{"role": "user", "content": prompt}]
     response = openai.ChatCompletion.create(
         model=model,
         messages=messages,
-        temperature = temp,  
+        temperature=temp,
     )
     return response.choices[0].message["content"]
-
-
 
 
 def analyze(sentence, model="gpt-3.5-turbo", temp=0):
@@ -48,60 +47,55 @@ def analyze(sentence, model="gpt-3.5-turbo", temp=0):
     response = openai.ChatCompletion.create(
         model=model,
         messages=messages,
-        temperature=0, # this is the degree of randomness of the model's output
+        temperature=0,  # this is the degree of randomness of the model's output
     )
     return response.choices[0].message["content"], prompt
 
+
 def feedback(sentence):
-   prompt = f"""
+    prompt = f"""
    La phrase entre parenthèses est-elle correct grammaticalement?
    ({sentence})
    Si la phrase n'est pas correcte:
    - explique les erreurs 
    - écris la phrase corrigée à la ligne précédée de ---
    """
-   response =get_completion(prompt, model="gpt-3.5-turbo", temp=0.5) 
-   return response,prompt 
+    response = get_completion(prompt, model="gpt-3.5-turbo", temp=0.5)
+    return response, prompt
 
 
 if __name__ == "__main__":
     openai.api_key = os.getenv("OPENAI_API_KEY")
 
     del_start = "["
-    del_end= "]"
-    
+    del_end = "]"
+
     if False:
         prompt = f"""
             Ecris une série de phrases sur ce que fait un oiseau au printemps. 
             Utilise des noms d'oiseaux précis.
             Mets les phrases au singulier.
         """
-        response =get_completion(prompt, model="gpt-3.5-turbo", temp=0.5) 
+        response = get_completion(prompt, model="gpt-3.5-turbo", temp=0.5)
         print(response)
 
     if True:
-        with open('sentences.txt') as file:
+        with open("sentences.txt") as file:
             lines = [line.rstrip() for line in file]
 
         sentence = random.choice(lines)
         print(f"Mettre la phrase au pluriel: \n{sentence} ")
         answer = input(">> ")
-        
+
         print("-- essai 1")
-        response, prompt =feedback(answer)
+        response, prompt = feedback(answer)
         print(prompt)
-        correct = sentence[sentence.find(del_start)+1:sentence.find(del_end)]
+        correct = sentence[sentence.find(del_start) + 1 : sentence.find(del_end)]
 
         print(response)
         print(f"correct: {correct}")
 
         print("-- essai 2")
-        response, prompt =feedback(answer)
+        response, prompt = feedback(answer)
         print(prompt)
         print(response)
-
-
-
-
-
-
