@@ -1,0 +1,90 @@
+[
+    {
+        "acte":2,
+        "scene":5,
+        "verse_id_start":430,
+        "verse_id_end":440,
+        "text":{
+            "430":"SGANARELLE: regardant son argent. Ma foi, cela ne va pas mal, et pourvu que... ",
+            "431":"LÉANDRE: Monsieur, il y a longtemps que je vous attends, et je viens implorer votre assistance. ",
+            "432":"SGANARELLE: lui prenant le poignet. Voilà un pouls qui est fort mauvais. ",
+            "433":"LÉANDRE: Je ne suis point malade, Monsieur, et ce n'est pas pour cela que je viens à vous. ",
+            "434":"SGANARELLE: Si vous n'êtes pas malade, que diable ne le dites-vous donc? ",
+            "435":"LÉANDRE: Non. Pour vous dire la chose en deux mots, je m'appelle Léandre, qui suis amoureux de Lucinde, que vous venez de visiter; et, comme, par la mauvaise humeur de son père, toute sorte d'accès m'est fermé auprès d'elle, je me hasarde à vous prier de vouloir servir mon amour, et de me donner lieu d'exécuter un stratagème que j'ai trouvé pour lui pouvoir dire deux mots d'où dépendent absolument mon bonheur et ma vie. ",
+            "436":"SGANARELLE: paroissant en colère. Pour qui me prenez-vous? Comment! oser vous adresser à moi pour vous servir dans votre amour, et vouloir ravaler la dignité de médecin à des emplois de cette nature! ",
+            "437":"LÉANDRE: Monsieur, ne faites point de bruit. ",
+            "438":"SGANARELLE: en le faisant reculer. J'en veux faire, moi. Vous êtes un impertinent. ",
+            "439":"LÉANDRE: Hé! Monsieur, doucement."
+        },
+        "modern":{
+            "430":"SGANARELLE: Regardant son argent. Ah, ça va plutôt bien. ",
+            "431":"LÉANDRE: Monsieur, je vous attendais depuis longtemps et je viens vous demander de l'aide. ",
+            "432":"SGANARELLE: En prenant son poignet. Votre pouls est mauvais. ",
+            "433":"LÉANDRE: Je ne suis pas malade, Monsieur. Je viens vous voir pour autre chose. ",
+            "434":"SGANARELLE: Si vous n'êtes pas malade, pourquoi ne pas le dire tout de suite? ",
+            "435":"LÉANDRE: Voilà, je m'appelle Léandre et je suis amoureux de Lucinde, que vous venez de voir. Mais son père ne veut pas de moi, alors je vous demande de m'aider à lui parler. ",
+            "436":"SGANARELLE: En colère. Comment osez-vous me demander ça? Vous voulez que je me rabaisse à ça? ",
+            "437":"LÉANDRE: Monsieur, calmez-vous. ",
+            "438":"SGANARELLE: En le faisant reculer. Non, je ne me calmerai pas. Vous êtes impertinent. ",
+            "439":"LÉANDRE: Monsieur, s'il vous plaît, soyez doux."
+        }
+    },
+    {
+        "acte":2,
+        "scene":5,
+        "verse_id_start":435,
+        "verse_id_end":445,
+        "text":{
+            "435":"LÉANDRE: Non. Pour vous dire la chose en deux mots, je m'appelle Léandre, qui suis amoureux de Lucinde, que vous venez de visiter; et, comme, par la mauvaise humeur de son père, toute sorte d'accès m'est fermé auprès d'elle, je me hasarde à vous prier de vouloir servir mon amour, et de me donner lieu d'exécuter un stratagème que j'ai trouvé pour lui pouvoir dire deux mots d'où dépendent absolument mon bonheur et ma vie. ",
+            "436":"SGANARELLE: paroissant en colère. Pour qui me prenez-vous? Comment! oser vous adresser à moi pour vous servir dans votre amour, et vouloir ravaler la dignité de médecin à des emplois de cette nature! ",
+            "437":"LÉANDRE: Monsieur, ne faites point de bruit. ",
+            "438":"SGANARELLE: en le faisant reculer. J'en veux faire, moi. Vous êtes un impertinent. ",
+            "439":"LÉANDRE: Hé! Monsieur, doucement. ",
+            "440":"SGANARELLE: Un malavisé. ",
+            "441":"LÉANDRE: De grâce! ",
+            "442":"SGANARELLE: Je vous apprendrai que je ne suis point homme à cela, et que c'est une insolence extrême... ",
+            "443":"LÉANDRE: tirant une bourse qu'il lui donne. Monsieur! ",
+            "444":"SGANARELLE: tenant la bourse. De vouloir m'employer... Je ne parle pas pour vous, car vous êtes honnête homme, et je serois ravi de vous rendre service. Mais il y a de certains impertinents au monde qui viennent prendre les gens pour ce qu'ils ne sont pas, et je vous avoue que cela me met en colère."
+        },
+        "modern":{
+            "435":"LÉANDRE: Bonjour. Je m'appelle Léandre et je suis amoureux de Lucinde, que vous venez de voir. Mais son père ne m'aime pas et je ne peux pas la voir. Je vous demande de m'aider à lui parler. C'est très important pour moi. ",
+            "436":"SGANARELLE: en colère. Comment osez-vous me demander ça? Je suis médecin, pas un serviteur d'amour! ",
+            "437":"LÉANDRE: S'il vous plaît, ne faites pas de bruit. ",
+            "438":"SGANARELLE: en le poussant. Vous êtes impertinent. ",
+            "439":"LÉANDRE: Attendez, s'il vous plaît. ",
+            "440":"SGANARELLE: Je ne suis pas d'accord avec ça. C'est très impoli... ",
+            "441":"LÉANDRE: en lui donnant une bourse. Monsieur! ",
+            "442":"SGANARELLE: en prenant la bourse. Je ne parle pas de vous, vous êtes un homme honnête. Mais il y a des gens impolis qui prennent les autres pour des idiots. Cela me met en colère."
+        }
+    },
+    {
+        "acte":2,
+        "scene":5,
+        "verse_id_start":438,
+        "verse_id_end":448,
+        "text":{
+            "438":"SGANARELLE: en le faisant reculer. J'en veux faire, moi. Vous êtes un impertinent. ",
+            "439":"LÉANDRE: Hé! Monsieur, doucement. ",
+            "440":"SGANARELLE: Un malavisé. ",
+            "441":"LÉANDRE: De grâce! ",
+            "442":"SGANARELLE: Je vous apprendrai que je ne suis point homme à cela, et que c'est une insolence extrême... ",
+            "443":"LÉANDRE: tirant une bourse qu'il lui donne. Monsieur! ",
+            "444":"SGANARELLE: tenant la bourse. De vouloir m'employer... Je ne parle pas pour vous, car vous êtes honnête homme, et je serois ravi de vous rendre service. Mais il y a de certains impertinents au monde qui viennent prendre les gens pour ce qu'ils ne sont pas, et je vous avoue que cela me met en colère. ",
+            "445":"LÉANDRE: Je vous demande pardon, Monsieur, de la liberté que... ",
+            "446":"SGANARELLE: Vous vous moquez! De quoi est-il question? ",
+            "447":"LÉANDRE: Vous saurez donc, Monsieur, que cette maladie que vous voulez guérir est une feinte maladie. Les médecins ont raisonné là-dessus comme il faut, et ils n'ont pas manqué de dire que cela procédoit, qui du cerveau, qui des entrailles, qui de la rate, qui du foie. Mais il est certain que l'amour en est la véritable cause, et que Lucinde n'a trouvé cette maladie que pour se délivrer d'un mariage dont elle étoit importunée. Mais de crainte qu'on ne nous voie ensemble, retirons-nous d'ici, et je vous dirai en marchant ce que je souhaite de vous."
+        },
+        "modern":{
+            "438":"SGANARELLE: Reculez, je vous dis! Vous êtes impertinent!",
+            "439":"LÉANDRE: Monsieur, calmez-vous.",
+            "440":"SGANARELLE: Vous êtes malavisé!",
+            "441":"LÉANDRE: S'il vous plaît!",
+            "442":"SGANARELLE: Je ne suis pas du genre à me laisser faire. C'est une insulte grave...",
+            "443":"LÉANDRE: (lui tendant une bourse) Monsieur!",
+            "444":"SGANARELLE: (prenant la bourse) Je ne parle pas pour vous, car vous êtes honnête homme et je serais ravi de vous aider. Mais il y a des impertinents qui prennent les gens pour des idiots et ça m'énerve.",
+            "445":"LÉANDRE: Je suis désolé, Monsieur, pour ma liberté...",
+            "446":"SGANARELLE: Vous vous moquez de moi! De quoi s'agit-il?",
+            "447":"LÉANDRE: Voilà, Monsieur, la maladie que vous voulez guérir est fausse. Les médecins ont bien analysé la situation et ont dit que ça venait du cerveau, des entrailles, de la rate ou du foie. Mais en réalité, c'est l'amour qui en est la cause. Lucinde a inventé cette maladie pour éviter un mariage qu'elle ne voulait pas. Mais pour ne pas être vus ensemble, partons d'ici et je vous dirai ce que j'attends de vous en marchant."
+        }
+    }
+]

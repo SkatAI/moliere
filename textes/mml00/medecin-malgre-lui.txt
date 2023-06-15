@@ -1,14 +1,14 @@
 == ACTE PREMIER
 
 
--- SCÈNE PREMIÈRE
+-- SCENE PREMIÈRE
 
 SGANARELLE, MARTINE, paroissant sur le théâtre en se querellant.
 
 
 SGANARELLE.
 
-NON, je te dis que je n'en veux rien faire, et que c'est à moi de parler
+Non, je te dis que je n'en veux rien faire, et que c'est à moi de parler
 et d'être le maître.
 
 MARTINE.
@@ -225,7 +225,7 @@ SGANARELLE.
 Voilà le vrai moyen de vous apaiser.
 
 
--- SCÈNE II
+-- SCENE II
 
 MONSIEUR ROBERT, SGANARELLE, MARTINE.
 
@@ -451,7 +451,7 @@ Va, je m'en vais au bois, et je te promets aujourd'hui plus d'un cent de
 fagots.
 
 
--- SCÈNE III
+-- SCENE III
 
 
 MARTINE, seule.
@@ -464,7 +464,7 @@ pendart. Je veux une vengeance qui se fasse un peu mieux sentir, et ce
 n'est pas contentement pour l'injure que j'ai reçue.
 
 
--- SCÈNE IV
+-- SCENE IV
 
 VALÈRE, LUCAS, MARTINE.
 
@@ -664,7 +664,7 @@ Nous sommes bien heureux d'avoir fait cette rencontre, et j'en conçois,
 pour moi, la meilleure espérance du monde.
 
 
--- SCÈNE V
+-- SCENE V
 
 SGANARELLE, VALÈRE, LUCAS.
 
@@ -1132,7 +1132,9 @@ VALÈRE.
 
 Nous en prendrons une.
 
-SGANARELLE, présentant sa bouteille à Valère. Tenez cela, vous: voilà
+SGANARELLE, présentant sa bouteille à Valère.
+
+Tenez cela, vous: voilà
 où je mets mes juleps.
 
 (Puis, se tournant vers Lucas en crachant.) Vous, marchez là-dessus,
@@ -1149,7 +1151,7 @@ il est bouffon.
 == ACTE II
 
 
--- SCÈNE PREMIÈRE
+-- SCENE PREMIÈRE
 
 
 GÉRONTE, VALÈRE, LUCAS, JACQUELINE.
@@ -1157,7 +1159,7 @@ GÉRONTE, VALÈRE, LUCAS, JACQUELINE.
 
 VALÈRE.
 
-OUI, Monsieur, je crois que vous serez satisfait, et nous vous avons
+Oui, Monsieur, je crois que vous serez satisfait, et nous vous avons
 amené le plus grand médecin du monde.
 
 LUCAS.
@@ -1298,7 +1300,7 @@ GÉRONTE.
 Oui; mais ces gestes ne sont pas nécessaires.
 
 
--- SCÈNE II
+-- SCENE II
 
 VALÈRE, SGANARELLE, GÉRONTE, LUCAS, JACQUELINE.
 
@@ -1489,8 +1491,8 @@ LUCAS.
 
 Oui.
 
-SGANARELLE. (Il fait semblant d'embrasser Lucas, et, se tournant du
-côté de la nourrice, il l'embrasse.)
+SGANARELLE. Il fait semblant d'embrasser Lucas, et, se tournant du
+côté de la nourrice, il l'embrasse.
 
 Ah! vraiment, je ne savois pas cela, et je m'en réjouis pour l'amour de
 l'on et de l'antre.
@@ -1531,7 +1533,7 @@ LUCAS. en le tirant derechef.
 Ah! vartigué, Monsieu le médecin, que de lantiponages!
 
 
--- SCÈNE III
+-- SCENE III
 
 SGANARELLE, GÉRONTE, LUCAS, JACQUELINE.
 
@@ -1585,8 +1587,9 @@ SGANARELLE, en le regardant de travers.
 
 Je te donnerai la fièvre.
 
-JACQUELINE, prenant Lucas par le bras et lui faisant aussi faire la
-pirouette. Ote-toi de là aussi. Est-ce que je ne sis pas assez grande
+JACQUELINE, prenant Lucas par le bras et lui faisant aussi faire la pirouette.
+
+Ote-toi de là aussi. Est-ce que je ne sis pas assez grande
 pour me défendre moi-même, s'il me fait queuque chose qui ne soit pas à
 faire?
 
@@ -1603,7 +1606,7 @@ GÉRONTE.
 Voici ma fille.
 
 
--- SCÈNE IV
+-- SCENE IV
 
 LUCINDE, VALÈRE, GÉRONTE, LUCAS, SGANARELLE, JACQUELINE.
 
@@ -2055,7 +2058,7 @@ GÉRONTE.
 Je n'ai pas cette pensée.
 
 
--- SCÈNE V
+-- SCENE V
 
 SGANARELLE, LÉANDRE.
 
@@ -2164,14 +2167,14 @@ crèvera, ou bien elle sera à vous.
 == ACTE III
 
 
--- SCÈNE PREMIÈRE
+-- SCENE PREMIÈRE
 
 SGANARELLE, LÉANDRE.
 
 
 LÉANDRE.
 
-IL me semble que je ne suis pas mal ainsi pour un apothicaire; et, comme
+Il me semble que je ne suis pas mal ainsi pour un apothicaire; et, comme
 le père ne m'a guère vu, ce changement d'habit et de perruque est assez
 capable, je crois, de me déguiser à ses yeux.
 
@@ -2235,7 +2238,7 @@ Voilà des gens qui ont la mine de me venir consulter. Allez toujours
 m'attendre auprès du logis de votre maîtresse.
 
 
--- SCÈNE II
+-- SCENE II
 
 THIBAUT, PERRIN, SGANARELLE.
 
@@ -2321,7 +2324,9 @@ d'hydropisie, qu'elle est enflée par tout le corps, qu'elle a la fièvre,
 avec des douleurs dans les jambes, et qu'il lui prend parfois des
 syncopes et des convulsions, c'est-à-dire des évanouissements?
 
-PERRIN. Hé! oui, Monsieu, c'est justement ça.
+PERRIN.
+
+Hé! oui, Monsieu, c'est justement ça.
 
 SGANARELLE.
 
@@ -2365,7 +2370,7 @@ Allez. Si elle meurt, ne manquez pas de la faire enterrer du mieux que
 vous pourrez.
 
 
--- SCÈNE III
+-- SCENE III
 
 JACQUELINE, SGANARELLE, LUCAS.
 
@@ -2446,7 +2451,7 @@ entendait leur dialogue, chacun te retire de son côté, mais le médecin
 d'une manière fort plaisante.)
 
 
--- SCÈNE IV
+-- SCENE IV
 
 GÉRONTE, LUCAS.
 
@@ -2472,7 +2477,7 @@ GÉRONTE.
 Va-t'en voir un peu ce que fait ma fille.
 
 
--- SCÈNE V
+-- SCENE V
 
 SGANARELLE, LÉANDRE, GÉRONTE.
 
@@ -2536,7 +2541,7 @@ SGANARELLE.
 Votre fille en aura besoin.
 
 
--- SCÈNE VI
+-- SCENE VI
 
 JACQUELINE, LUCINDE, GÉRONTE, LÉANDRE, SGANARELLE.
 
@@ -2717,7 +2722,7 @@ mais surtout ne perdez point de temps. Au remède, vite, au remède
 spécifique.[25]
 
 
--- SCÈNE VII
+-- SCENE VII
 
 GÉRONTE, SGANARELLE.
 
@@ -2807,7 +2812,7 @@ Il n'a pas affaire à un sot, et vous savez des rubriques qu'il ne sait
 pas.[26] Plus fin que vous n'est pas bête.
 
 
--- SCÈNE VIII
+-- SCENE VIII
 
 LUCAS. GÉRONTE, SGANARELLE.
 
@@ -2829,7 +2834,7 @@ Ah! par ma fi, Monsieu le médecin, vous serez pendu. Ne bougez de là
 seulement.
 
 
--- SCÈNE IX
+-- SCENE IX
 
 MARTINE, SGANARELLE, LUCAS.
 
@@ -2886,7 +2891,7 @@ SGANARELLE.
 Ah!
 
 
--- SCÈNE X
+-- SCENE X
 
 GÉRONTE, SGANARELLE, MARTINE, LUCAS.
 
@@ -2905,7 +2910,7 @@ GÉRONTE.
 Non, non, la justice en ordonnera... Mais que vois-je?
 
 
--- SCÈNE XI ET DERNIÈRE
+-- SCENE XI ET DERNIÈRE
 
 LÉANDRE, LUCINDE, JACQUELINE, LUCAS, GÉRONTE, SGANARELLE, MARTINE.
 

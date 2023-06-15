@@ -1,0 +1,122 @@
+[
+    {
+        "acte":3,
+        "scene":2,
+        "verse_id_start":459,
+        "verse_id_end":469,
+        "text":{
+            "459":"THIBAUT: Monsieu, je venons vous charcher, mon fils Perrin et moi. ",
+            "460":"SGANARELLE: Qu'y a-t-il? ",
+            "461":"THIBAUT: Sa pauvre mère, qui a nom Parette, est dans un Ut, malade, il y a six mois. ",
+            "462":"SGANARELLE: tendant la main comme pour recevoir de l'argent. Que voulez-vous que j'y fasse? ",
+            "463":"THIBAUT: Je voudrions, Monsieu, que vous nous baillissiez quelque petite drôlerie pour la garir. ",
+            "464":"SGANARELLE: Il faut voir de quoi est-ce qu'elle est malade. ",
+            "465":"THIBAUT: Allé est malade d'hypocrisie, Monsieu. ",
+            "466":"SGANARELLE: D'hypocrisie? ",
+            "467":"THIBAUT: Oui, c'est-à-dire qu'allé est enflée par tout, et l'an dit que c'est quantité de sériosités qu'allé a dans le corps, et que son foie, son ventre ou sa rate, comme vous voudrais l'appeler, au glieu de faire du sang, ne fait plus que de l'iau. Allé a, de deux jours l'un, la fièvre quotiguenne, avec des lasstules et des douleurs dans les mufles des jambes. On entend dans sa gorge des fleumes qui sont tout prêts à l'étouffer, et par fois il lui prend des sincoles et des conversions, que je crayons qu'alle est passée. J'avons dans notte village un apothicaire, révérence parler, qui li a donné je ne sais combien d'histoires; et il m'en coûte plus d'eune douzaine de bons écus en lavements, ne v's en déplaise, en apostumes qu'on li a fait prendre, en infections de jacinthe, et en portions cordales. Mais tout ça, comme dit l'autre, n'a été que de l'onguent miton-mitaine. Il veloit li bailler d'eune certaine drogue que l'on appelle du vin amétile; mais j'ai-s-eu peur franchement que ça l'envoyît à patres; et l'an dit que ces gros médecins tuont je ne sai combien de monde avec cette invention-là. ",
+            "468":"SGANARELLE: tendant toujours la main et la branlant, comme pour signe qu'il demande de forgent. Venons au fait, mon ami, venons au fait."
+        },
+        "modern":{
+            "459":"THIBAUT: Monsieur, mon fils Perrin et moi sommes venus vous chercher.",
+            "460":"SGANARELLE: Qu'est-ce qu'il y a?",
+            "461":"THIBAUT: Sa pauvre mère, qui s'appelle Parette, est très malade depuis six mois.",
+            "462":"SGANARELLE: tendant la main comme pour recevoir de l'argent. Que voulez-vous que je fasse?",
+            "463":"THIBAUT: Monsieur, nous aimerions que vous nous donniez quelque chose de drôle pour la guérir.",
+            "464":"SGANARELLE: Il faut d'abord savoir de quoi elle souffre.",
+            "465":"THIBAUT: Elle est malade d'hypocrisie, Monsieur.",
+            "466":"SGANARELLE: D'hypocrisie?",
+            "467":"THIBAUT: Oui, c'est-à-dire qu'elle est enflée partout, et on dit que c'est à cause de toutes les sériosités qu'elle a dans le corps. Son foie, son ventre ou sa rate, peu importe comment on l'appelle, au lieu de produire du sang, ne produit plus que de l'eau. Elle a, un jour sur deux, de la fièvre quotidienne, avec des boutons et des douleurs dans les muscles des jambes. On entend dans sa gorge des mucosités qui sont prêtes à l'étouffer, et parfois elle a des convulsions et des pertes de conscience, ce qui nous fait craindre le pire. Nous avons dans notre village un apothicaire, si vous me permettez de le dire ainsi, qui lui a donné je ne sais combien de remèdes. J'ai dépensé plus d'une douzaine de bons écus en lavements, en applications d'onguents, en inhalations de jacinthe et en potions cordiales. Mais tout cela, comme on dit, n'a été que des traitements inefficaces. Il voulait lui donner une certaine drogue appelée vin amétile, mais j'ai eu peur que cela ne la tue. On dit que ces grands médecins font mourir beaucoup de gens avec cette invention-là.",
+            "468":"SGANARELLE: tendant toujours la main et la secouant, comme pour demander de l'argent. Allons, mon ami, venons-en au fait."
+        }
+    },
+    {
+        "acte":3,
+        "scene":2,
+        "verse_id_start":464,
+        "verse_id_end":474,
+        "text":{
+            "464":"SGANARELLE: Il faut voir de quoi est-ce qu'elle est malade. ",
+            "465":"THIBAUT: Allé est malade d'hypocrisie, Monsieu. ",
+            "466":"SGANARELLE: D'hypocrisie? ",
+            "467":"THIBAUT: Oui, c'est-à-dire qu'allé est enflée par tout, et l'an dit que c'est quantité de sériosités qu'allé a dans le corps, et que son foie, son ventre ou sa rate, comme vous voudrais l'appeler, au glieu de faire du sang, ne fait plus que de l'iau. Allé a, de deux jours l'un, la fièvre quotiguenne, avec des lasstules et des douleurs dans les mufles des jambes. On entend dans sa gorge des fleumes qui sont tout prêts à l'étouffer, et par fois il lui prend des sincoles et des conversions, que je crayons qu'alle est passée. J'avons dans notte village un apothicaire, révérence parler, qui li a donné je ne sais combien d'histoires; et il m'en coûte plus d'eune douzaine de bons écus en lavements, ne v's en déplaise, en apostumes qu'on li a fait prendre, en infections de jacinthe, et en portions cordales. Mais tout ça, comme dit l'autre, n'a été que de l'onguent miton-mitaine. Il veloit li bailler d'eune certaine drogue que l'on appelle du vin amétile; mais j'ai-s-eu peur franchement que ça l'envoyît à patres; et l'an dit que ces gros médecins tuont je ne sai combien de monde avec cette invention-là. ",
+            "468":"SGANARELLE: tendant toujours la main et la branlant, comme pour signe qu'il demande de forgent. Venons au fait, mon ami, venons au fait. ",
+            "469":"THIBAUT: Le fait est, Monsieu, que je venons vous prier de nous dire ce qu'il faut que je fassions. ",
+            "470":"SGANARELLE: Je ne vous entends point du tout. ",
+            "471":"PERRIN: Monsieu, ma mère est malade; et velà deux écus que je vous apportons pour nous bailler queuque remède. ",
+            "472":"SGANARELLE: Ah! je vous entends, vous. Voilà un garçon qui parle clairement, et qui s'explique comme il faut. Vous dites que votre mère est malade d'hydropisie, qu'elle est enflée par tout le corps, qu'elle a la fièvre, avec des douleurs dans les jambes, et qu'il lui prend parfois des syncopes et des convulsions, c'est-à-dire des évanouissements? ",
+            "473":"PERRIN: Hé! oui, Monsieu, c'est justement ça."
+        },
+        "modern":{
+            "464":"SGANARELLE: Il faut voir ce dont elle souffre.",
+            "465":"THIBAUT: Elle est malade d'hypocrisie, Monsieur.",
+            "466":"SGANARELLE: D'hypocrisie?",
+            "467":"THIBAUT: Oui, cela signifie qu'elle est enflée partout, et on dit que c'est à cause de quantités de sérosités qu'elle a dans le corps. Son foie, son ventre ou sa rate, peu importe comment vous voulez l'appeler, au lieu de produire du sang, ne produit plus que de l'eau. Elle a, un jour sur deux, de la fièvre quotidienne, avec des boutons et des douleurs dans les muscles des jambes. On entend dans sa gorge des mucosités qui sont prêtes à l'étouffer, et parfois elle a des évanouissements et des convulsions, ce qui me fait craindre le pire. Nous avons dans notre village un apothicaire, si vous me permettez de le dire ainsi, qui lui a donné je ne sais combien de traitements. J'ai dépensé plus d'une douzaine de bons écus en lavements, en cataplasmes qu'on lui a fait prendre, en inhalations de jacinthe et en potions cordiales. Mais tout cela, comme on dit, n'a été que des remèdes inefficaces. Il voulait lui donner une certaine drogue appelée vin amétile, mais j'ai eu peur que cela ne la tue. On dit que ces grands médecins tuent je ne sais combien de personnes avec cette invention-là.",
+            "468":"SGANARELLE: en tendant toujours la main et la secouant, comme pour demander de l'argent. Allons, mon ami, venons-en au fait, venons-en au fait.",
+            "469":"THIBAUT: Le fait est, Monsieur, que nous venons vous demander ce que nous devons faire.",
+            "470":"SGANARELLE: Je ne vous comprends pas du tout.",
+            "471":"PERRIN: Monsieur, ma mère est malade, et voici deux écus que nous vous apportons pour nous donner un remède.",
+            "472":"SGANARELLE: Ah! Je vous comprends, vous. Voilà un garçon qui parle clairement et qui s'exprime comme il faut. Vous dites que votre mère est malade d'hydropisie, qu'elle est enflée partout, qu'elle a de la fièvre avec des douleurs dans les jambes, et qu'elle a parfois des évanouissements et des convulsions, c'est-à-dire des pertes de connaissance?",
+            "473":"PERRIN: Oui, Monsieur, c'est exactement ça."
+        }
+    },
+    {
+        "acte":3,
+        "scene":2,
+        "verse_id_start":469,
+        "verse_id_end":479,
+        "text":{
+            "469":"THIBAUT: Le fait est, Monsieu, que je venons vous prier de nous dire ce qu'il faut que je fassions. ",
+            "470":"SGANARELLE: Je ne vous entends point du tout. ",
+            "471":"PERRIN: Monsieu, ma mère est malade; et velà deux écus que je vous apportons pour nous bailler queuque remède. ",
+            "472":"SGANARELLE: Ah! je vous entends, vous. Voilà un garçon qui parle clairement, et qui s'explique comme il faut. Vous dites que votre mère est malade d'hydropisie, qu'elle est enflée par tout le corps, qu'elle a la fièvre, avec des douleurs dans les jambes, et qu'il lui prend parfois des syncopes et des convulsions, c'est-à-dire des évanouissements? ",
+            "473":"PERRIN: Hé! oui, Monsieu, c'est justement ça. ",
+            "474":"SGANARELLE: J'ai compris d'abord vos paroles. Vous avez un père qui ne sait ce qu'il dit. Maintenant vous me demandez un remède? ",
+            "475":"PERRIN: Oui, Monsieu. ",
+            "476":"SGANARELLE: Un remède pour la guérir. ",
+            "477":"PERRIN: C'est comme je l'entendons. ",
+            "478":"SGANARELLE: Tenez, voilà un morceau de fromage qu'il faut que vous lui fassiez prendre."
+        },
+        "modern":{
+            "469":"THIBAUT: En fait, Monsieur, nous venons vous demander ce que nous devons faire.",
+            "470":"SGANARELLE: Je ne vous comprends pas du tout.",
+            "471":"PERRIN: Monsieur, ma mère est malade; et voici deux pièces que nous vous apportons pour nous donner un remède.",
+            "472":"SGANARELLE: Ah! Je vous comprends, vous. Voilà un garçon qui parle clairement et qui s'explique correctement. Vous dites que votre mère est malade d'hydropisie, qu'elle est enflée partout, qu'elle a de la fièvre, des douleurs dans les jambes et qu'elle a parfois des évanouissements et des convulsions, c'est-à-dire des crises?",
+            "473":"PERRIN: Oui, Monsieur, c'est exactement ça.",
+            "474":"SGANARELLE: J'ai tout de suite compris vos paroles. Vous avez un père qui ne sait pas ce qu'il dit. Maintenant, vous me demandez un remède?",
+            "475":"PERRIN: Oui, Monsieur.",
+            "476":"SGANARELLE: Un remède pour la guérir.",
+            "477":"PERRIN: C'est ce que nous voulons.",
+            "478":"SGANARELLE: Tenez, voici un morceau de fromage qu'il faut que vous lui fassiez prendre."
+        }
+    },
+    {
+        "acte":3,
+        "scene":2,
+        "verse_id_start":473,
+        "verse_id_end":483,
+        "text":{
+            "473":"PERRIN: Hé! oui, Monsieu, c'est justement ça. ",
+            "474":"SGANARELLE: J'ai compris d'abord vos paroles. Vous avez un père qui ne sait ce qu'il dit. Maintenant vous me demandez un remède? ",
+            "475":"PERRIN: Oui, Monsieu. ",
+            "476":"SGANARELLE: Un remède pour la guérir. ",
+            "477":"PERRIN: C'est comme je l'entendons. ",
+            "478":"SGANARELLE: Tenez, voilà un morceau de fromage qu'il faut que vous lui fassiez prendre. ",
+            "479":"PERRIN: Du fromage, Monsieu? ",
+            "480":"SGANARELLE: Oui, c'est un fromage préparé, où il entre de l'or, du coral et des perles, et quantité d'autres choses précieuses. ",
+            "481":"PERRIN: Monsieu, je vous sommes bien obligez, et j'allons li faire prendre ça tout à l'heure. ",
+            "482":"SGANARELLE: Allez. Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez."
+        },
+        "modern":{
+            "473":"PERRIN: Hé! Oui, Monsieur, c'est exactement ça.",
+            "474":"SGANARELLE: J'ai tout de suite compris vos paroles. Vous avez un père qui dit n'importe quoi. Maintenant, vous me demandez un remède ?",
+            "475":"PERRIN: Oui, Monsieur.",
+            "476":"SGANARELLE: Un remède pour la guérir.",
+            "477":"PERRIN: C'est ce que nous voulons.",
+            "478":"SGANARELLE: Tenez, voici un morceau de fromage qu'il faut que vous lui fassiez prendre.",
+            "479":"PERRIN: Du fromage, Monsieur ?",
+            "480":"SGANARELLE: Oui, c'est un fromage spécial, dans lequel il y a de l'or, du corail, des perles et plein d'autres choses précieuses.",
+            "481":"PERRIN: Monsieur, nous vous sommes très reconnaissants, et nous allons lui faire prendre ça tout de suite.",
+            "482":"SGANARELLE: Allez-y. Si elle meurt, n'oubliez pas de l'enterrer du mieux que vous pourrez."
+        }
+    }
+]

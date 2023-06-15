@@ -1,0 +1,270 @@
+[
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":1,
+        "verse_id_end":11,
+        "text":{
+            "1":"SGANARELLE: NON, je te dis que je n'en veux rien faire, et que c'est à moi de parler et d'être le maître. ",
+            "2":"MARTINE: Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines. ",
+            "3":"SGANARELLE: O la grande fatigue que d'avoir une femme! et qu'Aristote a bien raison quand il dit qu'une femme est pire qu'un démon! ",
+            "4":"MARTINE: Voyez un peu l'habile homme, avec son benêt d'Aristote! ",
+            "5":"SGANARELLE: Oui, habile homme. Trouve-moi un faiseur de fagots qui sache, comme moi, raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par coeur. ",
+            "6":"MARTINE: Peste du fou fieffé! ",
+            "7":"SGANARELLE: Peste de la carogne! ",
+            "8":"MARTINE: Que maudit soit l'heure et le jour où je m'avisai d'aller dire oui! ",
+            "9":"SGANARELLE: Que maudit soit le bec cornu de notaire qui me fit signer ma ruine! ",
+            "10":"MARTINE: C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme? et méritois-tu d'épouser une personne comme moi?"
+        },
+        "modern":{
+            "1":"SGANARELLE: Non, je ne veux pas faire ce que tu me demandes. C'est à moi de décider et d'être le chef ici.",
+            "2":"MARTINE: Mais moi, je veux que tu fasses ce que je te dis. Je ne me suis pas mariée avec toi pour supporter tes bêtises.",
+            "3":"SGANARELLE: Ah, quelle corvée d'avoir une femme! Aristote avait raison quand il disait qu'une femme est pire qu'un démon!",
+            "4":"MARTINE: Regardez cet homme intelligent, qui croit tout savoir grâce à son cher Aristote!",
+            "5":"SGANARELLE: Oui, je suis intelligent. Trouvez-moi un bûcheron qui puisse raisonner comme moi, qui ait travaillé six ans pour un célèbre médecin et qui ait appris les bases par cœur dès son plus jeune âge.",
+            "6":"MARTINE: Quel fou! ",
+            "7":"SGANARELLE: Quelle peste!",
+            "8":"MARTINE: Je regrette le jour où j'ai accepté de t'épouser!",
+            "9":"SGANARELLE: Je maudis le notaire qui m'a fait signer ce contrat de mariage!",
+            "10":"MARTINE: Tu devrais être reconnaissant d'avoir une femme comme moi. Tu ne méritais pas de m'épouser!"
+        }
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":6,
+        "verse_id_end":16,
+        "text":{
+            "6":"MARTINE: Peste du fou fieffé! ",
+            "7":"SGANARELLE: Peste de la carogne! ",
+            "8":"MARTINE: Que maudit soit l'heure et le jour où je m'avisai d'aller dire oui! ",
+            "9":"SGANARELLE: Que maudit soit le bec cornu de notaire qui me fit signer ma ruine! ",
+            "10":"MARTINE: C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme? et méritois-tu d'épouser une personne comme moi? ",
+            "11":"SGANARELLE: Il est vrai que tu me fis trop d'honneur et que j'eus lieu de me louer la première nuit de nos noces. Hé! morbleu! ne me fais point parler là-dessus, je dirois de certaines choses... ",
+            "12":"MARTINE: Quoi? que dirois-tu? ",
+            "13":"SGANARELLE: Baste! laissons là ce chapitre; il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver. ",
+            "14":"MARTINE: Qu'appelles-tu bien heureuse de te trouver? Un homme qui me réduit à l'hôpital, un débauché, un traître qui me mange tout ce que j'ai... ",
+            "15":"SGANARELLE: Tu as menti, j'en bois une partie."
+        },
+        "modern":{
+            "6":"MARTINE: Tu es vraiment un fou! ",
+            "7":"SGANARELLE: Tu es une carogne! ",
+            "8":"MARTINE: Je regrette le jour où j'ai accepté de t'épouser! ",
+            "9":"SGANARELLE: Je regrette d'avoir signé ce contrat de mariage qui m'a ruiné! ",
+            "10":"MARTINE: Tu devrais être reconnaissant d'avoir une femme comme moi! ",
+            "11":"SGANARELLE: C'est vrai que tu m'as fait beaucoup d'honneur en m'épousant, mais je ne veux pas en parler. ",
+            "12":"MARTINE: Pourquoi? ",
+            "13":"SGANARELLE: Laissons ça de côté. Ce qui compte, c'est que tu as de la chance de m'avoir. ",
+            "14":"MARTINE: De la chance? Tu me mènes à la ruine, tu es un débauché et un traître qui me vole tout! ",
+            "15":"SGANARELLE: Tu mens, je ne te vole qu'une partie de ce que tu as."
+        }
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":11,
+        "verse_id_end":21,
+        "text":{
+            "11":"SGANARELLE: Il est vrai que tu me fis trop d'honneur et que j'eus lieu de me louer la première nuit de nos noces. Hé! morbleu! ne me fais point parler là-dessus, je dirois de certaines choses... ",
+            "12":"MARTINE: Quoi? que dirois-tu? ",
+            "13":"SGANARELLE: Baste! laissons là ce chapitre; il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver. ",
+            "14":"MARTINE: Qu'appelles-tu bien heureuse de te trouver? Un homme qui me réduit à l'hôpital, un débauché, un traître qui me mange tout ce que j'ai... ",
+            "15":"SGANARELLE: Tu as menti, j'en bois une partie. ",
+            "16":"MARTINE: Qui me vend pièce à pièce tout ce qui est dans le logis... ",
+            "17":"SGANARELLE: C'est vivre de ménage. ",
+            "18":"MARTINE: Qui m'a ôté jusqu'au lit que j'avois... ",
+            "19":"SGANARELLE: Tu t'en lèveras plus matin. ",
+            "20":"MARTINE: Enfin, qui ne laisse aucun meuble dans toute la maison..."
+        },
+        "modern":{
+            "11":"SGANARELLE: Tu sais, la première nuit de nos noces, j'étais très flatté de ton attention envers moi. Mais bon, oublions ça. Je pourrais dire certaines choses... ",
+            "12":"MARTINE: Quoi donc? ",
+            "13":"SGANARELLE: Peu importe. L'important c'est que nous savons tous les deux que tu as eu de la chance de m'avoir. ",
+            "14":"MARTINE: Comment peux-tu dire que j'ai eu de la chance de t'avoir? Tu m'as ruinée, tu es un ivrogne, un menteur, tu manges tout ce que j'ai... ",
+            "15":"SGANARELLE: Tu mens, j'en bois seulement une partie. ",
+            "16":"MARTINE: Tu vends tout ce qui se trouve dans la maison... ",
+            "17":"SGANARELLE: C'est ce qu'on appelle vivre modestement. ",
+            "18":"MARTINE: Tu as même pris mon lit... ",
+            "19":"SGANARELLE: Tu te lèveras plus tard. ",
+            "20":"MARTINE: Et tu as vendu tous les meubles de la maison..."
+        }
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":16,
+        "verse_id_end":26,
+        "text":{
+            "16":"MARTINE: Qui me vend pièce à pièce tout ce qui est dans le logis... ",
+            "17":"SGANARELLE: C'est vivre de ménage. ",
+            "18":"MARTINE: Qui m'a ôté jusqu'au lit que j'avois... ",
+            "19":"SGANARELLE: Tu t'en lèveras plus matin. ",
+            "20":"MARTINE: Enfin, qui ne laisse aucun meuble dans toute la maison... ",
+            "21":"SGANARELLE: On en déménage plus aisément. ",
+            "22":"MARTINE: Et qui, du matin jusqu'au soir, ne fait que jouer et que boire. ",
+            "23":"SGANARELLE: C'est pour ne me point ennuyer. ",
+            "24":"MARTINE: Et que veux-tu, pendant ce temps, que je fasse avec ma famille? ",
+            "25":"SGANARELLE: Tout ce qu'il te plaira."
+        },
+        "modern":{
+            "16":"MARTINE: Qui vend tout ce qui est dans la maison petit à petit...",
+            "17":"SGANARELLE: C'est une façon de vivre ensemble.",
+            "18":"MARTINE: Qui m'a même pris mon lit...",
+            "19":"SGANARELLE: Tu ne te lèveras plus tôt.",
+            "20":"MARTINE: Et qui ne laisse aucun meuble dans la maison...",
+            "21":"SGANARELLE: C'est plus facile pour déménager.",
+            "22":"MARTINE: Et qui passe son temps à jouer et boire...",
+            "23":"SGANARELLE: Pour ne pas m'ennuyer.",
+            "24":"MARTINE: Et que dois-je faire avec ma famille pendant ce temps?",
+            "25":"SGANARELLE: Tout ce que tu veux."
+        }
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":21,
+        "verse_id_end":31,
+        "text":{
+            "21":"SGANARELLE: On en déménage plus aisément. ",
+            "22":"MARTINE: Et qui, du matin jusqu'au soir, ne fait que jouer et que boire. ",
+            "23":"SGANARELLE: C'est pour ne me point ennuyer. ",
+            "24":"MARTINE: Et que veux-tu, pendant ce temps, que je fasse avec ma famille? ",
+            "25":"SGANARELLE: Tout ce qu'il te plaira. ",
+            "26":"MARTINE: J'ai quatre pauvres petits enfants sur les bras. ",
+            "27":"SGANARELLE: Mets-les à terre. ",
+            "28":"MARTINE: Qui me demandent à toute heure du pain. ",
+            "29":"SGANARELLE: Donne-leur le fouet. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit saoul dans ma maison. ",
+            "30":"MARTINE: Et tu prétends, ivrogne, que les choses aillent toujours de même?..."
+        },
+        "modern":{
+            "21":"SGANARELLE: On peut déménager plus facilement. ",
+            "22":"MARTINE: Tu passes tes journées à jouer et à boire. ",
+            "23":"SGANARELLE: C'est pour ne pas m'ennuyer. ",
+            "24":"MARTINE: Et pendant ce temps, que dois-je faire avec ma famille? ",
+            "25":"SGANARELLE: Tout ce que tu veux. ",
+            "26":"MARTINE: J'ai quatre petits enfants qui ont faim tout le temps. ",
+            "27":"SGANARELLE: Donne-leur une fessée. Quand j'ai bien mangé et bu, je veux que tout le monde soit heureux dans ma maison. ",
+            "28":"MARTINE: Tu penses vraiment que les choses peuvent continuer comme ça, ivrogne?..."
+        }
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":26,
+        "verse_id_end":36,
+        "text":{
+            "26":"MARTINE: J'ai quatre pauvres petits enfants sur les bras. ",
+            "27":"SGANARELLE: Mets-les à terre. ",
+            "28":"MARTINE: Qui me demandent à toute heure du pain. ",
+            "29":"SGANARELLE: Donne-leur le fouet. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit saoul dans ma maison. ",
+            "30":"MARTINE: Et tu prétends, ivrogne, que les choses aillent toujours de même?... ",
+            "31":"SGANARELLE: Ma femme, allons tout doucement, s'il vous plaît. ",
+            "32":"MARTINE: Que j'endure éternellement tes insolences et tes débauches?... ",
+            "33":"SGANARELLE: Ne nous emportons point, ma femme. ",
+            "34":"MARTINE: Et que je ne sache pas trouver le moyen de te ranger à ton devoir? ",
+            "35":"SGANARELLE: Ma femme, vous savez que je n'ai pas l'âme endurante, et que j'ai le bras assez bon."
+        },
+        "modern":{
+            "26":"MARTINE: J'ai quatre petits enfants à charge.",
+            "27":"SGANARELLE: Pose-les par terre.",
+            "28":"MARTINE: Ils me demandent du pain tout le temps.",
+            "29":"SGANARELLE: Donne-leur une fessée. Quand j'ai bien mangé et bu, je veux que tout le monde soit ivre dans ma maison.",
+            "30":"MARTINE: Tu penses vraiment que les choses peuvent continuer comme ça, toi l'ivrogne?",
+            "31":"SGANARELLE: Ma chère femme, calme-toi s'il te plaît.",
+            "32":"MARTINE: Je dois supporter tes insultes et tes excès pour toujours?",
+            "33":"SGANARELLE: Ne t'emporte pas, ma femme.",
+            "34":"MARTINE: Et je ne peux pas trouver un moyen de te faire agir correctement?",
+            "35":"SGANARELLE: Ma femme, tu sais que je ne suis pas patient et que je suis assez fort."
+        }
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":31,
+        "verse_id_end":41,
+        "text":{
+            "31":"SGANARELLE: Ma femme, allons tout doucement, s'il vous plaît. ",
+            "32":"MARTINE: Que j'endure éternellement tes insolences et tes débauches?... ",
+            "33":"SGANARELLE: Ne nous emportons point, ma femme. ",
+            "34":"MARTINE: Et que je ne sache pas trouver le moyen de te ranger à ton devoir? ",
+            "35":"SGANARELLE: Ma femme, vous savez que je n'ai pas l'âme endurante, et que j'ai le bras assez bon. ",
+            "36":"MARTINE: Je me moque de tes menaces. ",
+            "37":"SGANARELLE: Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire. ",
+            "38":"MARTINE: Je te montrerai bien que je ne te crains nullement. ",
+            "39":"SGANARELLE: Ma chère moitié, vous avez envie de me dérober quelque chose. ",
+            "40":"MARTINE: Crois-tu que je m'épouvante de tes paroles?"
+        },
+        "modern":{
+            "31":"SGANARELLE: Doucement, ma chérie, ne t'énerve pas. ",
+            "32":"MARTINE: Tu crois que je vais supporter tes insultes et tes mauvaises actions pour toujours ? ",
+            "33":"SGANARELLE: Calme-toi, ma femme. ",
+            "34":"MARTINE: Et je ne sais pas comment te faire respecter tes devoirs ? ",
+            "35":"SGANARELLE: Tu sais bien que je ne suis pas patient et que je suis assez fort. ",
+            "36":"MARTINE: Je me moque de tes menaces. ",
+            "37":"SGANARELLE: Mon amour, ta peau te démange, comme d'habitude. ",
+            "38":"MARTINE: Je vais te montrer que je ne te crains pas du tout. ",
+            "39":"SGANARELLE: Ma chère moitié, tu veux me voler quelque chose. ",
+            "40":"MARTINE: Tu penses que je vais avoir peur de tes paroles ?"
+        }
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":36,
+        "verse_id_end":46,
+        "text":{
+            "36":"MARTINE: Je me moque de tes menaces. ",
+            "37":"SGANARELLE: Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire. ",
+            "38":"MARTINE: Je te montrerai bien que je ne te crains nullement. ",
+            "39":"SGANARELLE: Ma chère moitié, vous avez envie de me dérober quelque chose. ",
+            "40":"MARTINE: Crois-tu que je m'épouvante de tes paroles? ",
+            "41":"SGANARELLE: Doux objet de mes voeux, je vous frotterai les oreilles. ",
+            "42":"MARTINE: Ivrogne que tu es! ",
+            "43":"SGANARELLE: Je vous battrai. ",
+            "44":"MARTINE: Sac à vin! ",
+            "45":"SGANARELLE: Je vous rosserai."
+        },
+        "modern":{
+            "36":"MARTINE: Je me fiche de ce que tu dis.",
+            "37":"SGANARELLE: Ma chérie, tu as l'habitude de te gratter la peau.",
+            "38":"MARTINE: Je vais te prouver que je ne te crains pas du tout.",
+            "39":"SGANARELLE: Mon amour, tu veux me voler quelque chose.",
+            "40":"MARTINE: Tu crois que tes paroles me font peur?",
+            "41":"SGANARELLE: Mon cher objet de désir, je vais te frotter les oreilles.",
+            "42":"MARTINE: Tu es un ivrogne!",
+            "43":"SGANARELLE: Je vais te frapper.",
+            "44":"MARTINE: Tu es un sac à vin!",
+            "45":"SGANARELLE: Je vais te donner une correction."
+        }
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":41,
+        "verse_id_end":51,
+        "text":{
+            "41":"SGANARELLE: Doux objet de mes voeux, je vous frotterai les oreilles. ",
+            "42":"MARTINE: Ivrogne que tu es! ",
+            "43":"SGANARELLE: Je vous battrai. ",
+            "44":"MARTINE: Sac à vin! ",
+            "45":"SGANARELLE: Je vous rosserai. ",
+            "46":"MARTINE: Infime! ",
+            "47":"SGANARELLE: Je vous étrillerai. ",
+            "48":"MARTINE: Traître, insolent, trompeur, lâche, coquin, pendard, gueux, bélître, fripon, maraut, voleur!... ",
+            "49":"SGANARELLE: (Il prend un bâton, et lui en donne.) Ah! vous en voulez donc? ",
+            "50":"MARTINE: Ah! ah! ah! ah!"
+        },
+        "modern":{
+            "41":"SGANARELLE: Je vais te donner une correction, tu vas voir. ",
+            "42":"MARTINE: Tu es complètement ivre! ",
+            "43":"SGANARELLE: Je vais te frapper. ",
+            "44":"MARTINE: Tu es un alcoolique! ",
+            "45":"SGANARELLE: Je vais te battre. ",
+            "46":"MARTINE: Tu es un misérable! ",
+            "47":"SGANARELLE: Je vais te punir. ",
+            "48":"MARTINE: Traître, insolent, menteur, lâche, escroc, vaurien, malhonnête, filou, brigand, voleur!... ",
+            "49":"SGANARELLE: (Il prend un bâton et le lui donne.) Tu veux te battre? ",
+            "50":"MARTINE: Ah! ah! ah! ah!"
+        }
+    }
+]

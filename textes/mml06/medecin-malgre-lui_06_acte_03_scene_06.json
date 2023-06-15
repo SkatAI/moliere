@@ -1,0 +1,182 @@
+[
+    {
+        "acte":3,
+        "scene":6,
+        "verse_id_start":515,
+        "verse_id_end":525,
+        "text":{
+            "515":"JACQUELINE: Monsieu, velà votre fille qui veut un peu marcher. ",
+            "516":"SGANARELLE: Cela lui fera du bien. Allez-vous-en, Monsieur l'apothicaire, tâter un peu son pouls, afin que je raisonne tantôt avec vous de sa maladie. (En cet endroit, il tire Géronte à un bout du théâtre, et, lui passant un bras sur les épaules, lui rabat la main sous le menton, avec laquelle il le fait retourner vers lui lorsqu'il veut regarder ce que sa fille et l'apothicaire font ensemble, lui tenant cependant le discours suivant pour l'amuser.) Monsieur, c'est une grande et subtile question entre les doctes, de savoir si les femmes sont plus faciles à guérir que les hommes. Je vous prie d'écouter ceci, s'il vous plaît. Les uns disent que non, les autres disent que oui; et moi, je dis que oui et non. D'autant que, l'incongruité des humeurs opaques qui se rencontrent au tempérament naturel des femmes étant cause que la partie brutale veut toujours prendre empire sur la sensitive, on voit que l'inégalité de leurs opinions dépend du mouvement oblique du cercle de la lune; et, comme le soleil, qui darde ses rayons sur la concavité de la terre, trouve... ",
+            "517":"LUCINDE: Non, je ne suis point du tout capable de changer de sentiments. ",
+            "518":"GÉRONTE: Voilà ma fille qui parle! O grande vertu du remède! ô admirable médecin! Que je vous suis obligé, Monsieur, de cette guérison merveilleuse! Et que puis-je faire pour vous après un tel service? ",
+            "519":"SGANARELLE: se promenant sur le théâtre et s'essuyant le front. Voilà une maladie qui m'a bien donné de la peine! ",
+            "520":"LUCINDE: Oui, mon père, j'ai recouvré la parole; mais je l'ai recouvrée pour vous dire que je n'aurai jamais d'autre époux que Léandre, et que c'est inutilement que vous voulez me donner Horace. ",
+            "521":"GÉRONTE: Mais... ",
+            "522":"LUCINDE: Rien n'est capable d'ébranler la résolution que j'ai prise. ",
+            "523":"GÉRONTE: Quoi...? ",
+            "524":"LUCINDE: Vous m'opposerez en vain de belles raisons."
+        },
+        "modern":{
+            "515":"JACQUELINE: Monsieur, voici votre fille qui veut se promener un peu.",
+            "516":"SGANARELLE: Ça lui fera du bien. Allez-y, Monsieur le pharmacien, prenez son pouls un peu, afin que je puisse discuter plus tard avec vous de sa maladie. (À ce moment, il tire Géronte à un bout de la scène, et, en passant un bras sur ses épaules, il lui rabat la main sous le menton, avec laquelle il le fait se retourner vers lui quand il veut regarder ce que sa fille et le pharmacien font ensemble, tout en lui tenant le discours suivant pour le divertir.) Monsieur, c'est une grande et délicate question parmi les savants, de savoir si les femmes sont plus faciles à guérir que les hommes. Je vous prie d'écouter ceci, s'il vous plaît. Certains disent que non, d'autres disent que oui; et moi, je dis oui et non. Parce que, l'incompatibilité des humeurs sombres qui se rencontrent dans le tempérament naturel des femmes étant la cause de la domination constante de la partie brutale sur la partie sensible, on voit que l'inégalité de leurs opinions dépend du mouvement oblique du cercle de la lune; et, comme le soleil, qui projette ses rayons sur la surface de la terre, trouve...",
+            "517":"LUCINDE: Non, je ne suis pas du tout capable de changer d'avis.",
+            "518":"GÉRONTE: Voilà ma fille qui parle! Oh, la grande vertu du remède! Oh, médecin admirable! Je vous suis tellement reconnaissant, Monsieur, pour cette guérison miraculeuse! Et que puis-je faire pour vous après un tel service?",
+            "519":"SGANARELLE: se promenant sur la scène et s'essuyant le front. Cette maladie m'a vraiment donné du fil à retordre!",
+            "520":"LUCINDE: Oui, père, j'ai retrouvé la parole; mais je l'ai retrouvée pour vous dire que je n'aurai jamais d'autre mari que Léandre, et que c'est inutilement que vous voulez me donner Horace.",
+            "521":"GÉRONTE: Mais...",
+            "522":"LUCINDE: Rien ne peut ébranler la résolution que j'ai prise.",
+            "523":"GÉRONTE: Quoi...?",
+            "524":"LUCINDE: Vous pouvez me donner de belles raisons, mais en vain."
+        }
+    },
+    {
+        "acte":3,
+        "scene":6,
+        "verse_id_start":520,
+        "verse_id_end":530,
+        "text":{
+            "520":"LUCINDE: Oui, mon père, j'ai recouvré la parole; mais je l'ai recouvrée pour vous dire que je n'aurai jamais d'autre époux que Léandre, et que c'est inutilement que vous voulez me donner Horace. ",
+            "521":"GÉRONTE: Mais... ",
+            "522":"LUCINDE: Rien n'est capable d'ébranler la résolution que j'ai prise. ",
+            "523":"GÉRONTE: Quoi...? ",
+            "524":"LUCINDE: Vous m'opposerez en vain de belles raisons. ",
+            "525":"GÉRONTE: Si... ",
+            "526":"LUCINDE: Tous vos discours ne serviront de rien. ",
+            "527":"GÉRONTE: Je... ",
+            "528":"LUCINDE: C'est une chose où je suis déterminée. ",
+            "529":"GÉRONTE: Mais..."
+        },
+        "modern":{
+            "520":"LUCINDE: Oui, papa, je peux parler à nouveau, mais je veux vous dire que je ne me marierai jamais avec quelqu'un d'autre que Léandre, et il est inutile que vous essayiez de me donner Horace.",
+            "521":"GÉRONTE: Mais...",
+            "522":"LUCINDE: Rien ne peut me faire changer d'avis.",
+            "523":"GÉRONTE: Quoi...?",
+            "524":"LUCINDE: Vos arguments ne serviront à rien.",
+            "525":"GÉRONTE: Si...",
+            "526":"LUCINDE: Tous vos discours ne changeront rien.",
+            "527":"GÉRONTE: Je...",
+            "528":"LUCINDE: J'ai pris ma décision et je suis déterminée.",
+            "529":"GÉRONTE: Mais..."
+        }
+    },
+    {
+        "acte":3,
+        "scene":6,
+        "verse_id_start":525,
+        "verse_id_end":535,
+        "text":{
+            "525":"GÉRONTE: Si... ",
+            "526":"LUCINDE: Tous vos discours ne serviront de rien. ",
+            "527":"GÉRONTE: Je... ",
+            "528":"LUCINDE: C'est une chose où je suis déterminée. ",
+            "529":"GÉRONTE: Mais... ",
+            "530":"LUCINDE: Il n'est puissance paternelle qui me puisse obliger à me marier malgré moi. ",
+            "531":"GÉRONTE: J'ai... ",
+            "532":"LUCINDE: Vous avez beau faire tous vos efforts. ",
+            "533":"GÉRONTE: Il... ",
+            "534":"LUCINDE: Mon coeur ne sauroit se soumettre à cette tyrannie."
+        },
+        "modern":{
+            "525":"GÉRONTE: Si...",
+            "526":"LUCINDE: Toutes tes paroles ne serviront à rien.",
+            "527":"GÉRONTE: Je...",
+            "528":"LUCINDE: C'est une chose sur laquelle je suis déterminée.",
+            "529":"GÉRONTE: Mais...",
+            "530":"LUCINDE: Aucune autorité paternelle ne peut me contraindre à me marier contre ma volonté.",
+            "531":"GÉRONTE: J'ai...",
+            "532":"LUCINDE: Tu peux faire tous les efforts que tu veux.",
+            "533":"GÉRONTE: Il...",
+            "534":"LUCINDE: Mon cœur ne peut se soumettre à cette oppression."
+        }
+    },
+    {
+        "acte":3,
+        "scene":6,
+        "verse_id_start":530,
+        "verse_id_end":540,
+        "text":{
+            "530":"LUCINDE: Il n'est puissance paternelle qui me puisse obliger à me marier malgré moi. ",
+            "531":"GÉRONTE: J'ai... ",
+            "532":"LUCINDE: Vous avez beau faire tous vos efforts. ",
+            "533":"GÉRONTE: Il... ",
+            "534":"LUCINDE: Mon coeur ne sauroit se soumettre à cette tyrannie. ",
+            "535":"GÉRONTE: Là... ",
+            "536":"LUCINDE: Et je me jetterai plutôt dans un convent que d'épouser un homme que je n'aime point. ",
+            "537":"GÉRONTE: Mais... ",
+            "538":"LUCINDE: parlant d'un ton de voix à étourdir. Non. En aucune façon. Point d'affaire. Vous perdez le temps. Je n'en ferai rien. Cela est résolu. ",
+            "539":"GÉRONTE: Ah! quelle impétuosité de paroles! Il n'y a pas moyen d'y résister. Monsieur, je vous prie de la faire redevenir muette."
+        },
+        "modern":{
+            "530":"LUCINDE: Aucun parent ne peut me forcer à me marier contre ma volonté.",
+            "531":"GÉRONTE: J'ai...",
+            "532":"LUCINDE: Peu importe tous vos efforts.",
+            "533":"GÉRONTE: Il...",
+            "534":"LUCINDE: Mon cœur ne peut se soumettre à cette oppression.",
+            "535":"GÉRONTE: Mais...",
+            "536":"LUCINDE: Et je préférerais entrer dans un couvent plutôt que d'épouser un homme que je n'aime pas.",
+            "537":"GÉRONTE: Mais...",
+            "538":"LUCINDE: en parlant très fort. Non. En aucun cas. Pas question. Vous perdez votre temps. Je ne ferai rien. C'est décidé.",
+            "539":"GÉRONTE: Ah! Quelle impétuosité dans ses paroles! On ne peut pas résister. Monsieur, je vous prie de la faire taire."
+        }
+    },
+    {
+        "acte":3,
+        "scene":6,
+        "verse_id_start":535,
+        "verse_id_end":545,
+        "text":{
+            "535":"GÉRONTE: Là... ",
+            "536":"LUCINDE: Et je me jetterai plutôt dans un convent que d'épouser un homme que je n'aime point. ",
+            "537":"GÉRONTE: Mais... ",
+            "538":"LUCINDE: parlant d'un ton de voix à étourdir. Non. En aucune façon. Point d'affaire. Vous perdez le temps. Je n'en ferai rien. Cela est résolu. ",
+            "539":"GÉRONTE: Ah! quelle impétuosité de paroles! Il n'y a pas moyen d'y résister. Monsieur, je vous prie de la faire redevenir muette. ",
+            "540":"SGANARELLE: C'est une chose qui m'est impossible. Tout ce que je puis faire pour votre service est de vous rendre sourd, si vous voulez. ",
+            "541":"GÉRONTE: Je vous remercie. Penses-tu donc... ",
+            "542":"LUCINDE: Non, toutes vos raisons ne gagneront rien sur mon âme. ",
+            "543":"GÉRONTE: Tu épouseras Horace dès ce soir. ",
+            "544":"LUCINDE: J'épouserai plutôt la mort."
+        },
+        "modern":{
+            "535":"GÉRONTE: Bon... ",
+            "536":"LUCINDE: Et je préférerais me réfugier dans un couvent plutôt que d'épouser un homme que je n'aime pas. ",
+            "537":"GÉRONTE: Mais... ",
+            "538":"LUCINDE: en parlant d'une voix assourdissante. Non. En aucun cas. Pas question. Vous perdez votre temps. Je ne ferai rien de tout ça. C'est décidé. ",
+            "539":"GÉRONTE: Ah! Quelle impétuosité dans ses paroles! On ne peut pas résister. Monsieur, je vous prie de la faire taire. ",
+            "540":"SGANARELLE: C'est impossible pour moi. Tout ce que je peux faire pour vous aider, c'est de vous rendre sourd, si vous le souhaitez. ",
+            "541":"GÉRONTE: Je vous remercie. Tu penses donc... ",
+            "542":"LUCINDE: Non, toutes vos raisons ne changeront rien à mon esprit. ",
+            "543":"GÉRONTE: Tu épouseras Horace ce soir même. ",
+            "544":"LUCINDE: Je préférerais épouser la mort."
+        }
+    },
+    {
+        "acte":3,
+        "scene":6,
+        "verse_id_start":538,
+        "verse_id_end":548,
+        "text":{
+            "538":"LUCINDE: parlant d'un ton de voix à étourdir. Non. En aucune façon. Point d'affaire. Vous perdez le temps. Je n'en ferai rien. Cela est résolu. ",
+            "539":"GÉRONTE: Ah! quelle impétuosité de paroles! Il n'y a pas moyen d'y résister. Monsieur, je vous prie de la faire redevenir muette. ",
+            "540":"SGANARELLE: C'est une chose qui m'est impossible. Tout ce que je puis faire pour votre service est de vous rendre sourd, si vous voulez. ",
+            "541":"GÉRONTE: Je vous remercie. Penses-tu donc... ",
+            "542":"LUCINDE: Non, toutes vos raisons ne gagneront rien sur mon âme. ",
+            "543":"GÉRONTE: Tu épouseras Horace dès ce soir. ",
+            "544":"LUCINDE: J'épouserai plutôt la mort. ",
+            "545":"SGANARELLE: Mon Dieu, arrêtez-vous, laissez-moi médicamenter cette affaire. C'est une maladie qui la tient, et je sais le remède qu'il y faut apporter. ",
+            "546":"GÉRONTE: Seroit-il possible, Monsieur, que vous pussiez aussi guérir cette maladie d'esprit? ",
+            "547":"SGANARELLE: Oui, laissez-moi faire, j'ai des remèdes pour tout, et notre apothicaire nous servira pour cette cure. (Il appelle l'apothicaire et lui parle.) Un mot. Vous voyez que l'ardeur qu'elle a pour ce Léandre est tout à fait contraire aux volontés du père, qu'il n'y a point de temps à perdre, que les humeurs sont fort aigries, et qu'il est nécessaire de trouver promptement un remède à ce mal, qui pourroit empirer par le retardement. Pour moi, je n'y en vois qu'un seul, qui est une prise de fuite purgative, que vous mêlerez comme il faut avec deux drachmes de matrimonium en pilules. Peut-être fera-t-elle quelque difficulté à prendre ce remède; mais, comme vous êtes habile homme dans votre métier, c'est à vous de l'y résoudre et de lui faire avaler la chose du mieux que vous pourrez. Allez-vous-en lui faire faire un petit tour de jardin, afin de préparer les humeurs, tandis que j'entretiendrai ici son père; mais surtout ne perdez point de temps. Au remède, vite, au remède spécifique."
+        },
+        "modern":{
+            "538":"LUCINDE: Parlez plus fort. Non, pas du tout. Ça ne m'intéresse pas. Vous perdez votre temps. Je ne ferai rien de tout ça. C'est décidé.",
+            "539":"GÉRONTE: Ah, quelle impétuosité dans vos paroles ! On ne peut pas résister. Monsieur, je vous prie de la faire taire.",
+            "540":"SGANARELLE: C'est impossible pour moi. Tout ce que je peux faire pour vous aider, c'est de vous rendre sourd, si vous voulez.",
+            "541":"GÉRONTE: Merci. Tu penses donc...",
+            "542":"LUCINDE: Non, toutes vos raisons ne changeront rien à ma décision.",
+            "543":"GÉRONTE: Tu épouseras Horace ce soir.",
+            "544":"LUCINDE: Je préférerais mourir.",
+            "545":"SGANARELLE: Mon Dieu, arrêtez-vous, laissez-moi régler cette affaire. C'est une maladie qui la touche, et je connais le remède qu'il faut.",
+            "546":"GÉRONTE: Serait-il possible, Monsieur, que vous puissiez aussi guérir cette maladie mentale ?",
+            "547":"SGANARELLE: Oui, laissez-moi faire, j'ai des remèdes pour tout, et notre pharmacien nous aidera pour cette guérison. (Il appelle le pharmacien et lui parle.) Un instant. Vous voyez qu'elle est très attirée par Léandre, ce qui va à l'encontre des volontés de son père. Il n'y a pas de temps à perdre, les tensions sont fortes et il est nécessaire de trouver rapidement un remède à ce mal, qui pourrait s'aggraver avec le temps. Pour moi, il n'y en a qu'un seul, une fuite purgative, que vous préparerez avec deux pilules de matrimonium. Elle pourrait avoir des réticences à prendre ce remède, mais comme vous êtes un expert dans votre métier, c'est à vous de la convaincre et de lui faire avaler ça du mieux que vous pouvez. Allez la faire faire un petit tour dans le jardin pour préparer son humeur, pendant que je discuterai avec son père. Mais surtout, ne perdez pas de temps. Le remède, vite, le remède spécifique."
+        }
+    }
+]

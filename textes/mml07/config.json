@@ -1,0 +1,10 @@
+[
+    {
+        "source": "./textes/mml07/medecin-malgre-lui_verse_original.json",
+        "version": "07",
+        "model": "gpt-3.5-turbo-0613",
+        "step": 9,
+        "window_size": 19,
+        "prompt": "Le texte suivant est extrait de la pièce de théatre 'Le Médecin Malgré Lui' de Molière.\nRéecris ce texte en français, utilise un vocabulaire simple et moderne, garde chaque ligne du dialogue\n\nLe texte à réécrire est: \n{text}",
+    }
+]

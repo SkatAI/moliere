@@ -1,0 +1,30 @@
+[
+    {
+        "acte":3,
+        "scene":1,
+        "verse_id_start":449,
+        "verse_id_end":458,
+        "text":{
+            "449":"LÉANDRE: IL me semble que je ne suis pas mal ainsi pour un apothicaire; et, comme le père ne m'a guère vu, ce changement d'habit et de perruque est assez capable, je crois, de me déguiser à ses yeux. ",
+            "450":"SGANARELLE: Sans doute. ",
+            "451":"LÉANDRE: Tout ce que je souhaiterois seroit de savoir cinq ou six grands mots de médecine, pour parer mon discours et me donner l'air d'habile homme. ",
+            "452":"SGANARELLE: Allez, allez, tout cela n'est pas nécessaire; il suffit de l'habit, et je n'en sais pas plus que vous. ",
+            "453":"LÉANDRE: Comment? ",
+            "454":"SGANARELLE: Diable emporte si j'entends rien en médecine! Vous êtes honnête homme, et je veux bien me confier à vous, comme vous vous confiez à moi. ",
+            "455":"LÉANDRE: Quoi! vous n'êtes pas effectivement... ",
+            "456":"SGANARELLE: Non, vous dis-je; ils m'ont fait médecin malgré mes dents. Je ne m'étois jamais mêlé d'être si savant que cela, et toutes mes études n'ont été que jusqu'en sixième. Je ne sais point sur quoi cette imagination leur est venue; mais, quand j'ai TU qu'à toute force ils vouloient que je fusse médecin, je me suis résolu de l'être aux dépens de qui il appartiendra. Cependant vous ne sauriez croire comment l'erreur s'est répandue, et de quelle façon chacun est endiablé à me croire habile homme. On me vient chercher de tous les côtés; et, si les choses vont toujours de même, je suis d'avis de m'en tenir toute ma vie à la médecine. Je trouve que c'est le métier le meilleur de tous: car, soit qu'on fasse bien, ou soit qu'on fasse mal, on est toujours payé de même sorte. La méchante besogne ne retombe jamais sur notre dos, et nous taillons comme il nous plaît sur l'étoffe où nous travaillons. Un cordonnier, en faisant des souliers, ne sauroit gâter un morceau de cuir qu'il n'en paye les pots cassés; mais ici l'on peut gâter un homme sans qu'il en coûte rien. Les bévues ne sont point pour nous, et c'est toujours la faute de celui qui meurt. Enfin le bon de cette profession est qu'il y a parmi les morts une honnêteté, une discrétion la plus grande du monde, et jamais on n'en voit se plaindre du médecin qui l'a tué. ",
+            "457":"LÉANDRE: Il est vrai que les morts sont fort honnêtes gens sur cette matière."
+        },
+        "modern":{
+            "449":"LÉANDRE: Je pense que je suis plutôt bien habillé pour un apothicaire. Comme mon père ne m'a pas beaucoup vu, je pense que ce changement de tenue et de perruque suffira pour me déguiser à ses yeux.",
+            "450":"SGANARELLE: Bien sûr.",
+            "451":"LÉANDRE: Tout ce que je voudrais, c'est savoir cinq ou six grands mots de médecine pour embellir mon discours et avoir l'air d'un expert.",
+            "452":"SGANARELLE: Allez, allez, tout cela n'est pas nécessaire. L'habit suffit, et je ne sais pas plus que vous.",
+            "453":"LÉANDRE: Comment ça?",
+            "454":"SGANARELLE: Par le diable, je ne connais rien à la médecine! Vous êtes un honnête homme, et je suis prêt à vous faire confiance, tout comme vous me faites confiance.",
+            "455":"LÉANDRE: Quoi! Vous n'êtes pas vraiment...",
+            "456":"SGANARELLE: Non, je vous le dis. Ils m'ont fait médecin malgré moi. Je n'ai jamais prétendu être aussi savant que ça, et mes études se sont arrêtées en sixième. Je ne sais pas comment ils ont eu cette idée, mais quand j'ai appris qu'ils voulaient absolument que je sois médecin, j'ai décidé de le devenir aux dépens de qui que ce soit. Cependant, vous ne pouvez pas imaginer comment cette erreur s'est répandue et comment tout le monde est persuadé que je suis un expert. On vient me chercher de partout, et si ça continue comme ça, je pense que je vais rester médecin toute ma vie. Je trouve que c'est le meilleur métier de tous, car que l'on fasse bien ou mal, on est toujours payé de la même manière. Les erreurs ne nous retombent jamais dessus, et nous pouvons faire ce que nous voulons avec notre patient. Un cordonnier qui gâche un morceau de cuir doit payer pour ses erreurs, mais ici, on peut tuer un homme sans que cela ne coûte rien. Les erreurs ne sont jamais de notre faute, c'est toujours la faute du patient qui meurt. Enfin, le bon côté de cette profession est que les morts sont très honnêtes et très discrets sur le sujet, et on ne les voit jamais se plaindre du médecin qui les a tués.",
+            "457":"LÉANDRE: C'est vrai que les morts sont très honnêtes sur ce sujet."
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":1,
+        "verse_id_end":11,
+        "text":"SGANARELLE: NON, je te dis que je n'en veux rien faire, et que c'est à moi de parler et d'être le maître. \nMARTINE: Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines. \nSGANARELLE: O la grande fatigue que d'avoir une femme! et qu'Aristote a bien raison quand il dit qu'une femme est pire qu'un démon! \nMARTINE: Voyez un peu l'habile homme, avec son benêt d'Aristote! \nSGANARELLE: Oui, habile homme. Trouve-moi un faiseur de fagots qui sache, comme moi, raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par coeur. \nMARTINE: Peste du fou fieffé! \nSGANARELLE: Peste de la carogne! \nMARTINE: Que maudit soit l'heure et le jour où je m'avisai d'aller dire oui! \nSGANARELLE: Que maudit soit le bec cornu de notaire qui me fit signer ma ruine! \nMARTINE: C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme? et méritois-tu d'épouser une personne comme moi?",
+        "modern":"SGANARELLE: Non, je ne veux pas faire ce que tu me demandes. C'est à moi de décider et d'être le chef ici.\nMARTINE: Mais moi, je veux que tu fasses ce que je te dis. Je ne me suis pas mariée avec toi pour supporter tes bêtises.\nSGANARELLE: Quel ennui d'avoir une femme ! Aristote avait raison quand il disait qu'une femme est pire qu'un démon !\nMARTINE: Regardez cet homme intelligent avec son Aristote stupide !\nSGANARELLE: Oui, je suis intelligent. Trouvez-moi un homme qui fait des fagots et qui peut raisonner comme moi, qui a travaillé six ans pour un célèbre médecin et qui a appris les rudiments par cœur quand il était jeune.\nMARTINE: Quel fou ! \nSGANARELLE: Quelle femme insupportable !\nMARTINE: Je regrette le jour où j'ai dit oui.\nSGANARELLE: Je maudis le notaire qui m'a fait signer mon malheur !\nMARTINE: Tu devrais être reconnaissant d'avoir une femme comme moi. Tu ne méritais pas de m'épouser."
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":6,
+        "verse_id_end":16,
+        "text":"MARTINE: Peste du fou fieffé! \nSGANARELLE: Peste de la carogne! \nMARTINE: Que maudit soit l'heure et le jour où je m'avisai d'aller dire oui! \nSGANARELLE: Que maudit soit le bec cornu de notaire qui me fit signer ma ruine! \nMARTINE: C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme? et méritois-tu d'épouser une personne comme moi? \nSGANARELLE: Il est vrai que tu me fis trop d'honneur et que j'eus lieu de me louer la première nuit de nos noces. Hé! morbleu! ne me fais point parler là-dessus, je dirois de certaines choses... \nMARTINE: Quoi? que dirois-tu? \nSGANARELLE: Baste! laissons là ce chapitre; il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver. \nMARTINE: Qu'appelles-tu bien heureuse de te trouver? Un homme qui me réduit à l'hôpital, un débauché, un traître qui me mange tout ce que j'ai... \nSGANARELLE: Tu as menti, j'en bois une partie.",
+        "modern":"MARTINE: Tu es vraiment fou! \nSGANARELLE: Tu n'es pas mieux avec tes insultes! Pourquoi m'as-tu épousé si tu ne m'aimes pas? \nMARTINE: Parce que j'ai été bête de dire oui à un notaire qui m'a trompée! \nSGANARELLE: Et moi, j'ai été bête de te demander en mariage! Mais maintenant, il faut faire avec. \nMARTINE: Tu as raison, il faut trouver une solution. \nSGANARELLE: Et si on essayait de se comprendre et de s'entraider plutôt que de se disputer tout le temps? \nMARTINE: C'est une bonne idée. On peut commencer par arrêter de gaspiller notre argent et de boire autant. \nSGANARELLE: D'accord, on peut aussi chercher du travail pour améliorer notre situation. \nMARTINE: Oui, c'est une bonne idée. On peut commencer dès demain. \nSGANARELLE: Très bien, on se met au travail dès demain matin. \nMARTINE: D'accord, on se serre les coudes. \nSGANARELLE: C'est ça, on est une équipe maintenant."
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":11,
+        "verse_id_end":21,
+        "text":"SGANARELLE: Il est vrai que tu me fis trop d'honneur et que j'eus lieu de me louer la première nuit de nos noces. Hé! morbleu! ne me fais point parler là-dessus, je dirois de certaines choses... \nMARTINE: Quoi? que dirois-tu? \nSGANARELLE: Baste! laissons là ce chapitre; il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver. \nMARTINE: Qu'appelles-tu bien heureuse de te trouver? Un homme qui me réduit à l'hôpital, un débauché, un traître qui me mange tout ce que j'ai... \nSGANARELLE: Tu as menti, j'en bois une partie. \nMARTINE: Qui me vend pièce à pièce tout ce qui est dans le logis... \nSGANARELLE: C'est vivre de ménage. \nMARTINE: Qui m'a ôté jusqu'au lit que j'avois... \nSGANARELLE: Tu t'en lèveras plus matin. \nMARTINE: Enfin, qui ne laisse aucun meuble dans toute la maison...",
+        "modern":"SGANARELLE: Tu sais, la première nuit de nos noces, j'étais très honoré et j'ai beaucoup apprécié. Mais bon, n'en parlons plus, je pourrais dire des choses... \nMARTINE: Quoi donc? \nSGANARELLE: Peu importe, passons. L'important c'est que nous savons tous les deux ce qui s'est passé et que tu as eu de la chance de m'avoir. \nMARTINE: Comment ça, de la chance de t'avoir? Tu m'as réduit à la pauvreté, tu es un ivrogne, un menteur qui me prend tout ce que j'ai... \nSGANARELLE: Tu mens, j'en bois seulement une partie. \nMARTINE: Tu vends tout ce qui se trouve dans la maison... \nSGANARELLE: C'est normal pour un couple. \nMARTINE: Tu m'as même pris mon lit... \nSGANARELLE: Tu ne te lèveras plus tôt le matin. \nMARTINE: En somme, il ne reste plus un seul meuble dans la maison..."
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":16,
+        "verse_id_end":26,
+        "text":"MARTINE: Qui me vend pièce à pièce tout ce qui est dans le logis... \nSGANARELLE: C'est vivre de ménage. \nMARTINE: Qui m'a ôté jusqu'au lit que j'avois... \nSGANARELLE: Tu t'en lèveras plus matin. \nMARTINE: Enfin, qui ne laisse aucun meuble dans toute la maison... \nSGANARELLE: On en déménage plus aisément. \nMARTINE: Et qui, du matin jusqu'au soir, ne fait que jouer et que boire. \nSGANARELLE: C'est pour ne me point ennuyer. \nMARTINE: Et que veux-tu, pendant ce temps, que je fasse avec ma famille? \nSGANARELLE: Tout ce qu'il te plaira.",
+        "modern":"MARTINE: Qui vend tout ce qui est dans la maison petit à petit...\nSGANARELLE: C'est une façon de vivre ensemble.\nMARTINE: Qui a même pris mon lit...\nSGANARELLE: Tu devras te lever plus tôt.\nMARTINE: Et qui a vidé toute la maison de ses meubles...\nSGANARELLE: C'est plus facile pour déménager.\nMARTINE: Et qui ne fait que jouer et boire toute la journée...\nSGANARELLE: C'est pour ne pas m'ennuyer.\nMARTINE: Et que dois-je faire avec ma famille pendant ce temps?\nSGANARELLE: Tout ce que tu veux."
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":21,
+        "verse_id_end":31,
+        "text":"SGANARELLE: On en déménage plus aisément. \nMARTINE: Et qui, du matin jusqu'au soir, ne fait que jouer et que boire. \nSGANARELLE: C'est pour ne me point ennuyer. \nMARTINE: Et que veux-tu, pendant ce temps, que je fasse avec ma famille? \nSGANARELLE: Tout ce qu'il te plaira. \nMARTINE: J'ai quatre pauvres petits enfants sur les bras. \nSGANARELLE: Mets-les à terre. \nMARTINE: Qui me demandent à toute heure du pain. \nSGANARELLE: Donne-leur le fouet. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit saoul dans ma maison. \nMARTINE: Et tu prétends, ivrogne, que les choses aillent toujours de même?...",
+        "modern":"SGANARELLE: On peut déménager plus facilement. \nMARTINE: Tu passes tes journées à jouer et à boire. \nSGANARELLE: C'est pour ne pas m'ennuyer. \nMARTINE: Et pendant ce temps, que dois-je faire avec ma famille? \nSGANARELLE: Tout ce que tu veux. \nMARTINE: J'ai quatre petits enfants qui ont faim tout le temps. \nSGANARELLE: Donne-leur une fessée. Quand j'ai bien mangé et bu, je veux que tout le monde soit heureux dans ma maison. \nMARTINE: Tu penses vraiment que les choses peuvent continuer comme ça, ivrogne?..."
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":26,
+        "verse_id_end":36,
+        "text":"MARTINE: J'ai quatre pauvres petits enfants sur les bras. \nSGANARELLE: Mets-les à terre. \nMARTINE: Qui me demandent à toute heure du pain. \nSGANARELLE: Donne-leur le fouet. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit saoul dans ma maison. \nMARTINE: Et tu prétends, ivrogne, que les choses aillent toujours de même?... \nSGANARELLE: Ma femme, allons tout doucement, s'il vous plaît. \nMARTINE: Que j'endure éternellement tes insolences et tes débauches?... \nSGANARELLE: Ne nous emportons point, ma femme. \nMARTINE: Et que je ne sache pas trouver le moyen de te ranger à ton devoir? \nSGANARELLE: Ma femme, vous savez que je n'ai pas l'âme endurante, et que j'ai le bras assez bon.",
+        "modern":"MARTINE: J'ai quatre petits enfants à m'occuper.\nSGANARELLE: Laisse-les tranquilles.\nMARTINE: Ils ont faim tout le temps.\nSGANARELLE: Donne-leur une fessée. Quand j'ai mangé et bu, je veux que tout le monde soit heureux chez moi.\nMARTINE: Tu penses vraiment que ça peut continuer comme ça ?\nSGANARELLE: Calme-toi, ma chérie.\nMARTINE: Je dois supporter tes insultes et tes excès pour toujours ?\nSGANARELLE: Ne t'énerve pas, ma chérie.\nMARTINE: Et je ne peux pas te faire changer ?\nSGANARELLE: Tu sais bien que je ne suis pas patient et que je sais me défendre."
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":31,
+        "verse_id_end":41,
+        "text":"SGANARELLE: Ma femme, allons tout doucement, s'il vous plaît. \nMARTINE: Que j'endure éternellement tes insolences et tes débauches?... \nSGANARELLE: Ne nous emportons point, ma femme. \nMARTINE: Et que je ne sache pas trouver le moyen de te ranger à ton devoir? \nSGANARELLE: Ma femme, vous savez que je n'ai pas l'âme endurante, et que j'ai le bras assez bon. \nMARTINE: Je me moque de tes menaces. \nSGANARELLE: Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire. \nMARTINE: Je te montrerai bien que je ne te crains nullement. \nSGANARELLE: Ma chère moitié, vous avez envie de me dérober quelque chose. \nMARTINE: Crois-tu que je m'épouvante de tes paroles?",
+        "modern":"SGANARELLE: Doucement, ma chérie, ne t'énerve pas. \nMARTINE: Tu crois que je vais supporter tes insultes et tes mauvaises actions pour toujours ? \nSGANARELLE: Calme-toi, ma femme. \nMARTINE: Et je ne sais pas comment te faire respecter tes devoirs ? \nSGANARELLE: Tu sais bien que je ne suis pas patient et que je suis assez fort. \nMARTINE: Je me moque de tes menaces. \nSGANARELLE: Mon amour, ta peau te démange, comme d'habitude. \nMARTINE: Je vais te montrer que je ne te crains pas du tout. \nSGANARELLE: Ma chère moitié, tu veux me voler quelque chose. \nMARTINE: Tu penses que je vais avoir peur de tes paroles ?"
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":36,
+        "verse_id_end":46,
+        "text":"MARTINE: Je me moque de tes menaces. \nSGANARELLE: Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire. \nMARTINE: Je te montrerai bien que je ne te crains nullement. \nSGANARELLE: Ma chère moitié, vous avez envie de me dérober quelque chose. \nMARTINE: Crois-tu que je m'épouvante de tes paroles? \nSGANARELLE: Doux objet de mes voeux, je vous frotterai les oreilles. \nMARTINE: Ivrogne que tu es! \nSGANARELLE: Je vous battrai. \nMARTINE: Sac à vin! \nSGANARELLE: Je vous rosserai.",
+        "modern":"MARTINE: Je me fiche de ce que tu dis.\nSGANARELLE: Ma chérie, tu as l'habitude de te gratter la peau.\nMARTINE: Je vais te prouver que je ne te crains pas du tout.\nSGANARELLE: Mon amour, tu veux me voler quelque chose.\nMARTINE: Tu crois que tes paroles me font peur?\nSGANARELLE: Mon cher amour, je vais te donner une correction.\nMARTINE: Tu es un ivrogne!\nSGANARELLE: Je vais te frapper.\nMARTINE: Tu es un sac à vin!\nSGANARELLE: Je vais te donner une raclée."
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_id_start":41,
+        "verse_id_end":51,
+        "text":"SGANARELLE: Doux objet de mes voeux, je vous frotterai les oreilles. \nMARTINE: Ivrogne que tu es! \nSGANARELLE: Je vous battrai. \nMARTINE: Sac à vin! \nSGANARELLE: Je vous rosserai. \nMARTINE: Infime! \nSGANARELLE: Je vous étrillerai. \nMARTINE: Traître, insolent, trompeur, lâche, coquin, pendard, gueux, bélître, fripon, maraut, voleur!... \nSGANARELLE: (Il prend un bâton, et lui en donne.) Ah! vous en voulez donc? \nMARTINE: Ah! ah! ah! ah!",
+        "modern":"SGANARELLE: Je vais te donner une correction, tu vas voir. \nMARTINE: Tu es complètement ivre! \nSGANARELLE: Je vais te frapper. \nMARTINE: Tu es un alcoolique! \nSGANARELLE: Je vais te battre. \nMARTINE: Tu es un misérable! \nSGANARELLE: Je vais te punir. \nMARTINE: Traître, insolent, menteur, lâche, escroc, vaurien, malhonnête, filou, brigand, voleur!... \nSGANARELLE: (Il prend un bâton et le lui donne.) Tu veux te battre? \nMARTINE: Ah! ah! ah! ah!"
+    }
+]

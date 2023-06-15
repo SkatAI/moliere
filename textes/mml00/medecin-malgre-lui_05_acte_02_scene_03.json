@@ -1,0 +1,62 @@
+[
+    {
+        "acte":2,
+        "scene":3,
+        "verse_id_start":318,
+        "verse_id_end":328,
+        "text":{
+            "318":"GÉRONTE: Monsieur, voici tout à l'heure ma fille qu'on va vous amener. ",
+            "319":"SGANARELLE: Je l'attends, Monsieur, avec toute la médecine. ",
+            "320":"GÉRONTE: Où est-elle? ",
+            "321":"SGANARELLE: se touchant le front. Là dedans. ",
+            "322":"GÉRONTE: Fort bien. ",
+            "323":"SGANARELLE: en voulant toucher les tétons de la nourrice. Mais, comme je m'intéresse à toute votre famille, il faut que j'essaye un peu le lait de votre nourrice et que je visite son sein. ",
+            "324":"LUCAS: le tirant et lui faisant faire la pirouette. Nanin, nanin, je n'avons que faire de ça. ",
+            "325":"SGANARELLE: C'est l'office du médecin de voir les tétons des nourrices. ",
+            "326":"LUCAS: Il gnia office qui quienne, je sis votte sarviteur. ",
+            "327":"SGANARELLE: As-tu bien la hardiesse de t'opposer au médecin? Hors de là!"
+        },
+        "modern":{
+            "318":"GÉRONTE: Monsieur, ma fille va arriver bientôt. ",
+            "319":"SGANARELLE: Très bien, Monsieur, j'ai tout ce qu'il faut pour la soigner. ",
+            "320":"GÉRONTE: Où est-elle? ",
+            "321":"SGANARELLE: En touchant son front. Elle est là-dedans. ",
+            "322":"GÉRONTE: Parfait. ",
+            "323":"SGANARELLE: En essayant de toucher les tétons de la nourrice. Mais, comme je m'intéresse à toute votre famille, je dois vérifier le lait de votre nourrice et examiner ses seins. ",
+            "324":"LUCAS: En le tirant et le faisant tourner. Nanin, nanin, je n'ai pas besoin de ça. ",
+            "325":"SGANARELLE: C'est le travail du médecin de vérifier les tétons des nourrices. ",
+            "326":"LUCAS: Il peut faire son travail, mais je suis votre serviteur. ",
+            "327":"SGANARELLE: Tu oses t'opposer au médecin? Sors d'ici!"
+        }
+    },
+    {
+        "acte":2,
+        "scene":3,
+        "verse_id_start":323,
+        "verse_id_end":333,
+        "text":{
+            "323":"SGANARELLE: en voulant toucher les tétons de la nourrice. Mais, comme je m'intéresse à toute votre famille, il faut que j'essaye un peu le lait de votre nourrice et que je visite son sein. ",
+            "324":"LUCAS: le tirant et lui faisant faire la pirouette. Nanin, nanin, je n'avons que faire de ça. ",
+            "325":"SGANARELLE: C'est l'office du médecin de voir les tétons des nourrices. ",
+            "326":"LUCAS: Il gnia office qui quienne, je sis votte sarviteur. ",
+            "327":"SGANARELLE: As-tu bien la hardiesse de t'opposer au médecin? Hors de là! ",
+            "328":"LUCAS: Je me moque de ça. ",
+            "329":"SGANARELLE: en le regardant de travers. Je te donnerai la fièvre. ",
+            "330":"JACQUELINE: prenant Lucas par le bras et lui faisant aussi faire la pirouette. Ote-toi de là aussi. Est-ce que je ne sis pas assez grande pour me défendre moi-même, s'il me fait queuque chose qui ne soit pas à faire? ",
+            "331":"LUCAS: Je ne veux pas qu'il te tâte, moi. ",
+            "332":"SGANARELLE: Fi, le vilain, qui est jaloux de sa femme!"
+        },
+        "modern":{
+            "323":"SGANARELLE: En touchant les seins de la nourrice, je pourrais peut-être aider votre famille. Je dois essayer le lait de la nourrice et voir ses seins.",
+            "324":"LUCAS: Je n'ai pas besoin de ça, merci.",
+            "325":"SGANARELLE: C'est le travail du médecin de vérifier les seins des nourrices.",
+            "326":"LUCAS: Je suis votre serviteur, mais je ne suis pas d'accord.",
+            "327":"SGANARELLE: Tu oses t'opposer à moi, le médecin? Sors d'ici!",
+            "328":"LUCAS: Je m'en fiche.",
+            "329":"SGANARELLE: En le regardant méchamment. Je vais te donner de la fièvre.",
+            "330":"JACQUELINE: En prenant le bras de Lucas et en le faisant tourner. Laisse-moi me défendre si quelque chose ne va pas.",
+            "331":"LUCAS: Je ne veux pas qu'il te touche.",
+            "332":"SGANARELLE: Oh, le jaloux!"
+        }
+    }
+]

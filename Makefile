@@ -1,8 +1,6 @@
 
 DOCKER_USERNAME ?= alexis
-APPLICATION_NAME ?= grammar
-OPENAI_API_KEY ?= $(echo $OPENAI_API_KEY)
-
+APPLICATION_NAME ?= moliere
 
 define find.functions
 	@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##//'
@@ -24,15 +22,6 @@ install: init
 	pip install --upgrade pip
 	pip install black
 
-spacy_models: # downloads spacy models
-spacy_models:
-	python -m spacy download en_core_web_trf
-	python -m spacy download fr_core_news_sm
-.PHONY: spacy_models
-
-
-
-
 lint: ## formatting with black
 lint:
 	black ./
@@ -50,20 +39,18 @@ build:
 	docker build . --tag ${DOCKER_USERNAME}/${APPLICATION_NAME}:0.1
 .PHONY: build
 
-# --env-file .env
+
 run: ## Build, start and run docker image
 run:
-	docker run --rm -it -v ${PWD}:/app/ \
-		--env OPENAI_API_KEY=${OPENAI_API_KEY} --name jubilant_beetle ${DOCKER_USERNAME}/${APPLICATION_NAME}:0.1
+	docker run --rm -it -v ${PWD}:/app/ --name facetious-sganarelle ${DOCKER_USERNAME}/${APPLICATION_NAME}:0.1
 .PHONY: run
 
 test: # run test
 test:
-	pytest -rsa --log-cli-level=INFO 
+	pytest -rsa --log-cli-level=INFO
 .PHONY: test
 
 coverage: # test coverage
 coverage:
 	pytest --cov=./ tests/
 .PHONY: coverage
-

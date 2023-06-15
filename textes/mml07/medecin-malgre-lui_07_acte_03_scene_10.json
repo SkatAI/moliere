@@ -1,0 +1,18 @@
+[
+    {
+        "acte":3,
+        "scene":10,
+        "verse_id_start":583,
+        "verse_id_end":586,
+        "text":{
+            "583":"GÉRONTE: Le commissaire viendra bientôt, et l'on s'en va vous mettre en lieu où l'on me répondra de vous. ",
+            "584":"SGANARELLE: le chapeau à la main. Hélas! cela ne se peut-il point changer en quelques coups de bâton? ",
+            "585":"GÉRONTE: Non, non, la justice en ordonnera... Mais que vois-je?"
+        },
+        "modern":{
+            "583":"GÉRONTE: Le policier va arriver bientôt, et on va vous emmener dans un endroit où quelqu'un sera responsable de vous.",
+            "584":"SGANARELLE: en tenant son chapeau. Hélas! Est-ce qu'on ne pourrait pas changer cela en quelques coups de bâton?",
+            "585":"GÉRONTE: Non, non, la justice décidera... Mais qu'est-ce que je vois?"
+        }
+    }
+]

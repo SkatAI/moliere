@@ -1,0 +1,62 @@
+[
+    {
+        "acte":3,
+        "scene":9,
+        "verse_id_start":571,
+        "verse_id_end":581,
+        "text":{
+            "571":"MARTINE: Ah! mon Dieu, que j'ai eu de peine à trouver ce logis! Dites-moi un peu des nouvelles du médecin que je vous ai donné. ",
+            "572":"LUCAS: Le velà qui va être pendu. ",
+            "573":"MARTINE: Quoi! mon mari pendu! Hélas! et qu'a-t-il fait pour cela? ",
+            "574":"LUCAS: Il a fait enlever la fille de notte maître. ",
+            "575":"MARTINE: Hélas! mon cher mari, est-il bien vrai qu'on te va pendre? ",
+            "576":"SGANARELLE: Tu vois. Ah! ",
+            "577":"MARTINE: Faut-il que tu te laisses mourir en présence de tant de gens? ",
+            "578":"SGANARELLE: Que veux-tu que j'y fasse? ",
+            "579":"MARTINE: Encore, si tu avois achevé de couper notre bois, je prendrois quelque consolation. ",
+            "580":"SGANARELLE: Retire-toi de là, tu me fends le coeur."
+        },
+        "modern":{
+            "571":"MARTINE: Oh mon Dieu, j'ai eu tellement de mal à trouver cette maison ! Dis-moi un peu des nouvelles du médecin que je t'ai recommandé.",
+            "572":"LUCAS: Le voilà, il va être pendu.",
+            "573":"MARTINE: Quoi ! Mon mari va être pendu ! Hélas ! Et qu'a-t-il fait pour ça ?",
+            "574":"LUCAS: Il a enlevé la fille de notre maître.",
+            "575":"MARTINE: Hélas ! Mon cher mari, est-ce vraiment vrai qu'on va te pendre ?",
+            "576":"SGANARELLE: Tu vois. Ah !",
+            "577":"MARTINE: Est-ce que tu dois vraiment mourir devant tant de gens ?",
+            "578":"SGANARELLE: Que veux-tu que j'y fasse ?",
+            "579":"MARTINE: Encore, si tu avais fini de couper notre bois, je trouverais un peu de consolation.",
+            "580":"SGANARELLE: Éloigne-toi de là, tu me brises le cœur."
+        }
+    },
+    {
+        "acte":3,
+        "scene":9,
+        "verse_id_start":573,
+        "verse_id_end":583,
+        "text":{
+            "573":"MARTINE: Quoi! mon mari pendu! Hélas! et qu'a-t-il fait pour cela? ",
+            "574":"LUCAS: Il a fait enlever la fille de notte maître. ",
+            "575":"MARTINE: Hélas! mon cher mari, est-il bien vrai qu'on te va pendre? ",
+            "576":"SGANARELLE: Tu vois. Ah! ",
+            "577":"MARTINE: Faut-il que tu te laisses mourir en présence de tant de gens? ",
+            "578":"SGANARELLE: Que veux-tu que j'y fasse? ",
+            "579":"MARTINE: Encore, si tu avois achevé de couper notre bois, je prendrois quelque consolation. ",
+            "580":"SGANARELLE: Retire-toi de là, tu me fends le coeur. ",
+            "581":"MARTINE: Non, je veux demeurer pour t'encourager à la mort, et je ne te quitterai point que je ne t'aie vu pendu. ",
+            "582":"SGANARELLE: Ah!"
+        },
+        "modern":{
+            "573":"MARTINE: Quoi! Mon mari pendu! Oh non! Et pourquoi ça? ",
+            "574":"LUCAS: Il a enlevé la fille de notre maître. ",
+            "575":"MARTINE: Oh mon cher mari, est-ce vraiment vrai qu'ils vont te pendre? ",
+            "576":"SGANARELLE: Tu vois bien. Ah! ",
+            "577":"MARTINE: Est-ce que tu vas te laisser mourir devant tout ce monde? ",
+            "578":"SGANARELLE: Que veux-tu que je fasse? ",
+            "579":"MARTINE: Au moins, si tu avais fini de couper notre bois, ça me consolerait un peu. ",
+            "580":"SGANARELLE: Éloigne-toi de là, tu me brises le cœur. ",
+            "581":"MARTINE: Non, je veux rester pour t'encourager jusqu'à la mort, et je ne te quitterai pas tant que je ne t'aurai pas vu pendu. ",
+            "582":"SGANARELLE: Ah!"
+        }
+    }
+]

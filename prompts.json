@@ -4,18 +4,21 @@ instructions = [
         "prompt": "Reecris le texte suivant; garde la structure de dialogue; simplifie et raccourci chaque tirade;  utilise un vocabulaire simple d'un enfant.",
         "dialogue_structure": "5/5",
         "issues": "",
+        "scope": "scene",
     },
     {
         "version": "02",
         "prompt": "Reecris le texte suivant paragraphe par paragraphe; garde la structure de dialogue; simplifie et raccourci chaque paragraphe;  utilise un vocabulaire simple d'un enfant.",
         "dialogue_structure": "3/5",
         "issues": "",
+        "scope": "scene",
     },
     {
         "version": "03",
         "prompt": "Simplifie et raccourci le texte suivant sous forme de dialogue; utilise un vocabulaire simple;",
         "dialogue_structure": "5/5",
         "issues": "switches to english",
+        "scope": "scene",
 
     },
     {
@@ -23,18 +26,65 @@ instructions = [
         "prompt": "Simplifie le dialogue suivant entre les deux personnages tout en conservant l'essence de chaque vers; utilise un vocabulaire simple; reduit la longueur des vers;",
         "dialogue_structure": "4/5",
         "issues": "",
+        "scope": "scene",
     },
     {
         "version": "05",
         "prompt": "simplifie chaque vers de ce dialogue entre les différents personnages; utilise des mots modernes;",
         "dialogue_structure": "5/5",
         "issues": "1 english verse",
+        "scope": "scene",
     },
     {
         "version": "06",
         "prompt": "écris le dialogue suivant vers par vers en simplifiant chaque phrase; utilise un vocabulaire simple; ",
         "dialogue_structure": "",
         "issues": "2/5",
+        "scope": "scene",
     },
-
+    {
+        "version": "07",
+        "prompt": "Le texte suivant est une pièce de theatre de Molière. Reecris chaque vers en francais avec un vocabulaire simple et moderne.",
+        "dialogue_structure": "loses track towards the end of the scene. act 1 scene 4, dialogue is lost and scene is summarized.",
+        "issues": "2/5",
+        "scope": "scene",
+    },
+    {
+        "version": "08",
+        "prompt": "Le texte suivant est extrait de la pièce de théatre 'Le Médecin Malgré Lui' de Molière.\nRéecris ce texte en français, utilise un vocabulaire simple et moderne.\nLe texte à réécrire est: \n{text}",
+        "dialogue_structure": "1st verse of a scene. dialogue is kept, many ok verses are rewritten even when not needed. takes too long. quality is not great",
+        "issues": "2/5",
+        "scope": "verse",
+    },
+    {
+        "version": "09",
+        "prompt": "Voici un vers extrait de la pièce de théatre 'Le Médecin Malgré Lui' de Molière.\nRéecris ce vers en français, utilise un vocabulaire simple et moderne.\nLe vers est précédé par:\n{previous}.\nLe vers à réécrire est: \n{text}",
+        "dialogue_structure": "after the 1st verse of a scene.dialogue is kept, many ok verses are rewritten even when not needed. takes too long. quality is not great",
+        "issues": "2/5",
+        "scope": "verse",
+    },
+    {
+        "version": "10",
+        "goal": "fix loss dialogue confusion towards end of scene by providing a window of text: rewrite head and tail of a given scene. "
+        "prompt": "Le texte suivant est une pièce de theatre de Molière. Reecris chaque vers en francais avec un vocabulaire simple et moderne.",
+        "dialogue_structure": "",
+        "issues": "",
+        "scope": "half scene",
+    },
+    {
+        "version": "11",
+        "goal": "fix loss dialogue confusion towards end of scene by providing a window of text: rewrite head and tail of a given scene. "
+        "prompt": "Le texte suivant est extrait de la pièce de théatre 'Le Médecin Malgré Lui' de Molière. Réecris ce texte en français, utilise un vocabulaire simple et moderne.",
+        "dialogue_structure": "conservée si le texte est court de l'ordre de 20 echanges. Au dela, confusion et perte de lignes",
+        "issues": "quelques contre sense",
+        "scope": "20 échanges",
+    },
+    {
+        "version": "12",
+        "goal": ""
+        "prompt": "Le texte suivant est extrait de la pièce de théatre 'Le Médecin Malgré Lui' de Molière.\nRéecris ce texte en français, utilise un vocabulaire simple et moderne, garde chaque ligne du dialogue\n\nLe texte à réécrire est: \n{text}",
+        "dialogue_structure": "sliding window: court (11)=> perd des repliques, traduit trop; long (18) => garde le nombre de replique, a tendance a ne pas traduire.",
+        "issues": "",
+        "scope": "",
+    },
 ]

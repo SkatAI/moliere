@@ -1,0 +1,172 @@
+[
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":103,
+        "verse_id_end":113,
+        "text":{
+            "103":"LUCAS: Parguenne! j'avons pris là tous deux une gueble de commission; et je ne sai pas, moi, ce que je pensons attraper. ",
+            "104":"VALÈRE: Que veux-tu, mon pauvre nourricier? il faut bien obéir à notre maître; et puis nous avons intérêt l'un et l'autre à la santé de sa fille, notre maîtresse; et sans doute son mariage, différé par sa maladie, nous vaudroit quelque récompense. Horace, qui est libéral, a bonne part aux prétentions qu'on peut avoir sur sa personne, et, quoi-qu'elle ait fait voir de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu consentir à le recevoir pour son gendre. ",
+            "105":"MARTINE: rêvant à part elle. Ne puis-je point trouver quelque invention pour me venger? ",
+            "106":"LUCAS: Mais quelle fantaisie s'est-il boutée là dans la tête, puisque les médecins y avont tous pardu leur latin? ",
+            "107":"VALÈRE: On trouve quelquefois, à force de chercher, ce qu'on ne trouve pas d'abord; et souvent, en de simples lieux... ",
+            "108":"MARTINE: Oui, il faut que je m'en venge à quelque prix que ce soit: ces coups de bâton me reviennent au coeur, je ne les saurois digérer, et... (Elle dit tout ceci en rivant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit:) Ah! Messieurs! je vous demande pardon, je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m'embarrasse. ",
+            "109":"VALÈRE: Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver. ",
+            "110":"MARTINE: Seroit-ce quelque chose où je vous puisse aider? ",
+            "111":"VALÈRE: Cela se pourroit faire; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille de notre maître, attaquée d'une maladie qui lui a ôté tout d'un coup l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle; mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là ce que nous cherchons. ",
+            "112":"MARTINE: (Elle dit ces premières lignes bas.) Ah! que le Ciel m'inspire une admirable invention pour me venger de mon pendart! (Haut.) Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez, et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées."
+        },
+        "modern":{
+            "103":"LUCAS: Parguenne! On s'est mis dans une sacrée galère tous les deux, et je ne sais pas comment on va s'en sortir.",
+            "104":"VALÈRE: Que veux-tu, mon pauvre ami? On doit obéir à notre maître et on a tous les deux intérêt à ce que sa fille, notre maîtresse, soit en bonne santé. Si elle guérit, peut-être qu'on sera récompensé quand elle se mariera. Horace est généreux et il est ouvert à toutes les propositions, même si sa fille a montré de l'affection pour un certain Léandre. Mais son père n'a jamais voulu qu'il épouse sa fille.",
+            "105":"MARTINE: en pensant à voix haute. Comment pourrais-je me venger?",
+            "106":"LUCAS: Mais quelle idée t'a traversé l'esprit? Les médecins n'ont pas réussi à la guérir, alors comment pourrions-nous y arriver?",
+            "107":"VALÈRE: Parfois, à force de chercher, on finit par trouver. Et parfois, les solutions les plus simples sont les meilleures...",
+            "108":"MARTINE: Je dois me venger, peu importe le prix à payer. Ces coups de bâton m'ont fait mal et je ne peux pas les oublier. (Elle parle en se retournant et en heurtant les deux hommes.) Oh, pardon Messieurs, je ne vous avais pas vus. J'étais perdue dans mes pensées.",
+            "109":"VALÈRE: Chacun a ses soucis dans la vie. Nous cherchons un médecin qui pourrait aider la fille de notre maître. Elle a perdu l'usage de la parole à cause d'une maladie. Plusieurs médecins ont essayé de la soigner, mais sans succès. Nous cherchons quelqu'un qui aurait un remède miracle.",
+            "110":"MARTINE: (Elle parle doucement.) J'aimerais trouver un moyen de me venger de mon mari infidèle. (Elle parle plus fort.) Vous êtes tombés sur la bonne personne! Nous avons ici l'homme le plus merveilleux du monde pour les maladies incurables."
+        }
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":108,
+        "verse_id_end":118,
+        "text":{
+            "108":"MARTINE: Oui, il faut que je m'en venge à quelque prix que ce soit: ces coups de bâton me reviennent au coeur, je ne les saurois digérer, et... (Elle dit tout ceci en rivant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit:) Ah! Messieurs! je vous demande pardon, je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m'embarrasse. ",
+            "109":"VALÈRE: Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver. ",
+            "110":"MARTINE: Seroit-ce quelque chose où je vous puisse aider? ",
+            "111":"VALÈRE: Cela se pourroit faire; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille de notre maître, attaquée d'une maladie qui lui a ôté tout d'un coup l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle; mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là ce que nous cherchons. ",
+            "112":"MARTINE: (Elle dit ces premières lignes bas.) Ah! que le Ciel m'inspire une admirable invention pour me venger de mon pendart! (Haut.) Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez, et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées. ",
+            "113":"VALÈRE: Et, de grâce, où pouvons-nous le rencontrer? ",
+            "114":"MARTINE: Vous le trouverez maintenant vers ce petit lieu que voilà, qui s'amuse à couper du bois. ",
+            "115":"LUCAS: Un médecin qui coupe du bois? ",
+            "116":"VALÈRE: Qui s'amuse à cueillir des simples, voulez-vous dire? ",
+            "117":"MARTINE: Non, c'est un homme extraordinaire, qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais pour ce qu'il est. Il va vêtu d'une façon extravagante, affecte quelquefois de paroître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d'exercer les merveilleux talents qu'il a eus du Ciel pour la médecine."
+        },
+        "modern":{
+            "108":"MARTINE: Ouais, je dois me venger à tout prix: ces coups de bâton me font mal, je ne peux pas les supporter, et... (Elle parle en regardant ailleurs et heurte les deux hommes en se retournant.) Oh, messieurs! Je suis désolée, je ne vous avais pas vus, j'étais perdue dans mes pensées.",
+            "109":"VALÈRE: Tout le monde a ses soucis, nous cherchons un médecin spécialisé qui pourrait aider la fille de notre maître. Elle a perdu l'usage de la langue à cause d'une maladie. Nous avons déjà consulté plusieurs médecins, mais aucun n'a réussi à la guérir. Nous cherchons quelqu'un qui a des remèdes secrets et qui peut faire ce que les autres ne peuvent pas.",
+            "110":"MARTINE: (Elle parle doucement.) J'aimerais trouver un moyen de me venger de mon mari. (Elle parle fort.) Vous êtes chanceux, car je connais un homme extraordinaire qui peut aider votre fille. Il est bizarre et fantasque, et il aime couper du bois. Il ne se vante pas de sa science et ne veut pas l'utiliser tous les jours."
+        }
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":113,
+        "verse_id_end":123,
+        "text":{
+            "113":"VALÈRE: Et, de grâce, où pouvons-nous le rencontrer? ",
+            "114":"MARTINE: Vous le trouverez maintenant vers ce petit lieu que voilà, qui s'amuse à couper du bois. ",
+            "115":"LUCAS: Un médecin qui coupe du bois? ",
+            "116":"VALÈRE: Qui s'amuse à cueillir des simples, voulez-vous dire? ",
+            "117":"MARTINE: Non, c'est un homme extraordinaire, qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais pour ce qu'il est. Il va vêtu d'une façon extravagante, affecte quelquefois de paroître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d'exercer les merveilleux talents qu'il a eus du Ciel pour la médecine. ",
+            "118":"VALÈRE: C'est une chose admirable, que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science. ",
+            "119":"MARTINE: La folie de celui-ci est plus grande qu'on ne peut croire, car elle va parfois jusqu'à vouloir être battu pour demeurer d'accord de sa capacité; et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais qu'il est médecin, s'il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu'il vous cachera d'abord. C'est ainsi que nous en usons quand nous avons besoin de lui. ",
+            "120":"VALÈRE: Voilà une étrange folie! ",
+            "121":"MARTINE: Il est vrai; mais, après cela, vous verrez qu'il fait des merveilles. ",
+            "122":"VALÈRE: Comment s'appelle-t-il?"
+        },
+        "modern":{
+            "113":"VALÈRE: Et où peut-on le trouver, s'il vous plaît?",
+            "114":"MARTINE: Il est en ce moment dans les bois, en train de couper du bois.",
+            "115":"LUCAS: Un médecin qui coupe du bois?",
+            "116":"VALÈRE: Vous voulez dire qu'il cueille des plantes médicinales?",
+            "117":"MARTINE: Non, c'est un personnage étrange et fantasque. Il s'habille de manière extravagante, parfois il feint d'être ignorant et cache sa connaissance médicale. Il évite de pratiquer la médecine autant que possible.",
+            "118":"VALÈRE: C'est intéressant, les grands hommes ont souvent une touche de folie.",
+            "119":"MARTINE: Sa folie est plus grande que vous ne pouvez l'imaginer. Parfois, il veut être battu pour prouver sa capacité. Si vous avez besoin de ses services, vous devrez le battre pour qu'il avoue qu'il est médecin. C'est ainsi que nous faisons avec lui.",
+            "120":"VALÈRE: C'est une folie étrange.",
+            "121":"MARTINE: Mais il est capable de faire des miracles.",
+            "122":"VALÈRE: Comment s'appelle-t-il?"
+        }
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":118,
+        "verse_id_end":128,
+        "text":{
+            "118":"VALÈRE: C'est une chose admirable, que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science. ",
+            "119":"MARTINE: La folie de celui-ci est plus grande qu'on ne peut croire, car elle va parfois jusqu'à vouloir être battu pour demeurer d'accord de sa capacité; et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais qu'il est médecin, s'il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu'il vous cachera d'abord. C'est ainsi que nous en usons quand nous avons besoin de lui. ",
+            "120":"VALÈRE: Voilà une étrange folie! ",
+            "121":"MARTINE: Il est vrai; mais, après cela, vous verrez qu'il fait des merveilles. ",
+            "122":"VALÈRE: Comment s'appelle-t-il? ",
+            "123":"MARTINE: Il s'appelle Sganarelle; mais il est aisé à connoître: c'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert. ",
+            "124":"LUCAS: Un habit jaune et vart! C'est donc le médecin des paroquets? ",
+            "125":"VALÈRE: Mais est-il bien vrai qu'il soit si habile que vous le dites? ",
+            "126":"MARTINE: Comment! c'est un homme qui fait des miracles. Il y a six mois qu'une femme fut abandonnée de tous les autres médecins: on la tenoit morte il y avoit déjà six heures, et l'on se disposoit à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons. Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche, et dans le même instant elle se leva de son lit et se mit aussitôt à se promener dans sa chambre, comme si de rien n'eût été. ",
+            "127":"LUCAS: Ah!"
+        },
+        "modern":{
+            "118":"VALÈRE: Tu trouves ça incroyable, Lucas? ",
+            "119":"LUCAS: Ben oui, un médecin qui fait des miracles, c'est pas commun. ",
+            "120":"MARTINE: Mais c'est vrai, je te dis! Cet homme, Sganarelle, est vraiment très doué. Il a même réussi à guérir une femme que tous les autres médecins avaient abandonnée. Elle était déjà considérée comme morte, mais il a réussi à la faire se lever et à marcher comme si de rien n'était. ",
+            "121":"VALÈRE: C'est impressionnant. Et comment peut-on le trouver? ",
+            "122":"MARTINE: C'est facile, il est facilement reconnaissable avec sa grande barbe noire et son habit jaune et vert. ",
+            "123":"LUCAS: Ah, je vois! C'est le médecin des oiseaux! ",
+            "124":"VALÈRE: Non, Lucas, tu confonds. Mais en tout cas, il faut qu'on le trouve. Il pourrait peut-être aider notre maître, qui est malade. ",
+            "125":"MARTINE: Oui, c'est une bonne idée. Mais attention, il est un peu fou, il pourrait refuser de se faire passer pour un médecin. Il faudrait peut-être le forcer un peu... ",
+            "126":"VALÈRE: On verra bien. En tout cas, merci pour tes conseils, Martine."
+        }
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":123,
+        "verse_id_end":133,
+        "text":{
+            "123":"MARTINE: Il s'appelle Sganarelle; mais il est aisé à connoître: c'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert. ",
+            "124":"LUCAS: Un habit jaune et vart! C'est donc le médecin des paroquets? ",
+            "125":"VALÈRE: Mais est-il bien vrai qu'il soit si habile que vous le dites? ",
+            "126":"MARTINE: Comment! c'est un homme qui fait des miracles. Il y a six mois qu'une femme fut abandonnée de tous les autres médecins: on la tenoit morte il y avoit déjà six heures, et l'on se disposoit à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons. Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche, et dans le même instant elle se leva de son lit et se mit aussitôt à se promener dans sa chambre, comme si de rien n'eût été. ",
+            "127":"LUCAS: Ah! ",
+            "128":"VALÈRE: Il falloit que ce fût quelque goutte d'or potable. ",
+            "129":"MARTINE: Cela pourroit bien être. Il n'y a pas trois semaines encore qu'un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête, les bras et les jambes. On n'y eut pas plus tôt amené notre homme qu'il le frotta par tout le corps d'un certain onguent qu'il sait faire, et l'enfant aussitôt se leva sur ses pieds et courut jouer à la fossette. ",
+            "130":"LUCAS: Ah! ",
+            "131":"VALÈRE: Il faut que cet homme-là ait la médecine universelle. ",
+            "132":"MARTINE: Qui en doute?"
+        },
+        "modern":{
+            "123":"MARTINE: Il s'appelle Sganarelle, c'est facile à reconnaître: c'est un homme avec une grande barbe noire, une fraise et un costume jaune et vert.",
+            "124":"LUCAS: Un costume jaune et vert! Est-ce le médecin des oiseaux?",
+            "125":"VALÈRE: Mais est-ce vrai qu'il soit si compétent que vous le dites?",
+            "126":"MARTINE: Comment! C'est un homme qui fait des miracles. Il y a six mois, une femme a été abandonnée par tous les autres médecins: elle était considérée comme morte depuis six heures et on se préparait à l'enterrer, quand on a forcé l'homme dont nous parlons à venir. Il lui a donné une petite goutte de quelque chose dans la bouche et elle s'est levée de son lit et s'est mise à marcher dans sa chambre comme si de rien n'était.",
+            "127":"LUCAS: Ah!",
+            "128":"VALÈRE: Il devait s'agir d'une goutte d'or potable.",
+            "129":"MARTINE: C'est possible. Il y a moins de trois semaines, un jeune enfant de douze ans est tombé du haut du clocher et s'est cassé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il a frotté tout le corps de l'enfant avec une certaine pommade qu'il sait faire, et l'enfant s'est levé et a couru jouer à la fossette.",
+            "130":"LUCAS: Ah!",
+            "131":"VALÈRE: Cet homme doit avoir la médecine universelle.",
+            "132":"MARTINE: Qui en doute?"
+        }
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":127,
+        "verse_id_end":137,
+        "text":{
+            "127":"LUCAS: Ah! ",
+            "128":"VALÈRE: Il falloit que ce fût quelque goutte d'or potable. ",
+            "129":"MARTINE: Cela pourroit bien être. Il n'y a pas trois semaines encore qu'un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête, les bras et les jambes. On n'y eut pas plus tôt amené notre homme qu'il le frotta par tout le corps d'un certain onguent qu'il sait faire, et l'enfant aussitôt se leva sur ses pieds et courut jouer à la fossette. ",
+            "130":"LUCAS: Ah! ",
+            "131":"VALÈRE: Il faut que cet homme-là ait la médecine universelle. ",
+            "132":"MARTINE: Qui en doute? ",
+            "133":"LUCAS: Testigué! velà justement l'homme qu'il nous faut; allons vite le charcher. ",
+            "134":"VALÈRE: Nous vous remercions du plaisir que vous nous faites. ",
+            "135":"MARTINE: Mais souvenez-vous bien au moins de l'avertissement que je vous ai donné. ",
+            "136":"LUCAS: Hé! morguenne! laissez-nous faire; s'il ne tient qu'à battre, la vache est à nous."
+        },
+        "modern":{
+            "127":"LUCAS: Ah!",
+            "128":"VALÈRE: Il devait s'agir d'une potion magique à base d'or.",
+            "129":"MARTINE: C'est possible. Il y a moins de trois semaines, un enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il a frotté tout le corps de l'enfant avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et a couru jouer à la fossette.",
+            "130":"LUCAS: Ah!",
+            "131":"VALÈRE: Cet homme doit avoir le remède universel.",
+            "132":"MARTINE: Qui en doute?",
+            "133":"LUCAS: Témoin! C'est exactement l'homme qu'il nous faut; allons vite le chercher.",
+            "134":"VALÈRE: Nous vous remercions pour cette information.",
+            "135":"MARTINE: Mais souvenez-vous de l'avertissement que je vous ai donné.",
+            "136":"LUCAS: Hé! Ne vous inquiétez pas; si tout ce qu'il faut c'est de la force brute, nous sommes prêts à y aller."
+        }
+    }
+]

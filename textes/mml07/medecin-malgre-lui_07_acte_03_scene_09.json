@@ -1,0 +1,36 @@
+[
+    {
+        "acte":3,
+        "scene":9,
+        "verse_id_start":571,
+        "verse_id_end":583,
+        "text":{
+            "571":"MARTINE: Ah! mon Dieu, que j'ai eu de peine à trouver ce logis! Dites-moi un peu des nouvelles du médecin que je vous ai donné. ",
+            "572":"LUCAS: Le velà qui va être pendu. ",
+            "573":"MARTINE: Quoi! mon mari pendu! Hélas! et qu'a-t-il fait pour cela? ",
+            "574":"LUCAS: Il a fait enlever la fille de notte maître. ",
+            "575":"MARTINE: Hélas! mon cher mari, est-il bien vrai qu'on te va pendre? ",
+            "576":"SGANARELLE: Tu vois. Ah! ",
+            "577":"MARTINE: Faut-il que tu te laisses mourir en présence de tant de gens? ",
+            "578":"SGANARELLE: Que veux-tu que j'y fasse? ",
+            "579":"MARTINE: Encore, si tu avois achevé de couper notre bois, je prendrois quelque consolation. ",
+            "580":"SGANARELLE: Retire-toi de là, tu me fends le coeur. ",
+            "581":"MARTINE: Non, je veux demeurer pour t'encourager à la mort, et je ne te quitterai point que je ne t'aie vu pendu. ",
+            "582":"SGANARELLE: Ah!"
+        },
+        "modern":{
+            "571":"MARTINE: Oh mon Dieu, j'ai eu tellement de mal à trouver cet endroit ! Dis-moi un peu des nouvelles du médecin que je t'ai donné.",
+            "572":"LUCAS: Le voilà qui va être pendu.",
+            "573":"MARTINE: Quoi ! Mon mari pendu ! Hélas ! Et qu'a-t-il fait pour cela ?",
+            "574":"LUCAS: Il a enlevé la fille de notre maître.",
+            "575":"MARTINE: Hélas ! Mon cher mari, est-ce bien vrai qu'on va te pendre ?",
+            "576":"SGANARELLE: Tu vois. Ah !",
+            "577":"MARTINE: Est-ce que tu vas te laisser mourir devant tant de gens ?",
+            "578":"SGANARELLE: Que veux-tu que j'y fasse ?",
+            "579":"MARTINE: Encore, si tu avais fini de couper notre bois, je trouverais un peu de consolation.",
+            "580":"SGANARELLE: Éloigne-toi de là, tu me brises le cœur.",
+            "581":"MARTINE: Non, je veux rester ici pour t'encourager à la mort, et je ne te quitterai pas tant que je ne t'aurai pas vu pendu.",
+            "582":"SGANARELLE: Ah !"
+        }
+    }
+]

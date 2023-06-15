@@ -1,0 +1,62 @@
+[
+    {
+        "acte":3,
+        "scene":5,
+        "verse_id_start":501,
+        "verse_id_end":511,
+        "text":{
+            "501":"GÉRONTE: Ah! Monsieur, je demandois où vous étiez. ",
+            "502":"SGANARELLE: Je m'étois amusé, dans votre cour, à expulser le superflu de la boisson. Comment se porte la malade? ",
+            "503":"GÉRONTE: Un peu plus mal depuis votre remède. ",
+            "504":"SGANARELLE: Tant mieux: c'est signe qu'il opère. ",
+            "505":"GÉRONTE: Oui; mais, en opérant, je crains qu'il ne l'étouffé. ",
+            "506":"SGANARELLE: Ne vous mettez pas en peine: j'ai des remèdes qui se moquent de tout, et je l'attends à l'agonie. ",
+            "507":"GÉRONTE: Qui est cet homme-là que vous amenez? ",
+            "508":"SGANARELLE: faisant des signes avec la main que c'est un apothicaire. C'est... ",
+            "509":"GÉRONTE: Quoi? ",
+            "510":"SGANARELLE: Celui..."
+        },
+        "modern":{
+            "501":"GÉRONTE: Ah ! Monsieur, je me demandais où vous étiez.",
+            "502":"SGANARELLE: Je me suis amusé, dans votre cour, à éliminer l'excès de boisson. Comment va la malade ?",
+            "503":"GÉRONTE: Un peu plus mal depuis votre remède.",
+            "504":"SGANARELLE: Tant mieux : ça veut dire qu'il fait effet.",
+            "505":"GÉRONTE: Oui, mais en faisant effet, j'ai peur qu'il ne l'étouffe.",
+            "506":"SGANARELLE: Ne vous inquiétez pas : j'ai des remèdes qui se moquent de tout, et je l'attends à l'agonie.",
+            "507":"GÉRONTE: Qui est cet homme que vous amenez ?",
+            "508":"SGANARELLE: en faisant des signes avec la main pour montrer que c'est un apothicaire. C'est...",
+            "509":"GÉRONTE: Quoi ?",
+            "510":"SGANARELLE: Celui..."
+        }
+    },
+    {
+        "acte":3,
+        "scene":5,
+        "verse_id_start":505,
+        "verse_id_end":515,
+        "text":{
+            "505":"GÉRONTE: Oui; mais, en opérant, je crains qu'il ne l'étouffé. ",
+            "506":"SGANARELLE: Ne vous mettez pas en peine: j'ai des remèdes qui se moquent de tout, et je l'attends à l'agonie. ",
+            "507":"GÉRONTE: Qui est cet homme-là que vous amenez? ",
+            "508":"SGANARELLE: faisant des signes avec la main que c'est un apothicaire. C'est... ",
+            "509":"GÉRONTE: Quoi? ",
+            "510":"SGANARELLE: Celui... ",
+            "511":"GÉRONTE: Eh? ",
+            "512":"SGANARELLE: Qui... ",
+            "513":"GÉRONTE: Je vous entends. ",
+            "514":"SGANARELLE: Votre fille en aura besoin."
+        },
+        "modern":{
+            "505":"GÉRONTE: Oui, mais j'ai peur qu'en opérant, il l'étouffe.",
+            "506":"SGANARELLE: Ne vous inquiétez pas, j'ai des remèdes qui fonctionnent pour tout, et je l'attends au bord de la mort.",
+            "507":"GÉRONTE: Qui est cet homme que vous amenez?",
+            "508":"SGANARELLE: en faisant des signes avec la main pour montrer que c'est un pharmacien. C'est...",
+            "509":"GÉRONTE: Quoi?",
+            "510":"SGANARELLE: Celui...",
+            "511":"GÉRONTE: Hein?",
+            "512":"SGANARELLE: Je veux dire...",
+            "513":"GÉRONTE: Je comprends.",
+            "514":"SGANARELLE: Votre fille en aura besoin."
+        }
+    }
+]
