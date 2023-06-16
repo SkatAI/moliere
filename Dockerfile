@@ -13,8 +13,8 @@ WORKDIR ./app
 RUN pip install -r requirements.txt
 
 # Port
-# EXPOSE 8501
-EXPOSE 8080
+#EXPOSE 8501
+#EXPOSE 8080
 
 # Healthcheck: test a container
 # HEALTHCHECK CMD curl --fail http://localhost:8501/_stcore/health
