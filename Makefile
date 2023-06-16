@@ -42,7 +42,7 @@ build:
 
 run: ## Build, start and run docker image
 run:
-	docker run --rm -it -v ${PWD}:/app/ --name facetious-sganarelle ${DOCKER_USERNAME}/${APPLICATION_NAME}:0.1
+	docker run --rm -it -p 8501:8501 -v ${PWD}:/app/ --name facetious-sganarelle ${DOCKER_USERNAME}/${APPLICATION_NAME}:0.1
 .PHONY: run
 
 test: # run test
