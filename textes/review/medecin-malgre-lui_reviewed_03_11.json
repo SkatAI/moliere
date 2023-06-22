@@ -1,0 +1,201 @@
+[
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":586,
+        "char":"LÉANDRE",
+        "text":"Monsieur, je viens vous présenter Léandre et remettre Lucinde entre vos mains. Nous avions prévu de nous enfuir tous les deux et de nous marier, mais nous avons choisi une approche plus honnête",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"original",
+        "chunk":0,
+        "verse_id":586,
+        "char":"LÉANDRE",
+        "text":"[XX] Monsieur, je viens faire paraître Léandre à vos yeux et remettre Lucinde en votre pouvoir. Nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble; mais cette entreprise a fait place à un procédé plus honnête. 
+        Je ne prétends point vous voler votre fille, et ce n'est que de votre main que je veux la recevoir. Ce que je vous dirai, Monsieur, c'est que je viens tout à l'heure de recevoir des lettres par où j'apprends que mon oncle est mort, et que je suis héritier de tous ses biens.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":587,
+        "char":"GÉRONTE",
+        "text":"Monsieur, votre honnêteté est très appréciable et je vous donne ma fille avec une grande joie.",
+        "selected":1
+    },
+    {
+        "experiment":"mml07",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":587,
+        "char":"GÉRONTE",
+        "text":"Monsieur, votre vertu est très appréciable et je vous donne ma fille avec une grande joie.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"original",
+        "chunk":0,
+        "verse_id":587,
+        "char":"GÉRONTE",
+        "text":"Monsieur, votre vertu m'est tout à fait considérable, et je vous donne ma fille avec la plus grande joie du monde.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":588,
+        "char":"SGANARELLE",
+        "text":"La médecine a eu de la chance !",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"original",
+        "chunk":0,
+        "verse_id":588,
+        "char":"SGANARELLE",
+        "text":"La médecine l'a échappé belle!",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":589,
+        "char":"MARTINE",
+        "text":"Puisque tu ne seras pas pendu, sois reconnaissant d'être devenu médecin, car c'est moi qui t'ai procuré cet honneur.",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"original",
+        "chunk":0,
+        "verse_id":589,
+        "char":"MARTINE",
+        "text":"Puisque tu ne seras point pendu, rends-moi grâce d'être médecin, car c'est moi qui t'ai procuré cet honneur.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":590,
+        "char":"SGANARELLE",
+        "text":"Oui, c'est toi qui m'as procuré je ne sais combien de coups de bâton.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":590,
+        "char":"SGANARELLE",
+        "text":"Oui, c'est toi qui m'as procuré de nombreux coups de bâton.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"original",
+        "chunk":0,
+        "verse_id":590,
+        "char":"SGANARELLE",
+        "text":"Oui, c'est toi qui m'as procuré je ne sais combien de coups de bâton.",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":591,
+        "char":"LÉANDRE",
+        "text":"Le résultat est trop beau pour en garder rancune.",
+        "selected":1
+    },
+    {
+        "experiment":"mml07",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":591,
+        "char":"LÉANDRE",
+        "text":"Le résultat en vaut la peine, je ne garde aucune rancune.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"original",
+        "chunk":0,
+        "verse_id":591,
+        "char":"LÉANDRE",
+        "text":"L'effet en est trop beau pour en garder du ressentiment.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":592,
+        "char":"SGANARELLE",
+        "text":"D'accord. Je te pardonne ces coups de bâton en raison de la position élevée où tu m'as placé ; mais prépare-toi désormais à vivre avec un grand respect envers un homme de mon importance, et sache que la colère d'un médecin est plus redoutable qu'on ne peut l'imaginer.",
+        "selected":1
+    },
+    {
+        "experiment":"mml07",
+        "acte":3,
+        "scene":11,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":592,
+        "char":"SGANARELLE",
+        "text":"Soit. Je te pardonne ces coups de bâton en raison de la dignité que tu m'as donnée ; mais prépare-toi désormais à vivre avec un grand respect envers un homme de mon importance, et sache que la colère d'un médecin est plus redoutable qu'on ne le pense.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":11,
+        "version":"original",
+        "chunk":0,
+        "verse_id":592,
+        "char":"SGANARELLE",
+        "text":"Soit. Je te pardonne ces coups de bâton en faveur de la dignité où tu m'as élevé; mais prépare-toi désormais à vivre dans un grand respect avec un homme de ma conséquence, et songe que la colère d'un médecin est plus à craindre qu'on ne peut croire.",
+        "selected":0
+    }
+]

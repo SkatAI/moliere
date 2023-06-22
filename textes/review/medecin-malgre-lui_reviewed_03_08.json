@@ -1,0 +1,68 @@
+[
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":8,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":568,
+        "char":"LUCAS",
+        "text":"Oh là là, Monsieur, il y a un sacré vacarme ici. Votre fille s'est enfuie avec son Liandre. C'était lui qui était le pharmacien, et voilà Monsieur le médecin qui a fait cette belle opération-là.",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":8,
+        "version":"original",
+        "chunk":0,
+        "verse_id":568,
+        "char":"LUCAS",
+        "text":"Ah! palsanguenne, Monsieu, vaici bian du tintamarre. Votte fille s'en est enfuie avec son Liandre. C'étoit lui qui étoit l'apothicaire, et velà monsieu le médecin qui a fait cette belle opération-là.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":8,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":569,
+        "char":"GÉRONTE",
+        "text":"Comment! Me trahir de cette manière? Allez chercher un policier et empêchez-le de sortir. Ah! traître, je vous ferai punir par la justice.",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":8,
+        "version":"original",
+        "chunk":0,
+        "verse_id":569,
+        "char":"GÉRONTE",
+        "text":"Comment! m'assassiner de la façon? Allons, un commissaire, et qu'on empêche qu'il ne sorte. Ah! traître, je vous ferai punir par la justice.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":8,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":570,
+        "char":"LUCAS",
+        "text":"Ah! Par ma foi, Monsieur le médecin, vous serez pendu. Ne bougez pas de là seulement.",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":3,
+        "scene":8,
+        "version":"original",
+        "chunk":0,
+        "verse_id":570,
+        "char":"LUCAS",
+        "text":"Ah! par ma fi, Monsieu le médecin, vous serez pendu. Ne bougez de là seulement.",
+        "selected":0
+    }
+]

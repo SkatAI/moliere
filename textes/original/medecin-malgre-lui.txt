@@ -235,8 +235,8 @@ M. ROBERT.
 Holà! holà! holà! Fi! Qu'est-ce ci? quelle infamie! Peste soit le
 coquin, de battre ainsi sa femme!
 
-MARTINE, les mains sur les côtés, lui parle en le faisant reculer, et à
-la fin lui donne un soufflet.
+MARTINE, les mains sur les côtés, lui parle en le faisant reculer, et à la fin
+lui donne un soufflet.
 
 Et je veux qu'il me batte, moi.
 
@@ -453,8 +453,8 @@ fagots.
 
 -- SCENE III
 
-
 MARTINE, seule.
+
 
 Va, quelque mine que je fasse, je n'oublie pas mon ressentiment, et je
 brûle en moi-même de trouver les moyens de te punir des coups que tu me
@@ -1152,7 +1152,6 @@ il est bouffon.
 
 
 -- SCENE PREMIÈRE
-
 
 GÉRONTE, VALÈRE, LUCAS, JACQUELINE.
 

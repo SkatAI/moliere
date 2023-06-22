@@ -1,24 +1,31 @@
 # flow
 
-1) exercice a faire:
-par ex: Mets cette phrase au pluriel
+1. parse texte original into lines
+    - script: parse
+    - resultat: medecin-malgre-lui_verse_original.json
 
-=> gpt generates sentence au singulier
+2. GPT transliteration
+    - script: modernize
+    - resultats: ./textes/{experiment}/acte_xx_scene_xx.json
+
+2.1 Review preparation
+    - script: aggregate_experiments.py
+    - input: ./textes/{experiment}/acte_xx_scene_xx.json
+    - output: ./textes/review/medecin-malgre-lui_review.json
+
+3. review - choose best version for each line
+    - streamlit: ./pages/compare
+    - input: ./textes/review/medecin-malgre-lui_review.json
+    - output: ./textes/review/reviewed_acte_xx_scene_xx.json
+
+4. finalize: create final json file for online display
+    - script: finalize
+    - from: ./textes/review/reviewed_acte_xx_scene_xx.json
+    - to: ./textes/online/*.json
 
 
-2) user inputs answer
 
-3) il y a N fautes, peut tu les trouver
--> reessayer (back to 2) ou avoir la solution
-
-
-4) solution et explication
-=> gpt: analyse grammaticale
-
-
-
-
-
+# vocabulaire theatre
 - Une tirade est une réplique longue.
     -  La tirade ralentit le rythme de l'intrigue ; cela correspond à un moment important où l'attention est centrée sur un personnage qui développe ses pensées.
 
