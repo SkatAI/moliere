@@ -1,0 +1,248 @@
+import openai
+import os
+import re, json
+import time, datetime
+from datetime import timedelta
+import pandas as pd
+import argparse
+
+pd.options.display.max_columns = 100
+pd.options.display.max_rows = 60
+pd.options.display.max_colwidth = 100
+pd.options.display.precision = 10
+pd.options.display.width = 160
+pd.set_option("display.float_format", "{:.2f}".format)
+import numpy as np
+
+def initialize(experiment):
+    config_file = f"../textes/{experiment}/config.json"
+    conf = pd.read_json(config_file).to_dict(orient="records")[0]
+    conf["version"] = str(conf["version"]).zfill(2)
+    conf["step"] = int(conf["step"])
+    conf["window_size"] = 2 * conf["step"] + 1
+
+    return conf
+
+
+def cli_args():
+    parser = argparse.ArgumentParser(description="Description of your script.")
+    parser.add_argument("--experiment", help="experiment: i.e. mml06")
+    parser.add_argument("--acte", help="acte", default=None)
+    parser.add_argument("--scene", help="scene", default=None)
+
+    return parser.parse_args()
+
+
+def sliding_window(array, config):
+    num_windows = (len(array) - config['window_size']) // config['step'] + 1
+    windows = []
+    # end_ = len(array) + 1
+    end_ = 0
+    for i in range(num_windows):
+        start = i * config['step']
+        end_ = start + config['window_size']
+        window = array[start:end_]
+        windows.append(window)
+    if end_ < len(array):
+        window = array[-config['window_size'] + 1 : len(array)]
+        window.append(array[-1] + 1)
+        windows.append(window)
+    return windows
+
+def chunk_scene(df, config):
+    # use sliding window to create chunks
+    # df = df[df.verse_id > 0].copy()
+    # df.reset_index(inplace=True, drop=True)
+
+    from_verse_id = df.verse_id.min()
+    to_verse_id = df.verse_id.max()
+
+    windows = sliding_window(list(range(from_verse_id, to_verse_id + 1)), config)
+    chunks = []
+    for w in windows:
+        chunks.append(
+            {
+                "acte": acte,
+                "scene": scene,
+                "verse_id_start": w[0],
+                "verse_id_end": w[-1],
+            }
+        )
+
+    return chunks
+
+
+def build_text(df, **kwargs):
+    # load file
+    cond = df.verse_id > 0
+
+    if "verse_id_start" in kwargs.keys():
+        cond = cond & (df.verse_id >= kwargs["verse_id_start"])
+
+    if "verse_id_end" in kwargs.keys():
+        cond = cond & (df.verse_id < kwargs["verse_id_end"])
+
+    # get extract
+    df = df[cond].copy()
+
+    df.reset_index(inplace=True, drop=True)
+    # multiple lines repliques are kept over multiple lines but text directly follows character name after a ":"
+    dialogue = []
+    for i, d in df.iterrows():
+
+        if d.category == "character":
+            if len(dialogue) > 0:
+                dialogue.append('\n'.join(text))
+            text = []
+            dialogue.append(f"\n{d.text.replace('.','').strip()}:")
+        elif d.category == "replique":
+            text.append(d.text.strip())
+    dialogue.append('\n'.join(text))
+    dialogue = " ".join(dialogue).strip()
+    print(f"===== repliques: {len(df.verse_id.unique())}")
+    return dialogue
+
+def replique_id(start_id,lines):
+    result = []
+    text =[]
+    verse_id = start_id
+    for n in range(len(lines)):
+
+        line = lines[n]
+        if re.match(char_pattern, line):
+            text = [line]
+            # n +=1
+        else:
+            if not re.match(char_pattern, line):
+                text.append(line)
+                # n +=1
+        if (n+1 < len(lines)):
+            if (re.match(char_pattern, lines[n+1])):
+                result.append({
+                    'verse_id': verse_id,
+                    'text':  '\n'.join(text)
+                })
+                verse_id +=1
+    result.append({
+        'verse_id': verse_id,
+        'text':  '\n'.join(text)
+    })
+    return result
+
+# texte = '''
+# M ROBERT: Très volontiers.
+# SGANARELLE: Et vous êtes un impertinent de vous ingérer des affaires d'autrui. Apprenez que Cicéron dit qu'entre l'arbre et le doigt il ne faut point mettre l'écorce.
+# (Ensuite, il revient vers sa femme, et lui dit en lui pressant la main:)
+# O ça, faisons la paix nous deux. Touche là.
+# MARTINE: Oui! après m'avoir ainsi battue.
+# '''
+# lines = texte.strip().split('\n')
+
+def get_completion(prompt, model="gpt-3.5-turbo", temp=0):
+    messages = [{"role": "user", "content": prompt}]
+    response = openai.ChatCompletion.create(
+        model=model,
+        messages=messages,
+        temperature=temp,
+    )
+    return response.choices[0].message["content"]
+
+def save(input, filename):
+    df = pd.DataFrame(input)
+    with open(filename, "w", encoding="utf-8") as f:
+        df.to_json(f, force_ascii=False, orient="records", indent=4)
+
+    data = pd.DataFrame(chunks)
+    with open(output_filename, "w", encoding="utf-8") as f:
+        data.to_json(f, force_ascii=False, orient="records", indent=4)
+
+
+def get_prompt_mml09(acte, scene, personnages, text):
+    prompt = config['prompt']
+    prompt = prompt.replace("{text}", text)
+    prompt = prompt.replace("{acte}", str(acte))
+    prompt = prompt.replace("{scene}", str(scene))
+    str_personnages = f"{', '.join(personnages[:-1]) } et {personnages[-1]}"
+    prompt = prompt.replace("{personnages}", str_personnages)
+    return prompt
+
+def get_prompt_mml08(text):
+    prompt = config['prompt'].replace("{text}", text),
+    return prompt
+
+def get_personnages(df, chunk):
+    texts = df[(df.verse_id >= chunk['verse_id_start']) & (df.verse_id < chunk['verse_id_end']) & (df.category == 'character')].text.unique()
+    personnages = []
+    punct_pattern = f"(,|\.|\s)"
+    for line in texts:
+        match = re.search(punct_pattern, line)
+        personnages.append(line[:match.start()])
+    return sorted(set(personnages))
+
+
+char_pattern = r"(SGANARELLE|MARTINE|M. ROBERT|M ROBERT|GÉRONTE|LÉANDRE|LUCINDE|JACQUELINE|PERRIN|LUCAS|VALÈRE|THIBAUT)"
+SLEEP_FOR = 10
+
+if __name__ == "__main__":
+
+    start_time = time.time()
+    openai.api_key = os.getenv("OPENAI_API_KEY")
+
+    args = cli_args()
+    acte = int(args.acte)
+    scene = int(args.scene)
+    print(args)
+    config = initialize(args.experiment)
+    output_filename = f"../textes/{args.experiment}/medecin-malgre-lui_{args.experiment}_acte_{str(acte).zfill(2)}_scene_{str(scene).zfill(2)}.json"
+    print("output_filename:", output_filename)
+
+    # load texte, subset to scene
+    df = pd.read_json(config['source'])
+    df = df[(df.acte == acte) & (df.scene == scene)].copy()
+    df.reset_index(inplace=True, drop=True)
+
+    chunks = chunk_scene(df[df.verse_id > 0], config)
+    k = 0
+    for chunk in chunks:
+        text = build_text(df,**chunk).strip()
+        print('--'*20)
+        print(chunk)
+        chunk["text"] = replique_id(
+            chunk['verse_id_start'],
+            text.strip().split('\n')
+        )
+
+        if args.experiment == 'mml08':
+            prompt = get_prompt_mml08(text)
+        if args.experiment == 'mml09':
+            personnages = get_personnages(df, chunk)
+            print(personnages)
+            prompt = get_prompt_mml09(acte, scene, personnages, text)
+        # print(prompt)
+
+        try:
+            modern =  get_completion(
+                prompt,
+                model=config['model'],
+                temp=0)
+            chunk["modern"] = replique_id(
+                chunk['verse_id_start'],
+                modern.strip().split('\n')
+            )
+
+            print('>>' * 10, "modern")
+            print(modern)
+            print('>>' * 10, "/modern")
+            print(f" text: {len(chunk['text'])} repliques \t modern: {len(chunk['modern'])} repliques  ")
+            save(chunks, output_filename)
+
+        except Exception as error:
+            save(chunks, output_filename)
+            # handle the exception
+            print("*** An exception occurred:", type(error).__name__)
+            raise error
+        k += 1
+        if k < len(chunks):
+            print(f"sleep {SLEEP_FOR}", end=" ")
+            time.sleep(SLEEP_FOR)
+            print("-")
