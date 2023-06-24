@@ -22,4 +22,4 @@ EXPOSE 8501
 
 CMD /bin/bash
 
-# CMD streamlit run --server.port 8501 --theme.base light  streamlit/Accueil.py
+# CMD streamlit run --server.port 8501 --theme.base light  streamlit/accueil.py
