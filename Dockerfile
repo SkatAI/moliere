@@ -6,7 +6,14 @@ RUN apt-get update -y \
     && apt-get install -y procps
 
 # copy code
-COPY ./ app/
+# COPY ./streamlit/Accueil.py app/Accueil.py
+# COPY ./streamlit/pages/ app/Médecin Malgrè Lui.py
+# COPY ./streamlit/content app/content
+
+COPY ./streamlit app/
+
+RUN rm app/pages/compare.py
+
 WORKDIR ./app
 
 # Pip dependencies
@@ -20,4 +27,4 @@ EXPOSE 8501
 
 # CMD /bin/bash
 
-CMD streamlit run --server.port 8501 streamlit/accueil.py
+CMD streamlit run --server.port 8501 --theme.base light  streamlit/Accueil.py
