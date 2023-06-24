@@ -1,7 +1,3 @@
-ipython
 numpy
 pandas
-pytest
-pytest-cov
 streamlit
-openai
