@@ -20,6 +20,6 @@ EXPOSE 8501
 # Healthcheck: test a container
 # HEALTHCHECK CMD curl --fail http://localhost:8501/_stcore/health
 
-# CMD /bin/bash
+CMD /bin/bash
 
-CMD streamlit run --server.port 8501 --theme.base light  streamlit/Accueil.py
+# CMD streamlit run --server.port 8501 --theme.base light  streamlit/Accueil.py
