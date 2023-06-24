@@ -1,0 +1,52 @@
+[
+    {
+        "acte":3,
+        "scene":4,
+        "verse_id_start":496,
+        "verse_id_end":501,
+        "text":[
+            {
+                "verse_id":496,
+                "text":"GÉRONTE: Holà! Lucas, n'as-tu point vu ici notre médecin? "
+            },
+            {
+                "verse_id":497,
+                "text":"LUCAS: Et oui, de par tous les diantres! je l'ai vu, et ma femme aussi. "
+            },
+            {
+                "verse_id":498,
+                "text":"GÉRONTE: Où est-ce donc qu'il peut être? "
+            },
+            {
+                "verse_id":499,
+                "text":"LUCAS: Je ne sais; mais je voudrois qu'il fût à tous les guebles. "
+            },
+            {
+                "verse_id":500,
+                "text":"GÉRONTE: Va-t'en voir un peu ce que fait ma fille."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":496,
+                "text":"GÉRONTE: Hé! Lucas, tu n'as pas vu notre médecin ici, n'est-ce pas?"
+            },
+            {
+                "verse_id":497,
+                "text":"LUCAS: Oh oui, par tous les diables! Je l'ai vu, et ma femme aussi."
+            },
+            {
+                "verse_id":498,
+                "text":"GÉRONTE: Où peut-il bien être alors?"
+            },
+            {
+                "verse_id":499,
+                "text":"LUCAS: Je ne sais pas, mais j'aimerais qu'il soit aux enfers."
+            },
+            {
+                "verse_id":500,
+                "text":"GÉRONTE: Va voir un peu ce que fait ma fille."
+            }
+        ]
+    }
+]

@@ -112,9 +112,7 @@ if __name__ == "__main__":
             tr = sort_verses(tr)
             save(tr, output_filename)
             # handle the exception
-            print(
-                "An exception occurred:", type(error).__name__
-            )  # An exception occurred: division by zero
+            print("An exception occurred:", type(error).__name__)  # An exception occurred: division by zero
             raise error
 
         new_row["text"] = " ".join(response.split(": ")[1:])

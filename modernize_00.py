@@ -79,9 +79,7 @@ def build_text(**kwargs):
             dialogue.append(d.text)
 
     dialogue = " ".join(dialogue)
-    print(
-        f"===== verses: {len(df.verse_id.unique())} -- tokens {count_tokens(dialogue)}"
-    )
+    print(f"===== verses: {len(df.verse_id.unique())} -- tokens {count_tokens(dialogue)}")
     return dialogue
 
 

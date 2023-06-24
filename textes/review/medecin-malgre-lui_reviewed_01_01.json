@@ -1,14 +1,27 @@
 [
     {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":1,
+        "tokens":21,
+        "char":"SGANARELLE",
+        "text":"Non, je te dis que je refuse de le faire et que c'est à moi de décider et d'être le chef.",
+        "selected":1
+    },
+    {
         "experiment":"mml06",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":0,
         "verse_id":1,
+        "tokens":21,
         "char":"SGANARELLE",
         "text":"Non, je ne veux pas faire ce que tu me demandes. C'est à moi de décider et d'être le chef ici.",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -17,8 +30,21 @@
         "version":"modern",
         "chunk":0,
         "verse_id":1,
+        "tokens":23,
         "char":"SGANARELLE",
         "text":"Non, je te dis que je ne veux rien faire de cela, et que c'est à moi de parler et d'être le chef.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":1,
+        "tokens":23,
+        "char":"SGANARELLE",
+        "text":"Non, je te dis que je ne veux rien faire de ça, et que c'est à moi de décider et d'être le chef.",
         "selected":0
     },
     {
@@ -28,6 +54,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":1,
+        "tokens":21,
         "char":"SGANARELLE",
         "text":"NON, je te dis que je n'en veux rien faire, et que c'est à moi de parler et d'être le maître.",
         "selected":0
@@ -39,42 +66,58 @@
         "version":"modern",
         "chunk":0,
         "verse_id":2,
+        "tokens":24,
         "char":"MARTINE",
         "text":"Mais moi, je veux que tu fasses ce que je te dis. Je ne me suis pas mariée avec toi pour supporter tes bêtises.",
         "selected":1
     },
     {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":2,
+        "tokens":27,
+        "char":"MARTINE",
+        "text":"Et je te dis que je veux que tu vives selon mes envies et que je ne me suis pas mariée avec toi pour supporter tes bêtises.",
+        "selected":0
+    },
+    {
         "experiment":"mml07",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":0,
         "verse_id":2,
+        "tokens":28,
         "char":"MARTINE",
         "text":"Et je te dis, moi, que je veux que tu vives selon mes envies, et que je ne me suis pas mariée avec toi pour supporter tes bêtises.",
         "selected":0
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml08",
         "acte":1,
         "scene":1,
-        "version":"original",
+        "version":"modern",
         "chunk":0,
         "verse_id":2,
+        "tokens":28,
         "char":"MARTINE",
-        "text":"Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines.",
+        "text":"Et moi je te dis que je veux que tu vives selon mes envies, et que je ne me suis pas mariée avec toi pour supporter tes bêtises.",
         "selected":0
     },
     {
         "experiment":"mml06",
         "acte":1,
         "scene":1,
-        "version":"modern",
+        "version":"original",
         "chunk":0,
-        "verse_id":3,
-        "char":"SGANARELLE",
-        "text":"Ah, quelle corvée d'avoir une femme! Aristote avait raison quand il disait qu'une femme est pire qu'un démon!",
-        "selected":1
+        "verse_id":2,
+        "tokens":28,
+        "char":"MARTINE",
+        "text":"Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines.",
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -83,8 +126,33 @@
         "version":"modern",
         "chunk":0,
         "verse_id":3,
+        "tokens":21,
         "char":"SGANARELLE",
         "text":"Quelle corvée d'avoir une femme ! Et Aristote a bien raison quand il dit qu'une femme est pire qu'un démon !",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":3,
+        "tokens":18,
+        "char":"SGANARELLE",
+        "text":"Ah, quelle corvée d'avoir une femme! Aristote avait raison quand il disait qu'une femme est pire qu'un démon!",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":3,
+        "tokens":21,
+        "char":"SGANARELLE",
+        "text":"Quel calvaire d'avoir une femme ! Et Aristote a bien raison quand il dit qu'une femme est pire qu'un démon !",
         "selected":0
     },
     {
@@ -94,6 +162,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":3,
+        "tokens":22,
         "char":"SGANARELLE",
         "text":"O la grande fatigue que d'avoir une femme! et qu'Aristote a bien raison quand il dit qu'une femme est pire qu'un démon!",
         "selected":0
@@ -105,8 +174,33 @@
         "version":"modern",
         "chunk":0,
         "verse_id":4,
+        "tokens":13,
         "char":"MARTINE",
         "text":"Regardez cet homme intelligent, qui croit tout savoir grâce à son cher Aristote!",
+        "selected":1
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":4,
+        "tokens":9,
+        "char":"MARTINE",
+        "text":"Regardez cet homme intelligent, avec son stupide Aristote !",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":4,
+        "tokens":9,
+        "char":"MARTINE",
+        "text":"Regardez cet homme intelligent avec son stupide Aristote !",
         "selected":0
     },
     {
@@ -116,30 +210,57 @@
         "version":"modern",
         "chunk":0,
         "verse_id":4,
+        "tokens":11,
         "char":"MARTINE",
         "text":"Regarde un peu cet homme intelligent, avec son stupide Aristote !",
         "selected":0
     },
     {
-        "experiment":"mml_manual",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":4,
-        "char":"MARTINE",
-        "text":"Regardez un peu cet homme intelligent, avec son stupide Aristote !",
-        "selected":1
-    },
-    {
         "experiment":"mml06",
         "acte":1,
         "scene":1,
         "version":"original",
         "chunk":0,
         "verse_id":4,
+        "tokens":9,
         "char":"MARTINE",
         "text":"Voyez un peu l'habile homme, avec son benêt d'Aristote!",
+        "selected":0
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":5,
+        "tokens":36,
+        "char":"SGANARELLE",
+        "text":"Oui, je suis intelligent. Trouve-moi un bûcheron qui sait réfléchir comme moi, qui a travaillé six ans pour un célèbre médecin et qui a appris par cœur les bases de son métier dès son jeune âge.",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":5,
+        "tokens":33,
+        "char":"SGANARELLE",
+        "text":"Oui, un homme intelligent. Trouve-moi un bûcheron qui sache raisonner comme moi, qui ait travaillé six ans pour un célèbre médecin et qui ait appris par cœur les bases dès son jeune âge.",
+        "selected":0
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":5,
+        "tokens":33,
+        "char":"SGANARELLE",
+        "text":"Oui, je suis intelligent. Trouve-moi un bûcheron qui sache réflechir comme moi, qui ait travaillé six ans pour un célèbre médecin et qui ait appris par cœur les bases dès son jeune âge.",
         "selected":0
     },
     {
@@ -149,8 +270,33 @@
         "version":"modern",
         "chunk":0,
         "verse_id":5,
+        "tokens":34,
         "char":"SGANARELLE",
         "text":"Oui, je suis intelligent. Trouvez-moi un bûcheron qui puisse raisonner comme moi, qui ait travaillé six ans pour un célèbre médecin et qui ait appris les bases par cœur dès son plus jeune âge.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":5,
+        "tokens":36,
+        "char":"SGANARELLE",
+        "text":"Oui, un homme intelligent. Trouve-moi un bûcheron qui sache raisonner comme moi, qui ait travaillé six ans pour un célèbre médecin, et qui ait appris par cœur les bases de son métier dès son jeune âge.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":5,
+        "tokens":38,
+        "char":"SGANARELLE",
+        "text":"Oui, trouve-moi quelqu'un qui sache faire des fagots et qui ait les mêmes compétences que moi pour raisonner, quelqu'un qui ait travaillé six ans avec un célèbre médecin et qui ait appris les bases dès son jeune âge.",
         "selected":0
     },
     {
@@ -160,20 +306,10 @@
         "version":"modern",
         "chunk":0,
         "verse_id":5,
+        "tokens":39,
         "char":"SGANARELLE",
         "text":"Oui, un homme intelligent. Trouve-moi un bûcheron qui sache, comme moi, réfléchir sur les choses, qui ait travaillé six ans pour un célèbre médecin, et qui ait appris par cœur les bases de son métier dès son jeune âge.",
         "selected":0
-    },
-    {
-        "experiment":"mml_manual",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":5,
-        "char":"SGANARELLE",
-        "text":"Oui, je suis intelligent. Trouve-moi un bûcheron qui puisse raisonner comme moi, qui a travaillé six ans pour un célèbre médecin et qui a appris les bases de son métier par cœur dès son plus jeune âge.",
-        "selected":1
     },
     {
         "experiment":"mml06",
@@ -182,6 +318,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":5,
+        "tokens":35,
         "char":"SGANARELLE",
         "text":"Oui, habile homme. Trouve-moi un faiseur de fagots qui sache, comme moi, raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par coeur.",
         "selected":0
@@ -193,20 +330,10 @@
         "version":"modern",
         "chunk":0,
         "verse_id":6,
+        "tokens":2,
         "char":"MARTINE",
         "text":"Quel fou!",
         "selected":1
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":6,
-        "char":"MARTINE",
-        "text":"Tu es vraiment un fou!",
-        "selected":0
     },
     {
         "experiment":"mml07",
@@ -215,19 +342,57 @@
         "version":"modern",
         "chunk":0,
         "verse_id":6,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Quel idiot fin !",
         "selected":0
     },
     {
-        "experiment":"mml_manual",
+        "experiment":"mml08",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":0,
         "verse_id":6,
+        "tokens":4,
         "char":"MARTINE",
-        "text":"Quel con!",
+        "text":"Quel fou incorrigible !",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":6,
+        "tokens":4,
+        "char":"MARTINE",
+        "text":"Quel fichu fou !",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":6,
+        "tokens":5,
+        "char":"MARTINE",
+        "text":"Tu es vraiment un fou!",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":6,
+        "tokens":5,
+        "char":"MARTINE",
+        "text":"Quel idiot tu fais !",
         "selected":0
     },
     {
@@ -237,9 +402,22 @@
         "version":"original",
         "chunk":0,
         "verse_id":6,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Peste du fou fieffé!",
         "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":7,
+        "tokens":3,
+        "char":"SGANARELLE",
+        "text":"Quelle garce !",
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -248,6 +426,7 @@
         "version":"modern",
         "chunk":0,
         "verse_id":7,
+        "tokens":2,
         "char":"SGANARELLE",
         "text":"Quelle peste!",
         "selected":0
@@ -259,31 +438,46 @@
         "version":"modern",
         "chunk":1,
         "verse_id":7,
+        "tokens":4,
         "char":"SGANARELLE",
         "text":"Tu es une carogne!",
         "selected":0
     },
     {
-        "experiment":"mml07",
+        "experiment":"mml09",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":0,
         "verse_id":7,
+        "tokens":4,
         "char":"SGANARELLE",
-        "text":"Quelle garce !",
+        "text":"Quelle fichue garce !",
         "selected":0
     },
     {
-        "experiment":"mml_manual",
+        "experiment":"mml08",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":0,
         "verse_id":7,
+        "tokens":5,
         "char":"SGANARELLE",
-        "text":"Quelle mégère!",
-        "selected":1
+        "text":"Quelle peste de femme !",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":7,
+        "tokens":5,
+        "char":"SGANARELLE",
+        "text":"Quelle idiote tu es !",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -292,53 +486,58 @@
         "version":"original",
         "chunk":0,
         "verse_id":7,
+        "tokens":4,
         "char":"SGANARELLE",
         "text":"Peste de la carogne!",
         "selected":0
     },
     {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":8,
-        "char":"MARTINE",
-        "text":"Je regrette le jour où j'ai accepté de t'épouser!",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":8,
-        "char":"MARTINE",
-        "text":"Je regrette le jour où j'ai accepté de t'épouser!",
-        "selected":0
-    },
-    {
         "experiment":"mml07",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":0,
         "verse_id":8,
+        "tokens":14,
         "char":"MARTINE",
         "text":"Que maudite soit l'heure et le jour où j'ai accepté de dire oui !",
-        "selected":0
+        "selected":1
     },
     {
-        "experiment":"mml_manual",
+        "experiment":"mml06",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":0,
         "verse_id":8,
+        "tokens":9,
         "char":"MARTINE",
-        "text":"Maudit soit le jour où j'ai accepté de t'épouser",
-        "selected":1
+        "text":"Je regrette le jour où j'ai accepté de t'épouser!",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":8,
+        "tokens":11,
+        "char":"MARTINE",
+        "text":"Que maudite soit l'heure et le jour où j'ai accepté !",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":8,
+        "tokens":14,
+        "char":"MARTINE",
+        "text":"Que maudite soit l'heure et le jour où j'ai décidé de dire oui !",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -347,20 +546,22 @@
         "version":"original",
         "chunk":0,
         "verse_id":8,
+        "tokens":13,
         "char":"MARTINE",
         "text":"Que maudit soit l'heure et le jour où je m'avisai d'aller dire oui!",
         "selected":0
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml09",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":0,
+        "chunk":2,
         "verse_id":9,
+        "tokens":13,
         "char":"SGANARELLE",
-        "text":"Je maudis le notaire qui m'a fait signer ce contrat de mariage!",
-        "selected":0
+        "text":"Que maudit soit le foutu notaire qui m'a fait signer ma ruine !",
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -369,8 +570,45 @@
         "version":"modern",
         "chunk":1,
         "verse_id":9,
+        "tokens":11,
         "char":"SGANARELLE",
         "text":"Je regrette d'avoir signé ce contrat de mariage qui m'a ruiné!",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":9,
+        "tokens":12,
+        "char":"SGANARELLE",
+        "text":"Je maudis le notaire qui m'a fait signer ce contrat de mariage!",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":9,
+        "tokens":12,
+        "char":"SGANARELLE",
+        "text":"Que maudit soit le notaire qui m'a fait signer ma ruine !",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":9,
+        "tokens":13,
+        "char":"SGANARELLE",
+        "text":"Que maudit soit le notaire cornu qui m'a fait signer ma ruine !",
         "selected":0
     },
     {
@@ -380,31 +618,10 @@
         "version":"modern",
         "chunk":0,
         "verse_id":9,
+        "tokens":14,
         "char":"SGANARELLE",
         "text":"Que maudit soit le notaire aux cornes qui m'a fait signer ma ruine !",
         "selected":0
-    },
-    {
-        "experiment":"mml_manual",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":9,
-        "char":"SGANARELLE",
-        "text":"Maudit soit le notaire",
-        "selected":0
-    },
-    {
-        "experiment":"mml_manual",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":9,
-        "char":"SGANARELLE",
-        "text":"Maudit soit le notaire qui m'a fait signer ce mariage ruineux!",
-        "selected":1
     },
     {
         "experiment":"mml06",
@@ -413,6 +630,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":9,
+        "tokens":14,
         "char":"SGANARELLE",
         "text":"Que maudit soit le bec cornu de notaire qui me fit signer ma ruine!",
         "selected":0
@@ -422,22 +640,24 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":0,
+        "chunk":1,
         "verse_id":10,
+        "tokens":9,
         "char":"MARTINE",
-        "text":"Tu devrais être reconnaissant d'avoir une femme comme moi. Tu ne méritais pas de m'épouser!",
-        "selected":1
+        "text":"Tu devrais être reconnaissant d'avoir une femme comme moi!",
+        "selected":0
     },
     {
         "experiment":"mml06",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":1,
+        "chunk":0,
         "verse_id":10,
+        "tokens":15,
         "char":"MARTINE",
-        "text":"Tu devrais être reconnaissant d'avoir une femme comme moi!",
-        "selected":0
+        "text":"Tu devrais être reconnaissant d'avoir une femme comme moi. Tu ne méritais pas de m'épouser!",
+        "selected":1
     },
     {
         "experiment":"mml07",
@@ -446,8 +666,33 @@
         "version":"modern",
         "chunk":0,
         "verse_id":10,
+        "tokens":30,
         "char":"MARTINE",
         "text":"C'est bien à toi de te plaindre de cette situation ! Ne devrais-tu pas être reconnaissant à Dieu de m'avoir comme femme ? Et mérites-tu d'épouser quelqu'un comme moi ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":10,
+        "tokens":30,
+        "char":"MARTINE",
+        "text":"C'est bien à toi de te plaindre de cette situation ! Ne devrais-tu pas être reconnaissant d'avoir une femme comme moi ? Ne mérites-tu pas d'épouser quelqu'un comme moi ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":10,
+        "tokens":30,
+        "char":"MARTINE",
+        "text":"C'est vraiment à toi de te plaindre de cette affaire ! Ne devrais-tu pas être reconnaissant au Ciel de m'avoir comme femme ? Et mérites-tu d'épouser quelqu'un comme moi ?",
         "selected":0
     },
     {
@@ -457,8 +702,21 @@
         "version":"modern",
         "chunk":1,
         "verse_id":10,
+        "tokens":34,
         "char":"MARTINE",
         "text":"Franchement, tu n'as aucune raison de te plaindre de cette situation ! Devrais-tu ne serait-ce qu'un instant cesser de remercier le Ciel de m'avoir comme épouse ? Et mérites-tu d'épouser quelqu'un comme moi ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":10,
+        "tokens":34,
+        "char":"MARTINE",
+        "text":"Franchement, tu n'as aucune raison de te plaindre de cette situation ! Devrais-tu ne serait-ce qu'un instant cesser de remercier le Ciel de t'avoir comme épouse ? Et mérites-tu d'épouser quelqu'un comme moi ?",
         "selected":0
     },
     {
@@ -468,6 +726,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":10,
+        "tokens":33,
         "char":"MARTINE",
         "text":"C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme? et méritois-tu d'épouser une personne comme moi?",
         "selected":0
@@ -479,6 +738,7 @@
         "version":"modern",
         "chunk":1,
         "verse_id":11,
+        "tokens":17,
         "char":"SGANARELLE",
         "text":"C'est vrai que tu m'as fait beaucoup d'honneur en m'épousant, mais je ne veux pas en parler.",
         "selected":0
@@ -490,8 +750,21 @@
         "version":"modern",
         "chunk":2,
         "verse_id":11,
+        "tokens":25,
         "char":"SGANARELLE",
         "text":"Tu sais, la première nuit de nos noces, j'étais très flatté de ton attention envers moi. Mais bon, oublions ça. Je pourrais dire certaines choses...",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":11,
+        "tokens":38,
+        "char":"SGANARELLE",
+        "text":"C'est vrai que tu m'as fait beaucoup d'honneur et que j'ai eu raison de me vanter de notre première nuit de noces. Hé ! bon sang ! ne me fais pas parler de ça, je dirais des choses...",
         "selected":0
     },
     {
@@ -501,9 +774,22 @@
         "version":"modern",
         "chunk":0,
         "verse_id":11,
+        "tokens":39,
         "char":"SGANARELLE",
         "text":"Il est vrai que tu m'as fait beaucoup d'honneur et que j'ai eu de quoi me vanter la première nuit de nos noces. Hé ! bon sang ! ne me fais pas parler de ça, je dirais certaines choses...",
         "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":11,
+        "tokens":39,
+        "char":"SGANARELLE",
+        "text":"Il est vrai que tu m'as fait beaucoup d'honneur et que j'ai eu de quoi me vanter la première nuit de nos noces. Hé bien, bon sang ! Ne me fais pas parler de ça, je dirais certaines choses...",
+        "selected":1
     },
     {
         "experiment":"mml07",
@@ -512,9 +798,22 @@
         "version":"modern",
         "chunk":1,
         "verse_id":11,
+        "tokens":41,
         "char":"SGANARELLE",
         "text":"Il est vrai que tu m'as fait beaucoup d'honneur et que j'ai eu de quoi me vanter lors de notre première nuit de mariage. Hé ! bon sang ! ne me fais pas parler de ça, je pourrais dire certaines choses...",
-        "selected":1
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":11,
+        "tokens":41,
+        "char":"SGANARELLE",
+        "text":"Il est vrai que tu m'as fait beaucoup d'honneur et que j'ai eu de quoi me vanter lors de notre première nuit de mariage. Hé ! Bon sang ! Ne me fais pas parler de ça, je pourrais dire certaines choses...",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -523,9 +822,22 @@
         "version":"original",
         "chunk":1,
         "verse_id":11,
+        "tokens":35,
         "char":"SGANARELLE",
         "text":"Il est vrai que tu me fis trop d'honneur et que j'eus lieu de me louer la première nuit de nos noces. Hé! morbleu! ne me fais point parler là-dessus, je dirois de certaines choses...",
         "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":12,
+        "tokens":5,
+        "char":"MARTINE",
+        "text":"Quoi ? Que dirais-tu ?",
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -534,6 +846,7 @@
         "version":"modern",
         "chunk":1,
         "verse_id":12,
+        "tokens":1,
         "char":"MARTINE",
         "text":"Pourquoi?",
         "selected":0
@@ -545,6 +858,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":12,
+        "tokens":2,
         "char":"MARTINE",
         "text":"Quoi donc?",
         "selected":0
@@ -554,19 +868,9 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":0,
-        "verse_id":12,
-        "char":"MARTINE",
-        "text":"Quoi ? Que dirais-tu ?",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
         "chunk":1,
         "verse_id":12,
+        "tokens":6,
         "char":"MARTINE",
         "text":"Quoi ? Que pourrais-tu dire ?",
         "selected":0
@@ -578,6 +882,7 @@
         "version":"original",
         "chunk":1,
         "verse_id":12,
+        "tokens":3,
         "char":"MARTINE",
         "text":"Quoi? que dirois-tu?",
         "selected":0
@@ -589,9 +894,10 @@
         "version":"modern",
         "chunk":1,
         "verse_id":13,
+        "tokens":16,
         "char":"SGANARELLE",
         "text":"Laissons ça de côté. Ce qui compte, c'est que tu as de la chance de m'avoir.",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -600,6 +906,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":13,
+        "tokens":19,
         "char":"SGANARELLE",
         "text":"Peu importe. L'important c'est que nous savons tous les deux que tu as eu de la chance de m'avoir.",
         "selected":0
@@ -611,8 +918,21 @@
         "version":"modern",
         "chunk":0,
         "verse_id":13,
+        "tokens":24,
         "char":"SGANARELLE",
         "text":"Laisse tomber ce sujet ; il suffit que nous savons ce que nous savons, et que tu as été bien chanceuse de me trouver.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":13,
+        "tokens":24,
+        "char":"SGANARELLE",
+        "text":"Bon, oublions ce sujet. L'important est que nous savons ce que nous savons, et que tu as eu de la chance de me trouver.",
         "selected":0
     },
     {
@@ -622,8 +942,33 @@
         "version":"modern",
         "chunk":1,
         "verse_id":13,
+        "tokens":26,
         "char":"SGANARELLE",
         "text":"Bon, laissons ce sujet de côté ; il suffit que nous sachions ce que nous savons, et que tu as été bien chanceuse de me trouver.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":13,
+        "tokens":26,
+        "char":"SGANARELLE",
+        "text":"Laisse tomber ce sujet ; le plus important est que nous savons ce que nous savons, et que tu as été bien chanceuse de me trouver.",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":13,
+        "tokens":30,
+        "char":"SGANARELLE",
+        "text":"Peu importe ! laissons ce sujet de côté ; le principal est que nous savons ce que nous savons, et que tu as eu de la chance de me trouver.",
         "selected":0
     },
     {
@@ -633,6 +978,7 @@
         "version":"original",
         "chunk":1,
         "verse_id":13,
+        "tokens":23,
         "char":"SGANARELLE",
         "text":"Baste! laissons là ce chapitre; il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver.",
         "selected":0
@@ -644,6 +990,7 @@
         "version":"modern",
         "chunk":1,
         "verse_id":14,
+        "tokens":20,
         "char":"MARTINE",
         "text":"De la chance? Tu me mènes à la ruine, tu es un débauché et un traître qui me vole tout!",
         "selected":0
@@ -655,19 +1002,9 @@
         "version":"modern",
         "chunk":2,
         "verse_id":14,
+        "tokens":26,
         "char":"MARTINE",
         "text":"Comment peux-tu dire que j'ai eu de la chance de t'avoir? Tu m'as ruinée, tu es un ivrogne, un menteur, tu manges tout ce que j'ai...",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":14,
-        "char":"MARTINE",
-        "text":"Comment peux-tu dire que j'ai été chanceuse de te trouver ? Un homme qui me mène à la ruine, un débauché, un traître qui me prend tout ce que j'ai...",
         "selected":0
     },
     {
@@ -677,20 +1014,46 @@
         "version":"modern",
         "chunk":1,
         "verse_id":14,
+        "tokens":27,
         "char":"MARTINE",
         "text":"Comment ça, bien chanceuse de te trouver ? Un homme qui me mène à la ruine, un débauché, un traître qui me mange tout ce que j'ai...",
         "selected":0
     },
     {
-        "experiment":"mml_manual",
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":14,
+        "tokens":28,
+        "char":"MARTINE",
+        "text":"Qu'entends-tu par \"avoir de la chance de me trouver\" ? Un homme qui me met à l'hôpital, un débauché, un traître qui me mange tout ce que j'ai...",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":0,
         "verse_id":14,
+        "tokens":30,
         "char":"MARTINE",
-        "text":"Comment peux-tu dire que j'ai eu de la chance de te trouver ? Tu m'as ruinée, tu es un ivrogne, un menteur qui manges tout ce que j'ai...",
+        "text":"Comment peux-tu dire que j'ai été chanceuse de te trouver ? Un homme qui me mène à la ruine, un débauché, un traître qui me prend tout ce que j'ai...",
         "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":14,
+        "tokens":31,
+        "char":"MARTINE",
+        "text":"Comment peux-tu dire que j'ai eu de la chance de te trouver ? Un homme qui me met à l'hôpital, un débauché, un traître qui me prend tout ce que j'ai...",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -699,30 +1062,9 @@
         "version":"original",
         "chunk":1,
         "verse_id":14,
+        "tokens":24,
         "char":"MARTINE",
         "text":"Qu'appelles-tu bien heureuse de te trouver? Un homme qui me réduit à l'hôpital, un débauché, un traître qui me mange tout ce que j'ai...",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":15,
-        "char":"SGANARELLE",
-        "text":"Tu mens, je ne te vole qu'une partie de ce que tu as.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":2,
-        "verse_id":15,
-        "char":"SGANARELLE",
-        "text":"Tu mens, j'en bois seulement une partie.",
         "selected":0
     },
     {
@@ -732,6 +1074,7 @@
         "version":"modern",
         "chunk":0,
         "verse_id":15,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"Tu mens, j'en bois une partie.",
         "selected":1
@@ -740,9 +1083,34 @@
         "experiment":"mml06",
         "acte":1,
         "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":15,
+        "tokens":7,
+        "char":"SGANARELLE",
+        "text":"Tu mens, j'en bois seulement une partie.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":15,
+        "tokens":13,
+        "char":"SGANARELLE",
+        "text":"Tu mens, je ne te vole qu'une partie de ce que tu as.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
         "version":"original",
         "chunk":1,
         "verse_id":15,
+        "tokens":7,
         "char":"SGANARELLE",
         "text":"Tu as menti, j'en bois une partie.",
         "selected":0
@@ -754,9 +1122,10 @@
         "version":"modern",
         "chunk":2,
         "verse_id":16,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Tu vends tout ce qui se trouve dans la maison...",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -765,6 +1134,7 @@
         "version":"modern",
         "chunk":3,
         "verse_id":16,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Qui vend tout ce qui est dans la maison petit à petit...",
         "selected":0
@@ -776,8 +1146,21 @@
         "version":"modern",
         "chunk":0,
         "verse_id":16,
+        "tokens":13,
         "char":"MARTINE",
         "text":"Qui vend petit à petit tout ce qui se trouve dans la maison...",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":16,
+        "tokens":13,
+        "char":"MARTINE",
+        "text":"Qui vend morceau par morceau tout ce qui se trouve dans la maison...",
         "selected":0
     },
     {
@@ -787,30 +1170,21 @@
         "version":"original",
         "chunk":2,
         "verse_id":16,
+        "tokens":13,
         "char":"MARTINE",
         "text":"Qui me vend pièce à pièce tout ce qui est dans le logis...",
         "selected":0
     },
     {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":2,
-        "verse_id":17,
-        "char":"SGANARELLE",
-        "text":"C'est ce qu'on appelle vivre modestement.",
-        "selected":1
-    },
-    {
-        "experiment":"mml06",
+        "experiment":"mml09",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":3,
         "verse_id":17,
+        "tokens":4,
         "char":"SGANARELLE",
-        "text":"C'est une façon de vivre ensemble.",
+        "text":"C'est vivre en couple.",
         "selected":0
     },
     {
@@ -820,8 +1194,33 @@
         "version":"modern",
         "chunk":0,
         "verse_id":17,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"C'est la vie de couple.",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":17,
+        "tokens":6,
+        "char":"SGANARELLE",
+        "text":"C'est ce qu'on appelle vivre modestement.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":17,
+        "tokens":6,
+        "char":"SGANARELLE",
+        "text":"C'est une façon de vivre ensemble.",
         "selected":0
     },
     {
@@ -831,6 +1230,7 @@
         "version":"modern",
         "chunk":1,
         "verse_id":17,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"C'est vivre en faisant des économies.",
         "selected":0
@@ -842,6 +1242,7 @@
         "version":"original",
         "chunk":2,
         "verse_id":17,
+        "tokens":4,
         "char":"SGANARELLE",
         "text":"C'est vivre de ménage.",
         "selected":0
@@ -853,9 +1254,10 @@
         "version":"modern",
         "chunk":2,
         "verse_id":18,
+        "tokens":6,
         "char":"MARTINE",
         "text":"Tu as même pris mon lit...",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -864,9 +1266,10 @@
         "version":"modern",
         "chunk":3,
         "verse_id":18,
+        "tokens":6,
         "char":"MARTINE",
         "text":"Qui m'a même pris mon lit...",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml07",
@@ -875,8 +1278,21 @@
         "version":"modern",
         "chunk":0,
         "verse_id":18,
+        "tokens":8,
         "char":"MARTINE",
         "text":"Qui m'a même enlevé le lit que j'avais...",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":18,
+        "tokens":8,
+        "char":"MARTINE",
+        "text":"Qui m'a enlevé même le lit que j'avais...",
         "selected":0
     },
     {
@@ -886,6 +1302,7 @@
         "version":"original",
         "chunk":2,
         "verse_id":18,
+        "tokens":7,
         "char":"MARTINE",
         "text":"Qui m'a ôté jusqu'au lit que j'avois...",
         "selected":0
@@ -897,6 +1314,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":19,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"Tu te lèveras plus tard.",
         "selected":0
@@ -908,6 +1326,7 @@
         "version":"modern",
         "chunk":3,
         "verse_id":19,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"Tu ne te lèveras plus tôt.",
         "selected":0
@@ -917,33 +1336,12 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":1,
-        "verse_id":19,
-        "char":"SGANARELLE",
-        "text":"Tu te lèveras plus tard.",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
         "chunk":2,
         "verse_id":19,
+        "tokens":8,
         "char":"SGANARELLE",
         "text":"Tu ne te lèveras plus tôt le matin.",
         "selected":0
-    },
-    {
-        "experiment":"mml_manual",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":19,
-        "char":"SGANARELLE",
-        "text":"Tu te lèveras plus tôt.",
-        "selected":1
     },
     {
         "experiment":"mml06",
@@ -952,6 +1350,7 @@
         "version":"original",
         "chunk":2,
         "verse_id":19,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"Tu t'en lèveras plus matin.",
         "selected":0
@@ -961,10 +1360,11 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":2,
+        "chunk":3,
         "verse_id":20,
+        "tokens":9,
         "char":"MARTINE",
-        "text":"Et tu as vendu tous les meubles de la maison...",
+        "text":"Et qui ne laisse aucun meuble dans la maison...",
         "selected":1
     },
     {
@@ -972,10 +1372,11 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":3,
+        "chunk":2,
         "verse_id":20,
+        "tokens":10,
         "char":"MARTINE",
-        "text":"Et qui ne laisse aucun meuble dans la maison...",
+        "text":"Et tu as vendu tous les meubles de la maison...",
         "selected":0
     },
     {
@@ -985,6 +1386,7 @@
         "version":"modern",
         "chunk":1,
         "verse_id":20,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Enfin, qui ne laisse aucun meuble dans toute la maison...",
         "selected":0
@@ -996,6 +1398,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":20,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Enfin, tu ne laisses aucun meuble dans toute la maison...",
         "selected":0
@@ -1007,8 +1410,21 @@
         "version":"original",
         "chunk":2,
         "verse_id":20,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Enfin, qui ne laisse aucun meuble dans toute la maison...",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":21,
+        "tokens":4,
+        "char":"SGANARELLE",
+        "text":"On déménage plus facilement.",
         "selected":0
     },
     {
@@ -1018,6 +1434,7 @@
         "version":"modern",
         "chunk":3,
         "verse_id":21,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"C'est plus facile pour déménager.",
         "selected":1
@@ -1029,19 +1446,9 @@
         "version":"modern",
         "chunk":4,
         "verse_id":21,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"On peut déménager plus facilement.",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":21,
-        "char":"SGANARELLE",
-        "text":"On déménage plus facilement.",
         "selected":0
     },
     {
@@ -1051,6 +1458,7 @@
         "version":"original",
         "chunk":3,
         "verse_id":21,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"On en déménage plus aisément.",
         "selected":0
@@ -1062,6 +1470,7 @@
         "version":"modern",
         "chunk":3,
         "verse_id":22,
+        "tokens":9,
         "char":"MARTINE",
         "text":"Et qui passe son temps à jouer et boire...",
         "selected":1
@@ -1073,6 +1482,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":22,
+        "tokens":9,
         "char":"MARTINE",
         "text":"Tu passes tes journées à jouer et à boire.",
         "selected":0
@@ -1084,8 +1494,21 @@
         "version":"modern",
         "chunk":1,
         "verse_id":22,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Et qui, du matin au soir, ne fait que jouer et boire.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":22,
+        "tokens":12,
+        "char":"MARTINE",
+        "text":"Et qui, du matin jusqu'au soir, ne fait que jouer et boire.",
         "selected":0
     },
     {
@@ -1095,8 +1518,21 @@
         "version":"modern",
         "chunk":2,
         "verse_id":22,
+        "tokens":14,
         "char":"MARTINE",
         "text":"Et tu passes ton temps à jouer et à boire du matin au soir.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":22,
+        "tokens":14,
+        "char":"MARTINE",
+        "text":"Et qui passe son temps à jouer et à boire du matin au soir.",
         "selected":0
     },
     {
@@ -1106,6 +1542,7 @@
         "version":"original",
         "chunk":3,
         "verse_id":22,
+        "tokens":13,
         "char":"MARTINE",
         "text":"Et qui, du matin jusqu'au soir, ne fait que jouer et que boire.",
         "selected":0
@@ -1117,9 +1554,10 @@
         "version":"modern",
         "chunk":3,
         "verse_id":23,
+        "tokens":4,
         "char":"SGANARELLE",
         "text":"Pour ne pas m'ennuyer.",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -1128,17 +1566,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":23,
-        "char":"SGANARELLE",
-        "text":"C'est pour ne pas m'ennuyer.",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":23,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"C'est pour ne pas m'ennuyer.",
         "selected":0
@@ -1150,6 +1578,7 @@
         "version":"original",
         "chunk":3,
         "verse_id":23,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"C'est pour ne me point ennuyer.",
         "selected":0
@@ -1161,6 +1590,7 @@
         "version":"modern",
         "chunk":3,
         "verse_id":24,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Et que dois-je faire avec ma famille pendant ce temps?",
         "selected":0
@@ -1172,19 +1602,9 @@
         "version":"modern",
         "chunk":4,
         "verse_id":24,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Et pendant ce temps, que dois-je faire avec ma famille?",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":24,
-        "char":"MARTINE",
-        "text":"Et que veux-tu que je fasse avec ma famille pendant ce temps ?",
         "selected":1
     },
     {
@@ -1194,8 +1614,21 @@
         "version":"modern",
         "chunk":2,
         "verse_id":24,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Et pendant ce temps, que veux-tu que je fasse avec ma famille?",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":24,
+        "tokens":13,
+        "char":"MARTINE",
+        "text":"Et que veux-tu que je fasse avec ma famille pendant ce temps ?",
         "selected":0
     },
     {
@@ -1205,8 +1638,21 @@
         "version":"original",
         "chunk":3,
         "verse_id":24,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Et que veux-tu, pendant ce temps, que je fasse avec ma famille?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":25,
+        "tokens":3,
+        "char":"SGANARELLE",
+        "text":"Comme tu veux.",
         "selected":0
     },
     {
@@ -1216,6 +1662,7 @@
         "version":"modern",
         "chunk":3,
         "verse_id":25,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"Tout ce que tu veux.",
         "selected":1
@@ -1224,20 +1671,10 @@
         "experiment":"mml06",
         "acte":1,
         "scene":1,
-        "version":"modern",
-        "chunk":4,
-        "verse_id":25,
-        "char":"SGANARELLE",
-        "text":"Tout ce que tu veux.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
         "version":"original",
         "chunk":3,
         "verse_id":25,
+        "tokens":5,
         "char":"SGANARELLE",
         "text":"Tout ce qu'il te plaira.",
         "selected":0
@@ -1247,10 +1684,23 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":4,
+        "chunk":5,
         "verse_id":26,
+        "tokens":6,
         "char":"MARTINE",
-        "text":"J'ai quatre petits enfants qui ont faim tout le temps.",
+        "text":"J'ai quatre petits enfants à charge.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":26,
+        "tokens":7,
+        "char":"MARTINE",
+        "text":"J'ai quatre petits enfants pauvres à charge.",
         "selected":0
     },
     {
@@ -1258,10 +1708,11 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":5,
+        "chunk":4,
         "verse_id":26,
+        "tokens":10,
         "char":"MARTINE",
-        "text":"J'ai quatre petits enfants à charge.",
+        "text":"J'ai quatre petits enfants qui ont faim tout le temps.",
         "selected":0
     },
     {
@@ -1271,6 +1722,7 @@
         "version":"original",
         "chunk":4,
         "verse_id":26,
+        "tokens":8,
         "char":"MARTINE",
         "text":"J'ai quatre pauvres petits enfants sur les bras.",
         "selected":1
@@ -1280,19 +1732,9 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":4,
-        "verse_id":27,
-        "char":"SGANARELLE",
-        "text":"Donne-leur une fessée. Quand j'ai bien mangé et bu, je veux que tout le monde soit heureux dans ma maison.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
         "chunk":5,
         "verse_id":27,
+        "tokens":3,
         "char":"SGANARELLE",
         "text":"Pose-les par terre.",
         "selected":1
@@ -1304,6 +1746,7 @@
         "version":"modern",
         "chunk":1,
         "verse_id":27,
+        "tokens":3,
         "char":"SGANARELLE",
         "text":"Mets-les par terre.",
         "selected":0
@@ -1315,8 +1758,21 @@
         "version":"modern",
         "chunk":2,
         "verse_id":27,
+        "tokens":3,
         "char":"SGANARELLE",
         "text":"Mets-les à terre.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":27,
+        "tokens":20,
+        "char":"SGANARELLE",
+        "text":"Donne-leur une fessée. Quand j'ai bien mangé et bu, je veux que tout le monde soit heureux dans ma maison.",
         "selected":0
     },
     {
@@ -1326,6 +1782,7 @@
         "version":"original",
         "chunk":4,
         "verse_id":27,
+        "tokens":3,
         "char":"SGANARELLE",
         "text":"Mets-les à terre.",
         "selected":0
@@ -1335,19 +1792,9 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":4,
-        "verse_id":28,
-        "char":"MARTINE",
-        "text":"Tu penses vraiment que les choses peuvent continuer comme ça, ivrogne?...",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
         "chunk":5,
         "verse_id":28,
+        "tokens":8,
         "char":"MARTINE",
         "text":"Ils me demandent du pain tout le temps.",
         "selected":1
@@ -1359,8 +1806,21 @@
         "version":"modern",
         "chunk":2,
         "verse_id":28,
+        "tokens":8,
         "char":"MARTINE",
         "text":"Ils me demandent du pain à toute heure.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":28,
+        "tokens":8,
+        "char":"MARTINE",
+        "text":"Ils me demandent du pain à tout moment.",
         "selected":0
     },
     {
@@ -1370,8 +1830,21 @@
         "version":"modern",
         "chunk":3,
         "verse_id":28,
+        "tokens":9,
         "char":"MARTINE",
         "text":"Ils me demandent du pain à n'importe quelle heure.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":28,
+        "tokens":11,
+        "char":"MARTINE",
+        "text":"Tu penses vraiment que les choses peuvent continuer comme ça, ivrogne?...",
         "selected":0
     },
     {
@@ -1381,6 +1854,7 @@
         "version":"original",
         "chunk":4,
         "verse_id":28,
+        "tokens":8,
         "char":"MARTINE",
         "text":"Qui me demandent à toute heure du pain.",
         "selected":0
@@ -1392,9 +1866,10 @@
         "version":"modern",
         "chunk":5,
         "verse_id":29,
+        "tokens":20,
         "char":"SGANARELLE",
         "text":"Donne-leur une fessée. Quand j'ai bien mangé et bu, je veux que tout le monde soit ivre dans ma maison.",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -1403,6 +1878,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":29,
+        "tokens":21,
         "char":"SGANARELLE",
         "text":"Donne-leur le fouet. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit ivre dans ma maison.",
         "selected":0
@@ -1414,8 +1890,33 @@
         "version":"modern",
         "chunk":3,
         "verse_id":29,
+        "tokens":21,
         "char":"SGANARELLE",
         "text":"Donne-leur une correction. Quand j'ai bien mangé et bien bu, je veux que tout le monde soit ivre dans ma maison.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":29,
+        "tokens":21,
+        "char":"SGANARELLE",
+        "text":"Donne-leur une fessée. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit ivre dans ma maison.",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":7,
+        "verse_id":29,
+        "tokens":21,
+        "char":"SGANARELLE",
+        "text":"Donne-leur une correction. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit ivre dans ma maison.",
         "selected":0
     },
     {
@@ -1425,19 +1926,21 @@
         "version":"original",
         "chunk":4,
         "verse_id":29,
+        "tokens":21,
         "char":"SGANARELLE",
         "text":"Donne-leur le fouet. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit saoul dans ma maison.",
         "selected":0
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml09",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":5,
+        "chunk":7,
         "verse_id":30,
+        "tokens":9,
         "char":"MARTINE",
-        "text":"Tu penses vraiment que les choses peuvent continuer comme ça, toi l'ivrogne?",
+        "text":"Et tu prétends, ivrogne, que les choses continuent ainsi?...",
         "selected":0
     },
     {
@@ -1447,8 +1950,21 @@
         "version":"modern",
         "chunk":2,
         "verse_id":30,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Et tu prétends, ivrogne, que les choses restent toujours ainsi?...",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":30,
+        "tokens":10,
+        "char":"MARTINE",
+        "text":"Et tu prétends, ivrogne, que les choses restent toujours ainsi?",
         "selected":0
     },
     {
@@ -1458,19 +1974,21 @@
         "version":"modern",
         "chunk":3,
         "verse_id":30,
+        "tokens":11,
         "char":"MARTINE",
         "text":"Et tu prétends, alcoolique, que les choses restent toujours les mêmes?...",
         "selected":0
     },
     {
-        "experiment":"mml_manual",
+        "experiment":"mml06",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":0,
+        "chunk":5,
         "verse_id":30,
+        "tokens":12,
         "char":"MARTINE",
-        "text":"Et tu prétends, ivrogne, que les choses vont continuer comme ça ?",
+        "text":"Tu penses vraiment que les choses peuvent continuer comme ça, toi l'ivrogne?",
         "selected":1
     },
     {
@@ -1480,6 +1998,7 @@
         "version":"original",
         "chunk":4,
         "verse_id":30,
+        "tokens":11,
         "char":"MARTINE",
         "text":"Et tu prétends, ivrogne, que les choses aillent toujours de même?...",
         "selected":0
@@ -1489,19 +2008,9 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":5,
-        "verse_id":31,
-        "char":"SGANARELLE",
-        "text":"Ma chère femme, calme-toi s'il te plaît.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
         "chunk":6,
         "verse_id":31,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"Doucement, ma chérie, ne t'énerve pas.",
         "selected":1
@@ -1513,8 +2022,21 @@
         "version":"modern",
         "chunk":2,
         "verse_id":31,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"Ma femme, calmons-nous, s'il te plaît.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":31,
+        "tokens":7,
+        "char":"SGANARELLE",
+        "text":"Ma chère femme, calme-toi s'il te plaît.",
         "selected":0
     },
     {
@@ -1524,8 +2046,33 @@
         "version":"original",
         "chunk":5,
         "verse_id":31,
+        "tokens":8,
         "char":"SGANARELLE",
         "text":"Ma femme, allons tout doucement, s'il vous plaît.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":32,
+        "tokens":9,
+        "char":"MARTINE",
+        "text":"Je dois supporter éternellement tes insolences et tes débauches?...",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":32,
+        "tokens":9,
+        "char":"MARTINE",
+        "text":"Je dois supporter éternellement tes insolences et tes débauches?",
         "selected":0
     },
     {
@@ -1535,8 +2082,21 @@
         "version":"modern",
         "chunk":5,
         "verse_id":32,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Je dois supporter tes insultes et tes excès pour toujours?",
+        "selected":1
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":32,
+        "tokens":11,
+        "char":"MARTINE",
+        "text":"Est-ce que je dois supporter éternellement tes insolences et tes débauches?...",
         "selected":0
     },
     {
@@ -1546,30 +2106,9 @@
         "version":"modern",
         "chunk":6,
         "verse_id":32,
+        "tokens":15,
         "char":"MARTINE",
         "text":"Tu crois que je vais supporter tes insultes et tes mauvaises actions pour toujours ?",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":2,
-        "verse_id":32,
-        "char":"MARTINE",
-        "text":"Je dois supporter éternellement tes insolences et tes débauches?...",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":3,
-        "verse_id":32,
-        "char":"MARTINE",
-        "text":"Est-ce que je dois supporter éternellement tes insolences et tes débauches?...",
         "selected":0
     },
     {
@@ -1579,6 +2118,7 @@
         "version":"original",
         "chunk":5,
         "verse_id":32,
+        "tokens":8,
         "char":"MARTINE",
         "text":"Que j'endure éternellement tes insolences et tes débauches?...",
         "selected":0
@@ -1588,21 +2128,23 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":5,
+        "chunk":6,
         "verse_id":33,
+        "tokens":3,
         "char":"SGANARELLE",
-        "text":"Ne t'emporte pas, ma femme.",
-        "selected":0
+        "text":"Calme-toi, ma femme.",
+        "selected":1
     },
     {
         "experiment":"mml06",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":6,
+        "chunk":5,
         "verse_id":33,
+        "tokens":5,
         "char":"SGANARELLE",
-        "text":"Calme-toi, ma femme.",
+        "text":"Ne t'emporte pas, ma femme.",
         "selected":0
     },
     {
@@ -1612,20 +2154,22 @@
         "version":"modern",
         "chunk":2,
         "verse_id":33,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"Ne nous emportons pas, ma femme.",
         "selected":0
     },
     {
-        "experiment":"mml_manual",
+        "experiment":"mml09",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":0,
+        "chunk":8,
         "verse_id":33,
+        "tokens":6,
         "char":"SGANARELLE",
-        "text":"Calme-toi, ma chérie.",
-        "selected":1
+        "text":"Ne nous énervons pas, ma femme.",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -1634,6 +2178,7 @@
         "version":"original",
         "chunk":5,
         "verse_id":33,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"Ne nous emportons point, ma femme.",
         "selected":0
@@ -1643,19 +2188,9 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":5,
-        "verse_id":34,
-        "char":"MARTINE",
-        "text":"Et je ne peux pas trouver un moyen de te faire agir correctement?",
-        "selected":1
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
         "chunk":6,
         "verse_id":34,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Et je ne sais pas comment te faire respecter tes devoirs ?",
         "selected":0
@@ -1665,10 +2200,71 @@
         "acte":1,
         "scene":1,
         "version":"modern",
+        "chunk":4,
+        "verse_id":34,
+        "tokens":12,
+        "char":"MARTINE",
+        "text":"Et je ne sais pas comment te convaincre de faire ton devoir?",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":34,
+        "tokens":13,
+        "char":"MARTINE",
+        "text":"Et je ne peux pas trouver un moyen de te faire agir correctement?",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
         "chunk":2,
         "verse_id":34,
+        "tokens":14,
+        "char":"MARTINE",
+        "text":"Et je ne peux pas trouver un moyen de te faire changer de comportement?",
+        "selected":1
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":34,
+        "tokens":15,
         "char":"MARTINE",
         "text":"Et je ne peux pas trouver un moyen de te faire revenir à tes devoirs?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":8,
+        "verse_id":34,
+        "tokens":15,
+        "char":"MARTINE",
+        "text":"Et je ne peux pas trouver un moyen de te faire respecter tes devoirs ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":7,
+        "verse_id":34,
+        "tokens":16,
+        "char":"MARTINE",
+        "text":"Et est-ce que je ne peux pas trouver un moyen de te faire respecter tes devoirs?",
         "selected":0
     },
     {
@@ -1678,19 +2274,9 @@
         "version":"modern",
         "chunk":3,
         "verse_id":34,
+        "tokens":17,
         "char":"MARTINE",
         "text":"Et est-ce que je ne peux pas trouver un moyen de te faire revenir à tes devoirs?",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":4,
-        "verse_id":34,
-        "char":"MARTINE",
-        "text":"Et je ne sais pas comment te convaincre de faire ton devoir?",
         "selected":0
     },
     {
@@ -1700,6 +2286,7 @@
         "version":"original",
         "chunk":5,
         "verse_id":34,
+        "tokens":15,
         "char":"MARTINE",
         "text":"Et que je ne sache pas trouver le moyen de te ranger à ton devoir?",
         "selected":0
@@ -1709,21 +2296,23 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":5,
+        "chunk":6,
         "verse_id":35,
+        "tokens":15,
         "char":"SGANARELLE",
-        "text":"Ma femme, tu sais que je ne suis pas patient et que je suis assez fort.",
-        "selected":0
+        "text":"Tu sais bien que je ne suis pas patient et que je suis assez fort.",
+        "selected":1
     },
     {
         "experiment":"mml06",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":6,
+        "chunk":5,
         "verse_id":35,
+        "tokens":16,
         "char":"SGANARELLE",
-        "text":"Tu sais bien que je ne suis pas patient et que je suis assez fort.",
+        "text":"Ma femme, tu sais que je ne suis pas patient et que je suis assez fort.",
         "selected":0
     },
     {
@@ -1733,20 +2322,10 @@
         "version":"modern",
         "chunk":3,
         "verse_id":35,
+        "tokens":16,
         "char":"SGANARELLE",
         "text":"Ma femme, tu sais que je ne suis pas patient, et que je suis assez fort.",
         "selected":0
-    },
-    {
-        "experiment":"mml_manual",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":35,
-        "char":"SGANARELLE",
-        "text":"Ma chérie, tu sais bien que je ne suis pas patient et que je suis assez fort.",
-        "selected":1
     },
     {
         "experiment":"mml06",
@@ -1755,6 +2334,7 @@
         "version":"original",
         "chunk":5,
         "verse_id":35,
+        "tokens":17,
         "char":"SGANARELLE",
         "text":"Ma femme, vous savez que je n'ai pas l'âme endurante, et que j'ai le bras assez bon.",
         "selected":0
@@ -1766,6 +2346,7 @@
         "version":"modern",
         "chunk":6,
         "verse_id":36,
+        "tokens":6,
         "char":"MARTINE",
         "text":"Je me moque de tes menaces.",
         "selected":0
@@ -1777,19 +2358,9 @@
         "version":"modern",
         "chunk":7,
         "verse_id":36,
+        "tokens":8,
         "char":"MARTINE",
         "text":"Je me fiche de ce que tu dis.",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":2,
-        "verse_id":36,
-        "char":"MARTINE",
-        "text":"Je me moque de tes menaces.",
         "selected":0
     },
     {
@@ -1799,6 +2370,7 @@
         "version":"original",
         "chunk":6,
         "verse_id":36,
+        "tokens":6,
         "char":"MARTINE",
         "text":"Je me moque de tes menaces.",
         "selected":1
@@ -1810,9 +2382,46 @@
         "version":"modern",
         "chunk":6,
         "verse_id":37,
+        "tokens":8,
         "char":"SGANARELLE",
         "text":"Mon amour, ta peau te démange, comme d'habitude.",
         "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":8,
+        "verse_id":37,
+        "tokens":8,
+        "char":"SGANARELLE",
+        "text":"Ma chérie, ta peau te démange, comme d'habitude.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":9,
+        "verse_id":37,
+        "tokens":8,
+        "char":"SGANARELLE",
+        "text":"Ma chérie, ta peau te gratte, comme d'habitude.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":37,
+        "tokens":9,
+        "char":"SGANARELLE",
+        "text":"Ma chérie, tu as toujours envie de te battre.",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -1821,6 +2430,7 @@
         "version":"modern",
         "chunk":7,
         "verse_id":37,
+        "tokens":10,
         "char":"SGANARELLE",
         "text":"Ma chérie, tu as l'habitude de te gratter la peau.",
         "selected":0
@@ -1832,19 +2442,9 @@
         "version":"modern",
         "chunk":3,
         "verse_id":37,
+        "tokens":11,
         "char":"SGANARELLE",
         "text":"Ma chère moitié, tu as envie de me voler quelque chose.",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":4,
-        "verse_id":37,
-        "char":"SGANARELLE",
-        "text":"Ma chérie, tu as toujours envie de te battre.",
         "selected":0
     },
     {
@@ -1854,8 +2454,45 @@
         "version":"original",
         "chunk":6,
         "verse_id":37,
+        "tokens":12,
         "char":"SGANARELLE",
         "text":"Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":38,
+        "tokens":7,
+        "char":"MARTINE",
+        "text":"Crois-tu que j'ai peur de tes paroles?",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":38,
+        "tokens":8,
+        "char":"MARTINE",
+        "text":"Crois-tu que je sois effrayée par tes paroles?",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":38,
+        "tokens":11,
+        "char":"MARTINE",
+        "text":"Je te montrerai que je ne te crains pas du tout.",
         "selected":0
     },
     {
@@ -1865,9 +2502,10 @@
         "version":"modern",
         "chunk":6,
         "verse_id":38,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Je vais te montrer que je ne te crains pas du tout.",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -1876,19 +2514,9 @@
         "version":"modern",
         "chunk":7,
         "verse_id":38,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Je vais te prouver que je ne te crains pas du tout.",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":3,
-        "verse_id":38,
-        "char":"MARTINE",
-        "text":"Crois-tu que j'ai peur de tes paroles?",
         "selected":0
     },
     {
@@ -1898,6 +2526,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":38,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Je te montrerai bien que je ne te crains pas du tout.",
         "selected":0
@@ -1909,6 +2538,7 @@
         "version":"original",
         "chunk":6,
         "verse_id":38,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Je te montrerai bien que je ne te crains nullement.",
         "selected":0
@@ -1918,10 +2548,11 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":6,
+        "chunk":7,
         "verse_id":39,
+        "tokens":8,
         "char":"SGANARELLE",
-        "text":"Ma chère moitié, tu veux me voler quelque chose.",
+        "text":"Mon amour, tu veux me voler quelque chose.",
         "selected":0
     },
     {
@@ -1929,11 +2560,24 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":7,
+        "chunk":6,
         "verse_id":39,
+        "tokens":9,
         "char":"SGANARELLE",
-        "text":"Mon amour, tu veux me voler quelque chose.",
+        "text":"Ma chère moitié, tu veux me voler quelque chose.",
         "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":39,
+        "tokens":9,
+        "char":"SGANARELLE",
+        "text":"Ma chère moitié, tu veux me cacher quelque chose.",
+        "selected":1
     },
     {
         "experiment":"mml07",
@@ -1942,20 +2586,22 @@
         "version":"modern",
         "chunk":3,
         "verse_id":39,
+        "tokens":11,
         "char":"SGANARELLE",
         "text":"Doux objet de mes désirs, je vais te donner une correction.",
         "selected":0
     },
     {
-        "experiment":"mml07",
+        "experiment":"mml09",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":4,
+        "chunk":8,
         "verse_id":39,
+        "tokens":11,
         "char":"SGANARELLE",
-        "text":"Ma chère moitié, tu veux me voler quelque chose.",
-        "selected":1
+        "text":"Ma chère moitié, tu as envie de me cacher quelque chose.",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -1964,31 +2610,10 @@
         "version":"original",
         "chunk":6,
         "verse_id":39,
+        "tokens":11,
         "char":"SGANARELLE",
         "text":"Ma chère moitié, vous avez envie de me dérober quelque chose.",
         "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":6,
-        "verse_id":40,
-        "char":"MARTINE",
-        "text":"Tu penses que je vais avoir peur de tes paroles ?",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":7,
-        "verse_id":40,
-        "char":"MARTINE",
-        "text":"Tu crois que tes paroles me font peur?",
-        "selected":1
     },
     {
         "experiment":"mml07",
@@ -1997,8 +2622,21 @@
         "version":"modern",
         "chunk":3,
         "verse_id":40,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Alcoolique que tu es!",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":40,
+        "tokens":4,
+        "char":"MARTINE",
+        "text":"Ivrogne que tu es!",
         "selected":0
     },
     {
@@ -2008,6 +2646,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":40,
+        "tokens":7,
         "char":"MARTINE",
         "text":"Crois-tu que tes paroles me font peur?",
         "selected":0
@@ -2016,33 +2655,48 @@
         "experiment":"mml06",
         "acte":1,
         "scene":1,
-        "version":"original",
-        "chunk":6,
-        "verse_id":40,
-        "char":"MARTINE",
-        "text":"Crois-tu que je m'épouvante de tes paroles?",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
         "version":"modern",
         "chunk":7,
-        "verse_id":41,
-        "char":"SGANARELLE",
-        "text":"Mon cher objet de désir, je vais te frotter les oreilles.",
-        "selected":0
+        "verse_id":40,
+        "tokens":8,
+        "char":"MARTINE",
+        "text":"Tu crois que tes paroles me font peur?",
+        "selected":1
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml09",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":8,
-        "verse_id":41,
-        "char":"SGANARELLE",
-        "text":"Je vais te donner une correction, tu vas voir.",
+        "verse_id":40,
+        "tokens":9,
+        "char":"MARTINE",
+        "text":"Crois-tu que je sois effrayée par tes paroles ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":40,
+        "tokens":11,
+        "char":"MARTINE",
+        "text":"Tu penses que je vais avoir peur de tes paroles ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"original",
+        "chunk":6,
+        "verse_id":40,
+        "tokens":7,
+        "char":"MARTINE",
+        "text":"Crois-tu que je m'épouvante de tes paroles?",
         "selected":0
     },
     {
@@ -2052,8 +2706,33 @@
         "version":"modern",
         "chunk":3,
         "verse_id":41,
+        "tokens":4,
         "char":"SGANARELLE",
         "text":"Je vais te battre.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":8,
+        "verse_id":41,
+        "tokens":9,
+        "char":"SGANARELLE",
+        "text":"Je vais te donner une correction, tu vas voir.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":7,
+        "verse_id":41,
+        "tokens":11,
+        "char":"SGANARELLE",
+        "text":"Mon cher objet de désir, je vais te frotter les oreilles.",
         "selected":0
     },
     {
@@ -2063,9 +2742,22 @@
         "version":"modern",
         "chunk":4,
         "verse_id":41,
+        "tokens":11,
         "char":"SGANARELLE",
         "text":"Doux objet de mes désirs, je vais te donner une correction.",
         "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":10,
+        "verse_id":41,
+        "tokens":11,
+        "char":"SGANARELLE",
+        "text":"Chère personne que je désire, je vais te donner une correction.",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -2074,8 +2766,33 @@
         "version":"original",
         "chunk":7,
         "verse_id":41,
+        "tokens":10,
         "char":"SGANARELLE",
         "text":"Doux objet de mes voeux, je vous frotterai les oreilles.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":42,
+        "tokens":3,
+        "char":"MARTINE",
+        "text":"Sac à vin!",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":42,
+        "tokens":3,
+        "char":"MARTINE",
+        "text":"Tu es ivrogne!",
         "selected":0
     },
     {
@@ -2085,9 +2802,10 @@
         "version":"modern",
         "chunk":7,
         "verse_id":42,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Tu es un ivrogne!",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -2096,6 +2814,7 @@
         "version":"modern",
         "chunk":8,
         "verse_id":42,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Tu es complètement ivre!",
         "selected":0
@@ -2105,33 +2824,24 @@
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":3,
-        "verse_id":42,
-        "char":"MARTINE",
-        "text":"Sac à vin!",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
         "chunk":4,
         "verse_id":42,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Ivrogne que tu es!",
         "selected":0
     },
     {
-        "experiment":"mml_manual",
+        "experiment":"mml09",
         "acte":1,
         "scene":1,
         "version":"modern",
-        "chunk":0,
+        "chunk":10,
         "verse_id":42,
+        "tokens":5,
         "char":"MARTINE",
-        "text":"Ivrogne!",
-        "selected":1
+        "text":"Tu es un ivrogne !",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -2140,6 +2850,7 @@
         "version":"original",
         "chunk":7,
         "verse_id":42,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Ivrogne que tu es!",
         "selected":0
@@ -2151,17 +2862,7 @@
         "version":"modern",
         "chunk":7,
         "verse_id":43,
-        "char":"SGANARELLE",
-        "text":"Je vais te frapper.",
-        "selected":1
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":8,
-        "verse_id":43,
+        "tokens":4,
         "char":"SGANARELLE",
         "text":"Je vais te frapper.",
         "selected":0
@@ -2173,6 +2874,139 @@
         "version":"modern",
         "chunk":3,
         "verse_id":43,
+        "tokens":6,
+        "char":"SGANARELLE",
+        "text":"Je vais te donner une raclée.",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"original",
+        "chunk":7,
+        "verse_id":43,
+        "tokens":3,
+        "char":"SGANARELLE",
+        "text":"Je vous battrai.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":44,
+        "tokens":3,
+        "char":"MARTINE",
+        "text":"Sac à vin!",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":44,
+        "tokens":3,
+        "char":"MARTINE",
+        "text":"Espèce de pochard!",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":11,
+        "verse_id":44,
+        "tokens":3,
+        "char":"MARTINE",
+        "text":"Espèce d'ivrogne !",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":8,
+        "verse_id":44,
+        "tokens":4,
+        "char":"MARTINE",
+        "text":"Tu es un alcoolique!",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":10,
+        "verse_id":44,
+        "tokens":4,
+        "char":"MARTINE",
+        "text":"Espèce de buveur !",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":7,
+        "verse_id":44,
+        "tokens":6,
+        "char":"MARTINE",
+        "text":"Tu es un sac à vin!",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"original",
+        "chunk":7,
+        "verse_id":44,
+        "tokens":3,
+        "char":"MARTINE",
+        "text":"Sac à vin!",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":8,
+        "verse_id":45,
+        "tokens":4,
+        "char":"SGANARELLE",
+        "text":"Je vais te battre.",
+        "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":7,
+        "verse_id":45,
+        "tokens":6,
+        "char":"SGANARELLE",
+        "text":"Je vais te donner une correction.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":45,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"Je vais te donner une raclée.",
         "selected":0
@@ -2183,120 +3017,59 @@
         "scene":1,
         "version":"original",
         "chunk":7,
-        "verse_id":43,
-        "char":"SGANARELLE",
-        "text":"Je vous battrai.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":7,
-        "verse_id":44,
-        "char":"MARTINE",
-        "text":"Tu es un sac à vin!",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":8,
-        "verse_id":44,
-        "char":"MARTINE",
-        "text":"Tu es un alcoolique!",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":4,
-        "verse_id":44,
-        "char":"MARTINE",
-        "text":"Sac à vin!",
-        "selected":1
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"original",
-        "chunk":7,
-        "verse_id":44,
-        "char":"MARTINE",
-        "text":"Sac à vin!",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":7,
         "verse_id":45,
-        "char":"SGANARELLE",
-        "text":"Je vais te donner une correction.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":8,
-        "verse_id":45,
-        "char":"SGANARELLE",
-        "text":"Je vais te battre.",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":4,
-        "verse_id":45,
-        "char":"SGANARELLE",
-        "text":"Je vais te battre.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"original",
-        "chunk":7,
-        "verse_id":45,
+        "tokens":3,
         "char":"SGANARELLE",
         "text":"Je vous rosserai.",
         "selected":0
     },
     {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":1,
-        "version":"modern",
-        "chunk":8,
-        "verse_id":46,
-        "char":"MARTINE",
-        "text":"Tu es un misérable!",
-        "selected":0
-    },
-    {
         "experiment":"mml07",
         "acte":1,
         "scene":1,
         "version":"modern",
         "chunk":4,
         "verse_id":46,
+        "tokens":1,
         "char":"MARTINE",
         "text":"Misérable!",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":10,
+        "verse_id":46,
+        "tokens":2,
+        "char":"MARTINE",
+        "text":"Misérable !",
         "selected":1
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":8,
+        "verse_id":46,
+        "tokens":4,
+        "char":"MARTINE",
+        "text":"Tu es un misérable!",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":46,
+        "tokens":11,
+        "char":"MARTINE",
+        "text":"Traître, insolent, trompeur, lâche, coquin, pendard, gueux, vaurien, fripon, brigand, voleur!...",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -2305,6 +3078,7 @@
         "version":"original",
         "chunk":8,
         "verse_id":46,
+        "tokens":1,
         "char":"MARTINE",
         "text":"Infime!",
         "selected":0
@@ -2316,8 +3090,33 @@
         "version":"modern",
         "chunk":8,
         "verse_id":47,
+        "tokens":4,
         "char":"SGANARELLE",
         "text":"Je vais te punir.",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":10,
+        "verse_id":47,
+        "tokens":4,
+        "char":"SGANARELLE",
+        "text":"Je vais te corriger.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":47,
+        "tokens":5,
+        "char":"SGANARELLE (Il prend un bâton et lui en donne)",
+        "text":"Ah! tu en veux donc?",
         "selected":0
     },
     {
@@ -2327,9 +3126,10 @@
         "version":"modern",
         "chunk":4,
         "verse_id":47,
+        "tokens":6,
         "char":"SGANARELLE",
         "text":"Je vais te donner une raclée.",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -2338,8 +3138,21 @@
         "version":"original",
         "chunk":8,
         "verse_id":47,
+        "tokens":3,
         "char":"SGANARELLE",
         "text":"Je vous étrillerai.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":48,
+        "tokens":4,
+        "char":"MARTINE",
+        "text":"Ah! ah! ah! ah!",
         "selected":0
     },
     {
@@ -2349,6 +3162,7 @@
         "version":"modern",
         "chunk":8,
         "verse_id":48,
+        "tokens":10,
         "char":"MARTINE",
         "text":"Traître, insolent, menteur, lâche, escroc, vaurien, malhonnête, filou, brigand, voleur!...",
         "selected":1
@@ -2360,8 +3174,33 @@
         "version":"modern",
         "chunk":4,
         "verse_id":48,
+        "tokens":11,
         "char":"MARTINE",
         "text":"Traître, insolent, trompeur, lâche, coquin, pendard, gueux, bélître, fripon, maraud, voleur!...",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":10,
+        "verse_id":48,
+        "tokens":12,
+        "char":"MARTINE",
+        "text":"Traître, insolent, trompeur, lâche, coquin, pendard, gueux, bélître, fripon, maraud, voleur !...",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":11,
+        "verse_id":48,
+        "tokens":12,
+        "char":"MARTINE",
+        "text":"Traître, insolent, trompeur, lâche, coquin, pendard, gueux, vaurien, fripon, brigand, voleur !...",
         "selected":0
     },
     {
@@ -2371,9 +3210,34 @@
         "version":"original",
         "chunk":8,
         "verse_id":48,
+        "tokens":11,
         "char":"MARTINE",
         "text":"Traître, insolent, trompeur, lâche, coquin, pendard, gueux, bélître, fripon, maraut, voleur!...",
         "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":49,
+        "tokens":7,
+        "char":"SGANARELLE",
+        "text":"Voilà le vrai moyen de te calmer.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":11,
+        "verse_id":49,
+        "tokens":7,
+        "char":"SGANARELLE (Il prend un bâton et lui donne un coup) ",
+        "text":"Ah ! Tu en veux encore ?",
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -2382,6 +3246,7 @@
         "version":"modern",
         "chunk":8,
         "verse_id":49,
+        "tokens":12,
         "char":"SGANARELLE",
         "text":"(Il prend un bâton et le lui donne.) Tu veux te battre?",
         "selected":0
@@ -2393,19 +3258,21 @@
         "version":"modern",
         "chunk":4,
         "verse_id":49,
+        "tokens":13,
         "char":"SGANARELLE",
         "text":"(Il prend un bâton et lui en donne.) Ah! Tu en veux donc?",
-        "selected":1
+        "selected":0
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml08",
         "acte":1,
         "scene":1,
         "version":"original",
-        "chunk":8,
+        "chunk":4,
         "verse_id":49,
-        "char":"SGANARELLE",
-        "text":"(Il prend un bâton, et lui en donne.) Ah! vous en voulez donc?",
+        "tokens":5,
+        "char":"SGANARELLE (Il prend un bâton, et lui en donne)",
+        "text":"Ah! vous en voulez donc?",
         "selected":0
     },
     {
@@ -2415,8 +3282,21 @@
         "version":"modern",
         "chunk":8,
         "verse_id":50,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Ah! ah! ah! ah!",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":11,
+        "verse_id":50,
+        "tokens":8,
+        "char":"MARTINE",
+        "text":"Ah ! Ah ! Ah ! Ah !",
         "selected":0
     },
     {
@@ -2426,6 +3306,7 @@
         "version":"original",
         "chunk":8,
         "verse_id":50,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Ah! ah! ah! ah!",
         "selected":1
@@ -2437,8 +3318,21 @@
         "version":"modern",
         "chunk":4,
         "verse_id":51,
+        "tokens":7,
         "char":"SGANARELLE",
         "text":"Voilà le vrai moyen de te calmer.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":11,
+        "verse_id":51,
+        "tokens":7,
+        "char":"SGANARELLE",
+        "text":"Voilà le meilleur moyen de te calmer.",
         "selected":1
     },
     {
@@ -2448,8 +3342,21 @@
         "version":"original",
         "chunk":4,
         "verse_id":51,
+        "tokens":7,
         "char":"SGANARELLE",
         "text":"Voilà le vrai moyen de vous apaiser.",
         "selected":0
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":1,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":19,
+        "tokens":5,
+        "char":"SGANARELLE",
+        "text":"Tu te lèveras plus tôt.",
+        "selected":1
     }
 ]

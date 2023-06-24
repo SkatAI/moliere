@@ -2,11 +2,13 @@
 
 1. parse texte original into lines
     - script: parse
-    - resultat: medecin-malgre-lui_verse_original.json
+    - input: ./textes/original/medecin-malgre-lui.txt
+    - resultat: ./textes/original/medecin-malgre-lui.json
 
 2. GPT transliteration
     - script: modernize
-    - resultats: ./textes/{experiment}/acte_xx_scene_xx.json
+    - input: ./textes/original/medecin-malgre-lui.json
+    - resultat: ./textes/{experiment}/acte_xx_scene_xx.json
 
 2.1 Review preparation
     - script: aggregate_experiments.py

@@ -24,7 +24,7 @@ install: init
 
 lint: ## formatting with black
 lint:
-	black ./
+	black --line-length 120 ./
 .PHONY: lint
 
 import-check: ## checks for unused imports

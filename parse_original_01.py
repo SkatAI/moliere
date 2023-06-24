@@ -67,7 +67,5 @@ if __name__ == "__main__":
         id = df[df.verse == verse_count].index[0]
         df.loc[id, "item"] = "setup"
 
-    with open(
-        "./textes/medecin-malgre-lui_03_original.json", "w", encoding="utf-8"
-    ) as f:
+    with open("./textes/medecin-malgre-lui_03_original.json", "w", encoding="utf-8") as f:
         df.to_json(f, force_ascii=False, orient="records", indent=4)

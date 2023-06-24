@@ -1,0 +1,150 @@
+[
+    {
+        "acte":3,
+        "scene":3,
+        "verse_id_start":483,
+        "verse_id_end":491,
+        "text":[
+            {
+                "verse_id":483,
+                "text":"SGANARELLE: Voici la belle nourrice. Ah! nourrice de mon coeur, je suis ravi de cette rencontre, et votre vue est la rhubarbe, la casse et le séné qui purgent toute la mélancolie de mon âme. "
+            },
+            {
+                "verse_id":484,
+                "text":"JACQUELINE: Par ma figue! Monsieur le médecin, ça est trop bian dit pour moi, et je n'entends rien à tout votte latin. "
+            },
+            {
+                "verse_id":485,
+                "text":"SGANARELLE: Devenez malade, nourrice, je vous prie, devenez malade pour l'amour de moi. J'aurois toutes les joies du monde de vous guérir. "
+            },
+            {
+                "verse_id":486,
+                "text":"JACQUELINE: Je sis votte sarvante, j'aime bian mieux qu'an ne me guérisse pas. "
+            },
+            {
+                "verse_id":487,
+                "text":"SGANARELLE: Que je vous plains, belle nourrice, d'avoir un mari jaloux et fâcheux comme celui que vous avez! "
+            },
+            {
+                "verse_id":488,
+                "text":"JACQUELINE: Que velez-vous, Monsieu? C'est pour la pénitence de mes fautes; et là où la chèvre est liée, il faut bian qu'allé y broute. "
+            },
+            {
+                "verse_id":489,
+                "text":"SGANARELLE: Comment! un rustre comme cela! un homme qui vous observe toujours, et ne veut pas que personne vous parle! "
+            },
+            {
+                "verse_id":490,
+                "text":"JACQUELINE: Hélas! vous n'avez rien vu encore, et ce n'est qu'un petit échantillon de sa mauvaise humeur."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":483,
+                "text":"SGANARELLE: Voici la belle nourrice. Ah! nourrice de mon cœur, je suis ravi de te voir, et ta présence est comme un remède qui purifie toute la tristesse de mon âme."
+            },
+            {
+                "verse_id":484,
+                "text":"JACQUELINE: Par ma foi! Monsieur le médecin, c'est trop compliqué pour moi, je ne comprends rien à tout votre langage médical."
+            },
+            {
+                "verse_id":485,
+                "text":"SGANARELLE: Deviens malade, nourrice, je t'en prie, deviens malade par amour pour moi. J'aurais toutes les joies du monde à te guérir."
+            },
+            {
+                "verse_id":486,
+                "text":"JACQUELINE: Je suis votre servante, je préfère que vous ne me guérissiez pas."
+            },
+            {
+                "verse_id":487,
+                "text":"SGANARELLE: Je te plains, belle nourrice, d'avoir un mari jaloux et ennuyeux comme celui que tu as !"
+            },
+            {
+                "verse_id":488,
+                "text":"JACQUELINE: Que voulez-vous, Monsieur ? C'est ma punition pour mes fautes ; et là où la chèvre est attachée, il faut bien qu'elle broute."
+            },
+            {
+                "verse_id":489,
+                "text":"SGANARELLE: Comment ! Un rustre comme ça ! Un homme qui te surveille toujours et ne veut pas que personne te parle !"
+            },
+            {
+                "verse_id":490,
+                "text":"JACQUELINE: Hélas ! Tu n'as encore rien vu, et ce n'est qu'un petit aperçu de sa mauvaise humeur."
+            }
+        ]
+    },
+    {
+        "acte":3,
+        "scene":3,
+        "verse_id_start":487,
+        "verse_id_end":495,
+        "text":[
+            {
+                "verse_id":487,
+                "text":"SGANARELLE: Que je vous plains, belle nourrice, d'avoir un mari jaloux et fâcheux comme celui que vous avez! "
+            },
+            {
+                "verse_id":488,
+                "text":"JACQUELINE: Que velez-vous, Monsieu? C'est pour la pénitence de mes fautes; et là où la chèvre est liée, il faut bian qu'allé y broute. "
+            },
+            {
+                "verse_id":489,
+                "text":"SGANARELLE: Comment! un rustre comme cela! un homme qui vous observe toujours, et ne veut pas que personne vous parle! "
+            },
+            {
+                "verse_id":490,
+                "text":"JACQUELINE: Hélas! vous n'avez rien vu encore, et ce n'est qu'un petit échantillon de sa mauvaise humeur. "
+            },
+            {
+                "verse_id":491,
+                "text":"SGANARELLE: Est-il possible? et qu'un homme ait l'âme assez basse pour maltraiter une personne comme vous? Ah! que j'en sais, belle nourrice, et qui ne sont pas loin d'ici, qui se tiendroient heureux de baiser seulement les petits bouts de vos petons! Pourquoi faut-il qu'une personne si bien faite soit tombée en de telles mains, et qu'un franc animal, un brutal, un stupide, un sot!... Pardonnez-moi, nourrice, si je parle ainsi de votre mari. "
+            },
+            {
+                "verse_id":492,
+                "text":"JACQUELINE: Eh! Monsieu, je sais bien qu'il mérite tous ces noms-là. "
+            },
+            {
+                "verse_id":493,
+                "text":"SGANARELLE: Oui, sans doute, nourrice, il les mérite; et il mériteroit encore que vous lui missiez quelque chose sur la tête, pour le punir des soupçons qu'il a. "
+            },
+            {
+                "verse_id":494,
+                "text":"JACQUELINE: Il est bien vrai que, si je n'avois devant les jeux que son intérêt, il pourroit m'obliger à queuque étrange chose."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":487,
+                "text":"SGANARELLE: Je vous plains, belle nourrice, d'avoir un mari jaloux et ennuyeux comme le vôtre !"
+            },
+            {
+                "verse_id":488,
+                "text":"JACQUELINE: Que voulez-vous, Monsieur ? C'est ma punition pour mes fautes. Quand on est attaché, il faut bien brouter là où l'on est lié."
+            },
+            {
+                "verse_id":489,
+                "text":"SGANARELLE: Comment ! Un rustre comme ça ! Un homme qui vous surveille toujours et qui ne veut pas que personne ne vous parle !"
+            },
+            {
+                "verse_id":490,
+                "text":"JACQUELINE: Hélas ! Vous n'avez encore rien vu, ce n'est qu'un petit aperçu de sa mauvaise humeur."
+            },
+            {
+                "verse_id":491,
+                "text":"SGANARELLE: Est-ce possible ? Qu'un homme puisse être si bas pour maltraiter une personne comme vous ? Ah ! Je connais des gens, pas loin d'ici, qui seraient heureux de simplement embrasser vos petits pieds ! Pourquoi une personne si belle est-elle tombée entre de telles mains, et qu'un franc animal, un brutal, un stupide, un idiot !... Pardonnez-moi, nourrice, si je parle ainsi de votre mari."
+            },
+            {
+                "verse_id":492,
+                "text":"JACQUELINE: Eh bien, Monsieur, je sais bien qu'il mérite tous ces noms-là."
+            },
+            {
+                "verse_id":493,
+                "text":"SGANARELLE: Oui, bien sûr, nourrice, il les mérite. Et il mériterait même que vous lui mettiez quelque chose sur la tête pour le punir de ses soupçons."
+            },
+            {
+                "verse_id":494,
+                "text":"JACQUELINE: Il est vrai que si je n'avais que son intérêt devant les yeux, il pourrait me forcer à faire des choses étranges."
+            }
+        ]
+    }
+]

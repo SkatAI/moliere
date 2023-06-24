@@ -1,0 +1,140 @@
+[
+    {
+        "acte":2,
+        "scene":3,
+        "verse_id_start":318,
+        "verse_id_end":334,
+        "text":[
+            {
+                "verse_id":318,
+                "text":"GÉRONTE: Monsieur, voici tout à l'heure ma fille qu'on va vous amener. "
+            },
+            {
+                "verse_id":319,
+                "text":"SGANARELLE: Je l'attends, Monsieur, avec toute la médecine. "
+            },
+            {
+                "verse_id":320,
+                "text":"GÉRONTE: Où est-elle? "
+            },
+            {
+                "verse_id":321,
+                "text":"SGANARELLE, se touchant le front: Là dedans. "
+            },
+            {
+                "verse_id":322,
+                "text":"GÉRONTE: Fort bien. "
+            },
+            {
+                "verse_id":323,
+                "text":"SGANARELLE, en voulant toucher les tétons de la nourrice: Mais, comme je m'intéresse à toute votre famille, il faut que j'essaye un peu le lait de votre nourrice et que je visite son sein. "
+            },
+            {
+                "verse_id":324,
+                "text":"LUCAS le tirant et lui faisant faire la pirouette: Nanin, nanin, je n'avons que faire de ça. "
+            },
+            {
+                "verse_id":325,
+                "text":"SGANARELLE: C'est l'office du médecin de voir les tétons des nourrices. "
+            },
+            {
+                "verse_id":326,
+                "text":"LUCAS: Il gnia office qui quienne, je sis votte sarviteur. "
+            },
+            {
+                "verse_id":327,
+                "text":"SGANARELLE: As-tu bien la hardiesse de t'opposer au médecin? Hors de là! "
+            },
+            {
+                "verse_id":328,
+                "text":"LUCAS: Je me moque de ça. "
+            },
+            {
+                "verse_id":329,
+                "text":"SGANARELLE, en le regardant de travers: Je te donnerai la fièvre. "
+            },
+            {
+                "verse_id":330,
+                "text":"JACQUELINE, prenant Lucas par le bras et lui faisant aussi faire la pirouette: Ote-toi de là aussi. Est-ce que je ne sis pas assez grande pour me défendre moi-même, s'il me fait queuque chose qui ne soit pas à faire? "
+            },
+            {
+                "verse_id":331,
+                "text":"LUCAS: Je ne veux pas qu'il te tâte, moi. "
+            },
+            {
+                "verse_id":332,
+                "text":"SGANARELLE: Fi, le vilain, qui est jaloux de sa femme! "
+            },
+            {
+                "verse_id":333,
+                "text":"GÉRONTE: Voici ma fille."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":318,
+                "text":"GÉRONTE: Monsieur, ma fille va bientôt arriver."
+            },
+            {
+                "verse_id":319,
+                "text":"SGANARELLE: Je l'attends, Monsieur, avec tous mes médicaments."
+            },
+            {
+                "verse_id":320,
+                "text":"GÉRONTE: Où est-elle?"
+            },
+            {
+                "verse_id":321,
+                "text":"SGANARELLE, se touchant le front: Elle est là-dedans."
+            },
+            {
+                "verse_id":322,
+                "text":"GÉRONTE: Très bien."
+            },
+            {
+                "verse_id":323,
+                "text":"SGANARELLE, en voulant toucher les seins de la nourrice: Mais, comme je m'intéresse à toute votre famille, je dois essayer un peu le lait de votre nourrice et examiner son sein."
+            },
+            {
+                "verse_id":324,
+                "text":"LUCAS le tirant et le faisant tourner: Non, non, je n'ai pas besoin de ça."
+            },
+            {
+                "verse_id":325,
+                "text":"SGANARELLE: C'est le rôle du médecin de voir les seins des nourrices."
+            },
+            {
+                "verse_id":326,
+                "text":"LUCAS: Il peut bien faire son travail, je suis votre serviteur."
+            },
+            {
+                "verse_id":327,
+                "text":"SGANARELLE: Oses-tu t'opposer au médecin? Sors d'ici!"
+            },
+            {
+                "verse_id":328,
+                "text":"LUCAS: Je m'en moque."
+            },
+            {
+                "verse_id":329,
+                "text":"SGANARELLE, le regardant de travers: Je vais te donner de la fièvre."
+            },
+            {
+                "verse_id":330,
+                "text":"JACQUELINE, prenant Lucas par le bras et le faisant aussi tourner: Éloigne-toi aussi. Est-ce que je ne suis pas assez grande pour me défendre moi-même, s'il me fait quelque chose de mal?"
+            },
+            {
+                "verse_id":331,
+                "text":"LUCAS: Je ne veux pas qu'il te touche, moi."
+            },
+            {
+                "verse_id":332,
+                "text":"SGANARELLE: Pff, le jaloux, qui est jaloux de sa femme!"
+            },
+            {
+                "verse_id":333,
+                "text":"GÉRONTE: Voici ma fille."
+            }
+        ]
+    }
+]

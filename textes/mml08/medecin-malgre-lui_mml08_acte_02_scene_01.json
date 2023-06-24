@@ -1,0 +1,310 @@
+[
+    {
+        "acte":2,
+        "scene":1,
+        "verse_id_start":240,
+        "verse_id_end":258,
+        "text":[
+            {
+                "verse_id":240,
+                "text":"VALÈRE: Oui, Monsieur, je crois que vous serez satisfait, et nous vous avons amené le plus grand médecin du monde. "
+            },
+            {
+                "verse_id":241,
+                "text":"LUCAS: Oh! morguenne! il faut tirer l'échelle après ceti-là, et tous les autres ne sont pas daignes de li déchausser ses souillez. "
+            },
+            {
+                "verse_id":242,
+                "text":"VALÈRE: C'est un homme qui a fait des cures merveilleuses. "
+            },
+            {
+                "verse_id":243,
+                "text":"LUCAS: Qui a gari des gens qui estiant morts. "
+            },
+            {
+                "verse_id":244,
+                "text":"VALÈRE: Il est un peu capricieux, comme je vous ai dit, et parfois il a des moments où son esprit s'échappe et ne paroît pas ce qu'il est. "
+            },
+            {
+                "verse_id":245,
+                "text":"LUCAS: Oui, il aime à bouffonner, et l'an diroit par fois, ne v's en déplaise, qu'il a quelque petit coup de hache à la tête. "
+            },
+            {
+                "verse_id":246,
+                "text":"VALÈRE: Mais, dans le fond, il est toute science, et bien souvent il dit des choses tout à fait relevées. "
+            },
+            {
+                "verse_id":247,
+                "text":"LUCAS: Quand il s'y boute, il parle tout fin drait comme s'il lisoit dans un livre. "
+            },
+            {
+                "verse_id":248,
+                "text":"VALÈRE: Sa réputation s'est déjà répandue ici, et tout le monde vient à lui. "
+            },
+            {
+                "verse_id":249,
+                "text":"GÉRONTE: Je meurs d'envie de le voir, faites-le moi vite venir. "
+            },
+            {
+                "verse_id":250,
+                "text":"VALÈRE: Je le vais quérir. "
+            },
+            {
+                "verse_id":251,
+                "text":"JACQUELINE: Par ma fi! Monsieu, ceti-ci fera justement ce qu'ant fait les autres. Je pense que ce sera queussi queumi; et la meilleure médeçaine que l'an pourroit bailler à votre fille, ce seroit, selon moi, un biau et bon mari pour qui allé eût de l'amiquié. "
+            },
+            {
+                "verse_id":252,
+                "text":"GÉRONTE: Ouais! nourrice, ma mie, vous vous mêlez de bien des choses! "
+            },
+            {
+                "verse_id":253,
+                "text":"LUCAS: Taisez-vous, notre ménagère Jacquelaine: ce n'est pas à vous à bouter là votre nez. "
+            },
+            {
+                "verse_id":254,
+                "text":"JACQUELINE: Je vous dis et vous douze que tous ces médecins n'y feront rian que de l'iau claire, que votre fille a besoin d'autre chose que de ribarbe et desené, et qu'un mari est une emplâtre qui garit tous les maux des filles. "
+            },
+            {
+                "verse_id":255,
+                "text":"GÉRONTE: Est-elle en état maintenant qu'on s'en voulût charger, avec l'infirmité qu'elle a? Et lorsque j'ai été dans le dessein de la marier, ne s'est-elle pas opposée à mes volontés? "
+            },
+            {
+                "verse_id":256,
+                "text":"JACQUELINE: Je le crois bian! vous li vouilliez bailler eun homme qu'allé n'aime point. Que ne preniais-vous ce monsieu Liandre, qui li touchoit au coeur? Allé auroit été fort obéissante; et je m'en vas gager qu'il la prendroit, li, comme allé est, si vous la li vouillais donner. "
+            },
+            {
+                "verse_id":257,
+                "text":"GÉRONTE: Ce Léandre n'est pas ce qu'il lui faut: il n'a pas du bien comme l'autre."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":240,
+                "text":"VALÈRE: Oui, Monsieur, je pense que vous serez content, et nous avons amené le meilleur médecin du monde."
+            },
+            {
+                "verse_id":241,
+                "text":"LUCAS: Oh là là! Il faut fermer la porte après celui-là, et tous les autres ne sont pas dignes de lui enlever ses chaussures sales."
+            },
+            {
+                "verse_id":242,
+                "text":"VALÈRE: C'est un homme qui a guéri des malades miraculeusement."
+            },
+            {
+                "verse_id":243,
+                "text":"LUCAS: Il a guéri des gens qui étaient morts."
+            },
+            {
+                "verse_id":244,
+                "text":"VALÈRE: Il est un peu excentrique, comme je vous l'ai dit, et parfois il a des moments où son esprit s'échappe et ne montre pas qui il est vraiment."
+            },
+            {
+                "verse_id":245,
+                "text":"LUCAS: Oui, il aime plaisanter, et parfois, sans vous offenser, on dirait qu'il a reçu un petit coup à la tête."
+            },
+            {
+                "verse_id":246,
+                "text":"VALÈRE: Mais au fond, il est très savant, et souvent il dit des choses très profondes."
+            },
+            {
+                "verse_id":247,
+                "text":"LUCAS: Quand il s'y met, il parle très clairement comme s'il lisait dans un livre."
+            },
+            {
+                "verse_id":248,
+                "text":"VALÈRE: Sa réputation s'est déjà répandue ici, et tout le monde vient le voir."
+            },
+            {
+                "verse_id":249,
+                "text":"GÉRONTE: Je suis impatient de le rencontrer, faites-le venir rapidement."
+            },
+            {
+                "verse_id":250,
+                "text":"VALÈRE: Je vais le chercher."
+            },
+            {
+                "verse_id":251,
+                "text":"JACQUELINE: Par ma foi, Monsieur, celui-ci fera exactement la même chose que les autres. Je pense que ce serait mieux pour votre fille d'avoir un beau et bon mari avec qui elle aurait de l'amitié."
+            },
+            {
+                "verse_id":252,
+                "text":"GÉRONTE: Oh là là! Nourrice, ma chère, vous vous mêlez de beaucoup de choses!"
+            },
+            {
+                "verse_id":253,
+                "text":"LUCAS: Taisez-vous, notre gouvernante Jacqueline: ce n'est pas à vous de mettre votre nez là-dedans."
+            },
+            {
+                "verse_id":254,
+                "text":"JACQUELINE: Je vous dis et je vous assure que tous ces médecins ne feront rien d'autre que de l'eau claire. Votre fille a besoin de quelque chose de plus que de la rhubarbe et des saignées, et un mari est un remède qui guérit tous les maux des filles."
+            },
+            {
+                "verse_id":255,
+                "text":"GÉRONTE: Est-elle en état maintenant d'être chargée de cela, avec son infirmité? Et lorsque j'ai voulu la marier, elle s'est opposée à mes volontés."
+            },
+            {
+                "verse_id":256,
+                "text":"JACQUELINE: Je le crois bien! Vous vouliez lui donner un homme qu'elle n'aime pas. Pourquoi ne preniez-vous pas ce Monsieur Léandre, qui lui touchait le cœur? Elle aurait été très obéissante; et je parie qu'il l'épouserait, telle qu'elle est, si vous lui donniez votre accord."
+            },
+            {
+                "verse_id":257,
+                "text":"GÉRONTE: Ce Léandre n'est pas ce qu'il lui faut: il n'a pas autant de richesse que l'autre."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":1,
+        "verse_id_start":248,
+        "verse_id_end":266,
+        "text":[
+            {
+                "verse_id":248,
+                "text":"VALÈRE: Sa réputation s'est déjà répandue ici, et tout le monde vient à lui. "
+            },
+            {
+                "verse_id":249,
+                "text":"GÉRONTE: Je meurs d'envie de le voir, faites-le moi vite venir. "
+            },
+            {
+                "verse_id":250,
+                "text":"VALÈRE: Je le vais quérir. "
+            },
+            {
+                "verse_id":251,
+                "text":"JACQUELINE: Par ma fi! Monsieu, ceti-ci fera justement ce qu'ant fait les autres. Je pense que ce sera queussi queumi; et la meilleure médeçaine que l'an pourroit bailler à votre fille, ce seroit, selon moi, un biau et bon mari pour qui allé eût de l'amiquié. "
+            },
+            {
+                "verse_id":252,
+                "text":"GÉRONTE: Ouais! nourrice, ma mie, vous vous mêlez de bien des choses! "
+            },
+            {
+                "verse_id":253,
+                "text":"LUCAS: Taisez-vous, notre ménagère Jacquelaine: ce n'est pas à vous à bouter là votre nez. "
+            },
+            {
+                "verse_id":254,
+                "text":"JACQUELINE: Je vous dis et vous douze que tous ces médecins n'y feront rian que de l'iau claire, que votre fille a besoin d'autre chose que de ribarbe et desené, et qu'un mari est une emplâtre qui garit tous les maux des filles. "
+            },
+            {
+                "verse_id":255,
+                "text":"GÉRONTE: Est-elle en état maintenant qu'on s'en voulût charger, avec l'infirmité qu'elle a? Et lorsque j'ai été dans le dessein de la marier, ne s'est-elle pas opposée à mes volontés? "
+            },
+            {
+                "verse_id":256,
+                "text":"JACQUELINE: Je le crois bian! vous li vouilliez bailler eun homme qu'allé n'aime point. Que ne preniais-vous ce monsieu Liandre, qui li touchoit au coeur? Allé auroit été fort obéissante; et je m'en vas gager qu'il la prendroit, li, comme allé est, si vous la li vouillais donner. "
+            },
+            {
+                "verse_id":257,
+                "text":"GÉRONTE: Ce Léandre n'est pas ce qu'il lui faut: il n'a pas du bien comme l'autre. "
+            },
+            {
+                "verse_id":258,
+                "text":"JACQUELINE: Il a un oncle qui est si riche, dont il est hériquié. "
+            },
+            {
+                "verse_id":259,
+                "text":"GÉRONTE: Tous ces biens à venir me semblent autant de chansons. Il n'est rien tel que ce qu'on tient, et l'on court grand risque de s'abuser lorsque l'on compte sur le bien qu'un autre vous garde. La mort n'a pas toujours les oreilles ouvertes aux voeux et aux prières de messieurs les héritiers, et l'on a le temps d'avoir les dents longues lorsqu'on attend, pour vivre, le trépas de quelqu'un. "
+            },
+            {
+                "verse_id":260,
+                "text":"JACQUELINE: Enfin, j'ai toujours ouï dire qu'en mariage, comme ailleurs, contentement passe richesse. Les pères et les mères ant cette maudite couteume de demander toujours: «Qu'a-t-il?» et: «Qu'a-t-elle?» Et le compère Piarre a marié sa fille Simonnette au gros Thomas pour un quarquié de vaigne qu'il avoit davantage que le jeune Robin, où allé avoit bouté son amiquié; et velà que la pauvre creiature en est devenue jaune comme eun coing, et n'a point profité tout depuis ce temps-là. C'est un bel exemple pour vous, Monsieu. On n'a que son plaisir en ce monde; et j'aimerois mieux bailler à ma fille un bon mari qui li fût agriable que toutes les rentes de la Biausse. "
+            },
+            {
+                "verse_id":261,
+                "text":"GÉRONTE: Peste, Madame la nourrice! comme vous dégoisez! Taisez-vous, je vous prie; vous prenez trop de soin, et vous échauffez votre lait. "
+            },
+            {
+                "verse_id":262,
+                "text":"LUCAS (En disant ceci, il frappe sur la poitrine à Géronte): Morgue! tais-toi, t'es eune impartinante. Monsieu n'a que faire de tes discours, et il sait ce qu'il a à faire. Mêle-toi de donner à téter à ton enfant, sans tant faire la raisonneuse. Monsieu est le père de sa fille, et il est bon et sage pour voir ce qu'il li faut. "
+            },
+            {
+                "verse_id":263,
+                "text":"GÉRONTE: Tout doux! oh! tout doux! "
+            },
+            {
+                "verse_id":264,
+                "text":"LUCAS: Monsieu, je veux un peu la mortifier et li apprendre le respect qu'allé vous doit. "
+            },
+            {
+                "verse_id":265,
+                "text":"GÉRONTE: Oui; mais ces gestes ne sont pas nécessaires."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":248,
+                "text":"VALÈRE: Sa réputation est déjà connue ici, tout le monde vient le voir."
+            },
+            {
+                "verse_id":249,
+                "text":"GÉRONTE: J'ai très envie de le rencontrer, faites-le venir rapidement."
+            },
+            {
+                "verse_id":250,
+                "text":"VALÈRE: Je vais le chercher."
+            },
+            {
+                "verse_id":251,
+                "text":"JACQUELINE: Par ma foi, Monsieur, celui-ci fera exactement ce que les autres ont fait. Je pense que ce sera pareil; et le meilleur remède que l'on pourrait donner à votre fille, ce serait, selon moi, un beau et bon mari avec qui elle aurait de l'amitié."
+            },
+            {
+                "verse_id":252,
+                "text":"GÉRONTE: Oh là là! Nourrice, ma chère, vous vous mêlez de beaucoup de choses!"
+            },
+            {
+                "verse_id":253,
+                "text":"LUCAS: Taisez-vous, notre gouvernante Jacqueline: ce n'est pas à vous de vous en mêler."
+            },
+            {
+                "verse_id":254,
+                "text":"JACQUELINE: Je vous dis et je vous assure que tous ces médecins ne feront rien d'autre que de l'eau claire, que votre fille a besoin de quelque chose de plus que de la rhubarbe et des saignées, et qu'un mari est un remède qui guérit tous les maux des filles."
+            },
+            {
+                "verse_id":255,
+                "text":"GÉRONTE: Est-elle en état maintenant d'être prise en charge, avec son infirmité? Et lorsque j'ai voulu la marier, ne s'est-elle pas opposée à mes volontés?"
+            },
+            {
+                "verse_id":256,
+                "text":"JACQUELINE: Je le crois bien! Vous vouliez lui donner un homme qu'elle n'aimait pas. Pourquoi ne preniez-vous pas ce Monsieur Liandre, qui lui plaisait? Elle aurait été très obéissante; et je parie qu'il l'épouserait, telle qu'elle est, si vous lui donniez."
+            },
+            {
+                "verse_id":257,
+                "text":"GÉRONTE: Ce Léandre n'est pas ce qu'il lui faut: il n'a pas autant de biens que l'autre."
+            },
+            {
+                "verse_id":258,
+                "text":"JACQUELINE: Il a un oncle très riche, dont il héritera."
+            },
+            {
+                "verse_id":259,
+                "text":"GÉRONTE: Tous ces biens à venir me semblent être des chansons. Rien ne vaut ce que l'on a déjà, et on court le risque de se tromper en comptant sur les biens que quelqu'un d'autre vous garde. La mort n'est pas toujours attentive aux souhaits et aux prières des héritiers, et on a le temps de devenir impatient lorsqu'on attend la mort de quelqu'un pour vivre."
+            },
+            {
+                "verse_id":260,
+                "text":"JACQUELINE: Enfin, j'ai toujours entendu dire qu'en mariage, comme ailleurs, le bonheur est plus important que la richesse. Les parents ont cette maudite habitude de demander toujours: \"Qu'a-t-il? Et elle?\". Et le parrain Pierre a marié sa fille Simonnette avec le gros Thomas pour une petite somme d'argent qu'il avait de plus que le jeune Robin, avec qui elle était amoureuse; et voilà que la pauvre fille est devenue malheureuse et n'a rien gagné depuis ce temps-là. C'est un bel exemple pour vous, Monsieur. On n'a que son bonheur dans ce monde; et je préférerais donner à ma fille un bon mari qui lui plaise plutôt que toutes les richesses de la Biausse."
+            },
+            {
+                "verse_id":261,
+                "text":"GÉRONTE: Bon sang, Madame la nourrice! Comme vous parlez! Taisez-vous, je vous prie; vous vous inquiétez trop et vous vous énervez."
+            },
+            {
+                "verse_id":262,
+                "text":"LUCAS (En disant cela, il frappe sur la poitrine de Géronte): Allez donc! Taisez-vous, vous êtes impertinente. Monsieur n'a pas besoin de vos discours, et il sait ce qu'il doit faire. Occupez-vous d'allaiter votre enfant, sans tant philosopher. Monsieur est le père de sa fille, et il est bon et sage pour savoir ce dont elle a besoin."
+            },
+            {
+                "verse_id":263,
+                "text":"GÉRONTE: Doucement! Oh! Doucement!"
+            },
+            {
+                "verse_id":264,
+                "text":"LUCAS: Monsieur, je veux un peu la réprimander et lui apprendre le respect qu'elle vous doit."
+            },
+            {
+                "verse_id":265,
+                "text":"GÉRONTE: Oui, mais ces gestes ne sont pas nécessaires."
+            }
+        ]
+    }
+]

@@ -18,16 +18,12 @@ from sentence_similarity import sentence_similarity
 sentence_a = "Fi! c'est une bagatelle; allons, allons."
 sentence_b = "Oh, c'est rien. Allez, allez."
 
-model = sentence_similarity(
-    model_name="distilbert-base-uncased", embedding_type="cls_token_embedding"
-)
+model = sentence_similarity(model_name="distilbert-base-uncased", embedding_type="cls_token_embedding")
 score = model.get_score(sentence_a, sentence_b, metric="cosine")
 print(score)
 
 
-model = sentence_similarity(
-    model_name="distilbert-base-uncased", embedding_type="sentence_embedding"
-)
+model = sentence_similarity(model_name="distilbert-base-uncased", embedding_type="sentence_embedding")
 score = model.get_score(sentence_a, sentence_b, metric="cosine")
 print(score)
 

@@ -1,0 +1,20 @@
+[
+    {
+        "acte":1,
+        "scene":3,
+        "verse_id_start":102,
+        "verse_id_end":103,
+        "text":[
+            {
+                "verse_id":102,
+                "text":"MARTINE: Va, quelque mine que je fasse, je n'oublie pas mon ressentiment, et je brûle en moi-même de trouver les moyens de te punir des coups que tu me donnes. Je sais bien qu'une femme a toujours dans les mains de quoi se venger d'un mari; mais c'est une punition trop délicate pour mon pendart. Je veux une vengeance qui se fasse un peu mieux sentir, et ce n'est pas contentement pour l'injure que j'ai reçue."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":102,
+                "text":"MARTINE: Peu importe mon apparence, je n'oublie pas ma colère et je brûle d'envie de trouver comment te punir pour les coups que tu me donnes. Je sais bien qu'une femme a toujours les moyens de se venger de son mari, mais c'est une punition trop subtile pour mon imbécile. Je veux une vengeance qui soit plus ressentie et qui ne se contente pas de l'injure que j'ai reçue."
+            }
+        ]
+    }
+]

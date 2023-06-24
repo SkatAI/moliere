@@ -1,0 +1,150 @@
+[
+    {
+        "acte":3,
+        "scene":1,
+        "verse_id_start":449,
+        "verse_id_end":457,
+        "text":[
+            {
+                "verse_id":449,
+                "text":"LÉANDRE: Il me semble que je ne suis pas mal ainsi pour un apothicaire; et, comme le père ne m'a guère vu, ce changement d'habit et de perruque est assez capable, je crois, de me déguiser à ses yeux. "
+            },
+            {
+                "verse_id":450,
+                "text":"SGANARELLE: Sans doute. "
+            },
+            {
+                "verse_id":451,
+                "text":"LÉANDRE: Tout ce que je souhaiterois seroit de savoir cinq ou six grands mots de médecine, pour parer mon discours et me donner l'air d'habile homme. "
+            },
+            {
+                "verse_id":452,
+                "text":"SGANARELLE: Allez, allez, tout cela n'est pas nécessaire; il suffit de l'habit, et je n'en sais pas plus que vous. "
+            },
+            {
+                "verse_id":453,
+                "text":"LÉANDRE: Comment? "
+            },
+            {
+                "verse_id":454,
+                "text":"SGANARELLE: Diable emporte si j'entends rien en médecine! Vous êtes honnête homme, et je veux bien me confier à vous, comme vous vous confiez à moi. "
+            },
+            {
+                "verse_id":455,
+                "text":"LÉANDRE: Quoi! vous n'êtes pas effectivement... "
+            },
+            {
+                "verse_id":456,
+                "text":"SGANARELLE: Non, vous dis-je; ils m'ont fait médecin malgré mes dents. Je ne m'étois jamais mêlé d'être si savant que cela, et toutes mes études n'ont été que jusqu'en sixième. Je ne sais point sur quoi cette imagination leur est venue; mais, quand j'ai TU qu'à toute force ils vouloient que je fusse médecin, je me suis résolu de l'être aux dépens de qui il appartiendra. Cependant vous ne sauriez croire comment l'erreur s'est répandue, et de quelle façon chacun est endiablé à me croire habile homme. On me vient chercher de tous les côtés; et, si les choses vont toujours de même, je suis d'avis de m'en tenir toute ma vie à la médecine. Je trouve que c'est le métier le meilleur de tous: car, soit qu'on fasse bien, ou soit qu'on fasse mal, on est toujours payé de même sorte. La méchante besogne ne retombe jamais sur notre dos, et nous taillons comme il nous plaît sur l'étoffe où nous travaillons. Un cordonnier, en faisant des souliers, ne sauroit gâter un morceau de cuir qu'il n'en paye les pots cassés; mais ici l'on peut gâter un homme sans qu'il en coûte rien. Les bévues ne sont point pour nous, et c'est toujours la faute de celui qui meurt. Enfin le bon de cette profession est qu'il y a parmi les morts une honnêteté, une discrétion la plus grande du monde, et jamais on n'en voit se plaindre du médecin qui l'a tué."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":449,
+                "text":"LÉANDRE: Je pense que je suis plutôt bien déguisé en apothicaire; et comme mon père ne m'a pas beaucoup vu, ce changement de vêtements et de perruque devrait suffire pour le tromper. "
+            },
+            {
+                "verse_id":450,
+                "text":"SGANARELLE: Bien sûr. "
+            },
+            {
+                "verse_id":451,
+                "text":"LÉANDRE: Tout ce que je souhaite, c'est de connaître quelques termes médicaux pour embellir mon discours et paraître compétent. "
+            },
+            {
+                "verse_id":452,
+                "text":"SGANARELLE: Allez, allez, tout cela n'est pas nécessaire; l'apparence suffit, et je n'en sais pas plus que vous. "
+            },
+            {
+                "verse_id":453,
+                "text":"LÉANDRE: Comment ça? "
+            },
+            {
+                "verse_id":454,
+                "text":"SGANARELLE: Par tous les diables, je ne comprends rien à la médecine! Vous êtes un homme honnête, et je suis prêt à vous faire confiance, tout comme vous me faites confiance. "
+            },
+            {
+                "verse_id":455,
+                "text":"LÉANDRE: Quoi! Vous n'êtes pas vraiment... "
+            },
+            {
+                "verse_id":456,
+                "text":"SGANARELLE: Non, je vous le dis; ils m'ont fait médecin malgré moi. Je n'ai jamais prétendu être aussi savant que ça, et mes études se sont arrêtées au collège. Je ne sais pas pourquoi ils ont eu cette idée, mais quand j'ai appris qu'ils voulaient absolument que je sois médecin, j'ai décidé de l'être aux dépens de qui que ce soit. Cependant, vous ne pouvez pas imaginer comment cette erreur s'est répandue, et comment tout le monde est persuadé que je suis un homme compétent. On vient me chercher de tous les côtés; et si les choses continuent ainsi, je pense rester médecin toute ma vie. Je trouve que c'est le meilleur métier de tous: que l'on fasse bien ou mal, on est toujours payé de la même manière. Les erreurs ne nous retombent jamais dessus, et nous pouvons couper comme bon nous semble dans le tissu sur lequel nous travaillons. Un cordonnier, en fabriquant des chaussures, ne peut pas gâcher un morceau de cuir sans en payer les conséquences; mais ici, on peut ruiner un homme sans que cela ne coûte rien. Les erreurs ne nous sont pas imputées, et c'est toujours la faute de celui qui meurt. En fin de compte, le bon côté de cette profession est que les morts sont d'une grande honnêteté et d'une discrétion exemplaire, et on ne les entend jamais se plaindre du médecin qui les a tués."
+            }
+        ]
+    },
+    {
+        "acte":3,
+        "scene":1,
+        "verse_id_start":451,
+        "verse_id_end":459,
+        "text":[
+            {
+                "verse_id":451,
+                "text":"LÉANDRE: Tout ce que je souhaiterois seroit de savoir cinq ou six grands mots de médecine, pour parer mon discours et me donner l'air d'habile homme. "
+            },
+            {
+                "verse_id":452,
+                "text":"SGANARELLE: Allez, allez, tout cela n'est pas nécessaire; il suffit de l'habit, et je n'en sais pas plus que vous. "
+            },
+            {
+                "verse_id":453,
+                "text":"LÉANDRE: Comment? "
+            },
+            {
+                "verse_id":454,
+                "text":"SGANARELLE: Diable emporte si j'entends rien en médecine! Vous êtes honnête homme, et je veux bien me confier à vous, comme vous vous confiez à moi. "
+            },
+            {
+                "verse_id":455,
+                "text":"LÉANDRE: Quoi! vous n'êtes pas effectivement... "
+            },
+            {
+                "verse_id":456,
+                "text":"SGANARELLE: Non, vous dis-je; ils m'ont fait médecin malgré mes dents. Je ne m'étois jamais mêlé d'être si savant que cela, et toutes mes études n'ont été que jusqu'en sixième. Je ne sais point sur quoi cette imagination leur est venue; mais, quand j'ai TU qu'à toute force ils vouloient que je fusse médecin, je me suis résolu de l'être aux dépens de qui il appartiendra. Cependant vous ne sauriez croire comment l'erreur s'est répandue, et de quelle façon chacun est endiablé à me croire habile homme. On me vient chercher de tous les côtés; et, si les choses vont toujours de même, je suis d'avis de m'en tenir toute ma vie à la médecine. Je trouve que c'est le métier le meilleur de tous: car, soit qu'on fasse bien, ou soit qu'on fasse mal, on est toujours payé de même sorte. La méchante besogne ne retombe jamais sur notre dos, et nous taillons comme il nous plaît sur l'étoffe où nous travaillons. Un cordonnier, en faisant des souliers, ne sauroit gâter un morceau de cuir qu'il n'en paye les pots cassés; mais ici l'on peut gâter un homme sans qu'il en coûte rien. Les bévues ne sont point pour nous, et c'est toujours la faute de celui qui meurt. Enfin le bon de cette profession est qu'il y a parmi les morts une honnêteté, une discrétion la plus grande du monde, et jamais on n'en voit se plaindre du médecin qui l'a tué. "
+            },
+            {
+                "verse_id":457,
+                "text":"LÉANDRE: Il est vrai que les morts sont fort honnêtes gens sur cette matière. "
+            },
+            {
+                "verse_id":458,
+                "text":"SGANARELLE, voyant des hommes qui viennent vers lui: Voilà des gens qui ont la mine de me venir consulter. Allez toujours m'attendre auprès du logis de votre maîtresse."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":451,
+                "text":"LÉANDRE: Tout ce que je voudrais, c'est de connaître quelques termes médicaux pour paraître intelligent dans mes discours."
+            },
+            {
+                "verse_id":452,
+                "text":"SGANARELLE: Allez, allez, ce n'est pas nécessaire. Il suffit d'avoir l'apparence et je ne sais pas plus que vous."
+            },
+            {
+                "verse_id":453,
+                "text":"LÉANDRE: Comment ça?"
+            },
+            {
+                "verse_id":454,
+                "text":"SGANARELLE: Je vous le dis, je ne comprends rien à la médecine! Vous êtes une personne honnête et je peux me confier en vous, tout comme vous vous confiez en moi."
+            },
+            {
+                "verse_id":455,
+                "text":"LÉANDRE: Donc, vous n'êtes pas vraiment..."
+            },
+            {
+                "verse_id":456,
+                "text":"SGANARELLE: Non, je vous le dis. Ils m'ont fait médecin malgré moi. Je n'ai jamais prétendu être aussi savant que ça, et mes études se sont arrêtées au niveau de la sixième. Je ne sais pas pourquoi ils ont eu cette idée, mais quand j'ai appris qu'ils voulaient absolument que je sois médecin, j'ai décidé de le devenir aux dépens de qui que ce soit. Cependant, vous ne pouvez pas imaginer comment cette erreur s'est répandue et comment tout le monde me croit être un homme compétent. On vient me chercher de tous les côtés et si ça continue ainsi, je pense que je vais rester médecin toute ma vie. Je trouve que c'est le meilleur métier de tous, car que l'on fasse bien ou mal, on est toujours payé de la même manière. Les erreurs ne nous affectent pas et c'est toujours la faute de celui qui meurt. En fin de compte, le bon côté de cette profession est que les morts sont très honnêtes et discrets, et on ne les entend jamais se plaindre du médecin qui les a tués."
+            },
+            {
+                "verse_id":457,
+                "text":"LÉANDRE: C'est vrai que les morts sont très respectueux à ce sujet."
+            },
+            {
+                "verse_id":458,
+                "text":"SGANARELLE, voyant des hommes s'approcher de lui: Voilà des gens qui semblent vouloir me consulter. Allez m'attendre près de la maison de votre maîtresse."
+            }
+        ]
+    }
+]

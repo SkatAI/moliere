@@ -1,0 +1,156 @@
+[
+    {
+        "acte":2,
+        "scene":5,
+        "verse_id_start":430,
+        "verse_id_end":448,
+        "text":[
+            {
+                "verse_id":430,
+                "text":"SGANARELLE, regardant son argent: Ma foi, cela ne va pas mal, et pourvu que... "
+            },
+            {
+                "verse_id":431,
+                "text":"LÉANDRE: Monsieur, il y a longtemps que je vous attends, et je viens implorer votre assistance. "
+            },
+            {
+                "verse_id":432,
+                "text":"SGANARELLE, lui prenant le poignet: Voilà un pouls qui est fort mauvais. "
+            },
+            {
+                "verse_id":433,
+                "text":"LÉANDRE: Je ne suis point malade, Monsieur, et ce n'est pas pour cela que je viens à vous. "
+            },
+            {
+                "verse_id":434,
+                "text":"SGANARELLE: Si vous n'êtes pas malade, que diable ne le dites-vous donc? "
+            },
+            {
+                "verse_id":435,
+                "text":"LÉANDRE: Non. Pour vous dire la chose en deux mots, je m'appelle Léandre, qui suis amoureux de Lucinde, que vous venez de visiter; et, comme, par la mauvaise humeur de son père, toute sorte d'accès m'est fermé auprès d'elle, je me hasarde à vous prier de vouloir servir mon amour, et de me donner lieu d'exécuter un stratagème que j'ai trouvé pour lui pouvoir dire deux mots d'où dépendent absolument mon bonheur et ma vie. "
+            },
+            {
+                "verse_id":436,
+                "text":"SGANARELLE, paroissant en colère: Pour qui me prenez-vous? Comment! oser vous adresser à moi pour vous servir dans votre amour, et vouloir ravaler la dignité de médecin à des emplois de cette nature! "
+            },
+            {
+                "verse_id":437,
+                "text":"LÉANDRE: Monsieur, ne faites point de bruit. "
+            },
+            {
+                "verse_id":438,
+                "text":"SGANARELLE, en le faisant reculer: J'en veux faire, moi. Vous êtes un impertinent. "
+            },
+            {
+                "verse_id":439,
+                "text":"LÉANDRE: Hé! Monsieur, doucement. "
+            },
+            {
+                "verse_id":440,
+                "text":"SGANARELLE: Un malavisé. "
+            },
+            {
+                "verse_id":441,
+                "text":"LÉANDRE: De grâce! "
+            },
+            {
+                "verse_id":442,
+                "text":"SGANARELLE: Je vous apprendrai que je ne suis point homme à cela, et que c'est une insolence extrême... "
+            },
+            {
+                "verse_id":443,
+                "text":"LÉANDRE, tirant une bourse qu'il lui donne: Monsieur! "
+            },
+            {
+                "verse_id":444,
+                "text":"SGANARELLE, tenant la bourse: De vouloir m'employer... Je ne parle pas pour vous, car vous êtes honnête homme, et je serois ravi de vous rendre service. Mais il y a de certains impertinents au monde qui viennent prendre les gens pour ce qu'ils ne sont pas, et je vous avoue que cela me met en colère. "
+            },
+            {
+                "verse_id":445,
+                "text":"LÉANDRE: Je vous demande pardon, Monsieur, de la liberté que... "
+            },
+            {
+                "verse_id":446,
+                "text":"SGANARELLE: Vous vous moquez! De quoi est-il question? "
+            },
+            {
+                "verse_id":447,
+                "text":"LÉANDRE: Vous saurez donc, Monsieur, que cette maladie que vous voulez guérir est une feinte maladie. Les médecins ont raisonné là-dessus comme il faut, et ils n'ont pas manqué de dire que cela procédoit, qui du cerveau, qui des entrailles, qui de la rate, qui du foie. Mais il est certain que l'amour en est la véritable cause, et que Lucinde n'a trouvé cette maladie que pour se délivrer d'un mariage dont elle étoit importunée. Mais de crainte qu'on ne nous voie ensemble, retirons-nous d'ici, et je vous dirai en marchant ce que je souhaite de vous."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":430,
+                "text":"SGANARELLE, regardant son argent: Franchement, ça va plutôt bien, et tant que..."
+            },
+            {
+                "verse_id":431,
+                "text":"LÉANDRE: Monsieur, ça fait longtemps que j'attends votre aide, et je viens implorer votre assistance."
+            },
+            {
+                "verse_id":432,
+                "text":"SGANARELLE, lui prenant le poignet: Ton pouls est vraiment mauvais."
+            },
+            {
+                "verse_id":433,
+                "text":"LÉANDRE: Je ne suis pas malade, Monsieur, et ce n'est pas pour ça que je viens te voir."
+            },
+            {
+                "verse_id":434,
+                "text":"SGANARELLE: Si tu n'es pas malade, pourquoi diable ne le dis-tu pas alors ?"
+            },
+            {
+                "verse_id":435,
+                "text":"LÉANDRE: Non. Pour te dire les choses en deux mots, je m'appelle Léandre et je suis amoureux de Lucinde, que tu viens de visiter. Et comme son père est de mauvaise humeur et m'empêche de l'approcher, je me risque à te demander de m'aider dans mon amour et de me donner l'occasion de mettre en œuvre un stratagème qui détermine complètement mon bonheur et ma vie."
+            },
+            {
+                "verse_id":436,
+                "text":"SGANARELLE, en colère: Tu te prends pour qui ? Comment oses-tu te tourner vers moi pour t'aider dans ton amour et vouloir rabaisser la dignité d'un médecin à de tels emplois ?"
+            },
+            {
+                "verse_id":437,
+                "text":"LÉANDRE: Monsieur, ne fais pas de scandale."
+            },
+            {
+                "verse_id":438,
+                "text":"SGANARELLE, le faisant reculer: Moi, je vais en faire. Tu es impertinent."
+            },
+            {
+                "verse_id":439,
+                "text":"LÉANDRE: Hé ! Monsieur, doucement."
+            },
+            {
+                "verse_id":440,
+                "text":"SGANARELLE: Un malavisé."
+            },
+            {
+                "verse_id":441,
+                "text":"LÉANDRE: S'il vous plaît !"
+            },
+            {
+                "verse_id":442,
+                "text":"SGANARELLE: Je vais te montrer que je ne suis pas homme à ça, et que c'est une insolence extrême..."
+            },
+            {
+                "verse_id":443,
+                "text":"LÉANDRE, sortant une bourse qu'il lui donne: Monsieur !"
+            },
+            {
+                "verse_id":444,
+                "text":"SGANARELLE, tenant la bourse: Vouloir me faire travailler... Je ne parle pas de toi, car tu es un honnête homme et je serais ravi de te rendre service. Mais il y a certains impertinents dans ce monde qui prennent les gens pour ce qu'ils ne sont pas, et je t'avoue que ça me met en colère."
+            },
+            {
+                "verse_id":445,
+                "text":"LÉANDRE: Je vous demande pardon, Monsieur, pour cette liberté que..."
+            },
+            {
+                "verse_id":446,
+                "text":"SGANARELLE: Tu te moques de moi ! De quoi s'agit-il ?"
+            },
+            {
+                "verse_id":447,
+                "text":"LÉANDRE: Alors tu sauras, Monsieur, que cette maladie que tu veux guérir est une fausse maladie. Les médecins ont bien raisonné là-dessus et ils n'ont pas manqué de dire que ça venait du cerveau, des entrailles, de la rate, du foie. Mais il est certain que l'amour en est la véritable cause et que Lucinde a inventé cette maladie pour échapper à un mariage qui la dérangeait. Mais pour éviter qu'on nous voie ensemble, partons d'ici et je te dirai en marchant ce que j'attends de toi."
+            }
+        ]
+    }
+]

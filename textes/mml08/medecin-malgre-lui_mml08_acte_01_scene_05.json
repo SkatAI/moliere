@@ -1,0 +1,1696 @@
+[
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":138,
+        "verse_id_end":156,
+        "text":[
+            {
+                "verse_id":138,
+                "text":"SGANARELLE entre sur le théâtre en chantant et tenant une bouteille: La! la! la! "
+            },
+            {
+                "verse_id":139,
+                "text":"VALÈRE: J'entends quelqu'un qui chante et qui coupe du bois. "
+            },
+            {
+                "verse_id":140,
+                "text":"SGANARELLE: La! la! la!... Ma foi, c'est assez travaillé pour un coup: prenons un peu d'haleine. (Il boit, et dit après avoir bu:) Voilà du bois qui est salé comme tous les diables.\nQu'ils sont doux, Bouteille jolie, Qu'ils sont doux Vos petits glou-gloux! Mais mon sort feroit bien des jaloux Si vous étiez toujours remplie. Ah! bouteille, ma mie, Pourquoi vous videz-vous?\nAllons, morbleu! il ne faut point engendrer de mélancolie. "
+            },
+            {
+                "verse_id":141,
+                "text":"VALÈRE: Le voilà lui-même. "
+            },
+            {
+                "verse_id":142,
+                "text":"LUCAS: Je pense que vous dites vrai, et que j'avons bouté le nez dessus. "
+            },
+            {
+                "verse_id":143,
+                "text":"VALÈRE: Voyons de près. "
+            },
+            {
+                "verse_id":144,
+                "text":"SGANARELLE, les apercevant, les regarde en se tournant vers l'un et puis vers l'autre, tt, abaissant sa voix, dit:: Ah! ma petite friponne, que je t'aime, mon petit bouchon!\n...Mon sort... feroit... bien des... jaloux, Si...\nQue diable! à qui en veulent ces gens-là? "
+            },
+            {
+                "verse_id":145,
+                "text":"VALÈRE: C'est lui assurément. "
+            },
+            {
+                "verse_id":146,
+                "text":"LUCAS: Le velà tout craché comme on nous l'a défiguré. "
+            },
+            {
+                "verse_id":147,
+                "text":"SGANARELLE, à part: (Ici il pose sa bouteille à terre, et, Valère se baissant pour le saluer, comme il croit que c'est à dessein de la prendre, il la met de l'autre côté; ensuite de quoi, Lucas faisant la même chose, il la reprend et la tient contre son estomac, avec divers gestes qui font un grand jeu de théâtre.)\nIls consultent en me regardant; quel dessein auroient-ils? "
+            },
+            {
+                "verse_id":148,
+                "text":"VALÈRE: Monsieur, n'est-ce pas vous qui vous appelez Sganarelle? "
+            },
+            {
+                "verse_id":149,
+                "text":"SGANARELLE: Hé! quoi? "
+            },
+            {
+                "verse_id":150,
+                "text":"VALÈRE: Je vous demande si ce n'est pas vous qui se nomme Sganarelle? "
+            },
+            {
+                "verse_id":151,
+                "text":"SGANARELLE, se tournant vers Valère, puis vers Lucas: Oui et non, selon ce que vous lui voulez. "
+            },
+            {
+                "verse_id":152,
+                "text":"VALÈRE: Nous ne voulons que lui faire toutes les civilités que nous pourrons. "
+            },
+            {
+                "verse_id":153,
+                "text":"SGANARELLE: En ce cas, c'est moi qui se nomme Sganarelle. "
+            },
+            {
+                "verse_id":154,
+                "text":"VALÈRE: Monsieur, nous sommes ravis de vous voir. On nous a adressés à vous pour ce que nous cherchons, t nous venons implorer votre aide, dont nous avons besoin. "
+            },
+            {
+                "verse_id":155,
+                "text":"SGANARELLE: Si c'est quelque chose, Messieurs, qui dépende de mon petit négoce, je suis tout prêt à vous rendre service."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":138,
+                "text":"SGANARELLE entre sur scène en chantant et tenant une bouteille: La! la! la!"
+            },
+            {
+                "verse_id":139,
+                "text":"VALÈRE: J'entends quelqu'un qui chante et qui coupe du bois."
+            },
+            {
+                "verse_id":140,
+                "text":"SGANARELLE: La! la! la!... Bon, j'ai assez travaillé pour aujourd'hui, prenons un peu de repos. (Il boit, et dit après avoir bu:) Ce bois est vraiment salé comme tout.\nComme c'est agréable, ma jolie bouteille, Comme c'est agréable, Tes petits glou-gloux! Mais ma situation rendrait bien des gens jaloux Si tu étais toujours remplie. Ah! ma bouteille, ma chérie, Pourquoi te vides-tu?\nAllons, bon sang! il ne faut pas se laisser envahir par la mélancolie."
+            },
+            {
+                "verse_id":141,
+                "text":"VALÈRE: Le voilà lui-même."
+            },
+            {
+                "verse_id":142,
+                "text":"LUCAS: Je pense que tu as raison, nous l'avons trouvé."
+            },
+            {
+                "verse_id":143,
+                "text":"VALÈRE: Approchons-nous."
+            },
+            {
+                "verse_id":144,
+                "text":"SGANARELLE, les apercevant, les regarde en se tournant vers l'un et puis vers l'autre, et, baissant la voix, dit: Ah! ma petite friponne, que je t'aime, mon petit bouchon!\n...Ma situation... rendrait... bien des... jaloux, Si...\nBon sang! À qui en veulent ces gens-là?"
+            },
+            {
+                "verse_id":145,
+                "text":"VALÈRE: C'est lui, c'est sûr."
+            },
+            {
+                "verse_id":146,
+                "text":"LUCAS: C'est lui tout craché, comme on nous l'a décrit."
+            },
+            {
+                "verse_id":147,
+                "text":"SGANARELLE, à part: (Ici, il pose sa bouteille par terre, et lorsque Valère se baisse pour le saluer, pensant qu'il veut la prendre, il la met de l'autre côté; ensuite, lorsque Lucas fait la même chose, il la reprend et la tient contre son estomac, avec divers gestes qui font un grand jeu de théâtre.)\nIls se consultent en me regardant; qu'est-ce qu'ils ont en tête?"
+            },
+            {
+                "verse_id":148,
+                "text":"VALÈRE: Monsieur, est-ce que vous vous appelez Sganarelle?"
+            },
+            {
+                "verse_id":149,
+                "text":"SGANARELLE: Hein? Quoi?"
+            },
+            {
+                "verse_id":150,
+                "text":"VALÈRE: Je vous demande si vous vous appelez Sganarelle?"
+            },
+            {
+                "verse_id":151,
+                "text":"SGANARELLE, se tournant vers Valère, puis vers Lucas: Oui et non, ça dépend de ce que vous voulez lui dire."
+            },
+            {
+                "verse_id":152,
+                "text":"VALÈRE: Nous voulons simplement lui rendre toutes les politesses possibles."
+            },
+            {
+                "verse_id":153,
+                "text":"SGANARELLE: Dans ce cas, c'est moi qui m'appelle Sganarelle."
+            },
+            {
+                "verse_id":154,
+                "text":"VALÈRE: Monsieur, nous sommes ravis de vous rencontrer. On nous a dirigés vers vous pour ce que nous cherchons, et nous venons vous demander votre aide, dont nous avons besoin."
+            },
+            {
+                "verse_id":155,
+                "text":"SGANARELLE: Si c'est quelque chose, Messieurs, qui concerne mon petit commerce, je suis prêt à vous rendre service."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":147,
+        "verse_id_end":165,
+        "text":[
+            {
+                "verse_id":147,
+                "text":"SGANARELLE, à part: (Ici il pose sa bouteille à terre, et, Valère se baissant pour le saluer, comme il croit que c'est à dessein de la prendre, il la met de l'autre côté; ensuite de quoi, Lucas faisant la même chose, il la reprend et la tient contre son estomac, avec divers gestes qui font un grand jeu de théâtre.)\nIls consultent en me regardant; quel dessein auroient-ils? "
+            },
+            {
+                "verse_id":148,
+                "text":"VALÈRE: Monsieur, n'est-ce pas vous qui vous appelez Sganarelle? "
+            },
+            {
+                "verse_id":149,
+                "text":"SGANARELLE: Hé! quoi? "
+            },
+            {
+                "verse_id":150,
+                "text":"VALÈRE: Je vous demande si ce n'est pas vous qui se nomme Sganarelle? "
+            },
+            {
+                "verse_id":151,
+                "text":"SGANARELLE, se tournant vers Valère, puis vers Lucas: Oui et non, selon ce que vous lui voulez. "
+            },
+            {
+                "verse_id":152,
+                "text":"VALÈRE: Nous ne voulons que lui faire toutes les civilités que nous pourrons. "
+            },
+            {
+                "verse_id":153,
+                "text":"SGANARELLE: En ce cas, c'est moi qui se nomme Sganarelle. "
+            },
+            {
+                "verse_id":154,
+                "text":"VALÈRE: Monsieur, nous sommes ravis de vous voir. On nous a adressés à vous pour ce que nous cherchons, t nous venons implorer votre aide, dont nous avons besoin. "
+            },
+            {
+                "verse_id":155,
+                "text":"SGANARELLE: Si c'est quelque chose, Messieurs, qui dépende de mon petit négoce, je suis tout prêt à vous rendre service. "
+            },
+            {
+                "verse_id":156,
+                "text":"VALÈRE: Monsieur, c'est trop de grâce que vous nous faites. Mais, Monsieur, couvrez-vous, s'il vous plaît, le soleil pourrait vous incommoder. "
+            },
+            {
+                "verse_id":157,
+                "text":"LUCAS: Monsieu, boutez dessus. "
+            },
+            {
+                "verse_id":158,
+                "text":"SGANARELLE, bas: Voici des gens bien pleins de cérémonie. "
+            },
+            {
+                "verse_id":159,
+                "text":"VALÈRE: Monsieur, il ne faut pas trouver étrange que nous venions à vous: les habiles gens sont toujours recherchés, et nous sommes instruits de votre capacité. "
+            },
+            {
+                "verse_id":160,
+                "text":"SGANARELLE: Il est vrai, Messieurs, que je suis le premier homme du monde pour faire des fagots. "
+            },
+            {
+                "verse_id":161,
+                "text":"VALÈRE: Ah! Monsieur!... "
+            },
+            {
+                "verse_id":162,
+                "text":"SGANARELLE: Je n'y épargne aucune chose, et les fais d'une façon qu'il n'y a rien à dire. "
+            },
+            {
+                "verse_id":163,
+                "text":"VALÈRE: Monsieur, ce n'est pas cela dont il est question. "
+            },
+            {
+                "verse_id":164,
+                "text":"SGANARELLE: Mais aussi je les vends cent dix sols le cent."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":147,
+                "text":"SGANARELLE, à part: (Il pose sa bouteille par terre et, lorsque Valère se baisse pour le saluer, pensant qu'il veut la prendre, il la met de l'autre côté. Ensuite, lorsque Lucas fait la même chose, il la reprend et la tient contre son estomac, en faisant divers gestes théâtraux.)\nIls me regardent en discutant; qu'est-ce qu'ils veulent?"
+            },
+            {
+                "verse_id":148,
+                "text":"VALÈRE: Monsieur, est-ce que vous vous appelez Sganarelle?"
+            },
+            {
+                "verse_id":149,
+                "text":"SGANARELLE: Hein? Quoi?"
+            },
+            {
+                "verse_id":150,
+                "text":"VALÈRE: Je vous demande si vous vous appelez Sganarelle."
+            },
+            {
+                "verse_id":151,
+                "text":"SGANARELLE, se tournant vers Valère, puis vers Lucas: Oui et non, ça dépend de ce que vous voulez."
+            },
+            {
+                "verse_id":152,
+                "text":"VALÈRE: Nous voulons simplement vous témoigner toute notre politesse."
+            },
+            {
+                "verse_id":153,
+                "text":"SGANARELLE: Dans ce cas, c'est moi qui m'appelle Sganarelle."
+            },
+            {
+                "verse_id":154,
+                "text":"VALÈRE: Monsieur, nous sommes ravis de vous rencontrer. On nous a recommandé de vous pour ce que nous cherchons et nous venons vous demander votre aide dont nous avons besoin."
+            },
+            {
+                "verse_id":155,
+                "text":"SGANARELLE: Si c'est quelque chose, Messieurs, qui concerne mon petit commerce, je suis prêt à vous rendre service."
+            },
+            {
+                "verse_id":156,
+                "text":"VALÈRE: Monsieur, vous êtes bien aimable. Mais, s'il vous plaît, couvrez-vous, le soleil pourrait vous déranger."
+            },
+            {
+                "verse_id":157,
+                "text":"LUCAS: Monsieur, mettez-le sur votre tête."
+            },
+            {
+                "verse_id":158,
+                "text":"SGANARELLE, à voix basse: Voilà des gens très cérémonieux."
+            },
+            {
+                "verse_id":159,
+                "text":"VALÈRE: Monsieur, il ne faut pas s'étonner que nous venions vers vous: les personnes compétentes sont toujours recherchées et nous avons entendu parler de vos talents."
+            },
+            {
+                "verse_id":160,
+                "text":"SGANARELLE: C'est vrai, Messieurs, je suis le meilleur au monde pour faire des fagots."
+            },
+            {
+                "verse_id":161,
+                "text":"VALÈRE: Ah! Monsieur!..."
+            },
+            {
+                "verse_id":162,
+                "text":"SGANARELLE: Je ne lésine sur rien et je les fais d'une manière impeccable."
+            },
+            {
+                "verse_id":163,
+                "text":"VALÈRE: Monsieur, ce n'est pas de cela dont il s'agit."
+            },
+            {
+                "verse_id":164,
+                "text":"SGANARELLE: Mais je les vends aussi à cent dix sols le cent."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":156,
+        "verse_id_end":174,
+        "text":[
+            {
+                "verse_id":156,
+                "text":"VALÈRE: Monsieur, c'est trop de grâce que vous nous faites. Mais, Monsieur, couvrez-vous, s'il vous plaît, le soleil pourrait vous incommoder. "
+            },
+            {
+                "verse_id":157,
+                "text":"LUCAS: Monsieu, boutez dessus. "
+            },
+            {
+                "verse_id":158,
+                "text":"SGANARELLE, bas: Voici des gens bien pleins de cérémonie. "
+            },
+            {
+                "verse_id":159,
+                "text":"VALÈRE: Monsieur, il ne faut pas trouver étrange que nous venions à vous: les habiles gens sont toujours recherchés, et nous sommes instruits de votre capacité. "
+            },
+            {
+                "verse_id":160,
+                "text":"SGANARELLE: Il est vrai, Messieurs, que je suis le premier homme du monde pour faire des fagots. "
+            },
+            {
+                "verse_id":161,
+                "text":"VALÈRE: Ah! Monsieur!... "
+            },
+            {
+                "verse_id":162,
+                "text":"SGANARELLE: Je n'y épargne aucune chose, et les fais d'une façon qu'il n'y a rien à dire. "
+            },
+            {
+                "verse_id":163,
+                "text":"VALÈRE: Monsieur, ce n'est pas cela dont il est question. "
+            },
+            {
+                "verse_id":164,
+                "text":"SGANARELLE: Mais aussi je les vends cent dix sols le cent. "
+            },
+            {
+                "verse_id":165,
+                "text":"VALÈRE: Ne parlons point de cela, s'il vous plaît. "
+            },
+            {
+                "verse_id":166,
+                "text":"SGANARELLE: Je vous promets que je ne saurois les donner à moins. "
+            },
+            {
+                "verse_id":167,
+                "text":"VALÈRE: Monsieur, nous savons les choses. "
+            },
+            {
+                "verse_id":168,
+                "text":"SGANARELLE: Si vous savez les choses, vous savez que je les vends cela. "
+            },
+            {
+                "verse_id":169,
+                "text":"VALÈRE: Monsieur, c'est se moquer que... "
+            },
+            {
+                "verse_id":170,
+                "text":"SGANARELLE: Je ne me moque point, je n'en puis rien rabattre. "
+            },
+            {
+                "verse_id":171,
+                "text":"VALÈRE: Parlons d'autre façon, de grâce. "
+            },
+            {
+                "verse_id":172,
+                "text":"SGANARELLE: Vous en pourrez trouver autre part à moins: il y a fagots et fagots; mais pour ceux que je fais... "
+            },
+            {
+                "verse_id":173,
+                "text":"VALÈRE: Hé! Monsieur, laissons là ce discours."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":156,
+                "text":"VALÈRE: Monsieur, vous êtes vraiment très aimable. Mais, Monsieur, veuillez vous couvrir, le soleil pourrait vous déranger."
+            },
+            {
+                "verse_id":157,
+                "text":"LUCAS: Monsieur, ignorez-le."
+            },
+            {
+                "verse_id":158,
+                "text":"SGANARELLE, à voix basse: Voilà des gens très cérémonieux."
+            },
+            {
+                "verse_id":159,
+                "text":"VALÈRE: Monsieur, il ne faut pas s'étonner que nous venions vers vous : les personnes compétentes sont toujours recherchées, et nous avons entendu parler de vos talents."
+            },
+            {
+                "verse_id":160,
+                "text":"SGANARELLE: C'est vrai, Messieurs, je suis le meilleur au monde pour faire des fagots."
+            },
+            {
+                "verse_id":161,
+                "text":"VALÈRE: Ah! Monsieur!..."
+            },
+            {
+                "verse_id":162,
+                "text":"SGANARELLE: Je ne lésine sur rien et je les fais d'une manière impeccable."
+            },
+            {
+                "verse_id":163,
+                "text":"VALÈRE: Monsieur, ce n'est pas de cela dont il est question."
+            },
+            {
+                "verse_id":164,
+                "text":"SGANARELLE: Mais je les vends aussi à cent dix sols le cent."
+            },
+            {
+                "verse_id":165,
+                "text":"VALÈRE: Ne parlons pas de cela, s'il vous plaît."
+            },
+            {
+                "verse_id":166,
+                "text":"SGANARELLE: Je vous promets que je ne peux pas les donner à un prix inférieur."
+            },
+            {
+                "verse_id":167,
+                "text":"VALÈRE: Monsieur, nous sommes au courant des choses."
+            },
+            {
+                "verse_id":168,
+                "text":"SGANARELLE: Si vous savez les choses, vous savez que je les vends à ce prix-là."
+            },
+            {
+                "verse_id":169,
+                "text":"VALÈRE: Monsieur, c'est se moquer de..."
+            },
+            {
+                "verse_id":170,
+                "text":"SGANARELLE: Je ne me moque pas, je ne peux pas baisser le prix."
+            },
+            {
+                "verse_id":171,
+                "text":"VALÈRE: Parlons d'autre chose, je vous en prie."
+            },
+            {
+                "verse_id":172,
+                "text":"SGANARELLE: Vous pourrez en trouver ailleurs à un prix inférieur : il y a des fagots et des fagots ; mais pour ceux que je fais..."
+            },
+            {
+                "verse_id":173,
+                "text":"VALÈRE: Hé! Monsieur, laissons ce discours de côté."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":165,
+        "verse_id_end":183,
+        "text":[
+            {
+                "verse_id":165,
+                "text":"VALÈRE: Ne parlons point de cela, s'il vous plaît. "
+            },
+            {
+                "verse_id":166,
+                "text":"SGANARELLE: Je vous promets que je ne saurois les donner à moins. "
+            },
+            {
+                "verse_id":167,
+                "text":"VALÈRE: Monsieur, nous savons les choses. "
+            },
+            {
+                "verse_id":168,
+                "text":"SGANARELLE: Si vous savez les choses, vous savez que je les vends cela. "
+            },
+            {
+                "verse_id":169,
+                "text":"VALÈRE: Monsieur, c'est se moquer que... "
+            },
+            {
+                "verse_id":170,
+                "text":"SGANARELLE: Je ne me moque point, je n'en puis rien rabattre. "
+            },
+            {
+                "verse_id":171,
+                "text":"VALÈRE: Parlons d'autre façon, de grâce. "
+            },
+            {
+                "verse_id":172,
+                "text":"SGANARELLE: Vous en pourrez trouver autre part à moins: il y a fagots et fagots; mais pour ceux que je fais... "
+            },
+            {
+                "verse_id":173,
+                "text":"VALÈRE: Hé! Monsieur, laissons là ce discours. "
+            },
+            {
+                "verse_id":174,
+                "text":"SGANARELLE: Je vous jure que vous ne les auriez pas, s'il s'en falloit un double. "
+            },
+            {
+                "verse_id":175,
+                "text":"VALÈRE: Hé! fi! "
+            },
+            {
+                "verse_id":176,
+                "text":"SGANARELLE: Non, en conscience, vous en payerez cela. Je vous parle sincèrement, et je ne suis pas homme à surfaire. "
+            },
+            {
+                "verse_id":177,
+                "text":"VALÈRE: Faut-il, Monsieur, qu'une personne comme vous s'amuse à ces grossières feintes, s'abaisse à parler de la sorte? qu'un homme si savant, un fameux médecin, comme vous êtes, veuille se déguiser aux yeux du monde, et tenir enterrés les beaux talents qu'il a? "
+            },
+            {
+                "verse_id":178,
+                "text":"SGANARELLE, à part: Il est fou. "
+            },
+            {
+                "verse_id":179,
+                "text":"VALÈRE: De grâce, Monsieur, ne dissimulez point avec nous. "
+            },
+            {
+                "verse_id":180,
+                "text":"SGANARELLE: Comment? "
+            },
+            {
+                "verse_id":181,
+                "text":"LUCAS: Tout ce tripotage ne sart de rian, je sçavons çen que je sçavons. "
+            },
+            {
+                "verse_id":182,
+                "text":"SGANARELLE: Quoi donc? que me voulez-vous dire? Pour qui me prenez-vous?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":165,
+                "text":"VALÈRE: Ne parlons pas de ça, s'il vous plaît."
+            },
+            {
+                "verse_id":166,
+                "text":"SGANARELLE: Je vous promets que je ne peux pas les donner pour moins cher."
+            },
+            {
+                "verse_id":167,
+                "text":"VALÈRE: Monsieur, nous savons ce qui se passe."
+            },
+            {
+                "verse_id":168,
+                "text":"SGANARELLE: Si vous savez ce qui se passe, vous savez que je les vends à ce prix-là."
+            },
+            {
+                "verse_id":169,
+                "text":"VALÈRE: Monsieur, c'est se moquer que..."
+            },
+            {
+                "verse_id":170,
+                "text":"SGANARELLE: Je ne me moque pas, je ne peux pas baisser le prix."
+            },
+            {
+                "verse_id":171,
+                "text":"VALÈRE: Parlons d'une autre manière, s'il vous plaît."
+            },
+            {
+                "verse_id":172,
+                "text":"SGANARELLE: Vous pourrez en trouver ailleurs à un prix inférieur : il y a des tas de fagots, mais pour ceux que je fais..."
+            },
+            {
+                "verse_id":173,
+                "text":"VALÈRE: Hé ! Monsieur, laissons ce discours."
+            },
+            {
+                "verse_id":174,
+                "text":"SGANARELLE: Je vous jure que vous ne les aurez pas, même si le prix était deux fois plus bas."
+            },
+            {
+                "verse_id":175,
+                "text":"VALÈRE: Hé ! Non, vraiment !"
+            },
+            {
+                "verse_id":176,
+                "text":"SGANARELLE: Non, sincèrement, vous paierez ce prix-là. Je vous parle franchement, je ne suis pas du genre à exagérer."
+            },
+            {
+                "verse_id":177,
+                "text":"VALÈRE: Est-ce que vous, une personne comme vous, vous amusez avec ces grossières feintes, vous abaissez à parler de cette façon ? Un homme si savant, un célèbre médecin comme vous, veut se cacher aux yeux du monde et garder ses talents cachés ?"
+            },
+            {
+                "verse_id":178,
+                "text":"SGANARELLE, à part: Il est fou."
+            },
+            {
+                "verse_id":179,
+                "text":"VALÈRE: S'il vous plaît, Monsieur, ne dissimulez pas avec nous."
+            },
+            {
+                "verse_id":180,
+                "text":"SGANARELLE: Comment ça ?"
+            },
+            {
+                "verse_id":181,
+                "text":"LUCAS: Tout ce bavardage ne sert à rien, nous savons ce que nous savons."
+            },
+            {
+                "verse_id":182,
+                "text":"SGANARELLE: Quoi donc ? Que voulez-vous me dire ? Pour qui me prenez-vous ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":174,
+        "verse_id_end":192,
+        "text":[
+            {
+                "verse_id":174,
+                "text":"SGANARELLE: Je vous jure que vous ne les auriez pas, s'il s'en falloit un double. "
+            },
+            {
+                "verse_id":175,
+                "text":"VALÈRE: Hé! fi! "
+            },
+            {
+                "verse_id":176,
+                "text":"SGANARELLE: Non, en conscience, vous en payerez cela. Je vous parle sincèrement, et je ne suis pas homme à surfaire. "
+            },
+            {
+                "verse_id":177,
+                "text":"VALÈRE: Faut-il, Monsieur, qu'une personne comme vous s'amuse à ces grossières feintes, s'abaisse à parler de la sorte? qu'un homme si savant, un fameux médecin, comme vous êtes, veuille se déguiser aux yeux du monde, et tenir enterrés les beaux talents qu'il a? "
+            },
+            {
+                "verse_id":178,
+                "text":"SGANARELLE, à part: Il est fou. "
+            },
+            {
+                "verse_id":179,
+                "text":"VALÈRE: De grâce, Monsieur, ne dissimulez point avec nous. "
+            },
+            {
+                "verse_id":180,
+                "text":"SGANARELLE: Comment? "
+            },
+            {
+                "verse_id":181,
+                "text":"LUCAS: Tout ce tripotage ne sart de rian, je sçavons çen que je sçavons. "
+            },
+            {
+                "verse_id":182,
+                "text":"SGANARELLE: Quoi donc? que me voulez-vous dire? Pour qui me prenez-vous? "
+            },
+            {
+                "verse_id":183,
+                "text":"VALÈRE: Pour ce que vous êtes, pour un grand médecin. "
+            },
+            {
+                "verse_id":184,
+                "text":"SGANARELLE: Médecin vous-même: je ne le suis point, et ne l'ai jamais été. "
+            },
+            {
+                "verse_id":185,
+                "text":"VALÈRE, bas: Voilà sa folie qui le tient. (Haut.) Monsieur, ne veuillez point nier les choses davantage, et n'en venons point, s'il vous plait, à de fâcheuses extrémités. "
+            },
+            {
+                "verse_id":186,
+                "text":"SGANARELLE: À quoi donc? "
+            },
+            {
+                "verse_id":187,
+                "text":"VALÈRE: À de certaines choses dont nous serions marris. "
+            },
+            {
+                "verse_id":188,
+                "text":"SGANARELLE: Parbleu! venez-en à tout ce qu'il vous plaira; je ne suis point médecin, et ne sais ce que vous me voulez dire. "
+            },
+            {
+                "verse_id":189,
+                "text":"VALÈRE, bas: Je vois bien qu'il faut se servir du remède. (Haut.) Monsieur, encore un coup, je vous prie d'avouer ce que vous êtes. "
+            },
+            {
+                "verse_id":190,
+                "text":"LUCAS: Et testigué! ne lantiponez point davantage, et confessez à la franquette que v'estes médecin. "
+            },
+            {
+                "verse_id":191,
+                "text":"SGANARELLE: J'enrage!"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":174,
+                "text":"SGANARELLE: Je vous jure que vous ne les auriez pas, même si c'était le double."
+            },
+            {
+                "verse_id":175,
+                "text":"VALÈRE: Oh non, vraiment !"
+            },
+            {
+                "verse_id":176,
+                "text":"SGANARELLE: Non, sérieusement, vous allez devoir payer cela. Je vous parle honnêtement, je ne suis pas du genre à exagérer."
+            },
+            {
+                "verse_id":177,
+                "text":"VALÈRE: Est-ce que quelqu'un comme vous doit s'amuser avec de telles grossières plaisanteries, se rabaisser à parler de cette façon ? Un homme si savant, un célèbre médecin comme vous, devrait-il se cacher aux yeux du monde et garder ses talents cachés ?"
+            },
+            {
+                "verse_id":178,
+                "text":"SGANARELLE, à part: Il est fou."
+            },
+            {
+                "verse_id":179,
+                "text":"VALÈRE: S'il vous plaît, Monsieur, ne jouez pas à cache-cache avec nous."
+            },
+            {
+                "verse_id":180,
+                "text":"SGANARELLE: Comment ça ?"
+            },
+            {
+                "verse_id":181,
+                "text":"LUCAS: Tout ce bazar ne sert à rien, nous savons ce que nous savons."
+            },
+            {
+                "verse_id":182,
+                "text":"SGANARELLE: Quoi donc ? Que voulez-vous me dire ? Pour qui me prenez-vous ?"
+            },
+            {
+                "verse_id":183,
+                "text":"VALÈRE: Pour ce que vous êtes, pour un grand médecin."
+            },
+            {
+                "verse_id":184,
+                "text":"SGANARELLE: Médecin vous-même : je ne le suis pas et je ne l'ai jamais été."
+            },
+            {
+                "verse_id":185,
+                "text":"VALÈRE, à voix basse: Il est vraiment fou. (Haut.) Monsieur, je vous en prie, ne niez pas davantage les choses et évitons d'en arriver à des situations fâcheuses."
+            },
+            {
+                "verse_id":186,
+                "text":"SGANARELLE: À quoi donc ?"
+            },
+            {
+                "verse_id":187,
+                "text":"VALÈRE: À certaines choses qui nous causeraient des ennuis."
+            },
+            {
+                "verse_id":188,
+                "text":"SGANARELLE: Bien sûr ! Allez-y, dites-moi tout ce que vous voulez ; je ne suis pas médecin et je ne comprends pas ce que vous voulez dire."
+            },
+            {
+                "verse_id":189,
+                "text":"VALÈRE, à voix basse: Je vois bien qu'il faut utiliser le remède. (Haut.) Monsieur, une fois de plus, je vous prie d'avouer ce que vous êtes."
+            },
+            {
+                "verse_id":190,
+                "text":"LUCAS: Et je le jure ! Ne niez pas davantage et avouez franchement que vous êtes médecin."
+            },
+            {
+                "verse_id":191,
+                "text":"SGANARELLE: Je suis furieux !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":183,
+        "verse_id_end":201,
+        "text":[
+            {
+                "verse_id":183,
+                "text":"VALÈRE: Pour ce que vous êtes, pour un grand médecin. "
+            },
+            {
+                "verse_id":184,
+                "text":"SGANARELLE: Médecin vous-même: je ne le suis point, et ne l'ai jamais été. "
+            },
+            {
+                "verse_id":185,
+                "text":"VALÈRE, bas: Voilà sa folie qui le tient. (Haut.) Monsieur, ne veuillez point nier les choses davantage, et n'en venons point, s'il vous plait, à de fâcheuses extrémités. "
+            },
+            {
+                "verse_id":186,
+                "text":"SGANARELLE: À quoi donc? "
+            },
+            {
+                "verse_id":187,
+                "text":"VALÈRE: À de certaines choses dont nous serions marris. "
+            },
+            {
+                "verse_id":188,
+                "text":"SGANARELLE: Parbleu! venez-en à tout ce qu'il vous plaira; je ne suis point médecin, et ne sais ce que vous me voulez dire. "
+            },
+            {
+                "verse_id":189,
+                "text":"VALÈRE, bas: Je vois bien qu'il faut se servir du remède. (Haut.) Monsieur, encore un coup, je vous prie d'avouer ce que vous êtes. "
+            },
+            {
+                "verse_id":190,
+                "text":"LUCAS: Et testigué! ne lantiponez point davantage, et confessez à la franquette que v'estes médecin. "
+            },
+            {
+                "verse_id":191,
+                "text":"SGANARELLE: J'enrage! "
+            },
+            {
+                "verse_id":192,
+                "text":"VALÈRE: À quoi bon nier ce qu'on sait? "
+            },
+            {
+                "verse_id":193,
+                "text":"LUCAS: Pourquoi toutes ces fraimes-là? à quoi est-ce que ça vous sart? "
+            },
+            {
+                "verse_id":194,
+                "text":"SGANARELLE: Messieurs, en un mot autant qu'en deux mille, je vous dis que je ne suis point médecin. "
+            },
+            {
+                "verse_id":195,
+                "text":"VALÈRE: Vous n'êtes point médecin? "
+            },
+            {
+                "verse_id":196,
+                "text":"SGANARELLE: Non. "
+            },
+            {
+                "verse_id":197,
+                "text":"LUCAS: V'n'estes pas médecin! "
+            },
+            {
+                "verse_id":198,
+                "text":"SGANARELLE: Non, vous dis-je. "
+            },
+            {
+                "verse_id":199,
+                "text":"VALÈRE: Puisque vous le voulez, il faut s'y résoudre. (Ils prennent un bâton et le frappent.) "
+            },
+            {
+                "verse_id":200,
+                "text":"SGANARELLE: Ah! ah! ah! Messieurs, je suis tout ce qu'il vous plaira."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":183,
+                "text":"VALÈRE: Parce que vous prétendez être un grand médecin."
+            },
+            {
+                "verse_id":184,
+                "text":"SGANARELLE: Vous vous trompez, je ne le suis pas et je ne l'ai jamais été."
+            },
+            {
+                "verse_id":185,
+                "text":"VALÈRE, à voix basse: Il est vraiment fou. (À voix haute.) Monsieur, je vous en prie, arrêtez de nier les choses et évitons d'en arriver à des extrémités fâcheuses."
+            },
+            {
+                "verse_id":186,
+                "text":"SGANARELLE: À quoi faites-vous référence ?"
+            },
+            {
+                "verse_id":187,
+                "text":"VALÈRE: À certaines choses qui pourraient nous causer des ennuis."
+            },
+            {
+                "verse_id":188,
+                "text":"SGANARELLE: Bien sûr, parlez-moi de tout ce que vous voulez ; je ne suis pas médecin et je ne comprends pas ce que vous voulez dire."
+            },
+            {
+                "verse_id":189,
+                "text":"VALÈRE, à voix basse: Je vois bien qu'il faut employer un remède. (À voix haute.) Monsieur, une fois de plus, je vous prie d'admettre ce que vous êtes."
+            },
+            {
+                "verse_id":190,
+                "text":"LUCAS: Et témoigné ! Ne niez pas davantage et avouez franchement que vous êtes médecin."
+            },
+            {
+                "verse_id":191,
+                "text":"SGANARELLE: Je suis furieux !"
+            },
+            {
+                "verse_id":192,
+                "text":"VALÈRE: À quoi bon nier ce que l'on sait ?"
+            },
+            {
+                "verse_id":193,
+                "text":"LUCAS: Pourquoi toutes ces simagrées ? À quoi cela vous sert-il ?"
+            },
+            {
+                "verse_id":194,
+                "text":"SGANARELLE: Messieurs, en un mot comme en mille, je vous dis que je ne suis pas médecin."
+            },
+            {
+                "verse_id":195,
+                "text":"VALÈRE: Vous n'êtes pas médecin ?"
+            },
+            {
+                "verse_id":196,
+                "text":"SGANARELLE: Non."
+            },
+            {
+                "verse_id":197,
+                "text":"LUCAS: Vous n'êtes pas médecin !"
+            },
+            {
+                "verse_id":198,
+                "text":"SGANARELLE: Non, je vous le dis."
+            },
+            {
+                "verse_id":199,
+                "text":"VALÈRE: Puisque c'est ce que vous voulez, il faut s'y résoudre. (Ils prennent un bâton et le frappent.)"
+            },
+            {
+                "verse_id":200,
+                "text":"SGANARELLE: Ah ! Ah ! Ah ! Messieurs, je suis tout ce que vous voulez."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":192,
+        "verse_id_end":210,
+        "text":[
+            {
+                "verse_id":192,
+                "text":"VALÈRE: À quoi bon nier ce qu'on sait? "
+            },
+            {
+                "verse_id":193,
+                "text":"LUCAS: Pourquoi toutes ces fraimes-là? à quoi est-ce que ça vous sart? "
+            },
+            {
+                "verse_id":194,
+                "text":"SGANARELLE: Messieurs, en un mot autant qu'en deux mille, je vous dis que je ne suis point médecin. "
+            },
+            {
+                "verse_id":195,
+                "text":"VALÈRE: Vous n'êtes point médecin? "
+            },
+            {
+                "verse_id":196,
+                "text":"SGANARELLE: Non. "
+            },
+            {
+                "verse_id":197,
+                "text":"LUCAS: V'n'estes pas médecin! "
+            },
+            {
+                "verse_id":198,
+                "text":"SGANARELLE: Non, vous dis-je. "
+            },
+            {
+                "verse_id":199,
+                "text":"VALÈRE: Puisque vous le voulez, il faut s'y résoudre. (Ils prennent un bâton et le frappent.) "
+            },
+            {
+                "verse_id":200,
+                "text":"SGANARELLE: Ah! ah! ah! Messieurs, je suis tout ce qu'il vous plaira. "
+            },
+            {
+                "verse_id":201,
+                "text":"VALÈRE: Pourquoi, Monsieur, nous obligez-vous à cette violence? "
+            },
+            {
+                "verse_id":202,
+                "text":"LUCAS: À quoi bon nous bailler la peine de vous battre? "
+            },
+            {
+                "verse_id":203,
+                "text":"VALÈRE: Je vous assure que j'en ai tous les regrets du monde. "
+            },
+            {
+                "verse_id":204,
+                "text":"LUCAS: Par ma figué! j'en sis fâché, franchement. "
+            },
+            {
+                "verse_id":205,
+                "text":"SGANARELLE: Que diable est-ce ci, Messieurs? De grâce, est-ce pour rire, ou si tous deux vous extravaguez, de vouloir que je sois médecin? "
+            },
+            {
+                "verse_id":206,
+                "text":"VALÈRE: Quoi! vous ne vous rendez pas encore, et vous vous défendez d'être médecin? "
+            },
+            {
+                "verse_id":207,
+                "text":"SGANARELLE: Diable emporte si je le suis! "
+            },
+            {
+                "verse_id":208,
+                "text":"LUCAS: Il n'est pas vrai qu'ous sayez médecin? "
+            },
+            {
+                "verse_id":209,
+                "text":"SGANARELLE: Non, la peste m'étouffe! (Là, ils recommencent de le battre.) Ah! ah! Eh bien, Messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin; apothicaire encore, si vous le trouvez bon. (À part.) J'aime mieux consentir à tout que de me faire assommer."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":192,
+                "text":"VALÈRE: Pourquoi nier ce que l'on sait?"
+            },
+            {
+                "verse_id":193,
+                "text":"LUCAS: Pourquoi toutes ces simagrées? À quoi ça vous sert?"
+            },
+            {
+                "verse_id":194,
+                "text":"SGANARELLE: Messieurs, en un mot comme en mille, je vous dis que je ne suis pas médecin."
+            },
+            {
+                "verse_id":195,
+                "text":"VALÈRE: Vous n'êtes pas médecin?"
+            },
+            {
+                "verse_id":196,
+                "text":"SGANARELLE: Non."
+            },
+            {
+                "verse_id":197,
+                "text":"LUCAS: Vous n'êtes pas médecin!"
+            },
+            {
+                "verse_id":198,
+                "text":"SGANARELLE: Non, je vous le dis."
+            },
+            {
+                "verse_id":199,
+                "text":"VALÈRE: Puisque vous le voulez, il faut s'y résoudre. (Ils prennent un bâton et le frappent.)"
+            },
+            {
+                "verse_id":200,
+                "text":"SGANARELLE: Ah! ah! ah! Messieurs, je suis tout ce que vous voulez."
+            },
+            {
+                "verse_id":201,
+                "text":"VALÈRE: Pourquoi, Monsieur, nous obliger à cette violence?"
+            },
+            {
+                "verse_id":202,
+                "text":"LUCAS: À quoi bon nous donner la peine de vous battre?"
+            },
+            {
+                "verse_id":203,
+                "text":"VALÈRE: Je vous assure que j'en suis vraiment désolé."
+            },
+            {
+                "verse_id":204,
+                "text":"LUCAS: Par ma foi! Je suis fâché, franchement."
+            },
+            {
+                "verse_id":205,
+                "text":"SGANARELLE: Que diable se passe-t-il, Messieurs? S'il vous plaît, est-ce une plaisanterie, ou est-ce que vous délirez tous les deux en voulant que je sois médecin?"
+            },
+            {
+                "verse_id":206,
+                "text":"VALÈRE: Quoi! Vous ne vous rendez pas encore, et vous vous défendez d'être médecin?"
+            },
+            {
+                "verse_id":207,
+                "text":"SGANARELLE: Que le diable m'emporte si je le suis!"
+            },
+            {
+                "verse_id":208,
+                "text":"LUCAS: Ce n'est pas vrai que vous soyez médecin?"
+            },
+            {
+                "verse_id":209,
+                "text":"SGANARELLE: Non, que la peste m'étouffe! (Là, ils recommencent à le frapper.) Ah! ah! Eh bien, Messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin; même apothicaire, si vous le souhaitez. (À part.) Je préfère consentir à tout plutôt que de me faire assommer."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":201,
+        "verse_id_end":219,
+        "text":[
+            {
+                "verse_id":201,
+                "text":"VALÈRE: Pourquoi, Monsieur, nous obligez-vous à cette violence? "
+            },
+            {
+                "verse_id":202,
+                "text":"LUCAS: À quoi bon nous bailler la peine de vous battre? "
+            },
+            {
+                "verse_id":203,
+                "text":"VALÈRE: Je vous assure que j'en ai tous les regrets du monde. "
+            },
+            {
+                "verse_id":204,
+                "text":"LUCAS: Par ma figué! j'en sis fâché, franchement. "
+            },
+            {
+                "verse_id":205,
+                "text":"SGANARELLE: Que diable est-ce ci, Messieurs? De grâce, est-ce pour rire, ou si tous deux vous extravaguez, de vouloir que je sois médecin? "
+            },
+            {
+                "verse_id":206,
+                "text":"VALÈRE: Quoi! vous ne vous rendez pas encore, et vous vous défendez d'être médecin? "
+            },
+            {
+                "verse_id":207,
+                "text":"SGANARELLE: Diable emporte si je le suis! "
+            },
+            {
+                "verse_id":208,
+                "text":"LUCAS: Il n'est pas vrai qu'ous sayez médecin? "
+            },
+            {
+                "verse_id":209,
+                "text":"SGANARELLE: Non, la peste m'étouffe! (Là, ils recommencent de le battre.) Ah! ah! Eh bien, Messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin; apothicaire encore, si vous le trouvez bon. (À part.) J'aime mieux consentir à tout que de me faire assommer. "
+            },
+            {
+                "verse_id":210,
+                "text":"VALÈRE: Ah! voilà qui va bien, Monsieur; je suis ravi de vous voir raisonnable. "
+            },
+            {
+                "verse_id":211,
+                "text":"LUCAS: Vous me boutez la joie au coeur quand je vous voi parler comme ça. "
+            },
+            {
+                "verse_id":212,
+                "text":"VALÈRE: Je vous demande pardon de toute mon âme. "
+            },
+            {
+                "verse_id":213,
+                "text":"LUCAS: Je vous demandons excuse de la libarté que j'avons prise. "
+            },
+            {
+                "verse_id":214,
+                "text":"SGANARELLE, à part: Ouais! seroit-ce bien moi qui me tromperois, et serois-je devenu médecin sans m'en être aperçu? "
+            },
+            {
+                "verse_id":215,
+                "text":"VALÈRE: Monsieur, vous ne vous repentirez pas de nous montrer ce que vous êtes, et vous verrez assurément que vous en serez satisfait. "
+            },
+            {
+                "verse_id":216,
+                "text":"SGANARELLE: Mais, Messieurs, dites-moi, ne vous trompez-vous point vous-mêmes? Est-il bien assuré que je sois médecin? "
+            },
+            {
+                "verse_id":217,
+                "text":"LUCAS: Oui, par ma figue! "
+            },
+            {
+                "verse_id":218,
+                "text":"SGANARELLE: Tout de bon?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":201,
+                "text":"VALÈRE: Pourquoi, Monsieur, est-ce que vous nous forcez à être violents ?"
+            },
+            {
+                "verse_id":202,
+                "text":"LUCAS: À quoi bon se donner la peine de vous battre ?"
+            },
+            {
+                "verse_id":203,
+                "text":"VALÈRE: Je vous assure que je le regrette énormément."
+            },
+            {
+                "verse_id":204,
+                "text":"LUCAS: Par ma foi ! Je suis vraiment désolé, sincèrement."
+            },
+            {
+                "verse_id":205,
+                "text":"SGANARELLE: Mais que diable se passe-t-il, Messieurs ? S'il vous plaît, est-ce une blague, ou est-ce que vous délirez tous les deux en voulant que je sois médecin ?"
+            },
+            {
+                "verse_id":206,
+                "text":"VALÈRE: Quoi ! Vous ne vous rendez toujours pas compte et vous refusez d'être médecin ?"
+            },
+            {
+                "verse_id":207,
+                "text":"SGANARELLE: Que le diable m'emporte si je le suis !"
+            },
+            {
+                "verse_id":208,
+                "text":"LUCAS: Ce n'est pas vrai que vous êtes médecin ?"
+            },
+            {
+                "verse_id":209,
+                "text":"SGANARELLE: Non, que la peste m'étouffe ! (Là, ils recommencent à le battre.) Ah ! ah ! Eh bien, Messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin ; même apothicaire, si vous le souhaitez. (À part.) Je préfère consentir à tout plutôt que de me faire massacrer."
+            },
+            {
+                "verse_id":210,
+                "text":"VALÈRE: Ah ! c'est parfait, Monsieur ; je suis ravi de vous voir raisonnable."
+            },
+            {
+                "verse_id":211,
+                "text":"LUCAS: Vous mettez de la joie dans mon cœur quand je vous entends parler ainsi."
+            },
+            {
+                "verse_id":212,
+                "text":"VALÈRE: Je vous demande sincèrement pardon."
+            },
+            {
+                "verse_id":213,
+                "text":"LUCAS: Nous vous prions de nous excuser pour la liberté que nous avons prise."
+            },
+            {
+                "verse_id":214,
+                "text":"SGANARELLE, à part: Hmm ! Est-ce que je me trompe ? Serait-il possible que je sois devenu médecin sans m'en rendre compte ?"
+            },
+            {
+                "verse_id":215,
+                "text":"VALÈRE: Monsieur, vous ne regretterez pas de nous montrer ce que vous êtes, et vous verrez certainement que vous en serez satisfait."
+            },
+            {
+                "verse_id":216,
+                "text":"SGANARELLE: Mais, Messieurs, dites-moi, est-ce que vous ne vous trompez pas vous-mêmes ? Est-ce bien sûr que je suis médecin ?"
+            },
+            {
+                "verse_id":217,
+                "text":"LUCAS: Oui, par ma foi !"
+            },
+            {
+                "verse_id":218,
+                "text":"SGANARELLE: Vraiment ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":210,
+        "verse_id_end":228,
+        "text":[
+            {
+                "verse_id":210,
+                "text":"VALÈRE: Ah! voilà qui va bien, Monsieur; je suis ravi de vous voir raisonnable. "
+            },
+            {
+                "verse_id":211,
+                "text":"LUCAS: Vous me boutez la joie au coeur quand je vous voi parler comme ça. "
+            },
+            {
+                "verse_id":212,
+                "text":"VALÈRE: Je vous demande pardon de toute mon âme. "
+            },
+            {
+                "verse_id":213,
+                "text":"LUCAS: Je vous demandons excuse de la libarté que j'avons prise. "
+            },
+            {
+                "verse_id":214,
+                "text":"SGANARELLE, à part: Ouais! seroit-ce bien moi qui me tromperois, et serois-je devenu médecin sans m'en être aperçu? "
+            },
+            {
+                "verse_id":215,
+                "text":"VALÈRE: Monsieur, vous ne vous repentirez pas de nous montrer ce que vous êtes, et vous verrez assurément que vous en serez satisfait. "
+            },
+            {
+                "verse_id":216,
+                "text":"SGANARELLE: Mais, Messieurs, dites-moi, ne vous trompez-vous point vous-mêmes? Est-il bien assuré que je sois médecin? "
+            },
+            {
+                "verse_id":217,
+                "text":"LUCAS: Oui, par ma figue! "
+            },
+            {
+                "verse_id":218,
+                "text":"SGANARELLE: Tout de bon? "
+            },
+            {
+                "verse_id":219,
+                "text":"VALÈRE: Sans doute. "
+            },
+            {
+                "verse_id":220,
+                "text":"SGANARELLE: Diable emporte si je le savois! "
+            },
+            {
+                "verse_id":221,
+                "text":"VALÈRE: Comment! vous êtes le plus habile médecin du monde. "
+            },
+            {
+                "verse_id":222,
+                "text":"SGANARELLE: Ah! ah! "
+            },
+            {
+                "verse_id":223,
+                "text":"LUCAS: Un médecin qui a guari je ne sais combien de maladies. "
+            },
+            {
+                "verse_id":224,
+                "text":"SGANARELLE: Tudieu! "
+            },
+            {
+                "verse_id":225,
+                "text":"VALÈRE: Une femme étoit tenue pour morte il y avoit six heures; elle étoit prête à ensevelir, lorsqu'avec une goutte de quelque chose vous la fîtes revenir et marcher d'abord par la chambre. "
+            },
+            {
+                "verse_id":226,
+                "text":"SGANARELLE: Peste! "
+            },
+            {
+                "verse_id":227,
+                "text":"LUCAS: Un petit enfant de douze ans se laissit choir du haut d'un clocher, de quoi il eut la tête, les jambes et les bras cassés; et vous, avec je ne sai quel onguent, vous fîtes qu'aussitôt il se relevit sur ses pieds et s'en fut jouer à la fossette."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":210,
+                "text":"VALÈRE: Ah! c'est super, Monsieur, je suis vraiment content de vous voir raisonnable."
+            },
+            {
+                "verse_id":211,
+                "text":"LUCAS: Vous me mettez de la joie au cœur quand je vous entends parler comme ça."
+            },
+            {
+                "verse_id":212,
+                "text":"VALÈRE: Je m'excuse sincèrement."
+            },
+            {
+                "verse_id":213,
+                "text":"LUCAS: Nous nous excusons d'avoir pris cette liberté."
+            },
+            {
+                "verse_id":214,
+                "text":"SGANARELLE, à part: Ouais! Est-ce que je me trompe? Suis-je devenu médecin sans m'en rendre compte?"
+            },
+            {
+                "verse_id":215,
+                "text":"VALÈRE: Monsieur, vous ne regretterez pas de nous montrer ce que vous êtes, et vous verrez que vous en serez satisfait."
+            },
+            {
+                "verse_id":216,
+                "text":"SGANARELLE: Mais, Messieurs, dites-moi, est-ce que vous ne vous trompez pas vous-mêmes? Est-ce bien sûr que je suis médecin?"
+            },
+            {
+                "verse_id":217,
+                "text":"LUCAS: Oui, par ma foi!"
+            },
+            {
+                "verse_id":218,
+                "text":"SGANARELLE: Vraiment?"
+            },
+            {
+                "verse_id":219,
+                "text":"VALÈRE: Sans aucun doute."
+            },
+            {
+                "verse_id":220,
+                "text":"SGANARELLE: Diable, je ne le savais pas!"
+            },
+            {
+                "verse_id":221,
+                "text":"VALÈRE: Comment! Vous êtes le meilleur médecin du monde."
+            },
+            {
+                "verse_id":222,
+                "text":"SGANARELLE: Ah! ah!"
+            },
+            {
+                "verse_id":223,
+                "text":"LUCAS: Un médecin qui a guéri je ne sais combien de maladies."
+            },
+            {
+                "verse_id":224,
+                "text":"SGANARELLE: Sacré nom!"
+            },
+            {
+                "verse_id":225,
+                "text":"VALÈRE: Une femme était considérée comme morte depuis six heures; elle était prête à être enterrée, mais avec une goutte de quelque chose, vous l'avez fait revenir et marcher tout de suite dans la chambre."
+            },
+            {
+                "verse_id":226,
+                "text":"SGANARELLE: Incroyable!"
+            },
+            {
+                "verse_id":227,
+                "text":"LUCAS: Un petit enfant de douze ans est tombé d'un clocher et s'est cassé la tête, les jambes et les bras; mais avec je ne sais quel onguent, vous avez fait qu'il s'est immédiatement relevé et est allé jouer à la fossette."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":219,
+        "verse_id_end":237,
+        "text":[
+            {
+                "verse_id":219,
+                "text":"VALÈRE: Sans doute. "
+            },
+            {
+                "verse_id":220,
+                "text":"SGANARELLE: Diable emporte si je le savois! "
+            },
+            {
+                "verse_id":221,
+                "text":"VALÈRE: Comment! vous êtes le plus habile médecin du monde. "
+            },
+            {
+                "verse_id":222,
+                "text":"SGANARELLE: Ah! ah! "
+            },
+            {
+                "verse_id":223,
+                "text":"LUCAS: Un médecin qui a guari je ne sais combien de maladies. "
+            },
+            {
+                "verse_id":224,
+                "text":"SGANARELLE: Tudieu! "
+            },
+            {
+                "verse_id":225,
+                "text":"VALÈRE: Une femme étoit tenue pour morte il y avoit six heures; elle étoit prête à ensevelir, lorsqu'avec une goutte de quelque chose vous la fîtes revenir et marcher d'abord par la chambre. "
+            },
+            {
+                "verse_id":226,
+                "text":"SGANARELLE: Peste! "
+            },
+            {
+                "verse_id":227,
+                "text":"LUCAS: Un petit enfant de douze ans se laissit choir du haut d'un clocher, de quoi il eut la tête, les jambes et les bras cassés; et vous, avec je ne sai quel onguent, vous fîtes qu'aussitôt il se relevit sur ses pieds et s'en fut jouer à la fossette. "
+            },
+            {
+                "verse_id":228,
+                "text":"SGANARELLE: Diantre! "
+            },
+            {
+                "verse_id":229,
+                "text":"VALÈRE: Enfin, Monsieur, vous aurez contentement avec nous, et vous gagnerez ce que vous voudrez en vous laissant conduire où nous prétendons vous mener. "
+            },
+            {
+                "verse_id":230,
+                "text":"SGANARELLE: Je gagnerai ce que je voudrai? "
+            },
+            {
+                "verse_id":231,
+                "text":"VALÈRE: Oui. "
+            },
+            {
+                "verse_id":232,
+                "text":"SGANARELLE: Ah! Je suis médecin, sans contredit. Je l'avois oublié, mais je m'en ressouviens. De quoi est-il question? où faut-il se transporter? "
+            },
+            {
+                "verse_id":233,
+                "text":"VALÈRE: Nous vous conduirons. Il est question d'aller voir une fille qui a perdu la parole. "
+            },
+            {
+                "verse_id":234,
+                "text":"SGANARELLE: Ma foi, je ne l'ai pas trouvée. "
+            },
+            {
+                "verse_id":235,
+                "text":"VALÈRE: Il aime à rire. Allons, Monsieur. "
+            },
+            {
+                "verse_id":236,
+                "text":"SGANARELLE: Sans une robe de médecin?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":219,
+                "text":"VALÈRE: Bien sûr."
+            },
+            {
+                "verse_id":220,
+                "text":"SGANARELLE: Diable, je ne le savais pas !"
+            },
+            {
+                "verse_id":221,
+                "text":"VALÈRE: Comment ! Vous êtes le meilleur médecin du monde."
+            },
+            {
+                "verse_id":222,
+                "text":"SGANARELLE: Ah ! Ah !"
+            },
+            {
+                "verse_id":223,
+                "text":"LUCAS: Un médecin qui a guéri je ne sais combien de maladies."
+            },
+            {
+                "verse_id":224,
+                "text":"SGANARELLE: Mon Dieu !"
+            },
+            {
+                "verse_id":225,
+                "text":"VALÈRE: Une femme était considérée comme morte il y a six heures ; elle était prête à être enterrée, quand avec une goutte de quelque chose vous l'avez fait revenir et marcher tout de suite dans la chambre."
+            },
+            {
+                "verse_id":226,
+                "text":"SGANARELLE: Incroyable !"
+            },
+            {
+                "verse_id":227,
+                "text":"LUCAS: Un petit enfant de douze ans est tombé d'un clocher et s'est cassé la tête, les jambes et les bras ; et vous, avec je ne sais quel onguent, vous avez fait qu'il s'est immédiatement relevé sur ses pieds et est allé jouer à la fossette."
+            },
+            {
+                "verse_id":228,
+                "text":"SGANARELLE: Sacrebleu !"
+            },
+            {
+                "verse_id":229,
+                "text":"VALÈRE: Enfin, Monsieur, vous serez satisfait avec nous, et vous gagnerez ce que vous voulez en vous laissant conduire là où nous voulons vous emmener."
+            },
+            {
+                "verse_id":230,
+                "text":"SGANARELLE: Je gagnerai ce que je veux ?"
+            },
+            {
+                "verse_id":231,
+                "text":"VALÈRE: Oui."
+            },
+            {
+                "verse_id":232,
+                "text":"SGANARELLE: Ah ! Je suis médecin, sans aucun doute. Je l'avais oublié, mais je m'en souviens maintenant. De quoi s'agit-il ? Où faut-il aller ?"
+            },
+            {
+                "verse_id":233,
+                "text":"VALÈRE: Nous vous guiderons. Il s'agit d'aller voir une fille qui a perdu la parole."
+            },
+            {
+                "verse_id":234,
+                "text":"SGANARELLE: Eh bien, je ne l'ai pas retrouvée."
+            },
+            {
+                "verse_id":235,
+                "text":"VALÈRE: Il aime plaisanter. Allons, Monsieur."
+            },
+            {
+                "verse_id":236,
+                "text":"SGANARELLE: Sans une blouse de médecin ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_id_start":222,
+        "verse_id_end":240,
+        "text":[
+            {
+                "verse_id":222,
+                "text":"SGANARELLE: Ah! ah! "
+            },
+            {
+                "verse_id":223,
+                "text":"LUCAS: Un médecin qui a guari je ne sais combien de maladies. "
+            },
+            {
+                "verse_id":224,
+                "text":"SGANARELLE: Tudieu! "
+            },
+            {
+                "verse_id":225,
+                "text":"VALÈRE: Une femme étoit tenue pour morte il y avoit six heures; elle étoit prête à ensevelir, lorsqu'avec une goutte de quelque chose vous la fîtes revenir et marcher d'abord par la chambre. "
+            },
+            {
+                "verse_id":226,
+                "text":"SGANARELLE: Peste! "
+            },
+            {
+                "verse_id":227,
+                "text":"LUCAS: Un petit enfant de douze ans se laissit choir du haut d'un clocher, de quoi il eut la tête, les jambes et les bras cassés; et vous, avec je ne sai quel onguent, vous fîtes qu'aussitôt il se relevit sur ses pieds et s'en fut jouer à la fossette. "
+            },
+            {
+                "verse_id":228,
+                "text":"SGANARELLE: Diantre! "
+            },
+            {
+                "verse_id":229,
+                "text":"VALÈRE: Enfin, Monsieur, vous aurez contentement avec nous, et vous gagnerez ce que vous voudrez en vous laissant conduire où nous prétendons vous mener. "
+            },
+            {
+                "verse_id":230,
+                "text":"SGANARELLE: Je gagnerai ce que je voudrai? "
+            },
+            {
+                "verse_id":231,
+                "text":"VALÈRE: Oui. "
+            },
+            {
+                "verse_id":232,
+                "text":"SGANARELLE: Ah! Je suis médecin, sans contredit. Je l'avois oublié, mais je m'en ressouviens. De quoi est-il question? où faut-il se transporter? "
+            },
+            {
+                "verse_id":233,
+                "text":"VALÈRE: Nous vous conduirons. Il est question d'aller voir une fille qui a perdu la parole. "
+            },
+            {
+                "verse_id":234,
+                "text":"SGANARELLE: Ma foi, je ne l'ai pas trouvée. "
+            },
+            {
+                "verse_id":235,
+                "text":"VALÈRE: Il aime à rire. Allons, Monsieur. "
+            },
+            {
+                "verse_id":236,
+                "text":"SGANARELLE: Sans une robe de médecin? "
+            },
+            {
+                "verse_id":237,
+                "text":"VALÈRE: Nous en prendrons une. "
+            },
+            {
+                "verse_id":238,
+                "text":"SGANARELLE, présentant sa bouteille à Valère: Tenez cela, vous: voilà où je mets mes juleps.\n(Puis, se tournant vers Lucas en crachant.) Vous, marchez là-dessus, par ordonnance du médecin. "
+            },
+            {
+                "verse_id":239,
+                "text":"LUCAS: Palsanguenne! velà un médecin qui me plaît. Je pense qu'il réussira, car il est bouffon."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":222,
+                "text":"SGANARELLE: Ah! ah!"
+            },
+            {
+                "verse_id":223,
+                "text":"LUCAS: Un médecin qui a guéri je ne sais combien de maladies."
+            },
+            {
+                "verse_id":224,
+                "text":"SGANARELLE: Mon Dieu!"
+            },
+            {
+                "verse_id":225,
+                "text":"VALÈRE: Une femme était considérée comme morte il y a six heures; elle était prête à être enterrée, quand avec une goutte de quelque chose vous l'avez fait revenir et marcher tout de suite dans la chambre."
+            },
+            {
+                "verse_id":226,
+                "text":"SGANARELLE: Incroyable!"
+            },
+            {
+                "verse_id":227,
+                "text":"LUCAS: Un petit enfant de douze ans est tombé d'un clocher et s'est cassé la tête, les jambes et les bras; et vous, avec je ne sais quel onguent, vous avez fait qu'il s'est immédiatement relevé sur ses pieds et est allé jouer à la fossette."
+            },
+            {
+                "verse_id":228,
+                "text":"SGANARELLE: Sacrebleu!"
+            },
+            {
+                "verse_id":229,
+                "text":"VALÈRE: Enfin, Monsieur, vous serez satisfait avec nous, et vous gagnerez ce que vous voulez en vous laissant conduire où nous voulons vous emmener."
+            },
+            {
+                "verse_id":230,
+                "text":"SGANARELLE: Je gagnerai ce que je veux?"
+            },
+            {
+                "verse_id":231,
+                "text":"VALÈRE: Oui."
+            },
+            {
+                "verse_id":232,
+                "text":"SGANARELLE: Ah! Je suis médecin, sans aucun doute. Je l'avais oublié, mais je m'en souviens maintenant. De quoi s'agit-il? Où devons-nous aller?"
+            },
+            {
+                "verse_id":233,
+                "text":"VALÈRE: Nous vous guiderons. Il s'agit d'aller voir une fille qui a perdu la parole."
+            },
+            {
+                "verse_id":234,
+                "text":"SGANARELLE: Eh bien, je ne l'ai pas retrouvée."
+            },
+            {
+                "verse_id":235,
+                "text":"VALÈRE: Il aime rire. Allons, Monsieur."
+            },
+            {
+                "verse_id":236,
+                "text":"SGANARELLE: Sans une blouse de médecin?"
+            },
+            {
+                "verse_id":237,
+                "text":"VALÈRE: Nous en prendrons une."
+            },
+            {
+                "verse_id":238,
+                "text":"SGANARELLE, tendant sa bouteille à Valère: Tenez ça, vous: c'est là que je mets mes remèdes.\n(Puis, se tournant vers Lucas en crachant.) Toi, marche dessus, sur ordre du médecin."
+            },
+            {
+                "verse_id":239,
+                "text":"LUCAS: Parbleu! Voilà un médecin qui me plaît. Je pense qu'il réussira, car il est drôle."
+            }
+        ]
+    }
+]

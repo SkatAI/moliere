@@ -35,7 +35,9 @@ def create_item(verse_count, order, scene, category, text):
 
 if __name__ == "__main__":
     personnage_pattern = r"^[A-ZÉÈ\.]{2,}"
-    role_pattern = r"(SGANARELLE|MARTINE|M. ROBERT|GÉRONTE|LÉANDRE|LUCINDE|JACQUELINE|PERRIN|LUCAS|VALÈRE|THIBAUT)(:|\.|,)"
+    role_pattern = (
+        r"(SGANARELLE|MARTINE|M. ROBERT|GÉRONTE|LÉANDRE|LUCINDE|JACQUELINE|PERRIN|LUCAS|VALÈRE|THIBAUT)(:|\.|,)"
+    )
 
     scenes = pd.read_json(input_filename).to_dict(orient="records")
 
@@ -50,14 +52,10 @@ if __name__ == "__main__":
             if len(tmp) > 1:
                 verse_count += 1
                 order += 1
-                items.append(
-                    create_item(verse_count, order, scene, "personnage", tmp[1])
-                )
+                items.append(create_item(verse_count, order, scene, "personnage", tmp[1]))
                 if len(tmp) > 3:
                     order += 1
-                    items.append(
-                        create_item(verse_count, order, scene, "verse", tmp[3])
-                    )
+                    items.append(create_item(verse_count, order, scene, "verse", tmp[3]))
             elif len(tmp) == 1:
                 order += 1
                 items.append(create_item(verse_count, order, scene, "verse", tmp[0]))
@@ -74,14 +72,10 @@ if __name__ == "__main__":
             if len(tmp) > 1:
                 verse_count += 1
                 order += 1
-                items.append(
-                    create_item(verse_count, order, scene, "personnage", tmp[1])
-                )
+                items.append(create_item(verse_count, order, scene, "personnage", tmp[1]))
                 if len(tmp) > 3:
                     order += 1
-                    items.append(
-                        create_item(verse_count, order, scene, "verse", tmp[3])
-                    )
+                    items.append(create_item(verse_count, order, scene, "verse", tmp[3]))
             elif len(tmp) == 1:
                 order += 1
                 items.append(create_item(verse_count, order, scene, "verse", tmp[0]))

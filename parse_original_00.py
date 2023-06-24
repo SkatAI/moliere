@@ -95,9 +95,7 @@ if __name__ == "__main__":
                 scene = scene.split("\n", 1)[1].strip()
                 scene = Verse(scene)
                 scene.transform()
-                scenes.append(
-                    {"acte": num_acte, "scene": num_scene, "texte": scene.verse}
-                )
+                scenes.append({"acte": num_acte, "scene": num_scene, "texte": scene.verse})
                 num_scene += 1
 
             num_acte += 1

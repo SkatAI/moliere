@@ -1,0 +1,150 @@
+[
+    {
+        "acte":3,
+        "scene":9,
+        "verse_id_start":571,
+        "verse_id_end":579,
+        "text":[
+            {
+                "verse_id":571,
+                "text":"MARTINE: Ah! mon Dieu, que j'ai eu de peine à trouver ce logis! Dites-moi un peu des nouvelles du médecin que je vous ai donné. "
+            },
+            {
+                "verse_id":572,
+                "text":"LUCAS: Le velà qui va être pendu. "
+            },
+            {
+                "verse_id":573,
+                "text":"MARTINE: Quoi! mon mari pendu! Hélas! et qu'a-t-il fait pour cela? "
+            },
+            {
+                "verse_id":574,
+                "text":"LUCAS: Il a fait enlever la fille de notte maître. "
+            },
+            {
+                "verse_id":575,
+                "text":"MARTINE: Hélas! mon cher mari, est-il bien vrai qu'on te va pendre? "
+            },
+            {
+                "verse_id":576,
+                "text":"SGANARELLE: Tu vois. Ah! "
+            },
+            {
+                "verse_id":577,
+                "text":"MARTINE: Faut-il que tu te laisses mourir en présence de tant de gens? "
+            },
+            {
+                "verse_id":578,
+                "text":"SGANARELLE: Que veux-tu que j'y fasse?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":571,
+                "text":"MARTINE: Oh mon Dieu, j'ai eu tellement de mal à trouver cette maison ! Dis-moi un peu des nouvelles du médecin que je t'ai donné."
+            },
+            {
+                "verse_id":572,
+                "text":"LUCAS: Le voilà, il va être pendu."
+            },
+            {
+                "verse_id":573,
+                "text":"MARTINE: Quoi ! Mon mari pendu ! Hélas ! Et pourquoi ?"
+            },
+            {
+                "verse_id":574,
+                "text":"LUCAS: Il a enlevé la fille de notre maître."
+            },
+            {
+                "verse_id":575,
+                "text":"MARTINE: Hélas ! Mon cher mari, est-ce vraiment vrai qu'on va te pendre ?"
+            },
+            {
+                "verse_id":576,
+                "text":"SGANARELLE: Tu vois. Ah !"
+            },
+            {
+                "verse_id":577,
+                "text":"MARTINE: Est-ce que tu vas te laisser mourir devant tant de gens ?"
+            },
+            {
+                "verse_id":578,
+                "text":"SGANARELLE: Que veux-tu que j'y fasse ?"
+            }
+        ]
+    },
+    {
+        "acte":3,
+        "scene":9,
+        "verse_id_start":575,
+        "verse_id_end":583,
+        "text":[
+            {
+                "verse_id":575,
+                "text":"MARTINE: Hélas! mon cher mari, est-il bien vrai qu'on te va pendre? "
+            },
+            {
+                "verse_id":576,
+                "text":"SGANARELLE: Tu vois. Ah! "
+            },
+            {
+                "verse_id":577,
+                "text":"MARTINE: Faut-il que tu te laisses mourir en présence de tant de gens? "
+            },
+            {
+                "verse_id":578,
+                "text":"SGANARELLE: Que veux-tu que j'y fasse? "
+            },
+            {
+                "verse_id":579,
+                "text":"MARTINE: Encore, si tu avois achevé de couper notre bois, je prendrois quelque consolation. "
+            },
+            {
+                "verse_id":580,
+                "text":"SGANARELLE: Retire-toi de là, tu me fends le coeur. "
+            },
+            {
+                "verse_id":581,
+                "text":"MARTINE: Non, je veux demeurer pour t'encourager à la mort, et je ne te quitterai point que je ne t'aie vu pendu. "
+            },
+            {
+                "verse_id":582,
+                "text":"SGANARELLE: Ah!"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":575,
+                "text":"MARTINE: Oh mon cher mari, est-ce vraiment vrai qu'ils vont te pendre ?"
+            },
+            {
+                "verse_id":576,
+                "text":"SGANARELLE: Tu vois bien. Ah !"
+            },
+            {
+                "verse_id":577,
+                "text":"MARTINE: Est-ce que tu dois vraiment mourir devant tant de gens ?"
+            },
+            {
+                "verse_id":578,
+                "text":"SGANARELLE: Que veux-tu que je fasse ?"
+            },
+            {
+                "verse_id":579,
+                "text":"MARTINE: Au moins, si tu avais fini de couper notre bois, je trouverais un peu de consolation."
+            },
+            {
+                "verse_id":580,
+                "text":"SGANARELLE: Éloigne-toi de là, tu me brises le cœur."
+            },
+            {
+                "verse_id":581,
+                "text":"MARTINE: Non, je veux rester pour t'encourager à la mort, et je ne te quitterai pas tant que je ne t'aurai pas vu pendu."
+            },
+            {
+                "verse_id":582,
+                "text":"SGANARELLE: Ah !"
+            }
+        ]
+    }
+]

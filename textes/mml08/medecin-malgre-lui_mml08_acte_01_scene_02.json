@@ -1,0 +1,772 @@
+[
+    {
+        "acte":1,
+        "scene":2,
+        "verse_id_start":52,
+        "verse_id_end":70,
+        "text":[
+            {
+                "verse_id":52,
+                "text":"M ROBERT: Holà! holà! holà! Fi! Qu'est-ce ci? quelle infamie! Peste soit le coquin, de battre ainsi sa femme! "
+            },
+            {
+                "verse_id":53,
+                "text":"MARTINE, les mains sur les côtés, lui parle en le faisant reculer, et à la fin lui donne un soufflet: Et je veux qu'il me batte, moi. "
+            },
+            {
+                "verse_id":54,
+                "text":"M ROBERT: Ah! j'y consens de tout mon coeur. "
+            },
+            {
+                "verse_id":55,
+                "text":"MARTINE: De quoi vous mêlez-vous? "
+            },
+            {
+                "verse_id":56,
+                "text":"M ROBERT: J'ai tort. "
+            },
+            {
+                "verse_id":57,
+                "text":"MARTINE: Est-ce là votre affaire? "
+            },
+            {
+                "verse_id":58,
+                "text":"M ROBERT: Vous avez raison. "
+            },
+            {
+                "verse_id":59,
+                "text":"MARTINE: Voyez un peu cet impertinent qui veut empêcher les maris de battre leurs femmes! "
+            },
+            {
+                "verse_id":60,
+                "text":"M ROBERT: Je me rétracte. "
+            },
+            {
+                "verse_id":61,
+                "text":"MARTINE: Qu'avez-vous à voir là-dessus? "
+            },
+            {
+                "verse_id":62,
+                "text":"M ROBERT: Rien. "
+            },
+            {
+                "verse_id":63,
+                "text":"MARTINE: Est-ce à vous d'y mettre le nez? "
+            },
+            {
+                "verse_id":64,
+                "text":"M ROBERT: Non. "
+            },
+            {
+                "verse_id":65,
+                "text":"MARTINE: Mêlez-vous de vos affaires. "
+            },
+            {
+                "verse_id":66,
+                "text":"M ROBERT: Je ne dis plus mot. "
+            },
+            {
+                "verse_id":67,
+                "text":"MARTINE: Il me plaît d'être battue. "
+            },
+            {
+                "verse_id":68,
+                "text":"M ROBERT: D'accord. "
+            },
+            {
+                "verse_id":69,
+                "text":"MARTINE: Ce n'est pas à vos dépens."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":52,
+                "text":"M. ROBERT: Hé! Hé! Hé! Oh là là! Qu'est-ce que c'est que ça? Quelle honte! Que ce coquin soit maudit, de frapper ainsi sa femme!"
+            },
+            {
+                "verse_id":53,
+                "text":"MARTINE, les mains sur les hanches, lui parle en le faisant reculer, et finit par lui donner une gifle: Et je veux qu'il me frappe, moi."
+            },
+            {
+                "verse_id":54,
+                "text":"M. ROBERT: Ah! Je suis tout à fait d'accord."
+            },
+            {
+                "verse_id":55,
+                "text":"MARTINE: Qu'est-ce que ça peut vous faire?"
+            },
+            {
+                "verse_id":56,
+                "text":"M. ROBERT: J'ai tort."
+            },
+            {
+                "verse_id":57,
+                "text":"MARTINE: Est-ce que c'est votre affaire?"
+            },
+            {
+                "verse_id":58,
+                "text":"M. ROBERT: Vous avez raison."
+            },
+            {
+                "verse_id":59,
+                "text":"MARTINE: Regardez un peu cet impertinent qui veut empêcher les maris de frapper leurs femmes!"
+            },
+            {
+                "verse_id":60,
+                "text":"M. ROBERT: Je me rétracte."
+            },
+            {
+                "verse_id":61,
+                "text":"MARTINE: Qu'est-ce que ça vous regarde?"
+            },
+            {
+                "verse_id":62,
+                "text":"M. ROBERT: Rien."
+            },
+            {
+                "verse_id":63,
+                "text":"MARTINE: Est-ce à vous de vous en mêler?"
+            },
+            {
+                "verse_id":64,
+                "text":"M. ROBERT: Non."
+            },
+            {
+                "verse_id":65,
+                "text":"MARTINE: Occupez-vous de vos affaires."
+            },
+            {
+                "verse_id":66,
+                "text":"M. ROBERT: Je ne dis plus un mot."
+            },
+            {
+                "verse_id":67,
+                "text":"MARTINE: Ça me plaît d'être battue."
+            },
+            {
+                "verse_id":68,
+                "text":"M. ROBERT: D'accord."
+            },
+            {
+                "verse_id":69,
+                "text":"MARTINE: Ce n'est pas à vos frais."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_id_start":61,
+        "verse_id_end":79,
+        "text":[
+            {
+                "verse_id":61,
+                "text":"MARTINE: Qu'avez-vous à voir là-dessus? "
+            },
+            {
+                "verse_id":62,
+                "text":"M ROBERT: Rien. "
+            },
+            {
+                "verse_id":63,
+                "text":"MARTINE: Est-ce à vous d'y mettre le nez? "
+            },
+            {
+                "verse_id":64,
+                "text":"M ROBERT: Non. "
+            },
+            {
+                "verse_id":65,
+                "text":"MARTINE: Mêlez-vous de vos affaires. "
+            },
+            {
+                "verse_id":66,
+                "text":"M ROBERT: Je ne dis plus mot. "
+            },
+            {
+                "verse_id":67,
+                "text":"MARTINE: Il me plaît d'être battue. "
+            },
+            {
+                "verse_id":68,
+                "text":"M ROBERT: D'accord. "
+            },
+            {
+                "verse_id":69,
+                "text":"MARTINE: Ce n'est pas à vos dépens. "
+            },
+            {
+                "verse_id":70,
+                "text":"M ROBERT: Il est vrai. "
+            },
+            {
+                "verse_id":71,
+                "text":"MARTINE: Et vous êtes un sot de venir vous fourrer où vous n'avez que faire. "
+            },
+            {
+                "verse_id":72,
+                "text":"M ROBERT: (Il passe ensuite vers le mari, qui pareillement lui parle toujours en le faisant reculer, le frappe avec le mime bâton et le met en fuite. Il dit à la fin:)\nCompère, je vous demande pardon de tout mon coeur; faites, rossez, battez comme il faut votre femme; je vous aiderai, si vous le voulez. "
+            },
+            {
+                "verse_id":73,
+                "text":"SGANARELLE: Il ne me plaît pas, moi. "
+            },
+            {
+                "verse_id":74,
+                "text":"M ROBERT: Ah! c'est une autre chose. "
+            },
+            {
+                "verse_id":75,
+                "text":"SGANARELLE: Je la veux battre si je le veux, et ne la veux pas battre si je le ne veux pas. "
+            },
+            {
+                "verse_id":76,
+                "text":"M ROBERT: Fort bien. "
+            },
+            {
+                "verse_id":77,
+                "text":"SGANARELLE: C'est ma femme, et non pas la vôtre. "
+            },
+            {
+                "verse_id":78,
+                "text":"M ROBERT: Sans doute."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":61,
+                "text":"MARTINE: Qu'est-ce que ça vous regarde ?"
+            },
+            {
+                "verse_id":62,
+                "text":"M ROBERT: Rien."
+            },
+            {
+                "verse_id":63,
+                "text":"MARTINE: Est-ce à vous de vous en mêler ?"
+            },
+            {
+                "verse_id":64,
+                "text":"M ROBERT: Non."
+            },
+            {
+                "verse_id":65,
+                "text":"MARTINE: Occupez-vous de vos affaires."
+            },
+            {
+                "verse_id":66,
+                "text":"M ROBERT: Je ne dis plus rien."
+            },
+            {
+                "verse_id":67,
+                "text":"MARTINE: J'aime être battue."
+            },
+            {
+                "verse_id":68,
+                "text":"M ROBERT: D'accord."
+            },
+            {
+                "verse_id":69,
+                "text":"MARTINE: Ce n'est pas à vos dépens."
+            },
+            {
+                "verse_id":70,
+                "text":"M ROBERT: C'est vrai."
+            },
+            {
+                "verse_id":71,
+                "text":"MARTINE: Et vous êtes stupide de venir vous mêler de quelque chose qui ne vous concerne pas."
+            },
+            {
+                "verse_id":72,
+                "text":"M ROBERT: (Il se tourne ensuite vers le mari, qui continue de lui parler en le faisant reculer, le frappe avec un bâton imaginaire et le met en fuite. Il dit enfin :) \nMon cher, je te demande pardon de tout mon cœur ; frappe, bats ta femme comme il faut, je t'aiderai si tu le veux."
+            },
+            {
+                "verse_id":73,
+                "text":"SGANARELLE: Ça ne me plaît pas, à moi."
+            },
+            {
+                "verse_id":74,
+                "text":"M ROBERT: Ah ! c'est différent."
+            },
+            {
+                "verse_id":75,
+                "text":"SGANARELLE: Je veux la battre si je veux, et je ne veux pas la battre si je ne le veux pas."
+            },
+            {
+                "verse_id":76,
+                "text":"M ROBERT: Très bien."
+            },
+            {
+                "verse_id":77,
+                "text":"SGANARELLE: C'est ma femme, pas la tienne."
+            },
+            {
+                "verse_id":78,
+                "text":"M ROBERT: Bien sûr."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_id_start":70,
+        "verse_id_end":88,
+        "text":[
+            {
+                "verse_id":70,
+                "text":"M ROBERT: Il est vrai. "
+            },
+            {
+                "verse_id":71,
+                "text":"MARTINE: Et vous êtes un sot de venir vous fourrer où vous n'avez que faire. "
+            },
+            {
+                "verse_id":72,
+                "text":"M ROBERT: (Il passe ensuite vers le mari, qui pareillement lui parle toujours en le faisant reculer, le frappe avec le mime bâton et le met en fuite. Il dit à la fin:)\nCompère, je vous demande pardon de tout mon coeur; faites, rossez, battez comme il faut votre femme; je vous aiderai, si vous le voulez. "
+            },
+            {
+                "verse_id":73,
+                "text":"SGANARELLE: Il ne me plaît pas, moi. "
+            },
+            {
+                "verse_id":74,
+                "text":"M ROBERT: Ah! c'est une autre chose. "
+            },
+            {
+                "verse_id":75,
+                "text":"SGANARELLE: Je la veux battre si je le veux, et ne la veux pas battre si je le ne veux pas. "
+            },
+            {
+                "verse_id":76,
+                "text":"M ROBERT: Fort bien. "
+            },
+            {
+                "verse_id":77,
+                "text":"SGANARELLE: C'est ma femme, et non pas la vôtre. "
+            },
+            {
+                "verse_id":78,
+                "text":"M ROBERT: Sans doute. "
+            },
+            {
+                "verse_id":79,
+                "text":"SGANARELLE: Vous n'avez rien à me commander. "
+            },
+            {
+                "verse_id":80,
+                "text":"M ROBERT: D'accord. "
+            },
+            {
+                "verse_id":81,
+                "text":"SGANARELLE: Je n'ai que faire de votre aide. "
+            },
+            {
+                "verse_id":82,
+                "text":"M ROBERT: Très volontiers. "
+            },
+            {
+                "verse_id":83,
+                "text":"SGANARELLE: Et vous êtes un impertinent de vous ingérer des affaires d'autrui. Apprenez que Cicéron dit qu'entre l'arbre et le doigt il ne faut point mettre l'écorce.\n(Ensuite, il revient vers sa femme, et lui dit en lui pressant la main:)\nO ça, faisons la paix nous deux. Touche là. "
+            },
+            {
+                "verse_id":84,
+                "text":"MARTINE: Oui! après m'avoir ainsi battue. "
+            },
+            {
+                "verse_id":85,
+                "text":"SGANARELLE: Cela n'est rien. Touche. "
+            },
+            {
+                "verse_id":86,
+                "text":"MARTINE: Je ne veux pas. "
+            },
+            {
+                "verse_id":87,
+                "text":"SGANARELLE: Hé?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":70,
+                "text":"M ROBERT: C'est vrai."
+            },
+            {
+                "verse_id":71,
+                "text":"MARTINE: Et tu es stupide de venir te mêler de ce qui ne te regarde pas."
+            },
+            {
+                "verse_id":72,
+                "text":"M ROBERT: (Il se dirige ensuite vers le mari, qui continue de lui parler en le faisant reculer, le frappe avec un bâton imaginaire et le met en fuite. Il dit enfin:) \nMon cher, je te demande pardon de tout mon cœur ; vas-y, frappe, bats ta femme comme il faut ; je t'aiderai si tu le veux."
+            },
+            {
+                "verse_id":73,
+                "text":"SGANARELLE: Ça ne me plaît pas, moi."
+            },
+            {
+                "verse_id":74,
+                "text":"M ROBERT: Ah ! c'est autre chose."
+            },
+            {
+                "verse_id":75,
+                "text":"SGANARELLE: Je veux la battre si je veux, et je ne veux pas la battre si je ne veux pas."
+            },
+            {
+                "verse_id":76,
+                "text":"M ROBERT: Très bien."
+            },
+            {
+                "verse_id":77,
+                "text":"SGANARELLE: C'est ma femme, pas la tienne."
+            },
+            {
+                "verse_id":78,
+                "text":"M ROBERT: Bien sûr."
+            },
+            {
+                "verse_id":79,
+                "text":"SGANARELLE: Tu n'as rien à me commander."
+            },
+            {
+                "verse_id":80,
+                "text":"M ROBERT: D'accord."
+            },
+            {
+                "verse_id":81,
+                "text":"SGANARELLE: Je n'ai pas besoin de ton aide."
+            },
+            {
+                "verse_id":82,
+                "text":"M ROBERT: Très volontiers."
+            },
+            {
+                "verse_id":83,
+                "text":"SGANARELLE: Et tu es impertinent de te mêler des affaires des autres. Apprends que Cicéron dit qu'il ne faut pas mettre l'écorce entre l'arbre et le doigt.\n(Ensuite, il revient vers sa femme, lui serre la main et lui dit :) \nAllez, faisons la paix tous les deux. Donne-moi la main."
+            },
+            {
+                "verse_id":84,
+                "text":"MARTINE: Oui, après m'avoir battue ainsi."
+            },
+            {
+                "verse_id":85,
+                "text":"SGANARELLE: Ce n'est rien. Donne-moi la main."
+            },
+            {
+                "verse_id":86,
+                "text":"MARTINE: Je ne veux pas."
+            },
+            {
+                "verse_id":87,
+                "text":"SGANARELLE: Hein ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_id_start":79,
+        "verse_id_end":97,
+        "text":[
+            {
+                "verse_id":79,
+                "text":"SGANARELLE: Vous n'avez rien à me commander. "
+            },
+            {
+                "verse_id":80,
+                "text":"M ROBERT: D'accord. "
+            },
+            {
+                "verse_id":81,
+                "text":"SGANARELLE: Je n'ai que faire de votre aide. "
+            },
+            {
+                "verse_id":82,
+                "text":"M ROBERT: Très volontiers. "
+            },
+            {
+                "verse_id":83,
+                "text":"SGANARELLE: Et vous êtes un impertinent de vous ingérer des affaires d'autrui. Apprenez que Cicéron dit qu'entre l'arbre et le doigt il ne faut point mettre l'écorce.\n(Ensuite, il revient vers sa femme, et lui dit en lui pressant la main:)\nO ça, faisons la paix nous deux. Touche là. "
+            },
+            {
+                "verse_id":84,
+                "text":"MARTINE: Oui! après m'avoir ainsi battue. "
+            },
+            {
+                "verse_id":85,
+                "text":"SGANARELLE: Cela n'est rien. Touche. "
+            },
+            {
+                "verse_id":86,
+                "text":"MARTINE: Je ne veux pas. "
+            },
+            {
+                "verse_id":87,
+                "text":"SGANARELLE: Hé? "
+            },
+            {
+                "verse_id":88,
+                "text":"MARTINE: Non. "
+            },
+            {
+                "verse_id":89,
+                "text":"SGANARELLE: Ma petite femme! "
+            },
+            {
+                "verse_id":90,
+                "text":"MARTINE: Point. "
+            },
+            {
+                "verse_id":91,
+                "text":"SGANARELLE: Allons, te dis-je. "
+            },
+            {
+                "verse_id":92,
+                "text":"MARTINE: Je n'en ferai rien. "
+            },
+            {
+                "verse_id":93,
+                "text":"SGANARELLE: Viens, viens, viens. "
+            },
+            {
+                "verse_id":94,
+                "text":"MARTINE: Non, je veux être en colère. "
+            },
+            {
+                "verse_id":95,
+                "text":"SGANARELLE: Fi! c'est une bagatelle; allons, allons. "
+            },
+            {
+                "verse_id":96,
+                "text":"MARTINE: Laisse-moi là."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":79,
+                "text":"SGANARELLE: Tu n'as rien à me dire."
+            },
+            {
+                "verse_id":80,
+                "text":"M ROBERT: D'accord."
+            },
+            {
+                "verse_id":81,
+                "text":"SGANARELLE: Je n'ai pas besoin de ton aide."
+            },
+            {
+                "verse_id":82,
+                "text":"M ROBERT: Très volontiers."
+            },
+            {
+                "verse_id":83,
+                "text":"SGANARELLE: Et tu es impertinent de te mêler des affaires des autres. Sache que Cicéron dit qu'il ne faut pas mettre l'écorce entre l'arbre et le doigt.\n(Ensuite, il revient vers sa femme, et lui dit en lui serrant la main:)\nAllez, faisons la paix tous les deux. Serre ma main."
+            },
+            {
+                "verse_id":84,
+                "text":"MARTINE: Oui! après m'avoir battue ainsi."
+            },
+            {
+                "verse_id":85,
+                "text":"SGANARELLE: Ce n'est rien. Serre."
+            },
+            {
+                "verse_id":86,
+                "text":"MARTINE: Je ne veux pas."
+            },
+            {
+                "verse_id":87,
+                "text":"SGANARELLE: Hein?"
+            },
+            {
+                "verse_id":88,
+                "text":"MARTINE: Non."
+            },
+            {
+                "verse_id":89,
+                "text":"SGANARELLE: Ma chérie!"
+            },
+            {
+                "verse_id":90,
+                "text":"MARTINE: Pas du tout."
+            },
+            {
+                "verse_id":91,
+                "text":"SGANARELLE: Allez, je te dis."
+            },
+            {
+                "verse_id":92,
+                "text":"MARTINE: Je ne le ferai pas."
+            },
+            {
+                "verse_id":93,
+                "text":"SGANARELLE: Viens, viens, viens."
+            },
+            {
+                "verse_id":94,
+                "text":"MARTINE: Non, je veux être en colère."
+            },
+            {
+                "verse_id":95,
+                "text":"SGANARELLE: Oh! c'est une bagatelle; allez, allez."
+            },
+            {
+                "verse_id":96,
+                "text":"MARTINE: Laisse-moi là."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_id_start":84,
+        "verse_id_end":102,
+        "text":[
+            {
+                "verse_id":84,
+                "text":"MARTINE: Oui! après m'avoir ainsi battue. "
+            },
+            {
+                "verse_id":85,
+                "text":"SGANARELLE: Cela n'est rien. Touche. "
+            },
+            {
+                "verse_id":86,
+                "text":"MARTINE: Je ne veux pas. "
+            },
+            {
+                "verse_id":87,
+                "text":"SGANARELLE: Hé? "
+            },
+            {
+                "verse_id":88,
+                "text":"MARTINE: Non. "
+            },
+            {
+                "verse_id":89,
+                "text":"SGANARELLE: Ma petite femme! "
+            },
+            {
+                "verse_id":90,
+                "text":"MARTINE: Point. "
+            },
+            {
+                "verse_id":91,
+                "text":"SGANARELLE: Allons, te dis-je. "
+            },
+            {
+                "verse_id":92,
+                "text":"MARTINE: Je n'en ferai rien. "
+            },
+            {
+                "verse_id":93,
+                "text":"SGANARELLE: Viens, viens, viens. "
+            },
+            {
+                "verse_id":94,
+                "text":"MARTINE: Non, je veux être en colère. "
+            },
+            {
+                "verse_id":95,
+                "text":"SGANARELLE: Fi! c'est une bagatelle; allons, allons. "
+            },
+            {
+                "verse_id":96,
+                "text":"MARTINE: Laisse-moi là. "
+            },
+            {
+                "verse_id":97,
+                "text":"SGANARELLE: Touche, te dis-je. "
+            },
+            {
+                "verse_id":98,
+                "text":"MARTINE: Tu m'as trop maltraitée. "
+            },
+            {
+                "verse_id":99,
+                "text":"SGANARELLE: Eh bien, va, je te demande pardon; mets là ta main. "
+            },
+            {
+                "verse_id":100,
+                "text":"MARTINE: Je te pardonne; (elle dit le reste bas) mais tu le payeras. "
+            },
+            {
+                "verse_id":101,
+                "text":"SGANARELLE: Tu es une folle de prendre garde à cela. Ce sont petites choses qui sont de temps en temps nécessaires dans l'amitié; et cinq ou six coups de bâton, entre gens qui s'aiment, ne font que ragaillardir l'affection. Va, je m'en vais au bois, et je te promets aujourd'hui plus d'un cent de fagots."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":84,
+                "text":"MARTINE: Oui! Après m'avoir frappée comme ça."
+            },
+            {
+                "verse_id":85,
+                "text":"SGANARELLE: Ce n'est rien. Viens."
+            },
+            {
+                "verse_id":86,
+                "text":"MARTINE: Je ne veux pas."
+            },
+            {
+                "verse_id":87,
+                "text":"SGANARELLE: Hein?"
+            },
+            {
+                "verse_id":88,
+                "text":"MARTINE: Non."
+            },
+            {
+                "verse_id":89,
+                "text":"SGANARELLE: Ma chérie!"
+            },
+            {
+                "verse_id":90,
+                "text":"MARTINE: Pas du tout."
+            },
+            {
+                "verse_id":91,
+                "text":"SGANARELLE: Allez, je te dis."
+            },
+            {
+                "verse_id":92,
+                "text":"MARTINE: Je ne le ferai pas."
+            },
+            {
+                "verse_id":93,
+                "text":"SGANARELLE: Viens, viens, viens."
+            },
+            {
+                "verse_id":94,
+                "text":"MARTINE: Non, je veux être en colère."
+            },
+            {
+                "verse_id":95,
+                "text":"SGANARELLE: Pff! C'est une bagatelle; allez, allez."
+            },
+            {
+                "verse_id":96,
+                "text":"MARTINE: Laisse-moi tranquille."
+            },
+            {
+                "verse_id":97,
+                "text":"SGANARELLE: Viens, je te dis."
+            },
+            {
+                "verse_id":98,
+                "text":"MARTINE: Tu m'as trop maltraitée."
+            },
+            {
+                "verse_id":99,
+                "text":"SGANARELLE: Eh bien, va, je te demande pardon; mets ta main ici."
+            },
+            {
+                "verse_id":100,
+                "text":"MARTINE: Je te pardonne; (elle dit le reste bas) mais tu le paieras."
+            },
+            {
+                "verse_id":101,
+                "text":"SGANARELLE: Tu es folle de t'en soucier. Ce sont des petites choses qui sont parfois nécessaires dans l'amitié; et cinq ou six coups de bâton, entre personnes qui s'aiment, ne font qu'augmenter l'affection. Allez, je m'en vais au bois, et je te promets aujourd'hui plus d'une centaine de fagots."
+            }
+        ]
+    }
+]

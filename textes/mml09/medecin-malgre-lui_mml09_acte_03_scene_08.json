@@ -1,0 +1,36 @@
+[
+    {
+        "acte":3,
+        "scene":8,
+        "verse_id_start":568,
+        "verse_id_end":571,
+        "text":[
+            {
+                "verse_id":568,
+                "text":"LUCAS: Ah! palsanguenne, Monsieu, vaici bian du tintamarre. Votte fille s'en est enfuie avec son Liandre. C'étoit lui qui étoit l'apothicaire, et velà monsieu le médecin qui a fait cette belle opération-là. "
+            },
+            {
+                "verse_id":569,
+                "text":"GÉRONTE: Comment! m'assassiner de la façon? Allons, un commissaire, et qu'on empêche qu'il ne sorte. Ah! traître, je vous ferai punir par la justice. "
+            },
+            {
+                "verse_id":570,
+                "text":"LUCAS: Ah! par ma fi, Monsieu le médecin, vous serez pendu. Ne bougez de là seulement."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":568,
+                "text":"LUCAS: Ah! Par le sang, Monsieur, voici un grand bruit. Votre fille s'est enfuie avec son Liandre. C'était lui qui était l'apothicaire, et voilà Monsieur le médecin qui a fait cette belle opération-là."
+            },
+            {
+                "verse_id":569,
+                "text":"GÉRONTE: Comment! Me tuer de cette manière? Allons, un commissaire, et qu'on empêche qu'il ne sorte. Ah! Traître, je vous ferai punir par la justice."
+            },
+            {
+                "verse_id":570,
+                "text":"LUCAS: Ah! Par ma foi, Monsieur le médecin, vous serez pendu. Ne bougez pas de là seulement."
+            }
+        ]
+    }
+]

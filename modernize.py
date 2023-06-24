@@ -51,16 +51,15 @@ def build_text(**kwargs):
     cond = df.verse_id > 0
     if "acte" in kwargs.keys():
         cond = cond & (df.acte == kwargs["acte"])
-        # print('acte', kwargs['acte'] ,df[cond].shape[0])
+
     if "scene" in kwargs.keys():
         cond = cond & (df.scene == kwargs["scene"])
-        # print('scene', kwargs['scene'] ,df[cond].shape[0])
+
     if "verse_id_start" in kwargs.keys():
         cond = cond & (df.verse_id >= kwargs["verse_id_start"])
-        # print('verse_id_start', kwargs['verse_id_start'] ,df[cond].shape[0])
+
     if "verse_id_end" in kwargs.keys():
         cond = cond & (df.verse_id < kwargs["verse_id_end"])
-        # print('verse_id_end', kwargs['verse_id_end'] ,df[cond].shape[0])
 
     # get extract
     df = df[cond].copy()
@@ -74,9 +73,7 @@ def build_text(**kwargs):
             dialogue.append(d.text.strip())
 
     dialogue = " ".join(dialogue).strip()
-    print(
-        f"===== verses: {len(df.verse_id.unique())} -- tokens {count_tokens(dialogue)}"
-    )
+    print(f"===== verses: {len(df.verse_id.unique())} -- tokens {count_tokens(dialogue)}")
     return dialogue
 
 
@@ -202,7 +199,9 @@ if __name__ == "__main__":
         scene = acte_scene["scene"]
         print(f"========== Acte: {acte}, Scene: {scene} ==========")
 
-        output_filename = f"./textes/medecin-malgre-lui_{VERSION}_acte_{str(acte).zfill(2)}_scene_{str(scene).zfill(2)}.json"
+        output_filename = (
+            f"./textes/medecin-malgre-lui_{VERSION}_acte_{str(acte).zfill(2)}_scene_{str(scene).zfill(2)}.json"
+        )
         print("output_filename:", output_filename)
         # in case of restart
         if False:

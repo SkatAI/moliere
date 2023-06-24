@@ -1,0 +1,1542 @@
+[
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":334,
+        "verse_id_end":352,
+        "text":[
+            {
+                "verse_id":334,
+                "text":"SGANARELLE: Est-ce là la malade? "
+            },
+            {
+                "verse_id":335,
+                "text":"GÉRONTE: Oui, je n'ai qu'elle de fille, et j'aurois tous les regrets du monde si elle venoit à mourir. "
+            },
+            {
+                "verse_id":336,
+                "text":"SGANARELLE: Qu'elle s'en garde bien! il ne faut pas qu'elle meure sans l'ordonnance du médecin. "
+            },
+            {
+                "verse_id":337,
+                "text":"GÉRONTE: Allons, un siège. "
+            },
+            {
+                "verse_id":338,
+                "text":"SGANARELLE: Voilà une malade qui n'est pas tant dégoûtante, et je tiens qu'un homme bien sain s'en accommoderoit assez. "
+            },
+            {
+                "verse_id":339,
+                "text":"GÉRONTE: Vous l'avez fait rire, Monsieur. "
+            },
+            {
+                "verse_id":340,
+                "text":"SGANARELLE: Tant mieux: lorsque le médecin fait rire le malade, c'est le meilleur signe du monde. Eh bien, de quoi est-il question? qu'avez-vous? quel est le mal que vous sentez? "
+            },
+            {
+                "verse_id":341,
+                "text":"LUCINDE répond par signes, en portant sa main à sa bouche, à sa tête et sous son menton: Han, hi, hom, han. "
+            },
+            {
+                "verse_id":342,
+                "text":"SGANARELLE: Eh! que dites-vous? "
+            },
+            {
+                "verse_id":343,
+                "text":"LUCINDE continue les mêmes gestes: Han, hi, hom, han, han, hi, hom. "
+            },
+            {
+                "verse_id":344,
+                "text":"SGANARELLE: Quoi? "
+            },
+            {
+                "verse_id":345,
+                "text":"LUCINDE: Han, hi, hom! "
+            },
+            {
+                "verse_id":346,
+                "text":"SGANARELLE, la contrefaisant: Han, hi, hom, han, ha. Je ne vous entends point. Quel diable de langage est-ce là? "
+            },
+            {
+                "verse_id":347,
+                "text":"GÉRONTE: Monsieur, c'est là sa maladie. Elle est devenue muette, sans que jusques ici on en ait pu savoir la cause; et c'est un accident qui a fait reculer son mariage. "
+            },
+            {
+                "verse_id":348,
+                "text":"SGANARELLE: Et pourquoi? "
+            },
+            {
+                "verse_id":349,
+                "text":"GÉRONTE: Celui qu'elle doit épouser veut attendre sa guérison pour conclure les choses. "
+            },
+            {
+                "verse_id":350,
+                "text":"SGANARELLE: Et qui est ce sot-là qui ne veut pas que sa femme soit muette? Plût à Dieu que la mienne eût cette maladie! je me garderais bien de la vouloir guérir. "
+            },
+            {
+                "verse_id":351,
+                "text":"GÉRONTE: Enfin, Monsieur, nous vous prions d'employer tous vos soins pour la soulager de son mal."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":334,
+                "text":"SGANARELLE: C'est elle la malade?"
+            },
+            {
+                "verse_id":335,
+                "text":"GÉRONTE: Oui, elle est ma seule fille et je serais vraiment désolé si elle venait à mourir."
+            },
+            {
+                "verse_id":336,
+                "text":"SGANARELLE: Qu'elle fasse attention! Elle ne doit pas mourir sans l'ordonnance du médecin."
+            },
+            {
+                "verse_id":337,
+                "text":"GÉRONTE: Allons, prenez place."
+            },
+            {
+                "verse_id":338,
+                "text":"SGANARELLE: Cette malade n'est pas si repoussante et je pense qu'un homme en bonne santé pourrait s'en accommoder assez facilement."
+            },
+            {
+                "verse_id":339,
+                "text":"GÉRONTE: Vous l'avez fait rire, Monsieur."
+            },
+            {
+                "verse_id":340,
+                "text":"SGANARELLE: Tant mieux! Quand le médecin fait rire le malade, c'est bon signe. Bon, de quoi s'agit-il? Qu'avez-vous? Quel est le mal que vous ressentez?"
+            },
+            {
+                "verse_id":341,
+                "text":"LUCINDE répond en faisant des gestes, en portant sa main à sa bouche, à sa tête et sous son menton: Han, hi, hom, han."
+            },
+            {
+                "verse_id":342,
+                "text":"SGANARELLE: Hein? Que dites-vous?"
+            },
+            {
+                "verse_id":343,
+                "text":"LUCINDE continue les mêmes gestes: Han, hi, hom, han, han, hi, hom."
+            },
+            {
+                "verse_id":344,
+                "text":"SGANARELLE: Quoi?"
+            },
+            {
+                "verse_id":345,
+                "text":"LUCINDE: Han, hi, hom!"
+            },
+            {
+                "verse_id":346,
+                "text":"SGANARELLE, en imitant: Han, hi, hom, han, ha. Je ne vous comprends pas. Quelle langue diable est-ce là?"
+            },
+            {
+                "verse_id":347,
+                "text":"GÉRONTE: Monsieur, c'est sa maladie. Elle est devenue muette et jusqu'à présent, on n'a pas pu en trouver la cause. C'est un accident qui a retardé son mariage."
+            },
+            {
+                "verse_id":348,
+                "text":"SGANARELLE: Et pourquoi?"
+            },
+            {
+                "verse_id":349,
+                "text":"GÉRONTE: Celui qu'elle doit épouser veut attendre qu'elle guérisse avant de conclure les choses."
+            },
+            {
+                "verse_id":350,
+                "text":"SGANARELLE: Et qui est cet idiot qui ne veut pas que sa femme soit muette? J'aimerais bien que la mienne ait cette maladie! Je ne voudrais pas la guérir."
+            },
+            {
+                "verse_id":351,
+                "text":"GÉRONTE: Enfin, Monsieur, nous vous prions de faire tout votre possible pour soulager sa maladie."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":343,
+        "verse_id_end":361,
+        "text":[
+            {
+                "verse_id":343,
+                "text":"LUCINDE continue les mêmes gestes: Han, hi, hom, han, han, hi, hom. "
+            },
+            {
+                "verse_id":344,
+                "text":"SGANARELLE: Quoi? "
+            },
+            {
+                "verse_id":345,
+                "text":"LUCINDE: Han, hi, hom! "
+            },
+            {
+                "verse_id":346,
+                "text":"SGANARELLE, la contrefaisant: Han, hi, hom, han, ha. Je ne vous entends point. Quel diable de langage est-ce là? "
+            },
+            {
+                "verse_id":347,
+                "text":"GÉRONTE: Monsieur, c'est là sa maladie. Elle est devenue muette, sans que jusques ici on en ait pu savoir la cause; et c'est un accident qui a fait reculer son mariage. "
+            },
+            {
+                "verse_id":348,
+                "text":"SGANARELLE: Et pourquoi? "
+            },
+            {
+                "verse_id":349,
+                "text":"GÉRONTE: Celui qu'elle doit épouser veut attendre sa guérison pour conclure les choses. "
+            },
+            {
+                "verse_id":350,
+                "text":"SGANARELLE: Et qui est ce sot-là qui ne veut pas que sa femme soit muette? Plût à Dieu que la mienne eût cette maladie! je me garderais bien de la vouloir guérir. "
+            },
+            {
+                "verse_id":351,
+                "text":"GÉRONTE: Enfin, Monsieur, nous vous prions d'employer tous vos soins pour la soulager de son mal. "
+            },
+            {
+                "verse_id":352,
+                "text":"SGANARELLE: Ah! ne vous mettez pas en peine. Dites-moi un peu, ce mal l'oppresse-t-il beaucoup? "
+            },
+            {
+                "verse_id":353,
+                "text":"GÉRONTE: Oui, Monsieur. "
+            },
+            {
+                "verse_id":354,
+                "text":"SGANARELLE: Tant mieux. Sent-elle de grandes douleurs? "
+            },
+            {
+                "verse_id":355,
+                "text":"GÉRONTE: Fort grandes. "
+            },
+            {
+                "verse_id":356,
+                "text":"SGANARELLE: C'est fort bien fait. Va-t-elle où vous savez? "
+            },
+            {
+                "verse_id":357,
+                "text":"GÉRONTE: Oui. "
+            },
+            {
+                "verse_id":358,
+                "text":"SGANARELLE: Copieusement? "
+            },
+            {
+                "verse_id":359,
+                "text":"GÉRONTE: Je n'entends rien à cela. "
+            },
+            {
+                "verse_id":360,
+                "text":"SGANARELLE: La matière est-elle louable?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":343,
+                "text":"LUCINDE continue à faire les mêmes gestes: Han, hi, hom, han, han, hi, hom."
+            },
+            {
+                "verse_id":344,
+                "text":"SGANARELLE: Quoi?"
+            },
+            {
+                "verse_id":345,
+                "text":"LUCINDE: Han, hi, hom!"
+            },
+            {
+                "verse_id":346,
+                "text":"SGANARELLE, l'imitant: Han, hi, hom, han, ha. Je ne vous comprends pas. Quel est ce langage étrange?"
+            },
+            {
+                "verse_id":347,
+                "text":"GÉRONTE: Monsieur, c'est sa maladie. Elle est devenue muette et jusqu'à présent, on ne sait pas pourquoi; et c'est à cause de cela que son mariage a été repoussé."
+            },
+            {
+                "verse_id":348,
+                "text":"SGANARELLE: Et pourquoi?"
+            },
+            {
+                "verse_id":349,
+                "text":"GÉRONTE: Celui qu'elle doit épouser veut attendre qu'elle guérisse avant de conclure les choses."
+            },
+            {
+                "verse_id":350,
+                "text":"SGANARELLE: Et qui est cet idiot qui ne veut pas que sa femme soit muette? J'aimerais que la mienne ait cette maladie! Je ne voudrais pas la guérir."
+            },
+            {
+                "verse_id":351,
+                "text":"GÉRONTE: Enfin, Monsieur, nous vous prions de faire tout votre possible pour soulager sa maladie."
+            },
+            {
+                "verse_id":352,
+                "text":"SGANARELLE: Ah! Ne vous inquiétez pas. Dites-moi, est-ce que cette maladie la fait beaucoup souffrir?"
+            },
+            {
+                "verse_id":353,
+                "text":"GÉRONTE: Oui, Monsieur."
+            },
+            {
+                "verse_id":354,
+                "text":"SGANARELLE: Tant mieux. Est-ce qu'elle ressent de fortes douleurs?"
+            },
+            {
+                "verse_id":355,
+                "text":"GÉRONTE: Très fortes."
+            },
+            {
+                "verse_id":356,
+                "text":"SGANARELLE: C'est bien fait. Est-ce qu'elle va là où vous savez?"
+            },
+            {
+                "verse_id":357,
+                "text":"GÉRONTE: Oui."
+            },
+            {
+                "verse_id":358,
+                "text":"SGANARELLE: Abondamment?"
+            },
+            {
+                "verse_id":359,
+                "text":"GÉRONTE: Je ne comprends pas."
+            },
+            {
+                "verse_id":360,
+                "text":"SGANARELLE: Est-ce que la matière est de bonne qualité?"
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":352,
+        "verse_id_end":370,
+        "text":[
+            {
+                "verse_id":352,
+                "text":"SGANARELLE: Ah! ne vous mettez pas en peine. Dites-moi un peu, ce mal l'oppresse-t-il beaucoup? "
+            },
+            {
+                "verse_id":353,
+                "text":"GÉRONTE: Oui, Monsieur. "
+            },
+            {
+                "verse_id":354,
+                "text":"SGANARELLE: Tant mieux. Sent-elle de grandes douleurs? "
+            },
+            {
+                "verse_id":355,
+                "text":"GÉRONTE: Fort grandes. "
+            },
+            {
+                "verse_id":356,
+                "text":"SGANARELLE: C'est fort bien fait. Va-t-elle où vous savez? "
+            },
+            {
+                "verse_id":357,
+                "text":"GÉRONTE: Oui. "
+            },
+            {
+                "verse_id":358,
+                "text":"SGANARELLE: Copieusement? "
+            },
+            {
+                "verse_id":359,
+                "text":"GÉRONTE: Je n'entends rien à cela. "
+            },
+            {
+                "verse_id":360,
+                "text":"SGANARELLE: La matière est-elle louable? "
+            },
+            {
+                "verse_id":361,
+                "text":"GÉRONTE: Je ne me connois pas à ces choses. "
+            },
+            {
+                "verse_id":362,
+                "text":"SGANARELLE, se tournant vers la malade: Donnez-moi votre bras. Voilà un pouls qui marque que votre fille est muette. "
+            },
+            {
+                "verse_id":363,
+                "text":"GÉRONTE: Eh! oui, Monsieur, c'est là son mal; vous l'avez trouvé tout du premier coup. "
+            },
+            {
+                "verse_id":364,
+                "text":"SGANARELLE: Ah! ah! "
+            },
+            {
+                "verse_id":365,
+                "text":"JACQUELINE: Voyez comme il a deviné sa maladie! "
+            },
+            {
+                "verse_id":366,
+                "text":"SGANARELLE: Nous autres grands médecins, nous connoissons d'abord les choses. Un ignorant auroit été embarrassé, et vous eût été dire: c'est ceci, c'est cela; mais, moi, je touche au but du premier coup, et je vous apprends que votre fille est muette. "
+            },
+            {
+                "verse_id":367,
+                "text":"GÉRONTE: Oui; mais je voudrois bien que vous me pussiez dire d'où cela vient? "
+            },
+            {
+                "verse_id":368,
+                "text":"SGANARELLE: Il n'est rien de plus aisé. Cela vient de ce qu'elle a perdu la parole. "
+            },
+            {
+                "verse_id":369,
+                "text":"GÉRONTE: Fort bien; mais la cause, s'il vous plait, qui fait qu'elle a perdu la parole?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":352,
+                "text":"SGANARELLE: Ah! ne vous inquiétez pas. Dites-moi, est-ce que ce mal la fait beaucoup souffrir?"
+            },
+            {
+                "verse_id":353,
+                "text":"GÉRONTE: Oui, Monsieur."
+            },
+            {
+                "verse_id":354,
+                "text":"SGANARELLE: Tant mieux. Est-ce qu'elle ressent de fortes douleurs?"
+            },
+            {
+                "verse_id":355,
+                "text":"GÉRONTE: Très fortes."
+            },
+            {
+                "verse_id":356,
+                "text":"SGANARELLE: C'est très bien. Est-ce qu'elle va là où vous savez?"
+            },
+            {
+                "verse_id":357,
+                "text":"GÉRONTE: Oui."
+            },
+            {
+                "verse_id":358,
+                "text":"SGANARELLE: Abondamment?"
+            },
+            {
+                "verse_id":359,
+                "text":"GÉRONTE: Je ne comprends rien à cela."
+            },
+            {
+                "verse_id":360,
+                "text":"SGANARELLE: Est-ce que la matière est de bonne qualité?"
+            },
+            {
+                "verse_id":361,
+                "text":"GÉRONTE: Je ne m'y connais pas en ces choses."
+            },
+            {
+                "verse_id":362,
+                "text":"SGANARELLE, se tournant vers la malade: Donnez-moi votre bras. Voilà un pouls qui indique que votre fille est muette."
+            },
+            {
+                "verse_id":363,
+                "text":"GÉRONTE: Eh oui, Monsieur, c'est là son mal; vous l'avez trouvé du premier coup."
+            },
+            {
+                "verse_id":364,
+                "text":"SGANARELLE: Ah! ah!"
+            },
+            {
+                "verse_id":365,
+                "text":"JACQUELINE: Regardez comme il a deviné sa maladie!"
+            },
+            {
+                "verse_id":366,
+                "text":"SGANARELLE: Nous autres grands médecins, nous connaissons tout de suite les choses. Un ignorant aurait été embarrassé et aurait dit: c'est ceci, c'est cela; mais moi, je touche au but du premier coup et je vous apprends que votre fille est muette."
+            },
+            {
+                "verse_id":367,
+                "text":"GÉRONTE: Oui, mais j'aimerais bien que vous puissiez me dire pourquoi elle a perdu la parole?"
+            },
+            {
+                "verse_id":368,
+                "text":"SGANARELLE: Il n'y a rien de plus facile. Cela vient du fait qu'elle a perdu la capacité de parler."
+            },
+            {
+                "verse_id":369,
+                "text":"GÉRONTE: Très bien, mais la cause, s'il vous plaît, qu'est-ce qui fait qu'elle a perdu la parole?"
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":361,
+        "verse_id_end":379,
+        "text":[
+            {
+                "verse_id":361,
+                "text":"GÉRONTE: Je ne me connois pas à ces choses. "
+            },
+            {
+                "verse_id":362,
+                "text":"SGANARELLE, se tournant vers la malade: Donnez-moi votre bras. Voilà un pouls qui marque que votre fille est muette. "
+            },
+            {
+                "verse_id":363,
+                "text":"GÉRONTE: Eh! oui, Monsieur, c'est là son mal; vous l'avez trouvé tout du premier coup. "
+            },
+            {
+                "verse_id":364,
+                "text":"SGANARELLE: Ah! ah! "
+            },
+            {
+                "verse_id":365,
+                "text":"JACQUELINE: Voyez comme il a deviné sa maladie! "
+            },
+            {
+                "verse_id":366,
+                "text":"SGANARELLE: Nous autres grands médecins, nous connoissons d'abord les choses. Un ignorant auroit été embarrassé, et vous eût été dire: c'est ceci, c'est cela; mais, moi, je touche au but du premier coup, et je vous apprends que votre fille est muette. "
+            },
+            {
+                "verse_id":367,
+                "text":"GÉRONTE: Oui; mais je voudrois bien que vous me pussiez dire d'où cela vient? "
+            },
+            {
+                "verse_id":368,
+                "text":"SGANARELLE: Il n'est rien de plus aisé. Cela vient de ce qu'elle a perdu la parole. "
+            },
+            {
+                "verse_id":369,
+                "text":"GÉRONTE: Fort bien; mais la cause, s'il vous plait, qui fait qu'elle a perdu la parole? "
+            },
+            {
+                "verse_id":370,
+                "text":"SGANARELLE: Tous nos meilleurs auteurs vous diront que c'est l'empêchement de l'action de sa langue. "
+            },
+            {
+                "verse_id":371,
+                "text":"GÉRONTE: Mais encore, vos sentiments sur cet empêchement de l'action de sa langue? "
+            },
+            {
+                "verse_id":372,
+                "text":"SGANARELLE: Aristote là-dessus dit... de fort belles choses. "
+            },
+            {
+                "verse_id":373,
+                "text":"GÉRONTE: Je le crois. "
+            },
+            {
+                "verse_id":374,
+                "text":"SGANARELLE: Ah! c'étoit un grand homme! "
+            },
+            {
+                "verse_id":375,
+                "text":"GÉRONTE: Sans doute. "
+            },
+            {
+                "verse_id":376,
+                "text":"SGANARELLE, levant son bras depuis le coude: Grand homme tout à fait, un homme qui étoit plus grand que moi de tout cela. Pour revenir donc à notre raisonnement, je tiens que cet empêchement de l'action de sa langue est causé par de certaines humeurs, qu'entre nous autres savants nous appelons humeurs peccantes; peccantes, c'est-à-dire... humeurs peccantes: d'autant que les vapeurs formées par les exhalaisons des influences qui s'élèvent dans la région des maladies, venant... pour ainsi dire... à... Entendez-vous le latin? "
+            },
+            {
+                "verse_id":377,
+                "text":"GÉRONTE: En aucune façon.. "
+            },
+            {
+                "verse_id":378,
+                "text":"SGANARELLE, se levant avec étonnement: Vous n'entendez point le latin!"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":361,
+                "text":"GÉRONTE: Je ne comprends rien à ces choses-là."
+            },
+            {
+                "verse_id":362,
+                "text":"SGANARELLE, se tournant vers la malade: Donnez-moi votre bras. Son pouls indique clairement que votre fille est muette."
+            },
+            {
+                "verse_id":363,
+                "text":"GÉRONTE: Eh bien oui, Monsieur, c'est bien ça, vous avez trouvé tout de suite."
+            },
+            {
+                "verse_id":364,
+                "text":"SGANARELLE: Ah! ah!"
+            },
+            {
+                "verse_id":365,
+                "text":"JACQUELINE: Regardez comme il a deviné sa maladie!"
+            },
+            {
+                "verse_id":366,
+                "text":"SGANARELLE: Nous, les grands médecins, nous savons tout dès le départ. Un ignorant aurait été perdu et vous aurait dit : c'est ceci, c'est cela. Mais moi, je trouve la réponse du premier coup et je vous apprends que votre fille est muette."
+            },
+            {
+                "verse_id":367,
+                "text":"GÉRONTE: Oui, mais j'aimerais bien que vous puissiez me dire pourquoi elle a perdu la parole."
+            },
+            {
+                "verse_id":368,
+                "text":"SGANARELLE: Rien de plus simple. C'est parce qu'elle a perdu la capacité de parler."
+            },
+            {
+                "verse_id":369,
+                "text":"GÉRONTE: Très bien, mais la cause, s'il vous plaît, qui fait qu'elle a perdu la parole?"
+            },
+            {
+                "verse_id":370,
+                "text":"SGANARELLE: Tous nos meilleurs auteurs vous diront que c'est à cause d'un problème dans le fonctionnement de sa langue."
+            },
+            {
+                "verse_id":371,
+                "text":"GÉRONTE: Mais encore, qu'en pensez-vous de ce problème dans le fonctionnement de sa langue?"
+            },
+            {
+                "verse_id":372,
+                "text":"SGANARELLE: Aristote a dit... de très belles choses à ce sujet."
+            },
+            {
+                "verse_id":373,
+                "text":"GÉRONTE: Je le crois."
+            },
+            {
+                "verse_id":374,
+                "text":"SGANARELLE: Ah! c'était un grand homme!"
+            },
+            {
+                "verse_id":375,
+                "text":"GÉRONTE: Sans aucun doute."
+            },
+            {
+                "verse_id":376,
+                "text":"SGANARELLE, levant son bras depuis le coude: Un homme vraiment grand, un homme qui était plus grand que moi en tout cela. Pour en revenir à notre discussion, je pense que ce problème dans le fonctionnement de sa langue est causé par certaines substances, que nous, les savants, appelons des substances nocives; nocives, c'est-à-dire... des substances nocives : parce que les vapeurs formées par les influences qui se dégagent dans la région des maladies, venant... pour ainsi dire... à... Comprenez-vous le latin?"
+            },
+            {
+                "verse_id":377,
+                "text":"GÉRONTE: Pas du tout."
+            },
+            {
+                "verse_id":378,
+                "text":"SGANARELLE, se levant avec étonnement: Vous ne comprenez pas le latin!"
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":370,
+        "verse_id_end":388,
+        "text":[
+            {
+                "verse_id":370,
+                "text":"SGANARELLE: Tous nos meilleurs auteurs vous diront que c'est l'empêchement de l'action de sa langue. "
+            },
+            {
+                "verse_id":371,
+                "text":"GÉRONTE: Mais encore, vos sentiments sur cet empêchement de l'action de sa langue? "
+            },
+            {
+                "verse_id":372,
+                "text":"SGANARELLE: Aristote là-dessus dit... de fort belles choses. "
+            },
+            {
+                "verse_id":373,
+                "text":"GÉRONTE: Je le crois. "
+            },
+            {
+                "verse_id":374,
+                "text":"SGANARELLE: Ah! c'étoit un grand homme! "
+            },
+            {
+                "verse_id":375,
+                "text":"GÉRONTE: Sans doute. "
+            },
+            {
+                "verse_id":376,
+                "text":"SGANARELLE, levant son bras depuis le coude: Grand homme tout à fait, un homme qui étoit plus grand que moi de tout cela. Pour revenir donc à notre raisonnement, je tiens que cet empêchement de l'action de sa langue est causé par de certaines humeurs, qu'entre nous autres savants nous appelons humeurs peccantes; peccantes, c'est-à-dire... humeurs peccantes: d'autant que les vapeurs formées par les exhalaisons des influences qui s'élèvent dans la région des maladies, venant... pour ainsi dire... à... Entendez-vous le latin? "
+            },
+            {
+                "verse_id":377,
+                "text":"GÉRONTE: En aucune façon.. "
+            },
+            {
+                "verse_id":378,
+                "text":"SGANARELLE, se levant avec étonnement: Vous n'entendez point le latin! "
+            },
+            {
+                "verse_id":379,
+                "text":"GÉRONTE: Non. "
+            },
+            {
+                "verse_id":380,
+                "text":"SGANARELLE, en faisant diverses plaisantes postures: Cabricias, arci thuram, catalamus, singulariter, nominativo, hæc Musa, «la Muse»; bonus, bona, bonum; Deus sanctus, estne oratio latinas? Etiam, «oui.» Quare? «pourquoi?» Quia substantivo et adjectivum concordat in generi, numerum et casus. "
+            },
+            {
+                "verse_id":381,
+                "text":"GÉRONTE: Ah! que n'ai-je étudié! "
+            },
+            {
+                "verse_id":382,
+                "text":"JACQUELINE: L'habile homme que velà! "
+            },
+            {
+                "verse_id":383,
+                "text":"LUCAS: Oui, ça est si biau que je n'y entends goutte. "
+            },
+            {
+                "verse_id":384,
+                "text":"SGANARELLE: Or, ces vapeurs dont je vous parle venant à passer du côté gauche, où est le foie, au côté droit, où est le coeur, il se trouve que le poumon, que nous appelons en latin armyan, ayant communication avec le cerveau, que nous nommons en grec nasmus, par le moyen de la veine cave, que nous appelons en hébreu cubile, rencontre en son chemin lesdites vapeurs qui remplissent les ventricules de l'omoplate; et parce que lesdites vapeurs... comprenez bien ce raisonnement, je vous prie; et parce que lesdites vapeurs ont une certaine malignité... écoutez bien ceci, je vous conjure. "
+            },
+            {
+                "verse_id":385,
+                "text":"GÉRONTE: Oui. "
+            },
+            {
+                "verse_id":386,
+                "text":"SGANARELLE: Ont une certaine malignité qui est causée... soyez attentif, s'il vous plaît. "
+            },
+            {
+                "verse_id":387,
+                "text":"GÉRONTE: Je le suis."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":370,
+                "text":"SGANARELLE: Tous nos meilleurs auteurs vous diront que c'est à cause de quelque chose qui bloque sa langue."
+            },
+            {
+                "verse_id":371,
+                "text":"GÉRONTE: Mais qu'en pensez-vous, vous, de cet empêchement de sa langue?"
+            },
+            {
+                "verse_id":372,
+                "text":"SGANARELLE: Aristote a dit de très belles choses à ce sujet."
+            },
+            {
+                "verse_id":373,
+                "text":"GÉRONTE: Je le crois."
+            },
+            {
+                "verse_id":374,
+                "text":"SGANARELLE: Ah! C'était un grand homme!"
+            },
+            {
+                "verse_id":375,
+                "text":"GÉRONTE: Sans aucun doute."
+            },
+            {
+                "verse_id":376,
+                "text":"SGANARELLE, levant son bras depuis le coude: Vraiment un grand homme, un homme qui était plus grand que moi en tout cela. Donc, pour revenir à notre discussion, je pense que cet empêchement de sa langue est causé par certaines substances, que nous, les savants, appelons des substances nuisibles; nuisibles, c'est-à-dire... des substances nuisibles: parce que les vapeurs formées par les influences qui se dégagent dans la région des maladies, venant... pour ainsi dire... à... Comprenez-vous le latin?"
+            },
+            {
+                "verse_id":377,
+                "text":"GÉRONTE: Pas du tout."
+            },
+            {
+                "verse_id":378,
+                "text":"SGANARELLE, se levant avec étonnement: Vous ne comprenez pas le latin!"
+            },
+            {
+                "verse_id":379,
+                "text":"GÉRONTE: Non."
+            },
+            {
+                "verse_id":380,
+                "text":"SGANARELLE, faisant diverses plaisantes postures: Cabricias, arci thuram, catalamus, singulariter, nominativo, hæc Musa, «la Muse»; bonus, bona, bonum; Deus sanctus, estne oratio latinas? Etiam, «oui.» Quare? «pourquoi?» Quia substantivo et adjectivum concordat in generi, numerum et casus."
+            },
+            {
+                "verse_id":381,
+                "text":"GÉRONTE: Ah! Si seulement j'avais étudié!"
+            },
+            {
+                "verse_id":382,
+                "text":"JACQUELINE: Voilà un homme intelligent!"
+            },
+            {
+                "verse_id":383,
+                "text":"LUCAS: Oui, c'est tellement beau que je n'y comprends rien."
+            },
+            {
+                "verse_id":384,
+                "text":"SGANARELLE: Donc, ces vapeurs dont je vous parle, lorsqu'elles passent du côté gauche, où se trouve le foie, vers le côté droit, où se trouve le cœur, il se trouve que le poumon, que nous appelons en latin armyan, ayant une connexion avec le cerveau, que nous appelons en grec nasmus, par le biais de la veine cave, que nous appelons en hébreu cubile, rencontre sur son chemin lesdites vapeurs qui remplissent les cavités de l'omoplate; et parce que ces vapeurs... comprenez bien ce raisonnement, je vous prie; et parce que ces vapeurs ont une certaine malignité... écoutez bien ceci, je vous en prie."
+            },
+            {
+                "verse_id":385,
+                "text":"GÉRONTE: Oui."
+            },
+            {
+                "verse_id":386,
+                "text":"SGANARELLE: Elles ont une certaine malignité qui est causée... soyez attentif, s'il vous plaît."
+            },
+            {
+                "verse_id":387,
+                "text":"GÉRONTE: Je le suis."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":379,
+        "verse_id_end":397,
+        "text":[
+            {
+                "verse_id":379,
+                "text":"GÉRONTE: Non. "
+            },
+            {
+                "verse_id":380,
+                "text":"SGANARELLE, en faisant diverses plaisantes postures: Cabricias, arci thuram, catalamus, singulariter, nominativo, hæc Musa, «la Muse»; bonus, bona, bonum; Deus sanctus, estne oratio latinas? Etiam, «oui.» Quare? «pourquoi?» Quia substantivo et adjectivum concordat in generi, numerum et casus. "
+            },
+            {
+                "verse_id":381,
+                "text":"GÉRONTE: Ah! que n'ai-je étudié! "
+            },
+            {
+                "verse_id":382,
+                "text":"JACQUELINE: L'habile homme que velà! "
+            },
+            {
+                "verse_id":383,
+                "text":"LUCAS: Oui, ça est si biau que je n'y entends goutte. "
+            },
+            {
+                "verse_id":384,
+                "text":"SGANARELLE: Or, ces vapeurs dont je vous parle venant à passer du côté gauche, où est le foie, au côté droit, où est le coeur, il se trouve que le poumon, que nous appelons en latin armyan, ayant communication avec le cerveau, que nous nommons en grec nasmus, par le moyen de la veine cave, que nous appelons en hébreu cubile, rencontre en son chemin lesdites vapeurs qui remplissent les ventricules de l'omoplate; et parce que lesdites vapeurs... comprenez bien ce raisonnement, je vous prie; et parce que lesdites vapeurs ont une certaine malignité... écoutez bien ceci, je vous conjure. "
+            },
+            {
+                "verse_id":385,
+                "text":"GÉRONTE: Oui. "
+            },
+            {
+                "verse_id":386,
+                "text":"SGANARELLE: Ont une certaine malignité qui est causée... soyez attentif, s'il vous plaît. "
+            },
+            {
+                "verse_id":387,
+                "text":"GÉRONTE: Je le suis. "
+            },
+            {
+                "verse_id":388,
+                "text":"SGANARELLE: Qui est causée par l'âcreté des humeurs engendrées dans la concavité du diaphragme, il arrive que ces vapeurs... Ossabandus, nequeys, nequer, potarinum, quipsa milus. Voilà justement ce qui fait que votre fille est muette. "
+            },
+            {
+                "verse_id":389,
+                "text":"JACQUELINE: Ah! que ça est bian dit, notte homme! "
+            },
+            {
+                "verse_id":390,
+                "text":"LUCAS: Que n'ai-je la langue aussi bian pendue! "
+            },
+            {
+                "verse_id":391,
+                "text":"GÉRONTE: On ne peut pas mieux raisonner, sans doute. Il n'y a qu'une seule chose qui m'a choqué, c'est l'endroit du foie et du coeur. Il me semble que vous les placez autrement qu'ils ne sont; que le coeur est du côté gauche, et le foie du côté droit. "
+            },
+            {
+                "verse_id":392,
+                "text":"SGANARELLE: Oui, cela étoit autrefois ainsi; mais nous avons changé tout cela, et nous faisons maintenant la médecine d'une méthode toute nouvelle. "
+            },
+            {
+                "verse_id":393,
+                "text":"GÉRONTE: C'est ce que je ne savois pas, et je vous demande pardon de mon ignorance. "
+            },
+            {
+                "verse_id":394,
+                "text":"SGANARELLE: Il n'y a point de mal, et vous n'êtes pas obligé d'être aussi habile que nous. "
+            },
+            {
+                "verse_id":395,
+                "text":"GÉRONTE: Assurément. Mais, Monsieur, que croyez-vous qu'il faille faire à cette maladie? "
+            },
+            {
+                "verse_id":396,
+                "text":"SGANARELLE: Ce que je crois qu'il faille faire?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":379,
+                "text":"GÉRONTE: Non."
+            },
+            {
+                "verse_id":380,
+                "text":"SGANARELLE, en faisant différentes poses amusantes: Abracadabra, hocus pocus, abracadabra, voilà la Muse; bon, bonne, bon; Dieu saint, est-ce que c'est du latin ? Oui, pourquoi ? Parce que le nom et l'adjectif s'accordent en genre, en nombre et en cas."
+            },
+            {
+                "verse_id":381,
+                "text":"GÉRONTE: Ah! si seulement j'avais étudié !"
+            },
+            {
+                "verse_id":382,
+                "text":"JACQUELINE: Voilà un homme intelligent !"
+            },
+            {
+                "verse_id":383,
+                "text":"LUCAS: Oui, c'est tellement beau que je n'y comprends rien."
+            },
+            {
+                "verse_id":384,
+                "text":"SGANARELLE: Maintenant, ces vapeurs dont je vous parle, lorsqu'elles passent du côté gauche, où se trouve le foie, vers le côté droit, où se trouve le cœur, il se trouve que le poumon, que nous appelons en latin \"armyan\", en communiquant avec le cerveau, que nous appelons en grec \"nasmus\", par le biais de la veine cave, que nous appelons en hébreu \"cubile\", rencontre sur son chemin lesdites vapeurs qui remplissent les ventricules de l'omoplate; et parce que lesdites vapeurs... comprenez bien ce raisonnement, je vous prie ; et parce que lesdites vapeurs ont une certaine malignité... écoutez bien ceci, je vous en prie."
+            },
+            {
+                "verse_id":385,
+                "text":"GÉRONTE: Oui."
+            },
+            {
+                "verse_id":386,
+                "text":"SGANARELLE: Elles ont une certaine malignité qui est causée... soyez attentif, s'il vous plaît."
+            },
+            {
+                "verse_id":387,
+                "text":"GÉRONTE: Je le suis."
+            },
+            {
+                "verse_id":388,
+                "text":"SGANARELLE: Qui est causée par l'acidité des humeurs engendrées dans la cavité du diaphragme, il se trouve que ces vapeurs... Ossabandus, nequeys, nequer, potarinum, quipsa milus. C'est précisément ce qui fait que votre fille est muette."
+            },
+            {
+                "verse_id":389,
+                "text":"JACQUELINE: Ah! c'est bien dit, monsieur !"
+            },
+            {
+                "verse_id":390,
+                "text":"LUCAS: Si seulement j'avais la langue aussi bien pendue !"
+            },
+            {
+                "verse_id":391,
+                "text":"GÉRONTE: On ne peut pas mieux raisonner, sans aucun doute. Il y a juste une chose qui m'a dérangé, c'est l'emplacement du foie et du cœur. Il me semble que vous les placez différemment ; que le cœur est du côté gauche et le foie du côté droit."
+            },
+            {
+                "verse_id":392,
+                "text":"SGANARELLE: Oui, c'était comme ça autrefois ; mais nous avons changé tout cela et nous pratiquons maintenant la médecine d'une toute nouvelle manière."
+            },
+            {
+                "verse_id":393,
+                "text":"GÉRONTE: Je ne le savais pas, et je vous demande pardon pour mon ignorance."
+            },
+            {
+                "verse_id":394,
+                "text":"SGANARELLE: Il n'y a pas de mal, et vous n'êtes pas obligé d'être aussi compétent que nous."
+            },
+            {
+                "verse_id":395,
+                "text":"GÉRONTE: Bien sûr. Mais, Monsieur, que pensez-vous qu'il faille faire pour cette maladie ?"
+            },
+            {
+                "verse_id":396,
+                "text":"SGANARELLE: Ce que je pense qu'il faille faire ?"
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":388,
+        "verse_id_end":406,
+        "text":[
+            {
+                "verse_id":388,
+                "text":"SGANARELLE: Qui est causée par l'âcreté des humeurs engendrées dans la concavité du diaphragme, il arrive que ces vapeurs... Ossabandus, nequeys, nequer, potarinum, quipsa milus. Voilà justement ce qui fait que votre fille est muette. "
+            },
+            {
+                "verse_id":389,
+                "text":"JACQUELINE: Ah! que ça est bian dit, notte homme! "
+            },
+            {
+                "verse_id":390,
+                "text":"LUCAS: Que n'ai-je la langue aussi bian pendue! "
+            },
+            {
+                "verse_id":391,
+                "text":"GÉRONTE: On ne peut pas mieux raisonner, sans doute. Il n'y a qu'une seule chose qui m'a choqué, c'est l'endroit du foie et du coeur. Il me semble que vous les placez autrement qu'ils ne sont; que le coeur est du côté gauche, et le foie du côté droit. "
+            },
+            {
+                "verse_id":392,
+                "text":"SGANARELLE: Oui, cela étoit autrefois ainsi; mais nous avons changé tout cela, et nous faisons maintenant la médecine d'une méthode toute nouvelle. "
+            },
+            {
+                "verse_id":393,
+                "text":"GÉRONTE: C'est ce que je ne savois pas, et je vous demande pardon de mon ignorance. "
+            },
+            {
+                "verse_id":394,
+                "text":"SGANARELLE: Il n'y a point de mal, et vous n'êtes pas obligé d'être aussi habile que nous. "
+            },
+            {
+                "verse_id":395,
+                "text":"GÉRONTE: Assurément. Mais, Monsieur, que croyez-vous qu'il faille faire à cette maladie? "
+            },
+            {
+                "verse_id":396,
+                "text":"SGANARELLE: Ce que je crois qu'il faille faire? "
+            },
+            {
+                "verse_id":397,
+                "text":"GÉRONTE: Oui. "
+            },
+            {
+                "verse_id":398,
+                "text":"SGANARELLE: Mon avis est qu'on la remette sur son lit, et qu'on lui fasse prendre pour remède quantité de pain trempé dans du vin. "
+            },
+            {
+                "verse_id":399,
+                "text":"GÉRONTE: Pourquoi cela, Monsieur? "
+            },
+            {
+                "verse_id":400,
+                "text":"SGANARELLE: Parce qu'il y a dans le vin et le pain mêlés ensemble une vertu sympathique qui fait parler. Ne voyez-vous pas bien qu'on ne donne autre chose aux perroquets, et qu'ils apprennent à parler en mangeant de cela? "
+            },
+            {
+                "verse_id":401,
+                "text":"GÉRONTE: Cela est vrai. Ah! le grand homme! Vite, quantité de pain et de vin! "
+            },
+            {
+                "verse_id":402,
+                "text":"SGANARELLE: Je reviendrai voir, sur le soir, en quel état elle, sera. (À la nourrice.) Doucement, vous. Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits remèdes. "
+            },
+            {
+                "verse_id":403,
+                "text":"JACQUELINE: Qui? moi? Je me porte le mieux du monde. "
+            },
+            {
+                "verse_id":404,
+                "text":"SGANARELLE: Tant pis, nourrice, tant pis. Cette grande santé est à craindre, et il ne sera pas mauvais de vous faire quelque petite saignée amiable, de vous donner quelque petit clistère dulcifiant. "
+            },
+            {
+                "verse_id":405,
+                "text":"GÉRONTE: Mais, Monsieur, voilà une mode que je ne comprends point. Pourquoi s'aller faire saigner quand on n'a point de maladie?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":388,
+                "text":"SGANARELLE: C'est à cause des mauvaises humeurs qui se forment dans le ventre, cela provoque des vapeurs... Ossabandus, nequeys, nequer, potarinum, quipsa milus. C'est précisément ce qui rend votre fille muette."
+            },
+            {
+                "verse_id":389,
+                "text":"JACQUELINE: Ah! c'est bien dit, monsieur!"
+            },
+            {
+                "verse_id":390,
+                "text":"LUCAS: J'aimerais aussi avoir la langue bien pendue!"
+            },
+            {
+                "verse_id":391,
+                "text":"GÉRONTE: On ne peut pas mieux raisonner, c'est certain. Il y a juste une chose qui m'a choqué, c'est l'emplacement du foie et du cœur. Il me semble que vous les placez différemment; que le cœur est à gauche et le foie à droite."
+            },
+            {
+                "verse_id":392,
+                "text":"SGANARELLE: Oui, c'était comme ça autrefois, mais nous avons changé tout cela et nous pratiquons maintenant la médecine d'une toute nouvelle manière."
+            },
+            {
+                "verse_id":393,
+                "text":"GÉRONTE: Je ne le savais pas, je vous demande pardon pour mon ignorance."
+            },
+            {
+                "verse_id":394,
+                "text":"SGANARELLE: Il n'y a pas de mal, vous n'êtes pas obligé d'être aussi compétent que nous."
+            },
+            {
+                "verse_id":395,
+                "text":"GÉRONTE: Bien sûr. Mais, Monsieur, que pensez-vous qu'il faille faire pour cette maladie?"
+            },
+            {
+                "verse_id":396,
+                "text":"SGANARELLE: Ce que je pense qu'il faille faire?"
+            },
+            {
+                "verse_id":397,
+                "text":"GÉRONTE: Oui."
+            },
+            {
+                "verse_id":398,
+                "text":"SGANARELLE: À mon avis, il faut la mettre au lit et lui faire prendre beaucoup de pain trempé dans du vin comme remède."
+            },
+            {
+                "verse_id":399,
+                "text":"GÉRONTE: Pourquoi cela, Monsieur?"
+            },
+            {
+                "verse_id":400,
+                "text":"SGANARELLE: Parce qu'il y a une vertu sympathique dans le mélange de vin et de pain qui fait parler. Ne voyez-vous pas qu'on ne donne que ça aux perroquets et qu'ils apprennent à parler en mangeant cela?"
+            },
+            {
+                "verse_id":401,
+                "text":"GÉRONTE: C'est vrai. Ah! quel grand homme! Vite, du pain et du vin en quantité!"
+            },
+            {
+                "verse_id":402,
+                "text":"SGANARELLE: Je reviendrai voir comment elle se porte ce soir. (À la nourrice.) Doucement, vous. Monsieur, il faut que je fasse quelques petits remèdes à cette nourrice."
+            },
+            {
+                "verse_id":403,
+                "text":"JACQUELINE: Moi? Je vais très bien."
+            },
+            {
+                "verse_id":404,
+                "text":"SGANARELLE: Tant pis, nourrice, tant pis. Une grande santé est à craindre, il ne serait pas mal de vous faire une petite saignée amicale, de vous donner un petit lavement adoucissant."
+            },
+            {
+                "verse_id":405,
+                "text":"GÉRONTE: Mais, Monsieur, je ne comprends pas cette mode. Pourquoi se faire saigner quand on n'est pas malade?"
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":397,
+        "verse_id_end":415,
+        "text":[
+            {
+                "verse_id":397,
+                "text":"GÉRONTE: Oui. "
+            },
+            {
+                "verse_id":398,
+                "text":"SGANARELLE: Mon avis est qu'on la remette sur son lit, et qu'on lui fasse prendre pour remède quantité de pain trempé dans du vin. "
+            },
+            {
+                "verse_id":399,
+                "text":"GÉRONTE: Pourquoi cela, Monsieur? "
+            },
+            {
+                "verse_id":400,
+                "text":"SGANARELLE: Parce qu'il y a dans le vin et le pain mêlés ensemble une vertu sympathique qui fait parler. Ne voyez-vous pas bien qu'on ne donne autre chose aux perroquets, et qu'ils apprennent à parler en mangeant de cela? "
+            },
+            {
+                "verse_id":401,
+                "text":"GÉRONTE: Cela est vrai. Ah! le grand homme! Vite, quantité de pain et de vin! "
+            },
+            {
+                "verse_id":402,
+                "text":"SGANARELLE: Je reviendrai voir, sur le soir, en quel état elle, sera. (À la nourrice.) Doucement, vous. Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits remèdes. "
+            },
+            {
+                "verse_id":403,
+                "text":"JACQUELINE: Qui? moi? Je me porte le mieux du monde. "
+            },
+            {
+                "verse_id":404,
+                "text":"SGANARELLE: Tant pis, nourrice, tant pis. Cette grande santé est à craindre, et il ne sera pas mauvais de vous faire quelque petite saignée amiable, de vous donner quelque petit clistère dulcifiant. "
+            },
+            {
+                "verse_id":405,
+                "text":"GÉRONTE: Mais, Monsieur, voilà une mode que je ne comprends point. Pourquoi s'aller faire saigner quand on n'a point de maladie? "
+            },
+            {
+                "verse_id":406,
+                "text":"SGANARELLE: Il n'importe, la mode en est salutaire; et, comme on boit pour la soif à venir, il faut se faire aussi saigner pour la maladie à venir. "
+            },
+            {
+                "verse_id":407,
+                "text":"JACQUELINE, en se retirant: Ma fi! je me moque de ça, et je ne veux point faire de mon corps une boutique d'apothicaire. "
+            },
+            {
+                "verse_id":408,
+                "text":"SGANARELLE: Vous êtes rétive aux remèdes, mais nous saurons vous soumettre à la raison. (Parlant à Géronte.) Je vous donne le bonjour. "
+            },
+            {
+                "verse_id":409,
+                "text":"GÉRONTE: Attendez un peu, s'il vous plaît. "
+            },
+            {
+                "verse_id":410,
+                "text":"SGANARELLE: Que voulez-vous faire? "
+            },
+            {
+                "verse_id":411,
+                "text":"GÉRONTE: Vous donner de l'argent, Monsieur. "
+            },
+            {
+                "verse_id":412,
+                "text":"SGANARELLE, tendant sa main derrière, par-dessous sa robe, tandis que Géronte ouvre sa bourse: Je n'en prendrai pas, Monsieur. "
+            },
+            {
+                "verse_id":413,
+                "text":"GÉRONTE: Monsieur... "
+            },
+            {
+                "verse_id":414,
+                "text":"SGANARELLE: Point du tout."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":397,
+                "text":"GÉRONTE: Oui."
+            },
+            {
+                "verse_id":398,
+                "text":"SGANARELLE: Je pense qu'il faudrait la remettre dans son lit et lui donner comme remède beaucoup de pain trempé dans du vin."
+            },
+            {
+                "verse_id":399,
+                "text":"GÉRONTE: Pourquoi cela, Monsieur?"
+            },
+            {
+                "verse_id":400,
+                "text":"SGANARELLE: Parce qu'il y a une vertu spéciale dans le mélange de vin et de pain qui fait parler. Ne voyez-vous pas que c'est ce qu'on donne aux perroquets pour qu'ils apprennent à parler?"
+            },
+            {
+                "verse_id":401,
+                "text":"GÉRONTE: C'est vrai. Ah, quel grand homme! Vite, du pain et du vin en quantité!"
+            },
+            {
+                "verse_id":402,
+                "text":"SGANARELLE: Je reviendrai ce soir pour voir comment elle va. (À la nourrice.) Doucement, vous. Monsieur, il faut que je fasse quelques petits remèdes à cette nourrice."
+            },
+            {
+                "verse_id":403,
+                "text":"JACQUELINE: Moi? Je vais très bien."
+            },
+            {
+                "verse_id":404,
+                "text":"SGANARELLE: Tant pis, nourrice, tant pis. Une si grande santé est à craindre, il serait bon de vous faire une petite saignée amicale, de vous donner un petit lavement adoucissant."
+            },
+            {
+                "verse_id":405,
+                "text":"GÉRONTE: Mais, Monsieur, je ne comprends pas cette mode. Pourquoi se faire saigner quand on n'est pas malade?"
+            },
+            {
+                "verse_id":406,
+                "text":"SGANARELLE: Peu importe, cette mode est bénéfique. Comme on boit pour étancher sa soif future, il faut aussi se faire saigner pour prévenir les maladies futures."
+            },
+            {
+                "verse_id":407,
+                "text":"JACQUELINE, en se retirant: Oh, je m'en moque, je ne veux pas faire de mon corps une pharmacie."
+            },
+            {
+                "verse_id":408,
+                "text":"SGANARELLE: Vous êtes réticente aux remèdes, mais nous saurons vous convaincre. (S'adressant à Géronte.) Je vous salue."
+            },
+            {
+                "verse_id":409,
+                "text":"GÉRONTE: Attendez un instant, s'il vous plaît."
+            },
+            {
+                "verse_id":410,
+                "text":"SGANARELLE: Que voulez-vous faire?"
+            },
+            {
+                "verse_id":411,
+                "text":"GÉRONTE: Vous donner de l'argent, Monsieur."
+            },
+            {
+                "verse_id":412,
+                "text":"SGANARELLE, tendant sa main derrière, sous sa robe, pendant que Géronte ouvre sa bourse: Je n'en prendrai pas, Monsieur."
+            },
+            {
+                "verse_id":413,
+                "text":"GÉRONTE: Monsieur..."
+            },
+            {
+                "verse_id":414,
+                "text":"SGANARELLE: Pas du tout."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":406,
+        "verse_id_end":424,
+        "text":[
+            {
+                "verse_id":406,
+                "text":"SGANARELLE: Il n'importe, la mode en est salutaire; et, comme on boit pour la soif à venir, il faut se faire aussi saigner pour la maladie à venir. "
+            },
+            {
+                "verse_id":407,
+                "text":"JACQUELINE, en se retirant: Ma fi! je me moque de ça, et je ne veux point faire de mon corps une boutique d'apothicaire. "
+            },
+            {
+                "verse_id":408,
+                "text":"SGANARELLE: Vous êtes rétive aux remèdes, mais nous saurons vous soumettre à la raison. (Parlant à Géronte.) Je vous donne le bonjour. "
+            },
+            {
+                "verse_id":409,
+                "text":"GÉRONTE: Attendez un peu, s'il vous plaît. "
+            },
+            {
+                "verse_id":410,
+                "text":"SGANARELLE: Que voulez-vous faire? "
+            },
+            {
+                "verse_id":411,
+                "text":"GÉRONTE: Vous donner de l'argent, Monsieur. "
+            },
+            {
+                "verse_id":412,
+                "text":"SGANARELLE, tendant sa main derrière, par-dessous sa robe, tandis que Géronte ouvre sa bourse: Je n'en prendrai pas, Monsieur. "
+            },
+            {
+                "verse_id":413,
+                "text":"GÉRONTE: Monsieur... "
+            },
+            {
+                "verse_id":414,
+                "text":"SGANARELLE: Point du tout. "
+            },
+            {
+                "verse_id":415,
+                "text":"GÉRONTE: Un petit moment. "
+            },
+            {
+                "verse_id":416,
+                "text":"SGANARELLE: En aucune façon. "
+            },
+            {
+                "verse_id":417,
+                "text":"GÉRONTE: De grâce! "
+            },
+            {
+                "verse_id":418,
+                "text":"SGANARELLE: Vous vous moquez. "
+            },
+            {
+                "verse_id":419,
+                "text":"GÉRONTE: Voilà qui est fait. "
+            },
+            {
+                "verse_id":420,
+                "text":"SGANARELLE: Je n'en ferai rien. "
+            },
+            {
+                "verse_id":421,
+                "text":"GÉRONTE: Hé! "
+            },
+            {
+                "verse_id":422,
+                "text":"SGANARELLE: Ce n'est pas l'argent qui me fait agir. "
+            },
+            {
+                "verse_id":423,
+                "text":"GÉRONTE: Je le crois."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":406,
+                "text":"SGANARELLE: Peu importe, c'est une mode bénéfique; et comme on boit pour prévenir la soif, il faut aussi se faire saigner pour prévenir la maladie."
+            },
+            {
+                "verse_id":407,
+                "text":"JACQUELINE, en s'éloignant: Oh là là ! Je m'en moque de ça, je ne veux pas faire de mon corps une pharmacie."
+            },
+            {
+                "verse_id":408,
+                "text":"SGANARELLE: Vous êtes réticente aux remèdes, mais nous saurons vous convaincre. (S'adressant à Géronte.) Bonjour à vous."
+            },
+            {
+                "verse_id":409,
+                "text":"GÉRONTE: Attendez un instant, s'il vous plaît."
+            },
+            {
+                "verse_id":410,
+                "text":"SGANARELLE: Que voulez-vous faire ?"
+            },
+            {
+                "verse_id":411,
+                "text":"GÉRONTE: Vous donner de l'argent, Monsieur."
+            },
+            {
+                "verse_id":412,
+                "text":"SGANARELLE, tendant sa main derrière, sous sa robe, pendant que Géronte ouvre sa bourse: Je n'en prendrai pas, Monsieur."
+            },
+            {
+                "verse_id":413,
+                "text":"GÉRONTE: Monsieur..."
+            },
+            {
+                "verse_id":414,
+                "text":"SGANARELLE: Pas du tout."
+            },
+            {
+                "verse_id":415,
+                "text":"GÉRONTE: Juste un petit moment."
+            },
+            {
+                "verse_id":416,
+                "text":"SGANARELLE: En aucune façon."
+            },
+            {
+                "verse_id":417,
+                "text":"GÉRONTE: S'il vous plaît !"
+            },
+            {
+                "verse_id":418,
+                "text":"SGANARELLE: Vous vous moquez de moi."
+            },
+            {
+                "verse_id":419,
+                "text":"GÉRONTE: C'est fait."
+            },
+            {
+                "verse_id":420,
+                "text":"SGANARELLE: Je n'en ferai rien."
+            },
+            {
+                "verse_id":421,
+                "text":"GÉRONTE: Hé !"
+            },
+            {
+                "verse_id":422,
+                "text":"SGANARELLE: Ce n'est pas l'argent qui me motive."
+            },
+            {
+                "verse_id":423,
+                "text":"GÉRONTE: Je vous crois."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":4,
+        "verse_id_start":412,
+        "verse_id_end":430,
+        "text":[
+            {
+                "verse_id":412,
+                "text":"SGANARELLE, tendant sa main derrière, par-dessous sa robe, tandis que Géronte ouvre sa bourse: Je n'en prendrai pas, Monsieur. "
+            },
+            {
+                "verse_id":413,
+                "text":"GÉRONTE: Monsieur... "
+            },
+            {
+                "verse_id":414,
+                "text":"SGANARELLE: Point du tout. "
+            },
+            {
+                "verse_id":415,
+                "text":"GÉRONTE: Un petit moment. "
+            },
+            {
+                "verse_id":416,
+                "text":"SGANARELLE: En aucune façon. "
+            },
+            {
+                "verse_id":417,
+                "text":"GÉRONTE: De grâce! "
+            },
+            {
+                "verse_id":418,
+                "text":"SGANARELLE: Vous vous moquez. "
+            },
+            {
+                "verse_id":419,
+                "text":"GÉRONTE: Voilà qui est fait. "
+            },
+            {
+                "verse_id":420,
+                "text":"SGANARELLE: Je n'en ferai rien. "
+            },
+            {
+                "verse_id":421,
+                "text":"GÉRONTE: Hé! "
+            },
+            {
+                "verse_id":422,
+                "text":"SGANARELLE: Ce n'est pas l'argent qui me fait agir. "
+            },
+            {
+                "verse_id":423,
+                "text":"GÉRONTE: Je le crois. "
+            },
+            {
+                "verse_id":424,
+                "text":"SGANARELLE, après avoir pris l'argent: Cela est-il de poids? "
+            },
+            {
+                "verse_id":425,
+                "text":"GÉRONTE: Oui, Monsieur. "
+            },
+            {
+                "verse_id":426,
+                "text":"SGANARELLE: Je ne suis pas un médecin mercenaire. "
+            },
+            {
+                "verse_id":427,
+                "text":"GÉRONTE: Je le sais bien. "
+            },
+            {
+                "verse_id":428,
+                "text":"SGANARELLE: L'intérêt ne me gouverne point. "
+            },
+            {
+                "verse_id":429,
+                "text":"GÉRONTE: Je n'ai pas cette pensée."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":412,
+                "text":"SGANARELLE, en tendant sa main derrière lui, sous sa robe, pendant que Géronte ouvre sa bourse: Je ne vais pas prendre ça, Monsieur."
+            },
+            {
+                "verse_id":413,
+                "text":"GÉRONTE: Monsieur..."
+            },
+            {
+                "verse_id":414,
+                "text":"SGANARELLE: Pas du tout."
+            },
+            {
+                "verse_id":415,
+                "text":"GÉRONTE: Juste un petit moment."
+            },
+            {
+                "verse_id":416,
+                "text":"SGANARELLE: En aucune façon."
+            },
+            {
+                "verse_id":417,
+                "text":"GÉRONTE: S'il vous plaît !"
+            },
+            {
+                "verse_id":418,
+                "text":"SGANARELLE: Vous vous moquez de moi."
+            },
+            {
+                "verse_id":419,
+                "text":"GÉRONTE: C'est fait."
+            },
+            {
+                "verse_id":420,
+                "text":"SGANARELLE: Je ne vais rien en faire."
+            },
+            {
+                "verse_id":421,
+                "text":"GÉRONTE: Hé !"
+            },
+            {
+                "verse_id":422,
+                "text":"SGANARELLE: Ce n'est pas l'argent qui me motive."
+            },
+            {
+                "verse_id":423,
+                "text":"GÉRONTE: Je le crois."
+            },
+            {
+                "verse_id":424,
+                "text":"SGANARELLE, après avoir pris l'argent: Est-ce que c'est lourd ?"
+            },
+            {
+                "verse_id":425,
+                "text":"GÉRONTE: Oui, Monsieur."
+            },
+            {
+                "verse_id":426,
+                "text":"SGANARELLE: Je ne suis pas un médecin mercenaire."
+            },
+            {
+                "verse_id":427,
+                "text":"GÉRONTE: Je le sais bien."
+            },
+            {
+                "verse_id":428,
+                "text":"SGANARELLE: L'intérêt ne me guide pas."
+            },
+            {
+                "verse_id":429,
+                "text":"GÉRONTE: Je n'ai pas cette pensée."
+            }
+        ]
+    }
+]

@@ -1,0 +1,594 @@
+[
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":103,
+        "verse_id_end":111,
+        "text":[
+            {
+                "verse_id":103,
+                "text":"LUCAS: Parguenne! j'avons pris là tous deux une gueble de commission; et je ne sai pas, moi, ce que je pensons attraper. "
+            },
+            {
+                "verse_id":104,
+                "text":"VALÈRE: Que veux-tu, mon pauvre nourricier? il faut bien obéir à notre maître; et puis nous avons intérêt l'un et l'autre à la santé de sa fille, notre maîtresse; et sans doute son mariage, différé par sa maladie, nous vaudroit quelque récompense. Horace, qui est libéral, a bonne part aux prétentions qu'on peut avoir sur sa personne, et, quoi-qu'elle ait fait voir de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu consentir à le recevoir pour son gendre. "
+            },
+            {
+                "verse_id":105,
+                "text":"MARTINE, rêvant à part elle: Ne puis-je point trouver quelque invention pour me venger? "
+            },
+            {
+                "verse_id":106,
+                "text":"LUCAS: Mais quelle fantaisie s'est-il boutée là dans la tête, puisque les médecins y avont tous pardu leur latin? "
+            },
+            {
+                "verse_id":107,
+                "text":"VALÈRE: On trouve quelquefois, à force de chercher, ce qu'on ne trouve pas d'abord; et souvent, en de simples lieux... "
+            },
+            {
+                "verse_id":108,
+                "text":"MARTINE: Oui, il faut que je m'en venge à quelque prix que ce soit: ces coups de bâton me reviennent au coeur, je ne les saurois digérer, et... (Elle dit tout ceci en rivant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit:) Ah! Messieurs! je vous demande pardon, je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m'embarrasse. "
+            },
+            {
+                "verse_id":109,
+                "text":"VALÈRE: Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver. "
+            },
+            {
+                "verse_id":110,
+                "text":"MARTINE: Seroit-ce quelque chose où je vous puisse aider?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":103,
+                "text":"LUCAS: Bon sang! On s'est embarqué dans une sacrée mission, et je ne sais pas du tout ce qu'on va attraper."
+            },
+            {
+                "verse_id":104,
+                "text":"VALÈRE: Que veux-tu, mon pauvre ami? Il faut bien obéir à notre maître; et puis, on a tous les deux intérêt à la santé de sa fille, notre maîtresse. Et sûrement, si son mariage est retardé à cause de sa maladie, on pourrait obtenir une récompense. Horace, qui est généreux, est ouvert aux prétendants, et même si elle a montré de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu l'accepter comme gendre."
+            },
+            {
+                "verse_id":105,
+                "text":"MARTINE, pensant à voix haute: Est-ce que je ne peux pas trouver un moyen de me venger?"
+            },
+            {
+                "verse_id":106,
+                "text":"LUCAS: Mais quelle idée lui est passée par la tête, puisque même les médecins ont tous perdu leur latin là-dessus?"
+            },
+            {
+                "verse_id":107,
+                "text":"VALÈRE: Parfois, en cherchant bien, on trouve ce qu'on ne trouve pas tout de suite; et souvent, dans des endroits simples..."
+            },
+            {
+                "verse_id":108,
+                "text":"MARTINE: Oui, il faut que je me venge, peu importe le prix: ces coups de bâton me font mal, je ne peux pas les supporter, et... (Elle dit tout cela en se retournant, sans faire attention aux deux hommes, et les heurte en leur disant:) Ah! Messieurs! Je vous demande pardon, je ne vous voyais pas, je cherchais quelque chose qui me préoccupe dans ma tête."
+            },
+            {
+                "verse_id":109,
+                "text":"VALÈRE: Chacun a ses préoccupations dans ce monde, et nous cherchons aussi ce que nous aimerions bien trouver."
+            },
+            {
+                "verse_id":110,
+                "text":"MARTINE: Est-ce qu'il y a quelque chose où je pourrais vous aider?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":107,
+        "verse_id_end":115,
+        "text":[
+            {
+                "verse_id":107,
+                "text":"VALÈRE: On trouve quelquefois, à force de chercher, ce qu'on ne trouve pas d'abord; et souvent, en de simples lieux... "
+            },
+            {
+                "verse_id":108,
+                "text":"MARTINE: Oui, il faut que je m'en venge à quelque prix que ce soit: ces coups de bâton me reviennent au coeur, je ne les saurois digérer, et... (Elle dit tout ceci en rivant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit:) Ah! Messieurs! je vous demande pardon, je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m'embarrasse. "
+            },
+            {
+                "verse_id":109,
+                "text":"VALÈRE: Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver. "
+            },
+            {
+                "verse_id":110,
+                "text":"MARTINE: Seroit-ce quelque chose où je vous puisse aider? "
+            },
+            {
+                "verse_id":111,
+                "text":"VALÈRE: Cela se pourroit faire; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille de notre maître, attaquée d'une maladie qui lui a ôté tout d'un coup l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle; mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là ce que nous cherchons. "
+            },
+            {
+                "verse_id":112,
+                "text":"MARTINE (Elle dit ces premières lignes bas): Ah! que le Ciel m'inspire une admirable invention pour me venger de mon pendart! (Haut.) Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez, et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées. "
+            },
+            {
+                "verse_id":113,
+                "text":"VALÈRE: Et, de grâce, où pouvons-nous le rencontrer? "
+            },
+            {
+                "verse_id":114,
+                "text":"MARTINE: Vous le trouverez maintenant vers ce petit lieu que voilà, qui s'amuse à couper du bois."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":107,
+                "text":"VALÈRE: Parfois, à force de chercher, on finit par trouver ce qu'on ne trouve pas au départ. Et souvent, dans des endroits simples..."
+            },
+            {
+                "verse_id":108,
+                "text":"MARTINE: Oui, je dois me venger à tout prix : ces coups de bâton me blessent profondément, je ne peux pas les supporter, et... (Elle dit tout cela en étant distraite, donc elle ne fait pas attention à ces deux hommes et les heurte en se retournant, puis elle leur dit :) Ah ! Messieurs ! Je vous demande pardon, je ne vous avais pas vus, j'étais perdue dans mes pensées à propos de quelque chose qui me préoccupe."
+            },
+            {
+                "verse_id":109,
+                "text":"VALÈRE: Chacun a ses préoccupations dans ce monde, et nous cherchons aussi ce que nous aimerions trouver."
+            },
+            {
+                "verse_id":110,
+                "text":"MARTINE: Est-ce quelque chose où je pourrais vous aider ?"
+            },
+            {
+                "verse_id":111,
+                "text":"VALÈRE: Cela pourrait être possible ; nous essayons de trouver un homme compétent, un médecin particulier, qui pourrait soulager la fille de notre maître, atteinte d'une maladie qui lui a subitement fait perdre l'usage de la langue. Plusieurs médecins ont déjà tout essayé après elle ; mais parfois, on trouve des personnes avec des secrets étonnants, des remèdes particuliers, qui réussissent souvent là où les autres ont échoué, et c'est ce que nous cherchons."
+            },
+            {
+                "verse_id":112,
+                "text":"MARTINE (Elle dit ces premières lignes à voix basse) : Ah ! Que le Ciel m'inspire une idée géniale pour me venger de mon mari trompeur ! (À voix haute) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez, car nous avons ici un homme, le plus extraordinaire du monde, pour les maladies désespérées."
+            },
+            {
+                "verse_id":113,
+                "text":"VALÈRE: Et, s'il vous plaît, où pouvons-nous le trouver ?"
+            },
+            {
+                "verse_id":114,
+                "text":"MARTINE: Vous le trouverez maintenant près de ce petit endroit là-bas, où il s'amuse à couper du bois."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":111,
+        "verse_id_end":119,
+        "text":[
+            {
+                "verse_id":111,
+                "text":"VALÈRE: Cela se pourroit faire; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille de notre maître, attaquée d'une maladie qui lui a ôté tout d'un coup l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle; mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là ce que nous cherchons. "
+            },
+            {
+                "verse_id":112,
+                "text":"MARTINE (Elle dit ces premières lignes bas): Ah! que le Ciel m'inspire une admirable invention pour me venger de mon pendart! (Haut.) Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez, et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées. "
+            },
+            {
+                "verse_id":113,
+                "text":"VALÈRE: Et, de grâce, où pouvons-nous le rencontrer? "
+            },
+            {
+                "verse_id":114,
+                "text":"MARTINE: Vous le trouverez maintenant vers ce petit lieu que voilà, qui s'amuse à couper du bois. "
+            },
+            {
+                "verse_id":115,
+                "text":"LUCAS: Un médecin qui coupe du bois? "
+            },
+            {
+                "verse_id":116,
+                "text":"VALÈRE: Qui s'amuse à cueillir des simples, voulez-vous dire? "
+            },
+            {
+                "verse_id":117,
+                "text":"MARTINE: Non, c'est un homme extraordinaire, qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais pour ce qu'il est. Il va vêtu d'une façon extravagante, affecte quelquefois de paroître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d'exercer les merveilleux talents qu'il a eus du Ciel pour la médecine. "
+            },
+            {
+                "verse_id":118,
+                "text":"VALÈRE: C'est une chose admirable, que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":111,
+                "text":"VALÈRE: Ça pourrait être possible; et nous essayons de trouver un médecin compétent, un spécialiste, qui pourrait soulager la fille de notre maître, atteinte d'une maladie qui lui a subitement fait perdre l'usage de la langue. Plusieurs médecins ont déjà tout essayé après elle; mais parfois on trouve des gens avec des secrets étonnants, des remèdes particuliers, qui réussissent souvent là où les autres ont échoué, et c'est ce que nous cherchons."
+            },
+            {
+                "verse_id":112,
+                "text":"MARTINE (Elle dit ces premières lignes bas): Ah! Que le Ciel m'inspire une idée géniale pour me venger de mon imbécile de mari! (Haut.) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez, et nous avons ici un homme, le plus incroyable homme du monde, pour les maladies désespérées."
+            },
+            {
+                "verse_id":113,
+                "text":"VALÈRE: Et, s'il vous plaît, où pouvons-nous le trouver?"
+            },
+            {
+                "verse_id":114,
+                "text":"MARTINE: Vous le trouverez maintenant près de ce petit endroit là-bas, qui s'amuse à couper du bois."
+            },
+            {
+                "verse_id":115,
+                "text":"LUCAS: Un médecin qui coupe du bois?"
+            },
+            {
+                "verse_id":116,
+                "text":"VALÈRE: Qui s'amuse à cueillir des plantes médicinales, voulez-vous dire?"
+            },
+            {
+                "verse_id":117,
+                "text":"MARTINE: Non, c'est un homme extraordinaire, qui aime ça, excentrique, bizarre, capricieux, et vous ne le prendriez jamais pour ce qu'il est. Il s'habille de façon extravagante, fait parfois semblant d'être ignorant, garde sa connaissance secrète, et évite chaque jour d'exercer les talents merveilleux qu'il a reçus du Ciel pour la médecine."
+            },
+            {
+                "verse_id":118,
+                "text":"VALÈRE: C'est étonnant, tous les grands hommes ont toujours une excentricité, une petite folie mêlée à leur science."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":115,
+        "verse_id_end":123,
+        "text":[
+            {
+                "verse_id":115,
+                "text":"LUCAS: Un médecin qui coupe du bois? "
+            },
+            {
+                "verse_id":116,
+                "text":"VALÈRE: Qui s'amuse à cueillir des simples, voulez-vous dire? "
+            },
+            {
+                "verse_id":117,
+                "text":"MARTINE: Non, c'est un homme extraordinaire, qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais pour ce qu'il est. Il va vêtu d'une façon extravagante, affecte quelquefois de paroître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d'exercer les merveilleux talents qu'il a eus du Ciel pour la médecine. "
+            },
+            {
+                "verse_id":118,
+                "text":"VALÈRE: C'est une chose admirable, que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science. "
+            },
+            {
+                "verse_id":119,
+                "text":"MARTINE: La folie de celui-ci est plus grande qu'on ne peut croire, car elle va parfois jusqu'à vouloir être battu pour demeurer d'accord de sa capacité; et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais qu'il est médecin, s'il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu'il vous cachera d'abord. C'est ainsi que nous en usons quand nous avons besoin de lui. "
+            },
+            {
+                "verse_id":120,
+                "text":"VALÈRE: Voilà une étrange folie! "
+            },
+            {
+                "verse_id":121,
+                "text":"MARTINE: Il est vrai; mais, après cela, vous verrez qu'il fait des merveilles. "
+            },
+            {
+                "verse_id":122,
+                "text":"VALÈRE: Comment s'appelle-t-il?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":115,
+                "text":"LUCAS: Un médecin qui coupe du bois?"
+            },
+            {
+                "verse_id":116,
+                "text":"VALÈRE: Tu veux dire un médecin qui s'amuse à cueillir des plantes médicinales?"
+            },
+            {
+                "verse_id":117,
+                "text":"MARTINE: Non, c'est un homme extraordinaire, qui aime ça, bizarre, un peu fou, et vous ne le reconnaîtriez jamais pour ce qu'il est. Il s'habille de façon extravagante, parfois il fait semblant d'être ignorant, il garde son savoir pour lui-même et il évite de pratiquer la médecine autant que possible."
+            },
+            {
+                "verse_id":118,
+                "text":"VALÈRE: C'est étonnant, tous les grands hommes ont toujours une certaine excentricité, un petit grain de folie mélangé à leur savoir."
+            },
+            {
+                "verse_id":119,
+                "text":"MARTINE: La folie de celui-ci est plus grande qu'on ne peut imaginer, parfois il veut même être battu pour prouver sa capacité. Je vous préviens, vous n'arriverez jamais à le faire avouer qu'il est médecin, à moins que vous ne preniez chacun un bâton et que vous le frappiez jusqu'à ce qu'il vous avoue enfin ce qu'il cache au début. C'est comme ça que nous faisons quand nous avons besoin de lui."
+            },
+            {
+                "verse_id":120,
+                "text":"VALÈRE: C'est une folie étrange!"
+            },
+            {
+                "verse_id":121,
+                "text":"MARTINE: C'est vrai, mais après ça, vous verrez qu'il fait des miracles."
+            },
+            {
+                "verse_id":122,
+                "text":"VALÈRE: Comment s'appelle-t-il?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":119,
+        "verse_id_end":127,
+        "text":[
+            {
+                "verse_id":119,
+                "text":"MARTINE: La folie de celui-ci est plus grande qu'on ne peut croire, car elle va parfois jusqu'à vouloir être battu pour demeurer d'accord de sa capacité; et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais qu'il est médecin, s'il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu'il vous cachera d'abord. C'est ainsi que nous en usons quand nous avons besoin de lui. "
+            },
+            {
+                "verse_id":120,
+                "text":"VALÈRE: Voilà une étrange folie! "
+            },
+            {
+                "verse_id":121,
+                "text":"MARTINE: Il est vrai; mais, après cela, vous verrez qu'il fait des merveilles. "
+            },
+            {
+                "verse_id":122,
+                "text":"VALÈRE: Comment s'appelle-t-il? "
+            },
+            {
+                "verse_id":123,
+                "text":"MARTINE: Il s'appelle Sganarelle; mais il est aisé à connoître: c'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert. "
+            },
+            {
+                "verse_id":124,
+                "text":"LUCAS: Un habit jaune et vart! C'est donc le médecin des paroquets? "
+            },
+            {
+                "verse_id":125,
+                "text":"VALÈRE: Mais est-il bien vrai qu'il soit si habile que vous le dites? "
+            },
+            {
+                "verse_id":126,
+                "text":"MARTINE: Comment! c'est un homme qui fait des miracles. Il y a six mois qu'une femme fut abandonnée de tous les autres médecins: on la tenoit morte il y avoit déjà six heures, et l'on se disposoit à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons. Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche, et dans le même instant elle se leva de son lit et se mit aussitôt à se promener dans sa chambre, comme si de rien n'eût été."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":119,
+                "text":"MARTINE: Ce type est vraiment fou, plus que vous ne pouvez l'imaginer. Parfois, il va jusqu'à vouloir être battu pour prouver qu'il est capable. Je vous préviens, vous n'arriverez jamais à le convaincre qu'il est médecin, à moins que vous ne preniez chacun un bâton et ne le frappiez jusqu'à ce qu'il avoue. C'est comme ça que nous faisons quand nous avons besoin de lui."
+            },
+            {
+                "verse_id":120,
+                "text":"VALÈRE: C'est vraiment une folie étrange !"
+            },
+            {
+                "verse_id":121,
+                "text":"MARTINE: Oui, mais après ça, vous verrez qu'il fait des miracles."
+            },
+            {
+                "verse_id":122,
+                "text":"VALÈRE: Comment s'appelle-t-il ?"
+            },
+            {
+                "verse_id":123,
+                "text":"MARTINE: Il s'appelle Sganarelle. Il est facile à reconnaître : c'est un homme avec une grande barbe noire, qui porte une fraise et un habit jaune et vert."
+            },
+            {
+                "verse_id":124,
+                "text":"LUCAS: Un habit jaune et vert ! C'est donc le médecin des perroquets ?"
+            },
+            {
+                "verse_id":125,
+                "text":"VALÈRE: Mais est-il vraiment aussi compétent que vous le dites ?"
+            },
+            {
+                "verse_id":126,
+                "text":"MARTINE: Comment ! C'est un homme qui fait des miracles. Il y a six mois, une femme avait été abandonnée par tous les autres médecins. On la considérait déjà comme morte depuis six heures et on s'apprêtait à l'enterrer, quand on a forcé cet homme à venir. Il lui a donné une petite goutte de je ne sais quoi dans la bouche et immédiatement, elle s'est levée de son lit et s'est mise à marcher dans sa chambre, comme si de rien n'était."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":123,
+        "verse_id_end":131,
+        "text":[
+            {
+                "verse_id":123,
+                "text":"MARTINE: Il s'appelle Sganarelle; mais il est aisé à connoître: c'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert. "
+            },
+            {
+                "verse_id":124,
+                "text":"LUCAS: Un habit jaune et vart! C'est donc le médecin des paroquets? "
+            },
+            {
+                "verse_id":125,
+                "text":"VALÈRE: Mais est-il bien vrai qu'il soit si habile que vous le dites? "
+            },
+            {
+                "verse_id":126,
+                "text":"MARTINE: Comment! c'est un homme qui fait des miracles. Il y a six mois qu'une femme fut abandonnée de tous les autres médecins: on la tenoit morte il y avoit déjà six heures, et l'on se disposoit à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons. Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche, et dans le même instant elle se leva de son lit et se mit aussitôt à se promener dans sa chambre, comme si de rien n'eût été. "
+            },
+            {
+                "verse_id":127,
+                "text":"LUCAS: Ah! "
+            },
+            {
+                "verse_id":128,
+                "text":"VALÈRE: Il falloit que ce fût quelque goutte d'or potable. "
+            },
+            {
+                "verse_id":129,
+                "text":"MARTINE: Cela pourroit bien être. Il n'y a pas trois semaines encore qu'un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête, les bras et les jambes. On n'y eut pas plus tôt amené notre homme qu'il le frotta par tout le corps d'un certain onguent qu'il sait faire, et l'enfant aussitôt se leva sur ses pieds et courut jouer à la fossette. "
+            },
+            {
+                "verse_id":130,
+                "text":"LUCAS: Ah!"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":123,
+                "text":"MARTINE: Il s'appelle Sganarelle; mais il est facile à reconnaître: c'est un homme qui a une grande barbe noire, et qui porte un col, avec un costume jaune et vert."
+            },
+            {
+                "verse_id":124,
+                "text":"LUCAS: Un costume jaune et vert! C'est donc le médecin des oiseaux?"
+            },
+            {
+                "verse_id":125,
+                "text":"VALÈRE: Mais est-il vraiment aussi compétent que vous le dites?"
+            },
+            {
+                "verse_id":126,
+                "text":"MARTINE: Comment! C'est un homme qui fait des miracles. Il y a six mois, une femme a été abandonnée par tous les autres médecins: on la considérait comme morte depuis déjà six heures, et on se préparait à l'enterrer, quand on a forcé cet homme dont nous parlons à venir. Après lui avoir donné une petite goutte de je ne sais quoi dans la bouche, elle s'est levée immédiatement de son lit et s'est mise à marcher dans sa chambre, comme si de rien n'était."
+            },
+            {
+                "verse_id":127,
+                "text":"LUCAS: Ah!"
+            },
+            {
+                "verse_id":128,
+                "text":"VALÈRE: Il devait s'agir d'une goutte d'élixir d'or."
+            },
+            {
+                "verse_id":129,
+                "text":"MARTINE: C'est bien possible. Il y a moins de trois semaines, un jeune enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il l'a frotté avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et s'est mis à jouer à la fossette."
+            },
+            {
+                "verse_id":130,
+                "text":"LUCAS: Ah!"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":127,
+        "verse_id_end":135,
+        "text":[
+            {
+                "verse_id":127,
+                "text":"LUCAS: Ah! "
+            },
+            {
+                "verse_id":128,
+                "text":"VALÈRE: Il falloit que ce fût quelque goutte d'or potable. "
+            },
+            {
+                "verse_id":129,
+                "text":"MARTINE: Cela pourroit bien être. Il n'y a pas trois semaines encore qu'un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête, les bras et les jambes. On n'y eut pas plus tôt amené notre homme qu'il le frotta par tout le corps d'un certain onguent qu'il sait faire, et l'enfant aussitôt se leva sur ses pieds et courut jouer à la fossette. "
+            },
+            {
+                "verse_id":130,
+                "text":"LUCAS: Ah! "
+            },
+            {
+                "verse_id":131,
+                "text":"VALÈRE: Il faut que cet homme-là ait la médecine universelle. "
+            },
+            {
+                "verse_id":132,
+                "text":"MARTINE: Qui en doute? "
+            },
+            {
+                "verse_id":133,
+                "text":"LUCAS: Testigué! velà justement l'homme qu'il nous faut; allons vite le charcher. "
+            },
+            {
+                "verse_id":134,
+                "text":"VALÈRE: Nous vous remercions du plaisir que vous nous faites."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":127,
+                "text":"LUCAS: Ah!"
+            },
+            {
+                "verse_id":128,
+                "text":"VALÈRE: Il fallait que ce soit quelque boisson à base d'or."
+            },
+            {
+                "verse_id":129,
+                "text":"MARTINE: Cela pourrait bien être. Il n'y a pas trois semaines encore, un jeune enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le pavé. Dès qu'on l'a amené, notre homme l'a frotté avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et s'est mis à jouer à la fossette."
+            },
+            {
+                "verse_id":130,
+                "text":"LUCAS: Ah!"
+            },
+            {
+                "verse_id":131,
+                "text":"VALÈRE: Cet homme doit avoir le remède universel."
+            },
+            {
+                "verse_id":132,
+                "text":"MARTINE: Qui en doute?"
+            },
+            {
+                "verse_id":133,
+                "text":"LUCAS: Témoin! C'est justement l'homme qu'il nous faut; allons vite le chercher."
+            },
+            {
+                "verse_id":134,
+                "text":"VALÈRE: Nous vous remercions pour le plaisir que vous nous donnez."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":4,
+        "verse_id_start":130,
+        "verse_id_end":138,
+        "text":[
+            {
+                "verse_id":130,
+                "text":"LUCAS: Ah! "
+            },
+            {
+                "verse_id":131,
+                "text":"VALÈRE: Il faut que cet homme-là ait la médecine universelle. "
+            },
+            {
+                "verse_id":132,
+                "text":"MARTINE: Qui en doute? "
+            },
+            {
+                "verse_id":133,
+                "text":"LUCAS: Testigué! velà justement l'homme qu'il nous faut; allons vite le charcher. "
+            },
+            {
+                "verse_id":134,
+                "text":"VALÈRE: Nous vous remercions du plaisir que vous nous faites. "
+            },
+            {
+                "verse_id":135,
+                "text":"MARTINE: Mais souvenez-vous bien au moins de l'avertissement que je vous ai donné. "
+            },
+            {
+                "verse_id":136,
+                "text":"LUCAS: Hé! morguenne! laissez-nous faire; s'il ne tient qu'à battre, la vache est à nous. "
+            },
+            {
+                "verse_id":137,
+                "text":"VALÈRE: Nous sommes bien heureux d'avoir fait cette rencontre, et j'en conçois, pour moi, la meilleure espérance du monde."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":130,
+                "text":"LUCAS: Ah!"
+            },
+            {
+                "verse_id":131,
+                "text":"VALÈRE: Cet homme doit avoir le remède universel."
+            },
+            {
+                "verse_id":132,
+                "text":"MARTINE: Qui en doute?"
+            },
+            {
+                "verse_id":133,
+                "text":"LUCAS: Témoin! C'est justement l'homme qu'il nous faut; allons vite le chercher."
+            },
+            {
+                "verse_id":134,
+                "text":"VALÈRE: Nous vous remercions pour le plaisir que vous nous donnez."
+            },
+            {
+                "verse_id":135,
+                "text":"MARTINE: Mais souvenez-vous au moins de l'avertissement que je vous ai donné."
+            },
+            {
+                "verse_id":136,
+                "text":"LUCAS: Hé! laissez-nous faire; s'il ne tient qu'à se battre, la victoire est assurée."
+            },
+            {
+                "verse_id":137,
+                "text":"VALÈRE: Nous sommes très heureux d'avoir fait cette rencontre, et j'en ai la meilleure espérance du monde pour moi."
+            }
+        ]
+    }
+]

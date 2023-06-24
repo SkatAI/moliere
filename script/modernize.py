@@ -167,7 +167,8 @@ def get_prompt_mml09(acte, scene, personnages, text):
     return prompt
 
 def get_prompt_mml08(text):
-    prompt = config['prompt'].replace("{text}", text),
+    prompt = config['prompt']
+    prompt = prompt.replace("{text}", text)
     return prompt
 
 def get_personnages(df, chunk):

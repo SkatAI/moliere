@@ -1,0 +1,298 @@
+[
+    {
+        "acte":3,
+        "scene":7,
+        "verse_id_start":548,
+        "verse_id_end":556,
+        "text":[
+            {
+                "verse_id":548,
+                "text":"GÉRONTE: Quelles drogues, Monsieur, sont celles que vous venez de dire? Il me semble que je ne les ai jamais ouï nommer. "
+            },
+            {
+                "verse_id":549,
+                "text":"SGANARELLE: Ce sont drogues dont on se sert dans les nécessités urgentes. "
+            },
+            {
+                "verse_id":550,
+                "text":"GÉRONTE: Avez-vous jamais vu une insolence pareille à la sienne? "
+            },
+            {
+                "verse_id":551,
+                "text":"SGANARELLE: Les filles sont quelquefois un peu têtues. "
+            },
+            {
+                "verse_id":552,
+                "text":"GÉRONTE: Vous ne sauriez croire comme elle est affolée de ce Léandre. "
+            },
+            {
+                "verse_id":553,
+                "text":"SGANARELLE: La chaleur du sang fait cela dans les jeunes esprits. "
+            },
+            {
+                "verse_id":554,
+                "text":"GÉRONTE: Pour moi, dès que j'ai eu découvert la violence de cet amour, j'ai su tenir toujours ma fille renfermée. "
+            },
+            {
+                "verse_id":555,
+                "text":"SGANARELLE: Vous avez fait sagement."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":548,
+                "text":"GÉRONTE: Quelles substances, Monsieur, sont celles que vous venez de mentionner? Je crois n'avoir jamais entendu parler d'elles."
+            },
+            {
+                "verse_id":549,
+                "text":"SGANARELLE: Ce sont des substances utilisées dans les situations urgentes."
+            },
+            {
+                "verse_id":550,
+                "text":"GÉRONTE: Avez-vous déjà vu une telle insolence?"
+            },
+            {
+                "verse_id":551,
+                "text":"SGANARELLE: Les filles sont parfois un peu têtues."
+            },
+            {
+                "verse_id":552,
+                "text":"GÉRONTE: Vous ne pouvez pas imaginer à quel point elle est folle de ce Léandre."
+            },
+            {
+                "verse_id":553,
+                "text":"SGANARELLE: C'est la passion qui fait ça dans les esprits jeunes."
+            },
+            {
+                "verse_id":554,
+                "text":"GÉRONTE: Pour ma part, dès que j'ai découvert l'intensité de cet amour, j'ai toujours gardé ma fille enfermée."
+            },
+            {
+                "verse_id":555,
+                "text":"SGANARELLE: Vous avez bien agi."
+            }
+        ]
+    },
+    {
+        "acte":3,
+        "scene":7,
+        "verse_id_start":552,
+        "verse_id_end":560,
+        "text":[
+            {
+                "verse_id":552,
+                "text":"GÉRONTE: Vous ne sauriez croire comme elle est affolée de ce Léandre. "
+            },
+            {
+                "verse_id":553,
+                "text":"SGANARELLE: La chaleur du sang fait cela dans les jeunes esprits. "
+            },
+            {
+                "verse_id":554,
+                "text":"GÉRONTE: Pour moi, dès que j'ai eu découvert la violence de cet amour, j'ai su tenir toujours ma fille renfermée. "
+            },
+            {
+                "verse_id":555,
+                "text":"SGANARELLE: Vous avez fait sagement. "
+            },
+            {
+                "verse_id":556,
+                "text":"GÉRONTE: Et j'ai bien empêché qu'ils n'aient eu communication ensemble. "
+            },
+            {
+                "verse_id":557,
+                "text":"SGANARELLE: Fort bien. "
+            },
+            {
+                "verse_id":558,
+                "text":"GÉRONTE: Il seroit arrivé quelque folie si j'avois souffert qu'ils se fussent vus. "
+            },
+            {
+                "verse_id":559,
+                "text":"SGANARELLE: Sans doute."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":552,
+                "text":"GÉRONTE: Vous ne pouvez pas imaginer à quel point elle est obsédée par Léandre."
+            },
+            {
+                "verse_id":553,
+                "text":"SGANARELLE: C'est normal pour les jeunes esprits d'être emportés par la passion."
+            },
+            {
+                "verse_id":554,
+                "text":"GÉRONTE: Dès que j'ai découvert l'intensité de cet amour, j'ai pris soin de garder ma fille enfermée."
+            },
+            {
+                "verse_id":555,
+                "text":"SGANARELLE: Vous avez bien fait."
+            },
+            {
+                "verse_id":556,
+                "text":"GÉRONTE: Et j'ai veillé à ce qu'ils ne puissent pas communiquer entre eux."
+            },
+            {
+                "verse_id":557,
+                "text":"SGANARELLE: Très bien."
+            },
+            {
+                "verse_id":558,
+                "text":"GÉRONTE: Il aurait pu se produire des folies si j'avais permis qu'ils se voient."
+            },
+            {
+                "verse_id":559,
+                "text":"SGANARELLE: Sans aucun doute."
+            }
+        ]
+    },
+    {
+        "acte":3,
+        "scene":7,
+        "verse_id_start":556,
+        "verse_id_end":564,
+        "text":[
+            {
+                "verse_id":556,
+                "text":"GÉRONTE: Et j'ai bien empêché qu'ils n'aient eu communication ensemble. "
+            },
+            {
+                "verse_id":557,
+                "text":"SGANARELLE: Fort bien. "
+            },
+            {
+                "verse_id":558,
+                "text":"GÉRONTE: Il seroit arrivé quelque folie si j'avois souffert qu'ils se fussent vus. "
+            },
+            {
+                "verse_id":559,
+                "text":"SGANARELLE: Sans doute. "
+            },
+            {
+                "verse_id":560,
+                "text":"GÉRONTE: Et je crois qu'elle auroit été fille à s'en aller avec lui. "
+            },
+            {
+                "verse_id":561,
+                "text":"SGANARELLE: C'est prudemment raisonné. "
+            },
+            {
+                "verse_id":562,
+                "text":"GÉRONTE: On m'avertit qu'il fait tous ses efforts pour lui parler. "
+            },
+            {
+                "verse_id":563,
+                "text":"SGANARELLE: Quel drôle!"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":556,
+                "text":"GÉRONTE: Et j'ai bien empêché qu'ils ne se soient parlé."
+            },
+            {
+                "verse_id":557,
+                "text":"SGANARELLE: Très bien."
+            },
+            {
+                "verse_id":558,
+                "text":"GÉRONTE: Il aurait pu se passer quelque chose de fou si j'avais laissé qu'ils se voient."
+            },
+            {
+                "verse_id":559,
+                "text":"SGANARELLE: Sans aucun doute."
+            },
+            {
+                "verse_id":560,
+                "text":"GÉRONTE: Et je pense qu'elle aurait été assez bête pour partir avec lui."
+            },
+            {
+                "verse_id":561,
+                "text":"SGANARELLE: C'est une réflexion prudente."
+            },
+            {
+                "verse_id":562,
+                "text":"GÉRONTE: On me prévient qu'il fait tout son possible pour lui parler."
+            },
+            {
+                "verse_id":563,
+                "text":"SGANARELLE: Quel drôle !"
+            }
+        ]
+    },
+    {
+        "acte":3,
+        "scene":7,
+        "verse_id_start":560,
+        "verse_id_end":568,
+        "text":[
+            {
+                "verse_id":560,
+                "text":"GÉRONTE: Et je crois qu'elle auroit été fille à s'en aller avec lui. "
+            },
+            {
+                "verse_id":561,
+                "text":"SGANARELLE: C'est prudemment raisonné. "
+            },
+            {
+                "verse_id":562,
+                "text":"GÉRONTE: On m'avertit qu'il fait tous ses efforts pour lui parler. "
+            },
+            {
+                "verse_id":563,
+                "text":"SGANARELLE: Quel drôle! "
+            },
+            {
+                "verse_id":564,
+                "text":"GÉRONTE: Mais il perdra son temps. "
+            },
+            {
+                "verse_id":565,
+                "text":"SGANARELLE: Ah! ah! "
+            },
+            {
+                "verse_id":566,
+                "text":"GÉRONTE: Et j'empêcherai bien qu'il ne la voie. "
+            },
+            {
+                "verse_id":567,
+                "text":"SGANARELLE: Il n'a pas affaire à un sot, et vous savez des rubriques qu'il ne sait pas. Plus fin que vous n'est pas bête."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":560,
+                "text":"GÉRONTE: Et je pense qu'elle aurait été prête à partir avec lui."
+            },
+            {
+                "verse_id":561,
+                "text":"SGANARELLE: C'est une réflexion prudente."
+            },
+            {
+                "verse_id":562,
+                "text":"GÉRONTE: On me prévient qu'il fait tout son possible pour lui parler."
+            },
+            {
+                "verse_id":563,
+                "text":"SGANARELLE: Quel drôle !"
+            },
+            {
+                "verse_id":564,
+                "text":"GÉRONTE: Mais il va perdre son temps."
+            },
+            {
+                "verse_id":565,
+                "text":"SGANARELLE: Ah ! Ah !"
+            },
+            {
+                "verse_id":566,
+                "text":"GÉRONTE: Et je vais m'assurer qu'il ne la voie pas."
+            },
+            {
+                "verse_id":567,
+                "text":"SGANARELLE: Il n'a pas affaire à un idiot, et vous connaissez des astuces qu'il ignore. Il est plus malin que vous ne le pensez."
+            }
+        ]
+    }
+]

@@ -1,0 +1,890 @@
+[
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":266,
+        "verse_id_end":274,
+        "text":[
+            {
+                "verse_id":266,
+                "text":"VALÈRE: Monsieur, préparez-vous, voici notre médecin qui entre. "
+            },
+            {
+                "verse_id":267,
+                "text":"GÉRONTE: Monsieur, je suis ravi de vous voir chez moi, et nous avons grand besoin de vous. "
+            },
+            {
+                "verse_id":268,
+                "text":"SGANARELLE, en robe de médecin, avec un chapeau des plus pointus: Hippocrate dit... que nous nous couvrions tous deux. "
+            },
+            {
+                "verse_id":269,
+                "text":"GÉRONTE: Hippocrate dit cela? "
+            },
+            {
+                "verse_id":270,
+                "text":"SGANARELLE: Oui. "
+            },
+            {
+                "verse_id":271,
+                "text":"GÉRONTE: Dans quel chapitre, s'il vous plaît? "
+            },
+            {
+                "verse_id":272,
+                "text":"SGANARELLE: Dans son chapitre des chapeaux. "
+            },
+            {
+                "verse_id":273,
+                "text":"GÉRONTE: Puisqu'Hippocrate le dit, il le faut faire."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":266,
+                "text":"VALÈRE: Monsieur, préparez-vous, notre médecin arrive."
+            },
+            {
+                "verse_id":267,
+                "text":"GÉRONTE: Monsieur, je suis content de vous voir ici, nous avons vraiment besoin de vous."
+            },
+            {
+                "verse_id":268,
+                "text":"SGANARELLE, en tenue de médecin, avec un chapeau pointu: Hippocrate dit... que nous devons tous les deux nous couvrir."
+            },
+            {
+                "verse_id":269,
+                "text":"GÉRONTE: Hippocrate dit ça?"
+            },
+            {
+                "verse_id":270,
+                "text":"SGANARELLE: Oui."
+            },
+            {
+                "verse_id":271,
+                "text":"GÉRONTE: Dans quel chapitre, s'il vous plaît?"
+            },
+            {
+                "verse_id":272,
+                "text":"SGANARELLE: Dans son chapitre sur les chapeaux."
+            },
+            {
+                "verse_id":273,
+                "text":"GÉRONTE: Puisque Hippocrate le dit, alors nous devons le faire."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":270,
+        "verse_id_end":278,
+        "text":[
+            {
+                "verse_id":270,
+                "text":"SGANARELLE: Oui. "
+            },
+            {
+                "verse_id":271,
+                "text":"GÉRONTE: Dans quel chapitre, s'il vous plaît? "
+            },
+            {
+                "verse_id":272,
+                "text":"SGANARELLE: Dans son chapitre des chapeaux. "
+            },
+            {
+                "verse_id":273,
+                "text":"GÉRONTE: Puisqu'Hippocrate le dit, il le faut faire. "
+            },
+            {
+                "verse_id":274,
+                "text":"SGANARELLE: Monsieur le médecin, ayant appris les merveilleuses choses... "
+            },
+            {
+                "verse_id":275,
+                "text":"GÉRONTE: À qui parlez-vous, de grâce? "
+            },
+            {
+                "verse_id":276,
+                "text":"SGANARELLE: À vous. "
+            },
+            {
+                "verse_id":277,
+                "text":"GÉRONTE: Je ne suis pas médecin."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":270,
+                "text":"SGANARELLE: Oui."
+            },
+            {
+                "verse_id":271,
+                "text":"GÉRONTE: Dans quel chapitre, s'il vous plaît?"
+            },
+            {
+                "verse_id":272,
+                "text":"SGANARELLE: Dans son chapitre des chapeaux."
+            },
+            {
+                "verse_id":273,
+                "text":"GÉRONTE: Puisque Hippocrate le dit, il faut le faire."
+            },
+            {
+                "verse_id":274,
+                "text":"SGANARELLE: Monsieur le médecin, ayant appris les merveilleuses choses..."
+            },
+            {
+                "verse_id":275,
+                "text":"GÉRONTE: À qui parlez-vous, s'il vous plaît?"
+            },
+            {
+                "verse_id":276,
+                "text":"SGANARELLE: À vous."
+            },
+            {
+                "verse_id":277,
+                "text":"GÉRONTE: Je ne suis pas médecin."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":274,
+        "verse_id_end":282,
+        "text":[
+            {
+                "verse_id":274,
+                "text":"SGANARELLE: Monsieur le médecin, ayant appris les merveilleuses choses... "
+            },
+            {
+                "verse_id":275,
+                "text":"GÉRONTE: À qui parlez-vous, de grâce? "
+            },
+            {
+                "verse_id":276,
+                "text":"SGANARELLE: À vous. "
+            },
+            {
+                "verse_id":277,
+                "text":"GÉRONTE: Je ne suis pas médecin. "
+            },
+            {
+                "verse_id":278,
+                "text":"SGANARELLE: Vous n'êtes pas médecin? "
+            },
+            {
+                "verse_id":279,
+                "text":"GÉRONTE: Non vraiment. "
+            },
+            {
+                "verse_id":280,
+                "text":"SGANARELLE (Il prend ici un bâton, et le bat comme on l'a battu): Tout de bon? "
+            },
+            {
+                "verse_id":281,
+                "text":"GÉRONTE: Tout de bon. Ah! ah! ah!"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":274,
+                "text":"SGANARELLE: Monsieur le médecin, j'ai entendu parler de choses incroyables..."
+            },
+            {
+                "verse_id":275,
+                "text":"GÉRONTE: À qui parlez-vous, s'il vous plaît?"
+            },
+            {
+                "verse_id":276,
+                "text":"SGANARELLE: À vous."
+            },
+            {
+                "verse_id":277,
+                "text":"GÉRONTE: Je ne suis pas médecin."
+            },
+            {
+                "verse_id":278,
+                "text":"SGANARELLE: Vous n'êtes pas médecin?"
+            },
+            {
+                "verse_id":279,
+                "text":"GÉRONTE: Non vraiment."
+            },
+            {
+                "verse_id":280,
+                "text":"SGANARELLE (Il prend un bâton et le frappe comme on l'a frappé): Vraiment?"
+            },
+            {
+                "verse_id":281,
+                "text":"GÉRONTE: Vraiment. Ah! ah! ah!"
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":278,
+        "verse_id_end":286,
+        "text":[
+            {
+                "verse_id":278,
+                "text":"SGANARELLE: Vous n'êtes pas médecin? "
+            },
+            {
+                "verse_id":279,
+                "text":"GÉRONTE: Non vraiment. "
+            },
+            {
+                "verse_id":280,
+                "text":"SGANARELLE (Il prend ici un bâton, et le bat comme on l'a battu): Tout de bon? "
+            },
+            {
+                "verse_id":281,
+                "text":"GÉRONTE: Tout de bon. Ah! ah! ah! "
+            },
+            {
+                "verse_id":282,
+                "text":"SGANARELLE: Vous êtes médecin maintenant: je n'ai jamais eu d'autres licences. "
+            },
+            {
+                "verse_id":283,
+                "text":"GÉRONTE: Quel diable d'homme m'avez-vous là amené? "
+            },
+            {
+                "verse_id":284,
+                "text":"VALÈRE: Je vous ai bien dit que c'étoit un médecin goguenard. "
+            },
+            {
+                "verse_id":285,
+                "text":"GÉRONTE: Oui. Mais je l'envoirois promener avec ses goguenarderies."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":278,
+                "text":"SGANARELLE: Vous n'êtes pas médecin?"
+            },
+            {
+                "verse_id":279,
+                "text":"GÉRONTE: Non vraiment."
+            },
+            {
+                "verse_id":280,
+                "text":"SGANARELLE (Il prend ici un bâton, et le bat comme on l'a battu): Vraiment?"
+            },
+            {
+                "verse_id":281,
+                "text":"GÉRONTE: Vraiment. Ah! ah! ah!"
+            },
+            {
+                "verse_id":282,
+                "text":"SGANARELLE: Maintenant vous êtes médecin: je n'ai jamais eu d'autres licences."
+            },
+            {
+                "verse_id":283,
+                "text":"GÉRONTE: Quel homme étrange avez-vous amené ici?"
+            },
+            {
+                "verse_id":284,
+                "text":"VALÈRE: Je vous ai bien dit qu'il était un médecin moqueur."
+            },
+            {
+                "verse_id":285,
+                "text":"GÉRONTE: Oui. Mais je le renverrais avec ses moqueries."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":282,
+        "verse_id_end":290,
+        "text":[
+            {
+                "verse_id":282,
+                "text":"SGANARELLE: Vous êtes médecin maintenant: je n'ai jamais eu d'autres licences. "
+            },
+            {
+                "verse_id":283,
+                "text":"GÉRONTE: Quel diable d'homme m'avez-vous là amené? "
+            },
+            {
+                "verse_id":284,
+                "text":"VALÈRE: Je vous ai bien dit que c'étoit un médecin goguenard. "
+            },
+            {
+                "verse_id":285,
+                "text":"GÉRONTE: Oui. Mais je l'envoirois promener avec ses goguenarderies. "
+            },
+            {
+                "verse_id":286,
+                "text":"LUCAS: Ne prenez pas garde à ça, Monsieu, ce n'est que pour rire. "
+            },
+            {
+                "verse_id":287,
+                "text":"GÉRONTE: Cette raillerie ne me plaît pas. "
+            },
+            {
+                "verse_id":288,
+                "text":"SGANARELLE: Monsieur, je vous demande pardon de la liberté que j'ai prise. "
+            },
+            {
+                "verse_id":289,
+                "text":"GÉRONTE: Monsieur, je suis votre serviteur."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":282,
+                "text":"SGANARELLE: Maintenant, vous êtes médecin : je n'ai jamais eu d'autres autorisations."
+            },
+            {
+                "verse_id":283,
+                "text":"GÉRONTE: Quel homme étrange avez-vous amené ici ?"
+            },
+            {
+                "verse_id":284,
+                "text":"VALÈRE: Je vous ai bien dit qu'il était un médecin moqueur."
+            },
+            {
+                "verse_id":285,
+                "text":"GÉRONTE: Oui. Mais je le renverrais avec ses moqueries."
+            },
+            {
+                "verse_id":286,
+                "text":"LUCAS: Ne faites pas attention à ça, Monsieur, c'est juste pour rire."
+            },
+            {
+                "verse_id":287,
+                "text":"GÉRONTE: Cette plaisanterie ne me plaît pas."
+            },
+            {
+                "verse_id":288,
+                "text":"SGANARELLE: Monsieur, je vous demande pardon pour la liberté que j'ai prise."
+            },
+            {
+                "verse_id":289,
+                "text":"GÉRONTE: Monsieur, je suis à votre service."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":286,
+        "verse_id_end":294,
+        "text":[
+            {
+                "verse_id":286,
+                "text":"LUCAS: Ne prenez pas garde à ça, Monsieu, ce n'est que pour rire. "
+            },
+            {
+                "verse_id":287,
+                "text":"GÉRONTE: Cette raillerie ne me plaît pas. "
+            },
+            {
+                "verse_id":288,
+                "text":"SGANARELLE: Monsieur, je vous demande pardon de la liberté que j'ai prise. "
+            },
+            {
+                "verse_id":289,
+                "text":"GÉRONTE: Monsieur, je suis votre serviteur. "
+            },
+            {
+                "verse_id":290,
+                "text":"SGANARELLE: Je suis fâché... "
+            },
+            {
+                "verse_id":291,
+                "text":"GÉRONTE: Cela n'est rien. "
+            },
+            {
+                "verse_id":292,
+                "text":"SGANARELLE: Des coups de bâton... "
+            },
+            {
+                "verse_id":293,
+                "text":"GÉRONTE: Il n'y a pas de mal."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":286,
+                "text":"LUCAS: Ne faites pas attention à ça, Monsieur, c'est juste pour rire."
+            },
+            {
+                "verse_id":287,
+                "text":"GÉRONTE: Cette plaisanterie ne me plaît pas."
+            },
+            {
+                "verse_id":288,
+                "text":"SGANARELLE: Monsieur, je m'excuse de la familiarité que j'ai eue."
+            },
+            {
+                "verse_id":289,
+                "text":"GÉRONTE: Monsieur, je suis à votre service."
+            },
+            {
+                "verse_id":290,
+                "text":"SGANARELLE: Je suis désolé..."
+            },
+            {
+                "verse_id":291,
+                "text":"GÉRONTE: Ce n'est rien."
+            },
+            {
+                "verse_id":292,
+                "text":"SGANARELLE: Des coups de bâton..."
+            },
+            {
+                "verse_id":293,
+                "text":"GÉRONTE: Ce n'est pas grave."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":290,
+        "verse_id_end":298,
+        "text":[
+            {
+                "verse_id":290,
+                "text":"SGANARELLE: Je suis fâché... "
+            },
+            {
+                "verse_id":291,
+                "text":"GÉRONTE: Cela n'est rien. "
+            },
+            {
+                "verse_id":292,
+                "text":"SGANARELLE: Des coups de bâton... "
+            },
+            {
+                "verse_id":293,
+                "text":"GÉRONTE: Il n'y a pas de mal. "
+            },
+            {
+                "verse_id":294,
+                "text":"SGANARELLE: Que j'ai eu l'honneur de vous donner. "
+            },
+            {
+                "verse_id":295,
+                "text":"GÉRONTE: Ne parlons plus de cela. Monsieur, j'ai une fille qui est tombée dans une étrange maladie. "
+            },
+            {
+                "verse_id":296,
+                "text":"SGANARELLE: Je suis ravi, Monsieur, que votre fille ait besoin de moi; et je souhaiterois de tout mon coeur que vous en eussiez besoin aussi, vous et toute votre famille, pour vous témoigner l'envie que j'ai de vous servir. "
+            },
+            {
+                "verse_id":297,
+                "text":"GÉRONTE: Je vous suis obligé de ces sentiments."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":290,
+                "text":"SGANARELLE: Je suis désolé... "
+            },
+            {
+                "verse_id":291,
+                "text":"GÉRONTE: Ce n'est rien. "
+            },
+            {
+                "verse_id":292,
+                "text":"SGANARELLE: Des coups de bâton... "
+            },
+            {
+                "verse_id":293,
+                "text":"GÉRONTE: Ce n'est pas grave. "
+            },
+            {
+                "verse_id":294,
+                "text":"SGANARELLE: Que je vous ai donnés. "
+            },
+            {
+                "verse_id":295,
+                "text":"GÉRONTE: N'en parlons plus. Monsieur, ma fille est tombée dans une étrange maladie. "
+            },
+            {
+                "verse_id":296,
+                "text":"SGANARELLE: Je suis content, Monsieur, que votre fille ait besoin de moi; et je souhaite de tout mon cœur que vous ayez aussi besoin de moi, ainsi que toute votre famille, pour vous montrer combien je suis désireux de vous aider. "
+            },
+            {
+                "verse_id":297,
+                "text":"GÉRONTE: Je vous remercie pour ces sentiments."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":294,
+        "verse_id_end":302,
+        "text":[
+            {
+                "verse_id":294,
+                "text":"SGANARELLE: Que j'ai eu l'honneur de vous donner. "
+            },
+            {
+                "verse_id":295,
+                "text":"GÉRONTE: Ne parlons plus de cela. Monsieur, j'ai une fille qui est tombée dans une étrange maladie. "
+            },
+            {
+                "verse_id":296,
+                "text":"SGANARELLE: Je suis ravi, Monsieur, que votre fille ait besoin de moi; et je souhaiterois de tout mon coeur que vous en eussiez besoin aussi, vous et toute votre famille, pour vous témoigner l'envie que j'ai de vous servir. "
+            },
+            {
+                "verse_id":297,
+                "text":"GÉRONTE: Je vous suis obligé de ces sentiments. "
+            },
+            {
+                "verse_id":298,
+                "text":"SGANARELLE: Je vous assure que c'est du meilleur de mon âme que je vous parle. "
+            },
+            {
+                "verse_id":299,
+                "text":"GÉRONTE: C'est trop d'honneur que vous me faites. "
+            },
+            {
+                "verse_id":300,
+                "text":"SGANARELLE: Comment s'appelle votre fille? "
+            },
+            {
+                "verse_id":301,
+                "text":"GÉRONTE: Lucinde."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":294,
+                "text":"SGANARELLE: J'ai eu l'honneur de vous aider."
+            },
+            {
+                "verse_id":295,
+                "text":"GÉRONTE: Ne parlons plus de ça. Monsieur, ma fille est tombée malade d'une étrange maladie."
+            },
+            {
+                "verse_id":296,
+                "text":"SGANARELLE: Je suis content, Monsieur, que votre fille ait besoin de moi. J'espère sincèrement que vous et toute votre famille aurez également besoin de moi, pour vous montrer à quel point je suis prêt à vous servir."
+            },
+            {
+                "verse_id":297,
+                "text":"GÉRONTE: Je vous remercie pour ces sentiments."
+            },
+            {
+                "verse_id":298,
+                "text":"SGANARELLE: Je vous assure que je parle avec tout mon cœur."
+            },
+            {
+                "verse_id":299,
+                "text":"GÉRONTE: Vous me faites trop d'honneur."
+            },
+            {
+                "verse_id":300,
+                "text":"SGANARELLE: Comment s'appelle votre fille?"
+            },
+            {
+                "verse_id":301,
+                "text":"GÉRONTE: Lucinde."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":298,
+        "verse_id_end":306,
+        "text":[
+            {
+                "verse_id":298,
+                "text":"SGANARELLE: Je vous assure que c'est du meilleur de mon âme que je vous parle. "
+            },
+            {
+                "verse_id":299,
+                "text":"GÉRONTE: C'est trop d'honneur que vous me faites. "
+            },
+            {
+                "verse_id":300,
+                "text":"SGANARELLE: Comment s'appelle votre fille? "
+            },
+            {
+                "verse_id":301,
+                "text":"GÉRONTE: Lucinde. "
+            },
+            {
+                "verse_id":302,
+                "text":"SGANARELLE: Lucinde! Ah! beau nom à médicamenter! Lucinde! "
+            },
+            {
+                "verse_id":303,
+                "text":"GÉRONTE: Je m'en vais voir un peu ce qu'elle fait. "
+            },
+            {
+                "verse_id":304,
+                "text":"SGANARELLE: Qui est cette grande femme-là? "
+            },
+            {
+                "verse_id":305,
+                "text":"GÉRONTE: C'est la nourrice d'un petit enfant que j'ai."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":298,
+                "text":"SGANARELLE: Je vous jure que je vous parle sincèrement. "
+            },
+            {
+                "verse_id":299,
+                "text":"GÉRONTE: C'est un grand honneur que vous me faites. "
+            },
+            {
+                "verse_id":300,
+                "text":"SGANARELLE: Comment s'appelle votre fille? "
+            },
+            {
+                "verse_id":301,
+                "text":"GÉRONTE: Lucinde. "
+            },
+            {
+                "verse_id":302,
+                "text":"SGANARELLE: Lucinde! Ah! quel beau nom à soigner! Lucinde! "
+            },
+            {
+                "verse_id":303,
+                "text":"GÉRONTE: Je vais voir ce qu'elle fait. "
+            },
+            {
+                "verse_id":304,
+                "text":"SGANARELLE: Qui est cette femme là-bas? "
+            },
+            {
+                "verse_id":305,
+                "text":"GÉRONTE: C'est la nourrice de mon petit enfant."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":302,
+        "verse_id_end":310,
+        "text":[
+            {
+                "verse_id":302,
+                "text":"SGANARELLE: Lucinde! Ah! beau nom à médicamenter! Lucinde! "
+            },
+            {
+                "verse_id":303,
+                "text":"GÉRONTE: Je m'en vais voir un peu ce qu'elle fait. "
+            },
+            {
+                "verse_id":304,
+                "text":"SGANARELLE: Qui est cette grande femme-là? "
+            },
+            {
+                "verse_id":305,
+                "text":"GÉRONTE: C'est la nourrice d'un petit enfant que j'ai. "
+            },
+            {
+                "verse_id":306,
+                "text":"SGANARELLE: Peste! le joli meuble que voilà! Ah! nourrice, charmante nourrice, ma médecine est la très humble esclave de votre nourricerie, et je voudrois bien être le petit poupon fortuné qui tétât le lait (il lui porte la main sur le sein) de vos bonnes grâces. Tous mes remèdes, toute ma science, toute ma capacité est à votre service, et... "
+            },
+            {
+                "verse_id":307,
+                "text":"LUCAS: Avec votre parmission, Monsieu le médecin, laissez là ma femme, je vous prie. "
+            },
+            {
+                "verse_id":308,
+                "text":"SGANARELLE: Quoi! est-elle votre femme? "
+            },
+            {
+                "verse_id":309,
+                "text":"LUCAS: Oui."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":302,
+                "text":"SGANARELLE: Lucinde! Ah! quel beau nom à soigner ! Lucinde !"
+            },
+            {
+                "verse_id":303,
+                "text":"GÉRONTE: Je vais voir ce qu'elle fait."
+            },
+            {
+                "verse_id":304,
+                "text":"SGANARELLE: Qui est cette grande femme ?"
+            },
+            {
+                "verse_id":305,
+                "text":"GÉRONTE: C'est la nourrice de mon petit enfant."
+            },
+            {
+                "verse_id":306,
+                "text":"SGANARELLE: Wow ! Quel bel objet ! Ah ! nourrice, charmante nourrice, je suis l'esclave humble de votre service médical, et j'aimerais être le petit bébé chanceux qui boit votre lait (il lui touche le sein) grâce à votre gentillesse. Tous mes remèdes, toute ma science, toute ma capacité sont à votre disposition, et..."
+            },
+            {
+                "verse_id":307,
+                "text":"LUCAS: Avec votre permission, Monsieur le médecin, laissez ma femme tranquille, je vous prie."
+            },
+            {
+                "verse_id":308,
+                "text":"SGANARELLE: Quoi ! C'est votre femme ?"
+            },
+            {
+                "verse_id":309,
+                "text":"LUCAS: Oui."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":306,
+        "verse_id_end":314,
+        "text":[
+            {
+                "verse_id":306,
+                "text":"SGANARELLE: Peste! le joli meuble que voilà! Ah! nourrice, charmante nourrice, ma médecine est la très humble esclave de votre nourricerie, et je voudrois bien être le petit poupon fortuné qui tétât le lait (il lui porte la main sur le sein) de vos bonnes grâces. Tous mes remèdes, toute ma science, toute ma capacité est à votre service, et... "
+            },
+            {
+                "verse_id":307,
+                "text":"LUCAS: Avec votre parmission, Monsieu le médecin, laissez là ma femme, je vous prie. "
+            },
+            {
+                "verse_id":308,
+                "text":"SGANARELLE: Quoi! est-elle votre femme? "
+            },
+            {
+                "verse_id":309,
+                "text":"LUCAS: Oui. "
+            },
+            {
+                "verse_id":310,
+                "text":"SGANARELLE Il fait semblant d'embrasser Lucas, et, se tournant du côté de la nourrice, il l'embrasse: Ah! vraiment, je ne savois pas cela, et je m'en réjouis pour l'amour de l'on et de l'antre. "
+            },
+            {
+                "verse_id":311,
+                "text":"LUCAS en le tirant: Tout doucement, s'il vous plaît. "
+            },
+            {
+                "verse_id":312,
+                "text":"SGANARELLE: Je vous assure que je suis ravi que vous soyez unis ensemble. Je la félicite d'avoir (il fait encore semblant d'embrasser Lucas, et, passant dessous ses bras, se jette au col de sa femme) un mari comme vous; et je vous félicite, vous, d'avoir une femme si belle, si sage, et si bien faite comme elle est. "
+            },
+            {
+                "verse_id":313,
+                "text":"LUCAS en le tirant encore: Eh! testigué! point tant de compliment, je vous supplie."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":306,
+                "text":"SGANARELLE: Oh là là! Quel beau meuble! Ah! nourrice, charmante nourrice, je suis complètement à votre service en tant que médecin, et j'aimerais être le petit bébé chanceux qui boit votre lait (il lui touche le sein). Tous mes remèdes, toute ma science, toute ma capacité sont à votre disposition, et..."
+            },
+            {
+                "verse_id":307,
+                "text":"LUCAS: Excusez-moi, Monsieur le médecin, laissez ma femme tranquille, je vous prie."
+            },
+            {
+                "verse_id":308,
+                "text":"SGANARELLE: Quoi! C'est votre femme?"
+            },
+            {
+                "verse_id":309,
+                "text":"LUCAS: Oui."
+            },
+            {
+                "verse_id":310,
+                "text":"SGANARELLE: Il fait semblant d'embrasser Lucas, puis se tourne vers la nourrice et l'embrasse: Ah! Vraiment, je ne savais pas ça, et je suis ravi pour vous deux."
+            },
+            {
+                "verse_id":311,
+                "text":"LUCAS en le tirant: Doucement, s'il vous plaît."
+            },
+            {
+                "verse_id":312,
+                "text":"SGANARELLE: Je suis vraiment enchanté que vous soyez mariés. Je félicite votre femme d'avoir un mari comme vous (il fait encore semblant d'embrasser Lucas, puis passe sous ses bras et se jette au cou de sa femme). Et je vous félicite, vous, d'avoir une femme si belle, si sage et si bien faite qu'elle."
+            },
+            {
+                "verse_id":313,
+                "text":"LUCAS en le tirant à nouveau: Eh! Assez de compliments, je vous en prie."
+            }
+        ]
+    },
+    {
+        "acte":2,
+        "scene":2,
+        "verse_id_start":310,
+        "verse_id_end":318,
+        "text":[
+            {
+                "verse_id":310,
+                "text":"SGANARELLE Il fait semblant d'embrasser Lucas, et, se tournant du côté de la nourrice, il l'embrasse: Ah! vraiment, je ne savois pas cela, et je m'en réjouis pour l'amour de l'on et de l'antre. "
+            },
+            {
+                "verse_id":311,
+                "text":"LUCAS en le tirant: Tout doucement, s'il vous plaît. "
+            },
+            {
+                "verse_id":312,
+                "text":"SGANARELLE: Je vous assure que je suis ravi que vous soyez unis ensemble. Je la félicite d'avoir (il fait encore semblant d'embrasser Lucas, et, passant dessous ses bras, se jette au col de sa femme) un mari comme vous; et je vous félicite, vous, d'avoir une femme si belle, si sage, et si bien faite comme elle est. "
+            },
+            {
+                "verse_id":313,
+                "text":"LUCAS en le tirant encore: Eh! testigué! point tant de compliment, je vous supplie. "
+            },
+            {
+                "verse_id":314,
+                "text":"SGANARELLE: Ne voulez-vous pas que je me réjouisse avec vous d'un si bel assemblage? "
+            },
+            {
+                "verse_id":315,
+                "text":"LUCAS: Avec moi, tant qu'il vous plaira; mais avec ma femme, trêve de sarimonie. "
+            },
+            {
+                "verse_id":316,
+                "text":"SGANARELLE: Je prends part également au bonheur de tous deux, et (il continue le mime jeu), si je vous embrasse pour vous en témoigner ma joie, je l'embrasse de même pour lui en témoigner aussi. "
+            },
+            {
+                "verse_id":317,
+                "text":"LUCAS en le tirant derechef: Ah! vartigué, Monsieu le médecin, que de lantiponages!"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":310,
+                "text":"SGANARELLE: Il fait semblant d'embrasser Lucas, et, se tournant vers la nourrice, il l'embrasse: Ah! vraiment, je ne savais pas ça, et je m'en réjouis pour l'amour de vous deux. "
+            },
+            {
+                "verse_id":311,
+                "text":"LUCAS en le tirant: Doucement, s'il vous plaît. "
+            },
+            {
+                "verse_id":312,
+                "text":"SGANARELLE: Je suis vraiment content que vous soyez mariés. Je félicite votre femme d'avoir un mari comme vous; et je vous félicite d'avoir une femme si belle, sage et bien faite. "
+            },
+            {
+                "verse_id":313,
+                "text":"LUCAS en le tirant encore: Eh! assez de compliments, je vous en prie. "
+            },
+            {
+                "verse_id":314,
+                "text":"SGANARELLE: Est-ce que je ne peux pas me réjouir avec vous de cette belle union? "
+            },
+            {
+                "verse_id":315,
+                "text":"LUCAS: Avec moi, autant que vous voulez; mais avec ma femme, pas tant de cérémonie. "
+            },
+            {
+                "verse_id":316,
+                "text":"SGANARELLE: Je suis également heureux pour vous deux, et si je l'embrasse pour témoigner ma joie, je l'embrasse aussi pour lui témoigner la même chose. "
+            },
+            {
+                "verse_id":317,
+                "text":"LUCAS en le tirant à nouveau: Ah! bon sang, Monsieur le médecin, quel jeu de mots!"
+            }
+        ]
+    }
+]
