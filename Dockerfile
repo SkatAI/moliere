@@ -6,13 +6,8 @@ RUN apt-get update -y \
     && apt-get install -y procps
 
 # copy code
-# COPY ./streamlit/Accueil.py app/Accueil.py
-# COPY ./streamlit/pages/ app/Médecin Malgrè Lui.py
-# COPY ./streamlit/content app/content
 
-COPY ./streamlit app/
-
-RUN rm app/pages/compare.py
+COPY ./ app/
 
 WORKDIR ./app
 

@@ -1,2 +1,7 @@
 .git
 sql
+streamlit/pages/compare.py
+tests/
+textes/
+script/
+papers/
