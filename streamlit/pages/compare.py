@@ -115,6 +115,10 @@ if __name__ == "__main__":
         subset = data.copy()
 
         st.caption(progress(subset))
+
+        # st.table(subset)
+
+
         verse_ids = sorted(subset.verse_id.unique())
 
         for verse_id in verse_ids:

@@ -23,491 +23,491 @@
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":3,
         "char":"SGANARELLE",
         "text":"O la grande fatigue que d'avoir une femme! et qu'Aristote a bien raison quand il dit qu'une femme est pire qu'un démon!",
-        "modern":""
+        "modern":"Quelle corvée d'avoir une femme ! Et Aristote a bien raison quand il dit qu'une femme est pire qu'un démon !"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":4,
         "char":"MARTINE",
         "text":"Voyez un peu l'habile homme, avec son benêt d'Aristote!",
-        "modern":""
+        "modern":"Regardez cet homme intelligent, qui croit tout savoir grâce à son cher Aristote!"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":5,
         "char":"SGANARELLE",
         "text":"Oui, habile homme. Trouve-moi un faiseur de fagots qui sache, comme moi, raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par coeur.",
-        "modern":""
+        "modern":"Oui, je suis intelligent. Trouve-moi un bûcheron qui sait réfléchir comme moi, qui a travaillé six ans pour un célèbre médecin et qui a appris par cœur les bases de son métier dès son jeune âge."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":6,
         "char":"MARTINE",
         "text":"Peste du fou fieffé!",
-        "modern":""
+        "modern":"Quel fou!"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":7,
         "char":"SGANARELLE",
         "text":"Peste de la carogne!",
-        "modern":""
+        "modern":"Quelle garce !"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":8,
         "char":"MARTINE",
         "text":"Que maudit soit l'heure et le jour où je m'avisai d'aller dire oui!",
-        "modern":""
+        "modern":"Que maudite soit l'heure et le jour où j'ai accepté de dire oui !"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":9,
         "char":"SGANARELLE",
         "text":"Que maudit soit le bec cornu de notaire qui me fit signer ma ruine!",
-        "modern":""
+        "modern":"Que maudit soit le foutu notaire qui m'a fait signer ma ruine !"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":10,
         "char":"MARTINE",
         "text":"C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme? et méritois-tu d'épouser une personne comme moi?",
-        "modern":""
+        "modern":"Tu devrais être reconnaissant d'avoir une femme comme moi. Tu ne méritais pas de m'épouser!"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":11,
         "char":"SGANARELLE",
         "text":"Il est vrai que tu me fis trop d'honneur et que j'eus lieu de me louer la première nuit de nos noces. Hé! morbleu! ne me fais point parler là-dessus, je dirois de certaines choses...",
-        "modern":""
+        "modern":"Il est vrai que tu m'as fait beaucoup d'honneur et que j'ai eu de quoi me vanter la première nuit de nos noces. Hé bien, bon sang ! Ne me fais pas parler de ça, je dirais certaines choses..."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":12,
         "char":"MARTINE",
         "text":"Quoi? que dirois-tu?",
-        "modern":""
+        "modern":"Quoi ? Que dirais-tu ?"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":13,
         "char":"SGANARELLE",
         "text":"Baste! laissons là ce chapitre; il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver.",
-        "modern":""
+        "modern":"Laisse tomber ce sujet ; le plus important est que nous savons ce que nous savons, et que tu as été bien chanceuse de me trouver."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":14,
         "char":"MARTINE",
         "text":"Qu'appelles-tu bien heureuse de te trouver? Un homme qui me réduit à l'hôpital, un débauché, un traître qui me mange tout ce que j'ai...",
-        "modern":""
+        "modern":"Comment peux-tu dire que j'ai été chanceuse de te trouver ? Un homme qui me mène à la ruine, un débauché, un traître qui me prend tout ce que j'ai..."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":15,
         "char":"SGANARELLE",
         "text":"Tu as menti, j'en bois une partie.",
-        "modern":""
+        "modern":"Tu mens, j'en bois une partie."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":16,
         "char":"MARTINE",
         "text":"Qui me vend pièce à pièce tout ce qui est dans le logis...",
-        "modern":""
+        "modern":"Qui vend petit à petit tout ce qui se trouve dans la maison..."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":17,
         "char":"SGANARELLE",
         "text":"C'est vivre de ménage.",
-        "modern":""
+        "modern":"C'est la vie de couple."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":18,
         "char":"MARTINE",
         "text":"Qui m'a ôté jusqu'au lit que j'avois...",
-        "modern":""
+        "modern":"Qui m'a même pris mon lit..."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":19,
         "char":"SGANARELLE",
         "text":"Tu t'en lèveras plus matin.",
-        "modern":""
+        "modern":"Tu te lèveras plus tôt."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":20,
         "char":"MARTINE",
         "text":"Enfin, qui ne laisse aucun meuble dans toute la maison...",
-        "modern":""
+        "modern":"Et qui ne laisse aucun meuble dans la maison..."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":21,
         "char":"SGANARELLE",
         "text":"On en déménage plus aisément.",
-        "modern":""
+        "modern":"C'est plus facile pour déménager."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":22,
         "char":"MARTINE",
         "text":"Et qui, du matin jusqu'au soir, ne fait que jouer et que boire.",
-        "modern":""
+        "modern":"Et qui passe son temps à jouer et boire..."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":23,
         "char":"SGANARELLE",
         "text":"C'est pour ne me point ennuyer.",
-        "modern":""
+        "modern":"Pour ne pas m'ennuyer."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":24,
         "char":"MARTINE",
         "text":"Et que veux-tu, pendant ce temps, que je fasse avec ma famille?",
-        "modern":""
+        "modern":"Et pendant ce temps, que dois-je faire avec ma famille?"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":25,
         "char":"SGANARELLE",
         "text":"Tout ce qu'il te plaira.",
-        "modern":""
+        "modern":"Tout ce que tu veux."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"original",
         "verse_id":26,
         "char":"MARTINE",
         "text":"J'ai quatre pauvres petits enfants sur les bras.",
-        "modern":""
+        "modern":"J'ai quatre pauvres petits enfants sur les bras."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":27,
         "char":"SGANARELLE",
         "text":"Mets-les à terre.",
-        "modern":""
+        "modern":"Pose-les par terre."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":28,
         "char":"MARTINE",
         "text":"Qui me demandent à toute heure du pain.",
-        "modern":""
+        "modern":"Ils me demandent du pain tout le temps."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":29,
         "char":"SGANARELLE",
         "text":"Donne-leur le fouet. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit saoul dans ma maison.",
-        "modern":""
+        "modern":"Donne-leur une fessée. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit ivre dans ma maison."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":30,
         "char":"MARTINE",
         "text":"Et tu prétends, ivrogne, que les choses aillent toujours de même?...",
-        "modern":""
+        "modern":"Tu penses vraiment que les choses peuvent continuer comme ça, toi l'ivrogne?"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":31,
         "char":"SGANARELLE",
         "text":"Ma femme, allons tout doucement, s'il vous plaît.",
-        "modern":""
+        "modern":"Doucement, ma chérie, ne t'énerve pas."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":32,
         "char":"MARTINE",
         "text":"Que j'endure éternellement tes insolences et tes débauches?...",
-        "modern":""
+        "modern":"Je dois supporter tes insultes et tes excès pour toujours?"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":33,
         "char":"SGANARELLE",
         "text":"Ne nous emportons point, ma femme.",
-        "modern":""
+        "modern":"Calme-toi, ma femme."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":34,
         "char":"MARTINE",
         "text":"Et que je ne sache pas trouver le moyen de te ranger à ton devoir?",
-        "modern":""
+        "modern":"Et je ne peux pas trouver un moyen de te faire changer de comportement?"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":35,
         "char":"SGANARELLE",
         "text":"Ma femme, vous savez que je n'ai pas l'âme endurante, et que j'ai le bras assez bon.",
-        "modern":""
+        "modern":"Tu sais bien que je ne suis pas patient et que je suis assez fort."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"original",
         "verse_id":36,
         "char":"MARTINE",
         "text":"Je me moque de tes menaces.",
-        "modern":""
+        "modern":"Je me moque de tes menaces."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":37,
         "char":"SGANARELLE",
         "text":"Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire.",
-        "modern":""
+        "modern":"Mon amour, ta peau te démange, comme d'habitude."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":38,
         "char":"MARTINE",
         "text":"Je te montrerai bien que je ne te crains nullement.",
-        "modern":""
+        "modern":"Je vais te montrer que je ne te crains pas du tout."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":39,
         "char":"SGANARELLE",
         "text":"Ma chère moitié, vous avez envie de me dérober quelque chose.",
-        "modern":""
+        "modern":"Ma chère moitié, tu veux me cacher quelque chose."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":40,
         "char":"MARTINE",
         "text":"Crois-tu que je m'épouvante de tes paroles?",
-        "modern":""
+        "modern":"Tu crois que tes paroles me font peur?"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":41,
         "char":"SGANARELLE",
         "text":"Doux objet de mes voeux, je vous frotterai les oreilles.",
-        "modern":""
+        "modern":"Doux objet de mes désirs, je vais te donner une correction."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":42,
         "char":"MARTINE",
         "text":"Ivrogne que tu es!",
-        "modern":""
+        "modern":"Tu es un ivrogne!"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":43,
         "char":"SGANARELLE",
         "text":"Je vous battrai.",
-        "modern":""
+        "modern":"Je vais te donner une raclée."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"original",
         "verse_id":44,
         "char":"MARTINE",
         "text":"Sac à vin!",
-        "modern":""
+        "modern":"Sac à vin!"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":45,
         "char":"SGANARELLE",
         "text":"Je vous rosserai.",
-        "modern":""
+        "modern":"Je vais te battre."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":46,
         "char":"MARTINE",
         "text":"Infime!",
-        "modern":""
+        "modern":"Misérable !"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":47,
         "char":"SGANARELLE",
         "text":"Je vous étrillerai.",
-        "modern":""
+        "modern":"Je vais te punir."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":48,
         "char":"MARTINE",
         "text":"Traître, insolent, trompeur, lâche, coquin, pendard, gueux, bélître, fripon, maraut, voleur!...",
-        "modern":""
+        "modern":"Traître, insolent, menteur, lâche, escroc, vaurien, malhonnête, filou, brigand, voleur!..."
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":49,
         "char":"SGANARELLE (Il prend un bâton, et lui en donne)",
         "text":"Ah! vous en voulez donc?",
-        "modern":""
+        "modern":"Ah ! Tu en veux encore ?"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"original",
         "verse_id":50,
         "char":"MARTINE",
         "text":"Ah! ah! ah! ah!",
-        "modern":""
+        "modern":"Ah! ah! ah! ah!"
     },
     {
         "acte":1,
         "scene":1,
         "version":"original",
-        "selection":"",
+        "selection":"modern",
         "verse_id":51,
         "char":"SGANARELLE",
         "text":"Voilà le vrai moyen de vous apaiser.",
-        "modern":""
+        "modern":"Voilà le meilleur moyen de te calmer."
     },
     {
         "acte":1,

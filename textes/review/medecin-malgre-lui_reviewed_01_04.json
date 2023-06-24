@@ -1,14 +1,39 @@
 [
     {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":103,
+        "tokens":19,
+        "char":"LUCAS",
+        "text":"Parguenne! On s'est embarqué dans une sacrée mission, et je ne sais pas du tout ce qu'on va attraper.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":103,
+        "tokens":20,
+        "char":"LUCAS",
+        "text":"Bon sang! On s'est embarqué dans une sacrée mission, et je ne sais pas du tout ce qu'on va attraper.",
+        "selected":0
+    },
+    {
         "experiment":"mml06",
         "acte":1,
         "scene":4,
         "version":"modern",
         "chunk":0,
         "verse_id":103,
+        "tokens":21,
         "char":"LUCAS",
         "text":"Parguenne! On s'est mis dans une sacrée galère tous les deux, et je ne sais pas comment on va s'en sortir.",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml07",
@@ -17,20 +42,10 @@
         "version":"modern",
         "chunk":0,
         "verse_id":103,
+        "tokens":21,
         "char":"LUCAS",
         "text":"Bon sang ! On s'est embarqué dans une sacrée mission, et je ne sais pas du tout ce qu'on va attraper.",
         "selected":0
-    },
-    {
-        "experiment":"mml_manual",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":103,
-        "char":"LUCAS",
-        "text":"Bon sang! On s'est mis dans une sacrée galère tous les deux, et je ne sais pas comment on va s'en sortir.",
-        "selected":1
     },
     {
         "experiment":"mml06",
@@ -39,6 +54,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":103,
+        "tokens":21,
         "char":"LUCAS",
         "text":"Parguenne! j'avons pris là tous deux une gueble de commission; et je ne sai pas, moi, ce que je pensons attraper.",
         "selected":0
@@ -50,9 +66,22 @@
         "version":"modern",
         "chunk":0,
         "verse_id":104,
+        "tokens":73,
         "char":"VALÈRE",
         "text":"Que veux-tu, mon pauvre ami? On doit obéir à notre maître et on a tous les deux intérêt à ce que sa fille, notre maîtresse, soit en bonne santé. Si elle guérit, peut-être qu'on sera récompensé quand elle se mariera. Horace est généreux et il est ouvert à toutes les propositions, même si sa fille a montré de l'affection pour un certain Léandre. Mais son père n'a jamais voulu qu'il épouse sa fille.",
         "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":104,
+        "tokens":77,
+        "char":"VALÈRE",
+        "text":"Que veux-tu, mon pauvre ami? Il faut bien obéir à notre maître; et puis, on a tous les deux intérêt à la santé de sa fille, notre maîtresse. Et sûrement, si son mariage est retardé à cause de sa maladie, on pourrait obtenir une récompense. Horace, qui est généreux, est ouvert aux prétendants, et même si elle a montré de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu l'accepter comme gendre.",
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -61,8 +90,21 @@
         "version":"modern",
         "chunk":0,
         "verse_id":104,
+        "tokens":85,
         "char":"VALÈRE",
         "text":"Que veux-tu, mon pauvre ami ? Il faut bien obéir à notre maître. Et puis, on a tous les deux intérêt à la santé de sa fille, notre maîtresse. Et sûrement, si son mariage est retardé à cause de sa maladie, on aura une récompense. Horace, qui est généreux, est ouvert aux prétentions qu'on peut avoir sur sa personne. Et même si elle a montré de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu accepter qu'il devienne son gendre.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":104,
+        "tokens":86,
+        "char":"VALÈRE",
+        "text":"Que veux-tu, mon pauvre ami? Il faut bien obéir à notre maître; et puis, on a tous les deux intérêt à la santé de sa fille, notre maîtresse. Et sans doute, si son mariage est retardé à cause de sa maladie, on pourrait obtenir une récompense. Horace, qui est généreux, est ouvert aux prétentions qu'on peut avoir sur sa personne. Et même si elle a montré de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu accepter qu'il devienne son gendre.",
         "selected":0
     },
     {
@@ -72,6 +114,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":104,
+        "tokens":83,
         "char":"VALÈRE",
         "text":"Que veux-tu, mon pauvre nourricier? il faut bien obéir à notre maître; et puis nous avons intérêt l'un et l'autre à la santé de sa fille, notre maîtresse; et sans doute son mariage, différé par sa maladie, nous vaudroit quelque récompense. Horace, qui est libéral, a bonne part aux prétentions qu'on peut avoir sur sa personne, et, quoi-qu'elle ait fait voir de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu consentir à le recevoir pour son gendre.",
         "selected":0
@@ -83,9 +126,34 @@
         "version":"modern",
         "chunk":0,
         "verse_id":105,
+        "tokens":9,
         "char":"MARTINE",
         "text":"en pensant à voix haute. Comment pourrais-je me venger?",
-        "selected":1
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":105,
+        "tokens":12,
+        "char":"MARTINE, en pensant à part",
+        "text":"Est-ce que je ne peux pas trouver un moyen de me venger?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":105,
+        "tokens":12,
+        "char":"MARTINE, pensant à voix haute",
+        "text":"Est-ce que je ne peux pas trouver un moyen de me venger?",
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -94,19 +162,21 @@
         "version":"modern",
         "chunk":0,
         "verse_id":105,
+        "tokens":15,
         "char":"MARTINE",
         "text":"en pensant à voix basse. Ne pourrais-je pas trouver un moyen de me venger ?",
         "selected":0
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml08",
         "acte":1,
         "scene":4,
         "version":"original",
         "chunk":0,
         "verse_id":105,
-        "char":"MARTINE",
-        "text":"rêvant à part elle. Ne puis-je point trouver quelque invention pour me venger?",
+        "tokens":9,
+        "char":"MARTINE, rêvant à part elle",
+        "text":"Ne puis-je point trouver quelque invention pour me venger?",
         "selected":0
     },
     {
@@ -116,9 +186,22 @@
         "version":"modern",
         "chunk":0,
         "verse_id":106,
+        "tokens":19,
         "char":"LUCAS",
         "text":"Mais quelle idée t'a traversé l'esprit? Les médecins n'ont pas réussi à la guérir, alors comment pourrions-nous y arriver?",
         "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":106,
+        "tokens":19,
+        "char":"LUCAS",
+        "text":"Mais quelle idée lui est passée par la tête, puisque même les médecins ont tous perdu leur latin là-dessus?",
+        "selected":1
     },
     {
         "experiment":"mml07",
@@ -127,9 +210,10 @@
         "version":"modern",
         "chunk":0,
         "verse_id":106,
+        "tokens":20,
         "char":"LUCAS",
         "text":"Mais quelle idée lui est passée par la tête, puisque même les médecins ont tous perdu leur latin là-dessus ?",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -138,6 +222,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":106,
+        "tokens":18,
         "char":"LUCAS",
         "text":"Mais quelle fantaisie s'est-il boutée là dans la tête, puisque les médecins y avont tous pardu leur latin?",
         "selected":0
@@ -149,8 +234,33 @@
         "version":"modern",
         "chunk":0,
         "verse_id":107,
+        "tokens":19,
         "char":"VALÈRE",
         "text":"Parfois, à force de chercher, on finit par trouver. Et parfois, les solutions les plus simples sont les meilleures...",
+        "selected":1
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":107,
+        "tokens":20,
+        "char":"VALÈRE",
+        "text":"On trouve parfois, en cherchant bien, ce qu'on ne trouve pas tout de suite; et souvent, dans des endroits simples...",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":107,
+        "tokens":20,
+        "char":"VALÈRE",
+        "text":"Parfois, en cherchant bien, on trouve ce qu'on ne trouve pas tout de suite; et souvent, dans des endroits simples...",
         "selected":0
     },
     {
@@ -160,9 +270,22 @@
         "version":"modern",
         "chunk":0,
         "verse_id":107,
+        "tokens":21,
         "char":"VALÈRE",
         "text":"Parfois, à force de chercher, on trouve ce qu'on ne trouve pas tout de suite. Et souvent, dans des endroits simples...",
-        "selected":1
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":107,
+        "tokens":22,
+        "char":"VALÈRE",
+        "text":"Parfois, à force de chercher, on finit par trouver ce qu'on ne trouve pas au départ. Et souvent, dans des endroits simples...",
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -171,6 +294,7 @@
         "version":"original",
         "chunk":0,
         "verse_id":107,
+        "tokens":19,
         "char":"VALÈRE",
         "text":"On trouve quelquefois, à force de chercher, ce qu'on ne trouve pas d'abord; et souvent, en de simples lieux...",
         "selected":0
@@ -182,9 +306,10 @@
         "version":"modern",
         "chunk":0,
         "verse_id":108,
+        "tokens":49,
         "char":"MARTINE",
         "text":"Je dois me venger, peu importe le prix à payer. Ces coups de bâton m'ont fait mal et je ne peux pas les oublier. (Elle parle en se retournant et en heurtant les deux hommes.) Oh, pardon Messieurs, je ne vous avais pas vus. J'étais perdue dans mes pensées.",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -193,8 +318,21 @@
         "version":"modern",
         "chunk":1,
         "verse_id":108,
+        "tokens":52,
         "char":"MARTINE",
-        "text":"Ouais, je dois me venger à tout prix",
+        "text":"Ouais, je dois me venger à tout prix,  ces coups de bâton me font mal, je ne peux pas les supporter, et... (Elle parle en regardant ailleurs et heurte les deux hommes en se retournant.) Oh, messieurs! Je suis désolée, je ne vous avais pas vus, j'étais perdue dans mes pensées.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":108,
+        "tokens":67,
+        "char":"MARTINE",
+        "text":"Oui, il faut que je me venge, peu importe le prix,  ces coups de bâton me font mal, je ne peux pas les supporter, et... (Elle dit tout cela en se retournant, sans faire attention aux deux hommes, et les heurte en leur disant, ) Ah! Messieurs! Je vous demande pardon, je ne vous voyais pas, je cherchais quelque chose qui me préoccupe dans ma tête.",
         "selected":0
     },
     {
@@ -204,8 +342,33 @@
         "version":"modern",
         "chunk":0,
         "verse_id":108,
+        "tokens":69,
         "char":"MARTINE",
-        "text":"Oui, il faut que je me venge, peu importe le prix. Ces coups de bâton me font mal, je ne peux pas les digérer, et... (Elle dit tout cela en se retournant, sans faire attention aux deux hommes, et les heurte en leur disant",
+        "text":"Oui, il faut que je me venge, peu importe le prix. Ces coups de bâton me font mal, je ne peux pas les digérer, et... (Elle dit tout cela en se retournant, sans faire attention aux deux hommes, et les heurte en leur disant , ) Ah ! Messieurs ! Je vous demande pardon, je ne vous voyais pas, je cherchais quelque chose qui me préoccupe dans ma tête.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":108,
+        "tokens":74,
+        "char":"MARTINE",
+        "text":"Oui, il faut que je me venge, peu importe le prix,  ces coups de bâton me font mal, je ne peux pas les supporter, et... (Elle dit tout cela en réfléchissant, donc elle ne fait pas attention aux deux hommes et les heurte en se retournant, puis elle leur dit, ) Ah! Messieurs! Je vous demande pardon, je ne vous avais pas vus, je cherchais quelque chose dans ma tête qui me préoccupait.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":108,
+        "tokens":80,
+        "char":"MARTINE",
+        "text":"Oui, je dois me venger à tout prix ,  ces coups de bâton me blessent profondément, je ne peux pas les supporter, et... (Elle dit tout cela en étant distraite, donc elle ne fait pas attention à ces deux hommes et les heurte en se retournant, puis elle leur dit , ) Ah ! Messieurs ! Je vous demande pardon, je ne vous avais pas vus, j'étais perdue dans mes pensées à propos de quelque chose qui me préoccupe.",
         "selected":0
     },
     {
@@ -215,8 +378,57 @@
         "version":"original",
         "chunk":0,
         "verse_id":108,
+        "tokens":75,
         "char":"MARTINE",
-        "text":"Oui, il faut que je m'en venge à quelque prix que ce soit! Ces coups de bâton me reviennent au coeur, je ne les saurois digérer, et... (Elle dit tout ceci en rivant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit:) Ah! Messieurs! je vous demande pardon, je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m'embarrasse.",
+        "text":"Oui, il faut que je m'en venge à quelque prix que ce soit,  ces coups de bâton me reviennent au coeur, je ne les saurois digérer, et... (Elle dit tout ceci en rivant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit, ) Ah! Messieurs! je vous demande pardon, je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m'embarrasse.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":109,
+        "tokens":16,
+        "char":"VALÈRE",
+        "text":"Chacun a ses soucis dans ce monde, et nous cherchons aussi ce que nous aimerions trouver.",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":109,
+        "tokens":16,
+        "char":"VALÈRE",
+        "text":"Chacun a ses préoccupations dans ce monde, et nous cherchons aussi ce que nous aimerions trouver.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":109,
+        "tokens":17,
+        "char":"VALÈRE",
+        "text":"Chacun a ses soucis dans ce monde, et nous cherchons aussi ce que nous aimerions bien trouver.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":109,
+        "tokens":17,
+        "char":"VALÈRE",
+        "text":"Chacun a ses préoccupations dans ce monde, et nous cherchons aussi ce que nous aimerions bien trouver.",
         "selected":0
     },
     {
@@ -226,6 +438,7 @@
         "version":"modern",
         "chunk":0,
         "verse_id":109,
+        "tokens":48,
         "char":"VALÈRE",
         "text":"Chacun a ses soucis dans la vie. Nous cherchons un médecin qui pourrait aider la fille de notre maître. Elle a perdu l'usage de la parole à cause d'une maladie. Plusieurs médecins ont essayé de la soigner, mais sans succès. Nous cherchons quelqu'un qui aurait un remède miracle.",
         "selected":0
@@ -237,20 +450,10 @@
         "version":"modern",
         "chunk":1,
         "verse_id":109,
+        "tokens":62,
         "char":"VALÈRE",
         "text":"Tout le monde a ses soucis, nous cherchons un médecin spécialisé qui pourrait aider la fille de notre maître. Elle a perdu l'usage de la langue à cause d'une maladie. Nous avons déjà consulté plusieurs médecins, mais aucun n'a réussi à la guérir. Nous cherchons quelqu'un qui a des remèdes secrets et qui peut faire ce que les autres ne peuvent pas.",
         "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":109,
-        "char":"VALÈRE",
-        "text":"Chacun a ses soucis dans ce monde, et nous cherchons aussi ce que nous aimerions trouver.",
-        "selected":1
     },
     {
         "experiment":"mml06",
@@ -259,8 +462,45 @@
         "version":"original",
         "chunk":0,
         "verse_id":109,
+        "tokens":17,
         "char":"VALÈRE",
         "text":"Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":110,
+        "tokens":9,
+        "char":"MARTINE",
+        "text":"Est-ce quelque chose où je pourrais vous aider ?",
+        "selected":1
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":110,
+        "tokens":9,
+        "char":"MARTINE",
+        "text":"Est-ce que je peux vous aider en quelque chose?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":110,
+        "tokens":11,
+        "char":"MARTINE",
+        "text":"Est-ce qu'il y a quelque chose où je pourrais vous aider?",
         "selected":0
     },
     {
@@ -270,6 +510,7 @@
         "version":"modern",
         "chunk":0,
         "verse_id":110,
+        "tokens":38,
         "char":"MARTINE",
         "text":"(Elle parle doucement.) J'aimerais trouver un moyen de me venger de mon mari infidèle. (Elle parle plus fort.) Vous êtes tombés sur la bonne personne! Nous avons ici l'homme le plus merveilleux du monde pour les maladies incurables.",
         "selected":0
@@ -281,52 +522,45 @@
         "version":"modern",
         "chunk":1,
         "verse_id":110,
+        "tokens":57,
         "char":"MARTINE",
         "text":"(Elle parle doucement.) J'aimerais trouver un moyen de me venger de mon mari. (Elle parle fort.) Vous êtes chanceux, car je connais un homme extraordinaire qui peut aider votre fille. Il est bizarre et fantasque, et il aime couper du bois. Il ne se vante pas de sa science et ne veut pas l'utiliser tous les jours.",
         "selected":0
     },
     {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":110,
-        "char":"MARTINE",
-        "text":"Est-ce quelque chose où je pourrais vous aider ?",
-        "selected":1
-    },
-    {
         "experiment":"mml06",
         "acte":1,
         "scene":4,
         "version":"original",
         "chunk":0,
         "verse_id":110,
+        "tokens":8,
         "char":"MARTINE",
         "text":"Seroit-ce quelque chose où je vous puisse aider?",
         "selected":0
     },
     {
-        "experiment":"mml07",
+        "experiment":"mml08",
         "acte":1,
         "scene":4,
         "version":"modern",
         "chunk":0,
         "verse_id":111,
+        "tokens":69,
         "char":"VALÈRE",
-        "text":"Cela pourrait se faire. Nous essayons de trouver un homme compétent, un médecin particulier, qui pourrait soulager la fille de notre maître, atteinte d'une maladie qui lui a subitement fait perdre l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science sur elle, mais parfois, on trouve des gens avec des secrets étonnants, des remèdes particuliers, qui réussissent souvent là où les autres ont échoué. Et c'est ce que nous cherchons.",
-        "selected":1
+        "text":"Cela pourrait se faire; nous essayons de trouver un homme compétent, un médecin particulier, qui pourrait soulager la fille de notre maître, atteinte d'une maladie qui lui a fait perdre soudainement l'usage de la langue. Plusieurs médecins ont déjà tout essayé, mais parfois on trouve des gens avec des secrets étonnants, des remèdes particuliers, qui réussissent souvent là où les autres ont échoué, et c'est ce que nous cherchons.",
+        "selected":0
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml09",
         "acte":1,
         "scene":4,
-        "version":"original",
-        "chunk":0,
+        "version":"modern",
+        "chunk":2,
         "verse_id":111,
+        "tokens":71,
         "char":"VALÈRE",
-        "text":"Cela se pourroit faire; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille de notre maître, attaquée d'une maladie qui lui a ôté tout d'un coup l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle; mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là ce que nous cherchons.",
+        "text":"Ça pourrait être possible; et nous essayons de trouver un médecin compétent, un spécialiste, qui pourrait soulager la fille de notre maître, atteinte d'une maladie qui lui a subitement fait perdre l'usage de la langue. Plusieurs médecins ont déjà tout essayé après elle; mais parfois on trouve des gens avec des secrets étonnants, des remèdes particuliers, qui réussissent souvent là où les autres ont échoué, et c'est ce que nous cherchons.",
         "selected":0
     },
     {
@@ -335,9 +569,82 @@
         "scene":4,
         "version":"modern",
         "chunk":0,
+        "verse_id":111,
+        "tokens":73,
+        "char":"VALÈRE",
+        "text":"Cela pourrait se faire. Nous essayons de trouver un homme compétent, un médecin particulier, qui pourrait soulager la fille de notre maître, atteinte d'une maladie qui lui a subitement fait perdre l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science sur elle, mais parfois, on trouve des gens avec des secrets étonnants, des remèdes particuliers, qui réussissent souvent là où les autres ont échoué. Et c'est ce que nous cherchons.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":111,
+        "tokens":73,
+        "char":"VALÈRE",
+        "text":"Cela pourrait être possible ; nous essayons de trouver un homme compétent, un médecin particulier, qui pourrait soulager la fille de notre maître, atteinte d'une maladie qui lui a subitement fait perdre l'usage de la langue. Plusieurs médecins ont déjà tout essayé après elle ; mais parfois, on trouve des personnes avec des secrets étonnants, des remèdes particuliers, qui réussissent souvent là où les autres ont échoué, et c'est ce que nous cherchons.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":4,
+        "version":"original",
+        "chunk":0,
+        "verse_id":111,
+        "tokens":83,
+        "char":"VALÈRE",
+        "text":"Cela se pourroit faire; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille de notre maître, attaquée d'une maladie qui lui a ôté tout d'un coup l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle; mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là ce que nous cherchons.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
         "verse_id":112,
-        "char":"MARTINE",
-        "text":"(Elle dit ces premières lignes à voix basse.) Ah ! Que le Ciel m'inspire une idée géniale pour me venger de mon mari ! (À voix haute.) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez. Nous avons ici un homme, l'homme le plus extraordinaire du monde pour les maladies désespérées.",
+        "tokens":43,
+        "char":"MARTINE (Elle dit ces premières lignes bas)",
+        "text":"Ah! Que le ciel m'inspire une idée géniale pour me venger de mon imbécile! (Haut.) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez, et nous avons ici un homme, le plus incroyable homme du monde pour les maladies désespérées.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":112,
+        "tokens":44,
+        "char":"MARTINE (Elle dit ces premières lignes à voix basse)",
+        "text":"Ah! Que le Ciel m'inspire une idée géniale pour me venger de ce pendard! (Plus fort.) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez, car nous avons ici un homme, le plus incroyable homme du monde pour les maladies désespérées.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":112,
+        "tokens":45,
+        "char":"MARTINE (Elle dit ces premières lignes bas)",
+        "text":"Ah! Que le Ciel m'inspire une idée géniale pour me venger de mon imbécile de mari! (Haut.) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez, et nous avons ici un homme, le plus incroyable homme du monde, pour les maladies désespérées.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":112,
+        "tokens":47,
+        "char":"MARTINE (Elle dit ces premières lignes à voix basse) ",
+        "text":"Ah ! Que le Ciel m'inspire une idée géniale pour me venger de mon mari trompeur ! (À voix haute) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez, car nous avons ici un homme, le plus extraordinaire du monde, pour les maladies désespérées.",
         "selected":0
     },
     {
@@ -347,19 +654,33 @@
         "version":"modern",
         "chunk":1,
         "verse_id":112,
+        "tokens":51,
         "char":"MARTINE",
         "text":"(Elle dit ces premières lignes bas.) Ah! Que le ciel m'inspire une idée géniale pour me venger de mon imbécile de mari! (Haut.) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez, car nous avons ici un homme, le plus incroyable homme du monde pour les maladies désespérées.",
-        "selected":1
+        "selected":0
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":112,
+        "tokens":54,
+        "char":"MARTINE",
+        "text":"(Elle dit ces premières lignes à voix basse.) Ah ! Que le Ciel m'inspire une idée géniale pour me venger de mon mari ! (À voix haute.) Vous ne pouviez pas mieux tomber pour trouver ce que vous cherchez. Nous avons ici un homme, l'homme le plus extraordinaire du monde pour les maladies désespérées.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
         "acte":1,
         "scene":4,
         "version":"original",
         "chunk":0,
         "verse_id":112,
-        "char":"MARTINE",
-        "text":"(Elle dit ces premières lignes bas.) Ah! que le Ciel m'inspire une admirable invention pour me venger de mon pendart! (Haut.) Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez, et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées.",
+        "tokens":44,
+        "char":"MARTINE (Elle dit ces premières lignes bas)",
+        "text":"Ah! que le Ciel m'inspire une admirable invention pour me venger de mon pendart! (Haut.) Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez, et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées.",
         "selected":0
     },
     {
@@ -369,6 +690,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":113,
+        "tokens":8,
         "char":"VALÈRE",
         "text":"Et où peut-on le trouver, s'il vous plaît?",
         "selected":1
@@ -378,10 +700,11 @@
         "acte":1,
         "scene":4,
         "version":"modern",
-        "chunk":0,
+        "chunk":1,
         "verse_id":113,
+        "tokens":8,
         "char":"VALÈRE",
-        "text":"Et, s'il vous plaît, où pouvons-nous le trouver ?",
+        "text":"Et, s'il vous plaît, où pouvons-nous le trouver?",
         "selected":0
     },
     {
@@ -389,10 +712,11 @@
         "acte":1,
         "scene":4,
         "version":"modern",
-        "chunk":1,
+        "chunk":0,
         "verse_id":113,
+        "tokens":9,
         "char":"VALÈRE",
-        "text":"Et, s'il vous plaît, où pouvons-nous le trouver?",
+        "text":"Et, s'il vous plaît, où pouvons-nous le trouver ?",
         "selected":0
     },
     {
@@ -402,6 +726,7 @@
         "version":"original",
         "chunk":1,
         "verse_id":113,
+        "tokens":7,
         "char":"VALÈRE",
         "text":"Et, de grâce, où pouvons-nous le rencontrer?",
         "selected":0
@@ -413,6 +738,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":114,
+        "tokens":14,
         "char":"MARTINE",
         "text":"Il est en ce moment dans les bois, en train de couper du bois.",
         "selected":1
@@ -422,10 +748,23 @@
         "acte":1,
         "scene":4,
         "version":"modern",
-        "chunk":0,
+        "chunk":1,
         "verse_id":114,
+        "tokens":16,
         "char":"MARTINE",
-        "text":"Vous le trouverez maintenant près de ce petit endroit là-bas, où il s'amuse à couper du bois.",
+        "text":"Vous le trouverez maintenant près de cet endroit, là-bas, où il s'amuse à couper du bois.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":114,
+        "tokens":16,
+        "char":"MARTINE",
+        "text":"Vous le trouverez maintenant près de ce petit endroit là-bas, qui s'amuse à couper du bois.",
         "selected":0
     },
     {
@@ -433,10 +772,11 @@
         "acte":1,
         "scene":4,
         "version":"modern",
-        "chunk":1,
+        "chunk":0,
         "verse_id":114,
+        "tokens":17,
         "char":"MARTINE",
-        "text":"Vous le trouverez maintenant près de cet endroit, là-bas, où il s'amuse à couper du bois.",
+        "text":"Vous le trouverez maintenant près de ce petit endroit là-bas, où il s'amuse à couper du bois.",
         "selected":0
     },
     {
@@ -446,6 +786,7 @@
         "version":"original",
         "chunk":1,
         "verse_id":114,
+        "tokens":16,
         "char":"MARTINE",
         "text":"Vous le trouverez maintenant vers ce petit lieu que voilà, qui s'amuse à couper du bois.",
         "selected":0
@@ -457,6 +798,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":115,
+        "tokens":6,
         "char":"LUCAS",
         "text":"Un médecin qui coupe du bois?",
         "selected":0
@@ -468,6 +810,7 @@
         "version":"modern",
         "chunk":0,
         "verse_id":115,
+        "tokens":7,
         "char":"LUCAS",
         "text":"Un médecin qui coupe du bois ?",
         "selected":0
@@ -479,6 +822,7 @@
         "version":"original",
         "chunk":1,
         "verse_id":115,
+        "tokens":6,
         "char":"LUCAS",
         "text":"Un médecin qui coupe du bois?",
         "selected":1
@@ -490,9 +834,34 @@
         "version":"modern",
         "chunk":2,
         "verse_id":116,
+        "tokens":8,
         "char":"VALÈRE",
         "text":"Vous voulez dire qu'il cueille des plantes médicinales?",
         "selected":1
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":116,
+        "tokens":8,
+        "char":"VALÈRE",
+        "text":"Vous voulez dire qui cueille des plantes médicinales?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":116,
+        "tokens":9,
+        "char":"VALÈRE",
+        "text":"Qui s'amuse à cueillir des plantes médicinales, voulez-vous dire?",
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -501,6 +870,7 @@
         "version":"modern",
         "chunk":0,
         "verse_id":116,
+        "tokens":10,
         "char":"VALÈRE",
         "text":"Qui s'amuse à cueillir des plantes médicinales, voulez-vous dire ?",
         "selected":0
@@ -512,8 +882,21 @@
         "version":"modern",
         "chunk":1,
         "verse_id":116,
+        "tokens":12,
         "char":"VALÈRE",
         "text":"Vous voulez dire qui s'amuse à cueillir des plantes médicinales, n'est-ce pas?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":116,
+        "tokens":12,
+        "char":"VALÈRE",
+        "text":"Tu veux dire un médecin qui s'amuse à cueillir des plantes médicinales?",
         "selected":0
     },
     {
@@ -523,6 +906,7 @@
         "version":"original",
         "chunk":1,
         "verse_id":116,
+        "tokens":8,
         "char":"VALÈRE",
         "text":"Qui s'amuse à cueillir des simples, voulez-vous dire?",
         "selected":0
@@ -534,9 +918,46 @@
         "version":"modern",
         "chunk":2,
         "verse_id":117,
+        "tokens":31,
         "char":"MARTINE",
         "text":"Non, c'est un personnage étrange et fantasque. Il s'habille de manière extravagante, parfois il feint d'être ignorant et cache sa connaissance médicale. Il évite de pratiquer la médecine autant que possible.",
         "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":117,
+        "tokens":49,
+        "char":"MARTINE",
+        "text":"Non, c'est un homme extraordinaire, qui aime ça, bizarre, un peu fou, et vous ne le reconnaîtriez jamais pour ce qu'il est. Il s'habille de façon extravagante, parfois il fait semblant d'être ignorant, il garde son savoir pour lui-même et il évite de pratiquer la médecine autant que possible.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":117,
+        "tokens":51,
+        "char":"MARTINE",
+        "text":"Non, c'est un homme extraordinaire, qui aime ça, fantasque, bizarre, et qu'on ne prendrait jamais pour ce qu'il est. Il s'habille de façon extravagante, parfois il fait semblant d'être ignorant, il garde sa science pour lui et évite de pratiquer les talents merveilleux qu'il a reçus du Ciel pour la médecine.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":117,
+        "tokens":51,
+        "char":"MARTINE",
+        "text":"Non, c'est un homme extraordinaire, qui aime ça, excentrique, bizarre, capricieux, et vous ne le prendriez jamais pour ce qu'il est. Il s'habille de façon extravagante, fait parfois semblant d'être ignorant, garde sa connaissance secrète, et évite chaque jour d'exercer les talents merveilleux qu'il a reçus du Ciel pour la médecine.",
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -545,8 +966,21 @@
         "version":"modern",
         "chunk":0,
         "verse_id":117,
+        "tokens":53,
         "char":"MARTINE",
         "text":"Non, c'est un homme extraordinaire, qui aime ça, fantasque, bizarre, excentrique, et vous ne le prendriez jamais pour ce qu'il est. Il s'habille de façon extravagante, parfois il fait semblant d'être ignorant, il garde sa science pour lui et évite de pratiquer les talents merveilleux qu'il a reçus du Ciel pour la médecine.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":117,
+        "tokens":54,
+        "char":"MARTINE",
+        "text":"Non, c'est un homme extraordinaire, qui aime ça, fantasque, bizarre, difficile, et vous ne le prendriez jamais pour ce qu'il est. Il s'habille de façon extravagante, parfois il fait semblant d'être ignorant, il garde son savoir pour lui-même et il évite de pratiquer les talents merveilleux qu'il a reçus du ciel pour la médecine.",
         "selected":0
     },
     {
@@ -556,6 +990,7 @@
         "version":"modern",
         "chunk":1,
         "verse_id":117,
+        "tokens":55,
         "char":"MARTINE",
         "text":"Non, c'est un homme extraordinaire qui aime ça, fantasque, bizarre, un peu fou, et vous ne le prendriez jamais pour ce qu'il est. Il s'habille de façon extravagante, parfois il fait semblant d'être ignorant, il garde sa connaissance secrète et il évite de pratiquer les talents merveilleux qu'il a reçus du ciel pour la médecine.",
         "selected":0
@@ -567,6 +1002,7 @@
         "version":"original",
         "chunk":1,
         "verse_id":117,
+        "tokens":59,
         "char":"MARTINE",
         "text":"Non, c'est un homme extraordinaire, qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais pour ce qu'il est. Il va vêtu d'une façon extravagante, affecte quelquefois de paroître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d'exercer les merveilleux talents qu'il a eus du Ciel pour la médecine.",
         "selected":0
@@ -576,10 +1012,11 @@
         "acte":1,
         "scene":4,
         "version":"modern",
-        "chunk":2,
+        "chunk":3,
         "verse_id":118,
+        "tokens":5,
         "char":"VALÈRE",
-        "text":"C'est intéressant, les grands hommes ont souvent une touche de folie.",
+        "text":"Tu trouves ça incroyable, Lucas?",
         "selected":0
     },
     {
@@ -587,10 +1024,59 @@
         "acte":1,
         "scene":4,
         "version":"modern",
+        "chunk":2,
+        "verse_id":118,
+        "tokens":11,
+        "char":"VALÈRE",
+        "text":"C'est intéressant, les grands hommes ont souvent une touche de folie.",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":118,
+        "tokens":17,
+        "char":"VALÈRE",
+        "text":"C'est étonnant, tous les grands hommes ont toujours une excentricité, une petite folie mêlée à leur science.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":118,
+        "tokens":19,
+        "char":"VALÈRE",
+        "text":"C'est étonnant, tous les grands hommes ont toujours une excentricité, un petit grain de folie mêlé à leur savoir.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":118,
+        "tokens":19,
+        "char":"VALÈRE",
+        "text":"C'est étonnant, tous les grands hommes ont toujours une excentricité, un petit grain de folie mêlé à leur science.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
         "chunk":3,
         "verse_id":118,
+        "tokens":20,
         "char":"VALÈRE",
-        "text":"Tu trouves ça incroyable, Lucas?",
+        "text":"C'est étonnant, tous les grands hommes ont toujours une certaine excentricité, un petit grain de folie mélangé à leur savoir.",
         "selected":0
     },
     {
@@ -600,19 +1086,9 @@
         "version":"modern",
         "chunk":0,
         "verse_id":118,
+        "tokens":21,
         "char":"VALÈRE",
         "text":"C'est étonnant, tous les grands hommes ont toujours une part de folie, un petit grain de folie mêlé à leur science.",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":118,
-        "char":"VALÈRE",
-        "text":"C'est étonnant, tous les grands hommes ont toujours une excentricité, un petit grain de folie mêlé à leur savoir.",
         "selected":0
     },
     {
@@ -622,6 +1098,7 @@
         "version":"original",
         "chunk":2,
         "verse_id":118,
+        "tokens":22,
         "char":"VALÈRE",
         "text":"C'est une chose admirable, que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science.",
         "selected":0
@@ -631,21 +1108,83 @@
         "acte":1,
         "scene":4,
         "version":"modern",
-        "chunk":2,
+        "chunk":3,
         "verse_id":119,
-        "char":"MARTINE",
-        "text":"Sa folie est plus grande que vous ne pouvez l'imaginer. Parfois, il veut être battu pour prouver sa capacité. Si vous avez besoin de ses services, vous devrez le battre pour qu'il avoue qu'il est médecin. C'est ainsi que nous faisons avec lui.",
-        "selected":1
+        "tokens":11,
+        "char":"LUCAS",
+        "text":"Ben oui, un médecin qui fait des miracles, c'est pas commun.",
+        "selected":0
     },
     {
         "experiment":"mml06",
         "acte":1,
         "scene":4,
         "version":"modern",
+        "chunk":2,
+        "verse_id":119,
+        "tokens":43,
+        "char":"MARTINE",
+        "text":"Sa folie est plus grande que vous ne pouvez l'imaginer. Parfois, il veut être battu pour prouver sa capacité. Si vous avez besoin de ses services, vous devrez le battre pour qu'il avoue qu'il est médecin. C'est ainsi que nous faisons avec lui.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":119,
+        "tokens":64,
+        "char":"MARTINE",
+        "text":"Ce type est vraiment fou, plus que vous ne pouvez l'imaginer. Parfois, il va jusqu'à vouloir être battu pour prouver qu'il est capable. Je vous préviens, vous n'arriverez jamais à le convaincre qu'il est médecin, à moins que vous ne preniez chacun un bâton et ne le frappiez jusqu'à ce qu'il avoue. C'est comme ça que nous faisons quand nous avons besoin de lui.",
+        "selected":1
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":119,
+        "tokens":70,
+        "char":"MARTINE",
+        "text":"La folie de celui-ci est plus grande qu'on ne peut imaginer, parfois il veut même être battu pour prouver sa capacité. Je vous préviens, vous n'y arriverez pas, il n'avouera jamais qu'il est médecin, à moins que vous ne preniez chacun un bâton et que vous le frappiez jusqu'à ce qu'il vous avoue enfin ce qu'il cache au début. C'est ainsi que nous faisons quand nous avons besoin de lui.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":119,
+        "tokens":71,
+        "char":"MARTINE",
+        "text":"La folie de celui-ci est plus grande qu'on ne peut imaginer, parfois il veut même être battu pour prouver sa capacité. Je vous préviens, vous n'y arriverez pas, il n'avouera jamais qu'il est médecin, à moins que vous ne preniez chacun un bâton et que vous le frappiez jusqu'à ce qu'il vous avoue finalement ce qu'il vous cache au début. C'est ainsi que nous faisons quand nous avons besoin de lui.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
         "chunk":3,
         "verse_id":119,
-        "char":"LUCAS",
-        "text":"Ben oui, un médecin qui fait des miracles, c'est pas commun.",
+        "tokens":71,
+        "char":"MARTINE",
+        "text":"La folie de celui-ci est plus grande qu'on ne peut imaginer, parfois il veut même être battu pour prouver sa capacité. Je vous préviens, vous n'arriverez jamais à le faire avouer qu'il est médecin, à moins que vous ne preniez chacun un bâton et que vous le frappiez jusqu'à ce qu'il vous avoue enfin ce qu'il cache au début. C'est comme ça que nous faisons quand nous avons besoin de lui.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":119,
+        "tokens":75,
+        "char":"MARTINE",
+        "text":"La folie de celui-ci est plus grande qu'on ne peut imaginer, parfois il veut même être battu pour prouver sa capacité. Et je vous préviens, vous n'arriverez jamais à le convaincre qu'il est médecin, s'il en a décidé autrement, à moins que vous ne preniez chacun un bâton et que vous le frappiez jusqu'à ce qu'il avoue enfin ce qu'il vous cache au début. C'est comme ça qu'on fait quand on a besoin de lui.",
         "selected":0
     },
     {
@@ -655,19 +1194,9 @@
         "version":"modern",
         "chunk":0,
         "verse_id":119,
+        "tokens":83,
         "char":"MARTINE",
         "text":"La folie de celui-ci est plus grande qu'on ne peut imaginer, car parfois il va jusqu'à vouloir être battu pour prouver sa capacité. Et je vous préviens, vous n'arriverez jamais à le faire avouer qu'il est médecin, s'il en a décidé autrement, à moins que vous ne preniez chacun un bâton et que vous le réduisiez à force de coups jusqu'à ce qu'il vous avoue enfin ce qu'il vous cache au début. C'est ainsi que nous faisons quand nous avons besoin de lui.",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":119,
-        "char":"MARTINE",
-        "text":"La folie de celui-ci est plus grande qu'on ne peut imaginer, parfois il veut même être battu pour prouver sa capacité. Je vous préviens, vous n'y arriverez pas, il n'avouera jamais qu'il est médecin, à moins que vous ne preniez chacun un bâton et que vous le frappiez jusqu'à ce qu'il vous avoue enfin ce qu'il cache au début. C'est ainsi que nous faisons quand nous avons besoin de lui.",
         "selected":0
     },
     {
@@ -677,6 +1206,7 @@
         "version":"original",
         "chunk":2,
         "verse_id":119,
+        "tokens":87,
         "char":"MARTINE",
         "text":"La folie de celui-ci est plus grande qu'on ne peut croire, car elle va parfois jusqu'à vouloir être battu pour demeurer d'accord de sa capacité; et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais qu'il est médecin, s'il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu'il vous cachera d'abord. C'est ainsi que nous en usons quand nous avons besoin de lui.",
         "selected":0
@@ -688,30 +1218,9 @@
         "version":"modern",
         "chunk":2,
         "verse_id":120,
+        "tokens":4,
         "char":"VALÈRE",
         "text":"C'est une folie étrange.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":3,
-        "verse_id":120,
-        "char":"MARTINE",
-        "text":"Mais c'est vrai, je te dis! Cet homme, Sganarelle, est vraiment très doué. Il a même réussi à guérir une femme que tous les autres médecins avaient abandonnée. Elle était déjà considérée comme morte, mais il a réussi à la faire se lever et à marcher comme si de rien n'était.",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":0,
-        "verse_id":120,
-        "char":"VALÈRE",
-        "text":"C'est une folie étrange !",
         "selected":0
     },
     {
@@ -721,6 +1230,7 @@
         "version":"modern",
         "chunk":1,
         "verse_id":120,
+        "tokens":4,
         "char":"VALÈRE",
         "text":"C'est une folie étrange!",
         "selected":0
@@ -730,10 +1240,35 @@
         "acte":1,
         "scene":4,
         "version":"modern",
+        "chunk":0,
+        "verse_id":120,
+        "tokens":5,
+        "char":"VALÈRE",
+        "text":"C'est une folie étrange !",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
         "chunk":2,
         "verse_id":120,
+        "tokens":6,
         "char":"VALÈRE",
         "text":"C'est vraiment une folie étrange !",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":120,
+        "tokens":51,
+        "char":"MARTINE",
+        "text":"Mais c'est vrai, je te dis! Cet homme, Sganarelle, est vraiment très doué. Il a même réussi à guérir une femme que tous les autres médecins avaient abandonnée. Elle était déjà considérée comme morte, mais il a réussi à la faire se lever et à marcher comme si de rien n'était.",
         "selected":0
     },
     {
@@ -743,19 +1278,9 @@
         "version":"original",
         "chunk":2,
         "verse_id":120,
+        "tokens":4,
         "char":"VALÈRE",
         "text":"Voilà une étrange folie!",
-        "selected":1
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":2,
-        "verse_id":121,
-        "char":"MARTINE",
-        "text":"Mais il est capable de faire des miracles.",
         "selected":0
     },
     {
@@ -765,9 +1290,34 @@
         "version":"modern",
         "chunk":3,
         "verse_id":121,
+        "tokens":7,
         "char":"VALÈRE",
         "text":"C'est impressionnant. Et comment peut-on le trouver?",
         "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":121,
+        "tokens":8,
+        "char":"MARTINE",
+        "text":"Mais il est capable de faire des miracles.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":121,
+        "tokens":10,
+        "char":"MARTINE",
+        "text":"Oui, mais après ça, vous verrez qu'il fait des miracles.",
+        "selected":1
     },
     {
         "experiment":"mml07",
@@ -776,9 +1326,10 @@
         "version":"modern",
         "chunk":1,
         "verse_id":121,
+        "tokens":11,
         "char":"MARTINE",
         "text":"C'est vrai, mais après cela, vous verrez qu'il fait des miracles.",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -787,6 +1338,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":121,
+        "tokens":11,
         "char":"MARTINE",
         "text":"C'est vrai, mais après ça, vous verrez qu'il fait des miracles.",
         "selected":0
@@ -798,6 +1350,7 @@
         "version":"original",
         "chunk":2,
         "verse_id":121,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Il est vrai; mais, après cela, vous verrez qu'il fait des merveilles.",
         "selected":0
@@ -809,19 +1362,9 @@
         "version":"modern",
         "chunk":2,
         "verse_id":122,
+        "tokens":2,
         "char":"VALÈRE",
         "text":"Comment s'appelle-t-il?",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":3,
-        "verse_id":122,
-        "char":"MARTINE",
-        "text":"C'est facile, il est facilement reconnaissable avec sa grande barbe noire et son habit jaune et vert.",
         "selected":0
     },
     {
@@ -831,8 +1374,21 @@
         "version":"modern",
         "chunk":2,
         "verse_id":122,
+        "tokens":3,
         "char":"VALÈRE",
         "text":"Comment s'appelle-t-il ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":122,
+        "tokens":17,
+        "char":"MARTINE",
+        "text":"C'est facile, il est facilement reconnaissable avec sa grande barbe noire et son habit jaune et vert.",
         "selected":0
     },
     {
@@ -842,6 +1398,7 @@
         "version":"original",
         "chunk":2,
         "verse_id":122,
+        "tokens":2,
         "char":"VALÈRE",
         "text":"Comment s'appelle-t-il?",
         "selected":1
@@ -853,6 +1410,7 @@
         "version":"modern",
         "chunk":3,
         "verse_id":123,
+        "tokens":8,
         "char":"LUCAS",
         "text":"Ah, je vois! C'est le médecin des oiseaux!",
         "selected":0
@@ -864,8 +1422,21 @@
         "version":"modern",
         "chunk":4,
         "verse_id":123,
+        "tokens":24,
         "char":"MARTINE",
-        "text":"Il s'appelle Sganarelle, c'est facile à reconnaître: c'est un homme avec une grande barbe noire, une fraise et un costume jaune et vert.",
+        "text":"Il s'appelle Sganarelle, c'est facile à reconnaître,  c'est un homme avec une grande barbe noire, une fraise et un costume jaune et vert.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":123,
+        "tokens":28,
+        "char":"MARTINE",
+        "text":"Il s'appelle Sganarelle. Il est facile à reconnaître ,  c'est un homme avec une grande barbe noire, qui porte une fraise et un habit jaune et vert.",
         "selected":0
     },
     {
@@ -875,8 +1446,9 @@
         "version":"modern",
         "chunk":1,
         "verse_id":123,
+        "tokens":29,
         "char":"MARTINE",
-        "text":"Il s'appelle Sganarelle, mais il est facile à reconnaître : c'est un homme avec une grande barbe noire, qui porte une collerette, et un costume jaune et vert.",
+        "text":"Il s'appelle Sganarelle, mais il est facile à reconnaître,  c'est un homme avec une grande barbe noire et qui porte une collerette, avec un costume jaune et vert.",
         "selected":1
     },
     {
@@ -886,8 +1458,33 @@
         "version":"modern",
         "chunk":2,
         "verse_id":123,
+        "tokens":29,
         "char":"MARTINE",
-        "text":"Il s'appelle Sganarelle, mais il est facile à reconnaître",
+        "text":"Il s'appelle Sganarelle, mais il est facile à reconnaître ,  c'est un homme avec une grande barbe noire, qui porte une collerette, et un costume jaune et vert.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":123,
+        "tokens":30,
+        "char":"MARTINE",
+        "text":"Il s'appelle Sganarelle; mais il est facile à reconnaître,  c'est un homme qui a une grande barbe noire, et qui porte un col, avec un costume jaune et vert.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":123,
+        "tokens":31,
+        "char":"MARTINE",
+        "text":"Il s'appelle Sganarelle, mais il est facile à reconnaître ,  c'est un homme avec une grande barbe noire, qui porte un col en dentelle, et un costume jaune et vert.",
         "selected":0
     },
     {
@@ -897,19 +1494,9 @@
         "version":"original",
         "chunk":3,
         "verse_id":123,
+        "tokens":30,
         "char":"MARTINE",
-        "text":"Il s'appelle Sganarelle; mais il est aisé à connoître, c'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":3,
-        "verse_id":124,
-        "char":"VALÈRE",
-        "text":"Non, Lucas, tu confonds. Mais en tout cas, il faut qu'on le trouve. Il pourrait peut-être aider notre maître, qui est malade.",
+        "text":"Il s'appelle Sganarelle; mais il est aisé à connoître,  c'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert.",
         "selected":0
     },
     {
@@ -919,6 +1506,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":124,
+        "tokens":10,
         "char":"LUCAS",
         "text":"Un costume jaune et vert! Est-ce le médecin des oiseaux?",
         "selected":0
@@ -930,9 +1518,22 @@
         "version":"modern",
         "chunk":1,
         "verse_id":124,
+        "tokens":11,
         "char":"LUCAS",
         "text":"Un costume jaune et vert! C'est donc le médecin des perroquets?",
         "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":124,
+        "tokens":11,
+        "char":"LUCAS",
+        "text":"Un costume jaune et vert! C'est donc le médecin des oiseaux?",
+        "selected":0
     },
     {
         "experiment":"mml07",
@@ -941,8 +1542,33 @@
         "version":"modern",
         "chunk":2,
         "verse_id":124,
+        "tokens":13,
         "char":"LUCAS",
         "text":"Un costume jaune et vert ! C'est donc le médecin des oiseaux ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":124,
+        "tokens":13,
+        "char":"LUCAS",
+        "text":"Un habit jaune et vert ! C'est donc le médecin des perroquets ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":3,
+        "verse_id":124,
+        "tokens":22,
+        "char":"VALÈRE",
+        "text":"Non, Lucas, tu confonds. Mais en tout cas, il faut qu'on le trouve. Il pourrait peut-être aider notre maître, qui est malade.",
         "selected":0
     },
     {
@@ -952,19 +1578,57 @@
         "version":"original",
         "chunk":3,
         "verse_id":124,
+        "tokens":11,
         "char":"LUCAS",
         "text":"Un habit jaune et vart! C'est donc le médecin des paroquets?",
         "selected":0
     },
     {
-        "experiment":"mml06",
+        "experiment":"mml07",
         "acte":1,
         "scene":4,
         "version":"modern",
-        "chunk":3,
+        "chunk":1,
         "verse_id":125,
-        "char":"MARTINE",
-        "text":"Oui, c'est une bonne idée. Mais attention, il est un peu fou, il pourrait refuser de se faire passer pour un médecin. Il faudrait peut-être le forcer un peu...",
+        "tokens":9,
+        "char":"VALÈRE",
+        "text":"Mais est-il vraiment aussi talentueux que vous le dites?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":125,
+        "tokens":9,
+        "char":"VALÈRE",
+        "text":"Mais est-il vraiment aussi compétent que vous le dites?",
+        "selected":1
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":125,
+        "tokens":10,
+        "char":"VALÈRE",
+        "text":"Mais est-il vraiment aussi talentueux que vous le dites ?",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":125,
+        "tokens":10,
+        "char":"VALÈRE",
+        "text":"Mais est-il vraiment aussi compétent que vous le dites ?",
         "selected":0
     },
     {
@@ -974,30 +1638,21 @@
         "version":"modern",
         "chunk":4,
         "verse_id":125,
+        "tokens":11,
         "char":"VALÈRE",
         "text":"Mais est-ce vrai qu'il soit si compétent que vous le dites?",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":1,
-        "verse_id":125,
-        "char":"VALÈRE",
-        "text":"Mais est-il vraiment aussi talentueux que vous le dites?",
         "selected":0
     },
     {
-        "experiment":"mml07",
+        "experiment":"mml06",
         "acte":1,
         "scene":4,
         "version":"modern",
-        "chunk":2,
+        "chunk":3,
         "verse_id":125,
-        "char":"VALÈRE",
-        "text":"Mais est-il vraiment aussi talentueux que vous le dites ?",
+        "tokens":29,
+        "char":"MARTINE",
+        "text":"Oui, c'est une bonne idée. Mais attention, il est un peu fou, il pourrait refuser de se faire passer pour un médecin. Il faudrait peut-être le forcer un peu...",
         "selected":0
     },
     {
@@ -1007,6 +1662,7 @@
         "version":"original",
         "chunk":3,
         "verse_id":125,
+        "tokens":12,
         "char":"VALÈRE",
         "text":"Mais est-il bien vrai qu'il soit si habile que vous le dites?",
         "selected":0
@@ -1018,6 +1674,7 @@
         "version":"modern",
         "chunk":3,
         "verse_id":126,
+        "tokens":11,
         "char":"VALÈRE",
         "text":"On verra bien. En tout cas, merci pour tes conseils, Martine.",
         "selected":0
@@ -1029,8 +1686,33 @@
         "version":"modern",
         "chunk":4,
         "verse_id":126,
+        "tokens":81,
         "char":"MARTINE",
-        "text":"Comment! C'est un homme qui fait des miracles. Il y a six mois, une femme a été abandonnée par tous les autres médecins",
+        "text":"Comment! C'est un homme qui fait des miracles. Il y a six mois, une femme a été abandonnée par tous les autres médecins,  elle était considérée comme morte depuis six heures et on se préparait à l'enterrer, quand on a forcé l'homme dont nous parlons à venir. Il lui a donné une petite goutte de quelque chose dans la bouche et elle s'est levée de son lit et s'est mise à marcher dans sa chambre comme si de rien n'était.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":4,
+        "verse_id":126,
+        "tokens":82,
+        "char":"MARTINE",
+        "text":"Comment ! C'est un homme qui fait des miracles. Il y a six mois, une femme avait été abandonnée par tous les autres médecins. On la considérait déjà comme morte depuis six heures et on s'apprêtait à l'enterrer, quand on a forcé cet homme à venir. Il lui a donné une petite goutte de je ne sais quoi dans la bouche et immédiatement, elle s'est levée de son lit et s'est mise à marcher dans sa chambre, comme si de rien n'était.",
+        "selected":1
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":126,
+        "tokens":84,
+        "char":"MARTINE",
+        "text":"Comment ! C'est un homme qui fait des miracles. Il y a six mois, une femme avait été abandonnée par tous les autres médecins ,  on la considérait comme morte depuis déjà six heures et on s'apprêtait à l'enterrer, quand on a forcé cet homme à venir. Il lui a donné une petite goutte de je ne sais quoi dans la bouche, et immédiatement elle s'est levée de son lit et s'est mise à marcher dans sa chambre, comme si de rien n'était.",
         "selected":0
     },
     {
@@ -1040,19 +1722,45 @@
         "version":"modern",
         "chunk":1,
         "verse_id":126,
+        "tokens":85,
         "char":"MARTINE",
-        "text":"Comment! C'est un homme qui fait des miracles. Il y a six mois, une femme avait été abandonnée par tous les autres médecins",
+        "text":"Comment! C'est un homme qui fait des miracles. Il y a six mois, une femme avait été abandonnée par tous les autres médecins,  on la considérait comme morte depuis six heures déjà et on s'apprêtait à l'enterrer, quand on a forcé cet homme dont nous parlons à venir. Il lui a donné une petite goutte de je ne sais quoi dans la bouche et immédiatement elle s'est levée de son lit et s'est mise à marcher dans sa chambre comme si de rien n'était.",
         "selected":0
     },
     {
-        "experiment":"mml07",
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":126,
+        "tokens":85,
+        "char":"MARTINE",
+        "text":"Comment! C'est un homme qui fait des miracles. Il y a six mois, une femme a été abandonnée par tous les autres médecins,  on la considérait déjà comme morte depuis six heures et on s'apprêtait à l'enterrer, quand on a forcé cet homme dont nous parlons à venir. Il lui a donné une petite goutte de je ne sais quoi dans la bouche, et immédiatement elle s'est levée de son lit et s'est mise à marcher dans sa chambre comme si de rien n'était.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":126,
+        "tokens":85,
+        "char":"MARTINE",
+        "text":"Comment! C'est un homme qui fait des miracles. Il y a six mois, une femme a été abandonnée par tous les autres médecins,  on la considérait comme morte depuis déjà six heures, et on se préparait à l'enterrer, quand on a forcé cet homme dont nous parlons à venir. Après lui avoir donné une petite goutte de je ne sais quoi dans la bouche, elle s'est levée immédiatement de son lit et s'est mise à marcher dans sa chambre, comme si de rien n'était.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
         "acte":1,
         "scene":4,
         "version":"modern",
         "chunk":2,
         "verse_id":126,
+        "tokens":87,
         "char":"MARTINE",
-        "text":"Comment ! C'est un homme qui fait des miracles. Il y a six mois, une femme avait été abandonnée par tous les autres médecins",
+        "text":"Comment ! C'est un homme qui fait des miracles. Il y a six mois, une femme avait été abandonnée par tous les autres médecins ,  on la considérait comme morte depuis déjà six heures, et on s'apprêtait à l'enterrer, quand on a fait venir de force l'homme dont nous parlons. Il lui a donné une petite goutte de je ne sais quoi dans la bouche, et immédiatement elle s'est levée de son lit et s'est mise à marcher dans sa chambre, comme si de rien n'était.",
         "selected":0
     },
     {
@@ -1062,8 +1770,9 @@
         "version":"original",
         "chunk":3,
         "verse_id":126,
+        "tokens":92,
         "char":"MARTINE",
-        "text":"[XX] Comment! c'est un homme qui fait des miracles. Il y a six mois qu'une femme fut abandonnée de tous les autres médecins. On la tenoit morte il y avoit déjà six heures, et l'on se disposoit à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons. Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche, et dans le même instant elle se leva de son lit et se mit aussitôt à se promener dans sa chambre, comme si de rien n'eût été.",
+        "text":"Comment! c'est un homme qui fait des miracles. Il y a six mois qu'une femme fut abandonnée de tous les autres médecins,  on la tenoit morte il y avoit déjà six heures, et l'on se disposoit à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons. Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche, et dans le même instant elle se leva de son lit et se mit aussitôt à se promener dans sa chambre, comme si de rien n'eût été.",
         "selected":0
     },
     {
@@ -1073,6 +1782,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":127,
+        "tokens":1,
         "char":"LUCAS",
         "text":"Ah!",
         "selected":0
@@ -1084,6 +1794,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":127,
+        "tokens":2,
         "char":"LUCAS",
         "text":"Ah !",
         "selected":0
@@ -1095,9 +1806,10 @@
         "version":"original",
         "chunk":3,
         "verse_id":127,
+        "tokens":1,
         "char":"LUCAS",
         "text":"Ah!",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -1106,19 +1818,9 @@
         "version":"modern",
         "chunk":4,
         "verse_id":128,
+        "tokens":7,
         "char":"VALÈRE",
         "text":"Il devait s'agir d'une goutte d'or potable.",
-        "selected":0
-    },
-    {
-        "experiment":"mml06",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":5,
-        "verse_id":128,
-        "char":"VALÈRE",
-        "text":"Il devait s'agir d'une potion magique à base d'or.",
         "selected":0
     },
     {
@@ -1128,8 +1830,45 @@
         "version":"modern",
         "chunk":1,
         "verse_id":128,
+        "tokens":7,
         "char":"VALÈRE",
         "text":"Il devait s'agir d'une goutte d'élixir d'or.",
+        "selected":0
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":1,
+        "verse_id":128,
+        "tokens":7,
+        "char":"VALÈRE",
+        "text":"Il devait s'agir d'une goutte d'or buvable.",
+        "selected":0
+    },
+    {
+        "experiment":"mml06",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":128,
+        "tokens":9,
+        "char":"VALÈRE",
+        "text":"Il devait s'agir d'une potion magique à base d'or.",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":128,
+        "tokens":10,
+        "char":"VALÈRE",
+        "text":"Il fallait que ce soit quelque boisson à base d'or.",
         "selected":0
     },
     {
@@ -1139,8 +1878,45 @@
         "version":"original",
         "chunk":4,
         "verse_id":128,
+        "tokens":9,
         "char":"VALÈRE",
         "text":"Il falloit que ce fût quelque goutte d'or potable.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":129,
+        "tokens":66,
+        "char":"MARTINE",
+        "text":"C'est bien possible. Il y a moins de trois semaines, un jeune enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il l'a frotté avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et s'est mis à jouer à la marelle.",
+        "selected":1
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":5,
+        "verse_id":129,
+        "tokens":66,
+        "char":"MARTINE",
+        "text":"C'est bien possible. Il y a moins de trois semaines, un jeune enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il l'a frotté avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et s'est mis à jouer à la fossette.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":129,
+        "tokens":66,
+        "char":"MARTINE",
+        "text":"Cela pourrait bien être. Il n'y a pas trois semaines encore, un jeune enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le pavé. Dès qu'on l'a amené, notre homme l'a frotté avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et s'est mis à jouer à la fossette.",
         "selected":0
     },
     {
@@ -1150,6 +1926,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":129,
+        "tokens":68,
         "char":"MARTINE",
         "text":"C'est possible. Il y a moins de trois semaines, un jeune enfant de douze ans est tombé du haut du clocher et s'est cassé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il a frotté tout le corps de l'enfant avec une certaine pommade qu'il sait faire, et l'enfant s'est levé et a couru jouer à la fossette.",
         "selected":0
@@ -1161,6 +1938,7 @@
         "version":"modern",
         "chunk":5,
         "verse_id":129,
+        "tokens":68,
         "char":"MARTINE",
         "text":"C'est possible. Il y a moins de trois semaines, un enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il a frotté tout le corps de l'enfant avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et a couru jouer à la fossette.",
         "selected":0
@@ -1172,19 +1950,9 @@
         "version":"modern",
         "chunk":1,
         "verse_id":129,
+        "tokens":69,
         "char":"MARTINE",
         "text":"C'est possible. Il y a moins de trois semaines, un enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il a frotté tout le corps de l'enfant avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et s'est mis à jouer à la fossette.",
-        "selected":0
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":2,
-        "verse_id":129,
-        "char":"MARTINE",
-        "text":"C'est bien possible. Il y a moins de trois semaines, un jeune enfant de douze ans est tombé du haut du clocher et s'est brisé la tête, les bras et les jambes en tombant sur le sol. Dès que notre homme est arrivé, il l'a frotté avec une certaine pommade qu'il sait faire, et l'enfant s'est immédiatement levé et s'est mis à jouer à la marelle.",
         "selected":0
     },
     {
@@ -1194,6 +1962,7 @@
         "version":"original",
         "chunk":4,
         "verse_id":129,
+        "tokens":73,
         "char":"MARTINE",
         "text":"Cela pourroit bien être. Il n'y a pas trois semaines encore qu'un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête, les bras et les jambes. On n'y eut pas plus tôt amené notre homme qu'il le frotta par tout le corps d'un certain onguent qu'il sait faire, et l'enfant aussitôt se leva sur ses pieds et courut jouer à la fossette.",
         "selected":0
@@ -1205,6 +1974,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":130,
+        "tokens":1,
         "char":"LUCAS",
         "text":"Ah!",
         "selected":0
@@ -1216,6 +1986,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":130,
+        "tokens":2,
         "char":"LUCAS",
         "text":"Ah !",
         "selected":0
@@ -1227,9 +1998,10 @@
         "version":"original",
         "chunk":4,
         "verse_id":130,
+        "tokens":1,
         "char":"LUCAS",
         "text":"Ah!",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -1238,9 +2010,10 @@
         "version":"modern",
         "chunk":4,
         "verse_id":131,
+        "tokens":7,
         "char":"VALÈRE",
         "text":"Cet homme doit avoir la médecine universelle.",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -1249,6 +2022,7 @@
         "version":"modern",
         "chunk":5,
         "verse_id":131,
+        "tokens":7,
         "char":"VALÈRE",
         "text":"Cet homme doit avoir le remède universel.",
         "selected":0
@@ -1260,6 +2034,7 @@
         "version":"original",
         "chunk":4,
         "verse_id":131,
+        "tokens":9,
         "char":"VALÈRE",
         "text":"Il faut que cet homme-là ait la médecine universelle.",
         "selected":0
@@ -1271,6 +2046,7 @@
         "version":"modern",
         "chunk":4,
         "verse_id":132,
+        "tokens":3,
         "char":"MARTINE",
         "text":"Qui en doute?",
         "selected":0
@@ -1282,6 +2058,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":132,
+        "tokens":4,
         "char":"MARTINE",
         "text":"Qui en doute ?",
         "selected":0
@@ -1293,9 +2070,10 @@
         "version":"original",
         "chunk":4,
         "verse_id":132,
+        "tokens":3,
         "char":"MARTINE",
         "text":"Qui en doute?",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml06",
@@ -1304,8 +2082,21 @@
         "version":"modern",
         "chunk":5,
         "verse_id":133,
+        "tokens":11,
         "char":"LUCAS",
         "text":"Témoin! C'est exactement l'homme qu'il nous faut; allons vite le chercher.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":133,
+        "tokens":11,
+        "char":"LUCAS",
+        "text":"Témoin! C'est justement l'homme qu'il nous faut; allons vite le chercher.",
         "selected":0
     },
     {
@@ -1315,6 +2106,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":133,
+        "tokens":13,
         "char":"LUCAS",
         "text":"Témoignage ! C'est justement l'homme qu'il nous faut ; allons vite le chercher.",
         "selected":0
@@ -1326,6 +2118,7 @@
         "version":"original",
         "chunk":5,
         "verse_id":133,
+        "tokens":11,
         "char":"LUCAS",
         "text":"Testigué! velà justement l'homme qu'il nous faut; allons vite le charcher.",
         "selected":0
@@ -1337,6 +2130,7 @@
         "version":"modern",
         "chunk":5,
         "verse_id":134,
+        "tokens":6,
         "char":"VALÈRE",
         "text":"Nous vous remercions pour cette information.",
         "selected":0
@@ -1348,8 +2142,33 @@
         "version":"modern",
         "chunk":2,
         "verse_id":134,
+        "tokens":6,
         "char":"VALÈRE",
         "text":"Nous vous remercions pour cette découverte.",
+        "selected":1
+    },
+    {
+        "experiment":"mml08",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":134,
+        "tokens":9,
+        "char":"VALÈRE",
+        "text":"Nous vous remercions de nous avoir fait cette rencontre.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":6,
+        "verse_id":134,
+        "tokens":10,
+        "char":"VALÈRE",
+        "text":"Nous vous remercions pour le plaisir que vous nous donnez.",
         "selected":0
     },
     {
@@ -1359,6 +2178,7 @@
         "version":"original",
         "chunk":5,
         "verse_id":134,
+        "tokens":9,
         "char":"VALÈRE",
         "text":"Nous vous remercions du plaisir que vous nous faites.",
         "selected":0
@@ -1370,9 +2190,10 @@
         "version":"modern",
         "chunk":5,
         "verse_id":135,
+        "tokens":9,
         "char":"MARTINE",
         "text":"Mais souvenez-vous de l'avertissement que je vous ai donné.",
-        "selected":0
+        "selected":1
     },
     {
         "experiment":"mml07",
@@ -1381,6 +2202,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":135,
+        "tokens":11,
         "char":"MARTINE",
         "text":"Mais souvenez-vous au moins de l'avertissement que je vous ai donné.",
         "selected":0
@@ -1392,8 +2214,33 @@
         "version":"original",
         "chunk":5,
         "verse_id":135,
+        "tokens":12,
         "char":"MARTINE",
         "text":"Mais souvenez-vous bien au moins de l'avertissement que je vous ai donné.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":7,
+        "verse_id":136,
+        "tokens":13,
+        "char":"LUCAS",
+        "text":"Hé! laissez-nous faire; s'il ne tient qu'à se battre, la victoire est assurée.",
+        "selected":0
+    },
+    {
+        "experiment":"mml07",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":2,
+        "verse_id":136,
+        "tokens":15,
+        "char":"LUCAS",
+        "text":"Hé ! Laissez-nous faire ; s'il suffit de le battre, la vache est à nous.",
         "selected":0
     },
     {
@@ -1403,20 +2250,10 @@
         "version":"modern",
         "chunk":5,
         "verse_id":136,
+        "tokens":21,
         "char":"LUCAS",
         "text":"Hé! Ne vous inquiétez pas; si tout ce qu'il faut c'est de la force brute, nous sommes prêts à y aller.",
-        "selected":1
-    },
-    {
-        "experiment":"mml07",
-        "acte":1,
-        "scene":4,
-        "version":"modern",
-        "chunk":2,
-        "verse_id":136,
-        "char":"LUCAS",
-        "text":"Hé ! Laissez-nous faire ; s'il suffit de le battre, la vache est à nous.",
-        "selected":1
+        "selected":0
     },
     {
         "experiment":"mml06",
@@ -1425,8 +2262,21 @@
         "version":"original",
         "chunk":5,
         "verse_id":136,
+        "tokens":14,
         "char":"LUCAS",
         "text":"Hé! morguenne! laissez-nous faire; s'il ne tient qu'à battre, la vache est à nous.",
+        "selected":0
+    },
+    {
+        "experiment":"mml09",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":7,
+        "verse_id":137,
+        "tokens":18,
+        "char":"VALÈRE",
+        "text":"Nous sommes très heureux d'avoir fait cette rencontre, et j'en ai la meilleure espérance du monde pour moi.",
         "selected":0
     },
     {
@@ -1436,6 +2286,7 @@
         "version":"modern",
         "chunk":2,
         "verse_id":137,
+        "tokens":19,
         "char":"VALÈRE",
         "text":"Nous sommes vraiment chanceux d'avoir fait cette rencontre, et j'en ai la meilleure espérance du monde pour ma part.",
         "selected":0
@@ -1447,8 +2298,117 @@
         "version":"original",
         "chunk":2,
         "verse_id":137,
+        "tokens":18,
         "char":"VALÈRE",
         "text":"Nous sommes bien heureux d'avoir fait cette rencontre, et j'en conçois, pour moi, la meilleure espérance du monde.",
         "selected":0
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":105,
+        "tokens":9,
+        "char":"MARTINE",
+        "text":"En pensant à voix basse. Comment pourrais-je me venger?",
+        "selected":1
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":108,
+        "tokens":50,
+        "char":"MARTINE",
+        "text":"Oui, je dois me venger, peu importe le prix à payer. Ces coups de bâton m'ont fait mal et je ne peux pas les oublier. (Elle parle en se retournant et en heurtant les deux hommes.) Oh, pardon Messieurs, je ne vous avais pas vus. J'étais perdue dans mes pensées.",
+        "selected":1
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":111,
+        "tokens":67,
+        "char":"VALÈRE",
+        "text":"Ça pourrait être possible; nous essayons de trouver un médecin compétent qui pourrait soulager la fille de notre maître, atteinte d'une maladie qui lui a subitement fait perdre l'usage de la langue. Plusieurs médecins ont déjà tout essayé sans succès; mais parfois on trouve des gens avec des secrets étonnants, des remèdes particuliers, qui réussissent là où les autres ont échoué, et c'est ce que nous cherchons.",
+        "selected":1
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":112,
+        "tokens":35,
+        "char":"MARTINE (Elle dit ces premières lignes bas)",
+        "text":"Ah! Que le Ciel m'inspire une idée géniale pour me venger de mon imbécile de mari! (Haut.) Vous ne pouviez pas mieux tomber. Je connais le plus incroyable médecin du monde, pour les maladies désespérées.",
+        "selected":1
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":120,
+        "tokens":4,
+        "char":"VALÈRE",
+        "text":"Voilà une folie étrange!",
+        "selected":1
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":133,
+        "tokens":12,
+        "char":"LUCAS",
+        "text":"Bon sang! C'est exactement l'homme qu'il nous faut; allons vite le chercher.",
+        "selected":1
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":136,
+        "tokens":10,
+        "char":"LUCAS",
+        "text":"Hé ! Laissez-nous faire ; s'il suffit de le battre,",
+        "selected":0
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":136,
+        "tokens":14,
+        "char":"LUCAS",
+        "text":"Hé ! Laissez-nous faire ; s'il suffit de le battre, la victoire est assurée.",
+        "selected":1
+    },
+    {
+        "experiment":"mmlman",
+        "acte":1,
+        "scene":4,
+        "version":"modern",
+        "chunk":0,
+        "verse_id":137,
+        "tokens":12,
+        "char":"VALÈRE",
+        "text":"Nous sommes vraiment chanceux d'avoir fait cette rencontre, et je retrouve espoir.",
+        "selected":1
     }
 ]
