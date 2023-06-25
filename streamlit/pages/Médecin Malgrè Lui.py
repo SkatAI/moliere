@@ -34,20 +34,71 @@ def main(file):
 
     data = df[(df.acte == int(acte_choice)) & (df.scene == int(scene_choice))].copy()
     st.write(f"{data.shape[0]} repliques")
+    # for i, d in data.iterrows():
+    #     col1, col2, col3, col4 = st.columns([1, 2, 10, 8])
+    #     with col1:
+    #         st.write(d.verse_id)
+    #     with col2:
+    #         st.write(d.char)
+    #     with col3:
+    #         if d.selection == 'original':
+    #             st.markdown(f"{d.modern}")
+    #         else:
+    #             st.markdown(f"_{d.modern}_")
+    #     with col4:
+    #         st.caption(f"{d.text}")
+
+
+    # col1, col2 = st.columns([1, 1])
+    # with col1:
+    #     st.write("Texte modernisé")
+    # with col2:
+    #     st.write("Texte original")
+    #
+    # for i, d in data.iterrows():
+    #
+    #     col1, col2 = st.columns([1, 18])
+    #     with col1:
+    #         st.write(d.verse_id)
+    #     with col2:
+    #         st.write(d.char)
+    #
+    #     col1, col2, col3 = st.columns([1, 10, 8])
+    #
+    #     with col2:
+    #         if d.selection == 'original':
+    #             st.markdown(f"{d.modern}")
+    #         else:
+    #             st.markdown(f"_{d.modern}_")
+    #     with col3:
+    #         st.caption(f"{d.text}")
+
+
+
+    col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
+    with col2:
+        st.subheader("Texte modernisé")
+    with col4:
+        st.subheader("Texte original")
+
+
+
     for i, d in data.iterrows():
-        col1, col2, col3, col4 = st.columns([1, 2, 10, 8])
+
+        col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
         with col1:
             st.write(d.verse_id)
         with col2:
-            st.write(d.char)
-        with col3:
-            if d.selection == 'original':
-                st.markdown(f"{d.modern}")
-            else:
-                st.markdown(f"_{d.modern}_")
-        with col4:
-            st.caption(f"{d.text}")
+            st.write(
+                f"{d.char}",
+                " \n",
+                f"{d.modern}"
+            )
 
+        with col4:
+            # st.write(" \n")
+            st.write(" \n")
+            st.caption(f"_{d.text}_")
 
 
 
