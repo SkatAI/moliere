@@ -1,6 +1,7 @@
 
 DOCKER_USERNAME ?= alexis
-APPLICATION_NAME ?= moliere
+APPLICATION_NAME_PROD ?= moliere
+APPLICATION_NAME_DEV ?= moliere_dev
 
 define find.functions
 	@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##//'
@@ -33,16 +34,26 @@ import-check:
 .PHONY: import-check
 
 
+build_dev: ## Build docker image
+build_dev:
+	docker build ./Dockerfile.dev --tag ${DOCKER_USERNAME}/${APPLICATION_NAME_DEV}:0.1
+.PHONY: build
+
 
 build: ## Build docker image
 build:
-	docker build . --tag ${DOCKER_USERNAME}/${APPLICATION_NAME}:0.1
+	docker build . --tag ${DOCKER_USERNAME}/${APPLICATION_NAME_PROD}:0.1
 .PHONY: build
 
 
 run: ## Build, start and run docker image
 run:
-	docker run --rm -it -p 8501:8501 -v ${PWD}:/app/ --name facetious-sganarelle ${DOCKER_USERNAME}/${APPLICATION_NAME}:0.1
+	docker run --rm -it -p 8501:8501 -v ${PWD}:/app/ --name facetious-sganarelle ${DOCKER_USERNAME}/${APPLICATION_NAME_PROD}:0.1
+.PHONY: run
+
+run_dev: ## Build, start and run docker image
+run_dev:
+	docker run --rm -it -p 8501:8501 -v ${PWD}:/app/ --name facetious-sganarelle ${DOCKER_USERNAME}/${APPLICATION_NAME_PROD}:0.1
 .PHONY: run
 
 test: # run test
