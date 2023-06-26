@@ -18,12 +18,26 @@ def main(file):
 
     df = pd.read_json(file)
 
-    with st.sidebar:
-        options_acte = [str(acte) for acte in df.acte.unique()]
-        acte_choice = st.selectbox("Choisi l'acte:", options_acte)
+    # ----
+    def form_callback():
+        st.write(f"scene_choice {scene_choice} st.session_state.menu_scene {st.session_state.menu_scene}")
 
-        options_scene = [str(scene) for scene in df[df.acte == int(acte_choice)].scene.unique()]
-        scene_choice = st.selectbox("Choisi la scene:", options_scene)
+    # ----
+    try:
+        acte_choice
+    except NameError:
+        acte_choice = 1
+
+
+    with st.sidebar:
+
+
+        with st.form(key='my_form'):
+            options_acte = [str(acte) for acte in df.acte.unique()]
+            acte_choice = st.selectbox("Choisi l'acte:", options_acte)
+            options_scene = [str(scene) for scene in df[df.acte == int(acte_choice)].scene.unique()]
+            scene_choice = st.selectbox("Choisi la scene:", options_scene, key = 'menu_scene' )
+            submit_button = st.form_submit_button(label=':partying_face:', on_click=form_callback)
 
 
     st.header("Le Médecin Malgré Lui")
@@ -31,74 +45,68 @@ def main(file):
     st.caption(
         """Insert resume de la scene"""
     )
+    st.divider()
+    st.write(st.session_state)
+    st.write(scene_choice)
+    st.divider()
 
     data = df[(df.acte == int(acte_choice)) & (df.scene == int(scene_choice))].copy()
     st.write(f"{data.shape[0]} repliques")
-    # for i, d in data.iterrows():
-    #     col1, col2, col3, col4 = st.columns([1, 2, 10, 8])
-    #     with col1:
-    #         st.write(d.verse_id)
-    #     with col2:
-    #         st.write(d.char)
-    #     with col3:
-    #         if d.selection == 'original':
-    #             st.markdown(f"{d.modern}")
-    #         else:
-    #             st.markdown(f"_{d.modern}_")
-    #     with col4:
-    #         st.caption(f"{d.text}")
 
+    tab1, tab2, tab3 = st.tabs(["Complet", "Moderne", "Original"])
 
-    # col1, col2 = st.columns([1, 1])
-    # with col1:
-    #     st.write("Texte modernisé")
-    # with col2:
-    #     st.write("Texte original")
-    #
-    # for i, d in data.iterrows():
-    #
-    #     col1, col2 = st.columns([1, 18])
-    #     with col1:
-    #         st.write(d.verse_id)
-    #     with col2:
-    #         st.write(d.char)
-    #
-    #     col1, col2, col3 = st.columns([1, 10, 8])
-    #
-    #     with col2:
-    #         if d.selection == 'original':
-    #             st.markdown(f"{d.modern}")
-    #         else:
-    #             st.markdown(f"_{d.modern}_")
-    #     with col3:
-    #         st.caption(f"{d.text}")
+    with tab1:
+        col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
+        with col2:
+            st.subheader("Texte modernisé")
+        with col4:
+            st.subheader("Texte original")
 
+        for i, d in data.iterrows():
 
+            col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
+            with col1:
+                st.write(d.verse_id)
+            with col2:
+                st.write(
+                    f"{d.char}",
+                    " \n",
+                    f"{d.modern}"
+                )
 
-    col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
-    with col2:
+            with col4:
+                st.write(" \n")
+                st.caption(f"_{d.text}_")
+
+    with tab2:
         st.subheader("Texte modernisé")
-    with col4:
+
+        for i, d in data.iterrows():
+
+            col1, col2, col3, col4 = st.columns([1, 16, 1, 6])
+            with col1:
+                st.write(d.verse_id)
+            with col2:
+                st.write(
+                    f"{d.char}",
+                    " \n",
+                    f"{d.modern}"
+                )
+
+    with tab3:
         st.subheader("Texte original")
 
+        for i, d in data.iterrows():
 
-
-    for i, d in data.iterrows():
-
-        col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
-        with col1:
-            st.write(d.verse_id)
-        with col2:
-            st.write(
-                f"{d.char}",
-                " \n",
-                f"{d.modern}"
-            )
-
-        with col4:
-            # st.write(" \n")
-            st.write(" \n")
-            st.caption(f"_{d.text}_")
+            col1, col2, col3, col4 = st.columns([1, 16, 1, 6])
+            with col1:
+                st.write(d.verse_id)
+            with col2:
+                st.write(
+                    f"{d.char}",
+                    " \n",
+                    f"{d.text}"
+                )
 
 
 
