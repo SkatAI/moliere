@@ -4,8 +4,41 @@ import json
 import pandas as pd
 import os, glob
 
-def load_textes(menu_choice):
-    return pd.read_json(files[menu_choice]).to_dict(orient="records")
+
+dict_actes = {0:'I',1:'II',2:'III'}
+dict_scenes = {'I':[1,2,3,4,5],'II':[1,2,3,4,5],'III':[1,2,3,4,5,6,7,8,9,10,11]}
+
+actes_to_int = {'I':1,'II':2,'III':3}
+
+def reset_query():
+    st.experimental_set_query_params()
+
+def get_query():
+    query = st.experimental_get_query_params()
+    query_acte = 0
+    if query:
+        if 'acte' in query.keys():
+            query_acte = int(query['acte'][0]) -1
+            try:
+                st.session_state.menu_acte = dict_actes[query_acte]
+            except:
+                st.session_state.menu_acte = dict_actes[0]
+                reset_query()
+            scene_options = dict_scenes[st.session_state.menu_acte]
+            if 'scene' in query.keys():
+                query_scene = int(query['scene'][0]) -1
+                try:
+                    st.session_state.menu_scene = scene_options[query_scene]
+                except:
+                    st.session_state.menu_scene = scene_options[0]
+                    reset_query()
+            else:
+                st.session_state.menu_scene = scene_options[0]
+        else:
+            st.session_state.menu_acte = dict_actes[0]
+
+    return query_acte
+
 
 def main(file):
     st.set_page_config(
@@ -18,39 +51,21 @@ def main(file):
 
     df = pd.read_json(file)
 
-    # ----
-    def form_callback():
-        st.write(f"scene_choice {scene_choice} st.session_state.menu_scene {st.session_state.menu_scene}")
-
-    # ----
-    try:
-        acte_choice
-    except NameError:
-        acte_choice = 1
-
+    query_acte = get_query()
 
     with st.sidebar:
 
-
-        with st.form(key='my_form'):
-            options_acte = [str(acte) for acte in df.acte.unique()]
-            acte_choice = st.selectbox("Choisi l'acte:", options_acte)
-            options_scene = [str(scene) for scene in df[df.acte == int(acte_choice)].scene.unique()]
-            scene_choice = st.selectbox("Choisi la scene:", options_scene, key = 'menu_scene' )
-            submit_button = st.form_submit_button(label=':partying_face:', on_click=form_callback)
-
+        acte_choice = st.selectbox("Choisi l'acte:", dict_actes.values(), key = 'menu_acte', on_change = reset_query)
+        scene_options = dict_scenes[acte_choice]
+        scene_choice = st.selectbox("Choisi la scène:", scene_options, key = 'menu_scene' ,on_change = reset_query)
 
     st.header("Le Médecin Malgré Lui")
     st.subheader(f"Acte {acte_choice}, Scène {scene_choice}")
     st.caption(
         """Insert resume de la scene"""
     )
-    st.divider()
-    st.write(st.session_state)
-    st.write(scene_choice)
-    st.divider()
 
-    data = df[(df.acte == int(acte_choice)) & (df.scene == int(scene_choice))].copy()
+    data = df[(df.acte == int(actes_to_int[acte_choice])) & (df.scene == int(scene_choice))].copy()
     st.write(f"{data.shape[0]} repliques")
 
     tab1, tab2, tab3 = st.tabs(["Complet", "Moderne", "Original"])
