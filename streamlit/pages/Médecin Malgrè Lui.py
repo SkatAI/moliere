@@ -13,6 +13,11 @@ actes_to_int = {'I':1,'II':2,'III':3}
 def reset_query():
     st.experimental_set_query_params()
 
+def list_characters(data):
+    characters = [char.split(' ')[0].replace(',','') for char in data.char.unique()]
+    characters = ', '.join(list(set(characters)))
+    return characters
+
 def get_query():
     query = st.experimental_get_query_params()
     query_acte = 0
@@ -63,9 +68,29 @@ def main(file):
 
     with st.sidebar:
 
-        acte_choice = st.selectbox("Choisi l'acte:", dict_actes.values(), key = 'menu_acte', on_change = reset_query)
+        acte_choice = st.selectbox("Choisis l'acte:", dict_actes.values(), key = 'menu_acte', on_change = reset_query)
         scene_options = dict_scenes[acte_choice]
-        scene_choice = st.selectbox("Choisi la scène:", scene_options, key = 'menu_scene' ,on_change = reset_query)
+        scene_choice = st.selectbox("Choisis la scène:", scene_options, key = 'menu_scene' ,on_change = reset_query)
+        st.write(" \n")
+        st.write(" \n")
+        st.write(" \n")
+        with st.expander("Liste des personnages:"):
+            st.caption(
+"""
+- SGANARELLE, mari de Martine.
+- MARTINE, femme de Sganarelle.
+- M. ROBERT, voisin de Sganarelle.
+- VALÈRE, domestique de Géronte.
+- LUCAS, mari de Jacqueline.
+- GÉRONTE, père de Lucinde.
+- JACQUELINE, nourrice chez Géronte, et femme de Lucas.
+- LUCINDE, fille de Géronte.
+- LÉANDRE, amant de Lucinde.
+- THIBAUT, père de Perrin, paysan.
+- PERRIN, fils de Thibaut, paysan.
+"""
+            )
+
 
     st.header("Le Médecin Malgré Lui")
     st.subheader(f"Acte {acte_choice}, Scène {scene_choice}")
@@ -74,16 +99,15 @@ def main(file):
     # )
 
     data = df[(df.acte == int(actes_to_int[acte_choice])) & (df.scene == int(scene_choice))].copy()
-    characters = ', '.join(list(set([char.split(' ')[0] for char in data.char.unique()])))
-    st.markdown(f"**{characters}** ")
+    st.markdown(f"**{list_characters(data)}** ")
     st.caption(f"{data.shape[0]} répliques")
 
-    tab1, tab2, tab3 = st.tabs([" :open_book: Côte à Côte ", " :memo: Version Moderne ", " :scroll: Version Original "])
+    tab1, tab2, tab3 = st.tabs([" :page_facing_up: + :scroll: Côte à Côte ", " :page_facing_up: Version Moderne ", " :scroll: Version Original "])
 
     with tab1:
         col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
         with col2:
-            st.subheader(":memo: Texte modernisé")
+            st.subheader(":page_facing_up: Texte modernisé")
         with col4:
             st.subheader(":scroll: Texte original")
 
@@ -104,7 +128,7 @@ def main(file):
                 st.caption(f"_{d.text}_")
 
     with tab2:
-        st.subheader("Texte modernisé")
+        st.subheader(":page_facing_up: Texte modernisé")
 
         for i, d in data.iterrows():
 
@@ -119,7 +143,7 @@ def main(file):
                 )
 
     with tab3:
-        st.subheader("Texte original")
+        st.subheader(":scroll: Texte original")
 
         for i, d in data.iterrows():
 
