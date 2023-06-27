@@ -49,6 +49,22 @@ def main(file):
         menu_items={"About": "Le site de Molière en français moderne"}
     )
 
+    # st.markdown('''
+    # <style>
+    # .stApp [data-testid="stToolbar"]{
+    #     display:none;
+    # }
+    # </style>
+    # ''', unsafe_allow_html=True)
+
+    hide_menu_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            </style>
+            """
+    st.markdown(hide_menu_style, unsafe_allow_html=True)
+
+
     df = pd.read_json(file)
 
     query_acte = get_query()
@@ -68,7 +84,7 @@ def main(file):
     data = df[(df.acte == int(actes_to_int[acte_choice])) & (df.scene == int(scene_choice))].copy()
     st.write(f"{data.shape[0]} repliques")
 
-    tab1, tab2, tab3 = st.tabs(["Complet", "Moderne", "Original"])
+    tab1, tab2, tab3 = st.tabs([":open_book: Côte à Côte", ":memo: Version Moderne", ":scroll: Version Original"])
 
     with tab1:
         col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
