@@ -59,7 +59,7 @@ if __name__ == "__main__":
     original = original[['acte', 'scene', 'version', 'selection', 'verse_id', 'char', 'text', 'modern']].copy()
     original.reset_index(inplace = True, drop = True)
 
-    filename = os.path.join(root,"streamlit/", "medecin-malgre-lui_display.json")
+    filename = os.path.join(root,"streamlit/content", "medecin-malgre-lui_display.json")
 
     with open(filename, "w", encoding="utf-8") as f:
         original.to_json(f, force_ascii=False, orient="records", indent=4)
