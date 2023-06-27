@@ -1,6 +1,8 @@
 .git
 sql
 streamlit/pages/compare.py
+streamlit/pages/sandbox.py
+streamlit/pages/sandbox2.py
 tests/
 textes/
 script/
