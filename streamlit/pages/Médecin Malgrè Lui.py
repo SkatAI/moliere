@@ -49,14 +49,6 @@ def main(file):
         menu_items={"About": "Le site de Molière en français moderne"}
     )
 
-    # st.markdown('''
-    # <style>
-    # .stApp [data-testid="stToolbar"]{
-    #     display:none;
-    # }
-    # </style>
-    # ''', unsafe_allow_html=True)
-
     hide_menu_style = """
             <style>
             #MainMenu {visibility: hidden;}
@@ -77,21 +69,23 @@ def main(file):
 
     st.header("Le Médecin Malgré Lui")
     st.subheader(f"Acte {acte_choice}, Scène {scene_choice}")
-    st.caption(
-        """Insert resume de la scene"""
-    )
+    # st.caption(
+    #     """Insert resume de la scene"""
+    # )
 
     data = df[(df.acte == int(actes_to_int[acte_choice])) & (df.scene == int(scene_choice))].copy()
-    st.write(f"{data.shape[0]} repliques")
+    characters = ', '.join(list(set([char.split(' ')[0] for char in data.char.unique()])))
+    st.markdown(f"**{characters}** ")
+    st.caption(f"{data.shape[0]} répliques")
 
-    tab1, tab2, tab3 = st.tabs([":open_book: Côte à Côte", ":memo: Version Moderne", ":scroll: Version Original"])
+    tab1, tab2, tab3 = st.tabs([" :open_book: Côte à Côte ", " :memo: Version Moderne ", " :scroll: Version Original "])
 
     with tab1:
         col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
         with col2:
-            st.subheader("Texte modernisé")
+            st.subheader(":memo: Texte modernisé")
         with col4:
-            st.subheader("Texte original")
+            st.subheader(":scroll: Texte original")
 
         for i, d in data.iterrows():
 
