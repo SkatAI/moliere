@@ -78,6 +78,13 @@ def previous_next_link(df, acte, scene):
     return link_previous, link_next
 
 
+def write_character(char):
+    if (len(char.split(' ')) > 1) & (char != "M. ROBERT"):
+        str_char = f"**{char.split(' ')[0]}** _{' '.join(char.split(' ')[1:])}_"
+    else:
+        str_char = f"**{char}**"
+    return str_char
+
 def main(file):
 
 
@@ -140,8 +147,9 @@ def main(file):
             with col1:
                 st.write(d.verse_id)
             with col2:
+                str_char = write_character(d.char)
                 st.write(
-                    f"{d.char}",
+                    f"{str_char}",
                     " \n",
                     f"{d.modern}"
                 )
@@ -159,8 +167,9 @@ def main(file):
             with col1:
                 st.write(d.verse_id)
             with col2:
+                str_char = write_character(d.char)
                 st.write(
-                    f"{d.char}",
+                    f"{str_char}",
                     " \n",
                     f"{d.modern}"
                 )
@@ -174,8 +183,9 @@ def main(file):
             with col1:
                 st.write(d.verse_id)
             with col2:
+                str_char = write_character(d.char)
                 st.write(
-                    f"{d.char}",
+                    f"{str_char}",
                     " \n",
                     f"{d.text}"
                 )
