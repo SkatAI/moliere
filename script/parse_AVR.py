@@ -89,8 +89,14 @@ class Line(Play):
 
         self.pos = n
         self.text = text.strip()
+        self.text = re.sub(r"\(\d+\)", "", self.text)
         self.category = None
         self.get_category()
+
+    def fix_space_punctuation(self):
+        self.text = self.text.replace(" ,",",")
+        self.text = self.text.replace(" .",",")
+
 
     def inc_acte(self):
         Play.acte_count +=1
@@ -178,6 +184,13 @@ if __name__ == "__main__":
 
     # paragraphize
     ps.concat_verse()
+
+    assert ps.items.verse.value_counts().shape[0] == 967 + 1
+    assert ps.items.subverse.max() == 3
+    assert np.alltrue( ps.items.subverse.value_counts().values == [1917, 265, 43, 7])
+    assert np.alltrue( ps.items.verse.value_counts().head(10).values == [93,  8,  7,  7,  6,  6,  6,  6,  6,  6])
+
+
     ps.save()
 
     # par = ps.items.copy()
