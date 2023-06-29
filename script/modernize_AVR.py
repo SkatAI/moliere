@@ -50,9 +50,6 @@ def sliding_window(array, config):
     return windows
 
 def chunk_scene(df, config):
-    # use sliding window to create chunks
-    # df = df[df.verse_id > 0].copy()
-    # df.reset_index(inplace=True, drop=True)
 
     from_verse_id = df.verse_id.min()
     to_verse_id = df.verse_id.max()
@@ -129,14 +126,6 @@ def replique_id(start_id,lines):
     })
     return result
 
-# texte = '''
-# M ROBERT: Très volontiers.
-# SGANARELLE: Et vous êtes un impertinent de vous ingérer des affaires d'autrui. Apprenez que Cicéron dit qu'entre l'arbre et le doigt il ne faut point mettre l'écorce.
-# (Ensuite, il revient vers sa femme, et lui dit en lui pressant la main:)
-# O ça, faisons la paix nous deux. Touche là.
-# MARTINE: Oui! après m'avoir ainsi battue.
-# '''
-# lines = texte.strip().split('\n')
 
 def get_completion(prompt, model="gpt-3.5-turbo", temp=0):
     messages = [{"role": "user", "content": prompt}]

@@ -10,6 +10,8 @@ dict_scenes = {'I':[1,2,3,4,5],'II':[1,2,3,4,5],'III':[1,2,3,4,5,6,7,8,9,10,11]}
 
 actes_to_int = {'I':1,'II':2,'III':3}
 
+
+
 def reset_query():
     st.experimental_set_query_params()
 
@@ -47,9 +49,9 @@ def get_query():
 
 def main(file):
     st.set_page_config(
-        page_title="Moliere.love",
+        page_title="Moliere.love: Le Médecin Malgré Lui en français moderne.",
         page_icon=None,
-        layout="wide",
+        layout="centered",
         initial_sidebar_state="auto",
         menu_items={"About": "Le site de Molière en français moderne"}
     )
