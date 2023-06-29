@@ -10,8 +10,6 @@ dict_scenes = {'I':[1,2,3,4,5],'II':[1,2,3,4,5],'III':[1,2,3,4,5,6,7,8,9,10,11]}
 
 actes_to_int = {'I':1,'II':2,'III':3}
 
-
-
 def reset_query():
     st.experimental_set_query_params()
 
@@ -46,22 +44,36 @@ def get_query():
 
     return query_acte
 
+def previous_next_link(df, acte, scene):
+    items = [ (pair[0], pair[1])    for pair in df[['acte', 'scene']].drop_duplicates().values]
+
+    current = items.index((acte,scene))
+    if current > 0:
+        previous = items[current -1]
+        link_previous = f"""<a
+                href="?acte={previous[0]}&scene={previous[1]}"
+                target = "_self"
+                class = "previous_arrow"
+                title = "Médecin malgré lui, acte {previous[0]}, scène {previous[1]}"
+            > :arrow_backward: :arrow_backward: </a>"""
+    else:
+        link_previous = ""
+
+    if current < len(items):
+        next = items[current + 1]
+        link_next = f"""<a
+                href="?acte={next[0]}&scene={next[1]}"
+                target = "_self"
+                class = "next_arrow"
+                title = "Médecin malgré lui, acte {next[0]}, scène {next[1]}"
+            > :arrow_forward: :arrow_forward: </a>"""
+    else:
+        link_next = ""
+
+    return link_previous, link_next
+
 
 def main(file):
-    st.set_page_config(
-        page_title="Moliere.love: Le Médecin Malgré Lui en français moderne.",
-        page_icon=None,
-        layout="centered",
-        initial_sidebar_state="auto",
-        menu_items={"About": "Le site de Molière en français moderne"}
-    )
-
-    hide_menu_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            </style>
-            """
-    st.markdown(hide_menu_style, unsafe_allow_html=True)
 
 
     df = pd.read_json(file)
@@ -99,7 +111,10 @@ def main(file):
     # st.caption(
     #     """Insert resume de la scene"""
     # )
-
+    # link_previous, link_next = previous_next_link(df, int(actes_to_int[acte_choice]), int(scene_choice))
+    current_acte = int(actes_to_int[acte_choice])
+    current_scene = int(scene_choice)
+    link_previous, link_next = previous_next_link(df, current_acte, current_scene)
     data = df[(df.acte == int(actes_to_int[acte_choice])) & (df.scene == int(scene_choice))].copy()
     st.markdown(f"**{list_characters(data)}** ")
     st.caption(f"{data.shape[0]} répliques")
@@ -160,8 +175,29 @@ def main(file):
                 )
 
 
+    st.divider()
+    col1, col2, col3 = st.columns([1,  10, 1 ])
+    with col1:
+        st.markdown(link_previous, unsafe_allow_html=True )
+
+    with col3:
+        st.markdown(link_next, unsafe_allow_html=True )
+
 
 if __name__ == "__main__":
+
+    st.set_page_config(
+        page_title="Moliere.love: Le Médecin Malgré Lui en français moderne.",
+        page_icon=None,
+        layout="wide",
+        initial_sidebar_state="auto",
+        menu_items={"About": "Le site de Molière en français moderne"}
+    )
+
+    css_file = os.path.join(os.getcwd(), "streamlit/pages/style.css")
+    with open(css_file) as f:
+        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
 
     file_path = os.path.join(os.getcwd(), 'streamlit/content','*display*.json')
     file = glob.glob(file_path)[0]
