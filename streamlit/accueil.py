@@ -7,16 +7,6 @@ import os
 # import platform
 import glob
 
-# st.set_page_config(page_title="Moliere.love: Molière en français moderne.")
-
-st.set_page_config(
-    page_title="Moliere.love: Molière en français moderne.",
-    page_icon=None,
-    layout="centered",
-    initial_sidebar_state="auto",
-    menu_items={"About": "Le site de Molière en français moderne"}
-)
-
 
 def main():
     st.experimental_set_query_params()
@@ -27,12 +17,7 @@ def main():
 def home_page():
     st.title(":orange[Molière.love]")
     st.header(":violet[Le théâtre de Molière en français moderne.]")
-    # st.markdown("""Bienvenue sur
-    #     <a href="./" target = "_self">
-    #         Moliere.love
-    #     </a>, le site qui donne un coup de frais au théatre de Molière!""",
-    #     unsafe_allow_html=True
-    # )
+
     st.write("Qui n'adore pas Molière? Hein?*")
     st.write("Oh Molière firmament de la culture française :flag-fr:, alpha et oméga des arts :art: du divertissement :performing_arts:. Parangon du savoir-écrire, éphèbe de l'humour et du tendre! Startupeur vérulent de la critique sociale!. ok, ok ...")
     # st.write()
@@ -69,4 +54,17 @@ def home_page():
     st.caption("(*) en fait, amis, on ne te demande pas ton avis. Molière est au programme depuis Charlemagne et du Molière tu vas en bouffer tous les ans!. ")
 
 if __name__ == "__main__":
+
+    st.set_page_config(
+        page_title="Moliere.love: Molière en français moderne.",
+        page_icon=None,
+        layout="centered",
+        initial_sidebar_state="auto",
+        menu_items={"About": "Le site de Molière en français moderne"}
+    )
+    css_file = os.path.join(os.getcwd(), "streamlit/pages/style.css")
+
+    with open(css_file) as f:
+        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
     main()
