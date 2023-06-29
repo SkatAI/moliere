@@ -5,10 +5,15 @@ import pandas as pd
 import os, glob
 
 
-dict_actes = {0:'I',1:'II',2:'III'}
-dict_scenes = {'I':[1,2,3,4,5],'II':[1,2,3,4,5],'III':[1,2,3,4,5,6,7,8,9,10,11]}
+dict_actes = {0:'Acte I',1:'Acte II',2:'Acte III'}
+dict_scenes = {
+    'Acte I':[f"Scène {k}" for k in range (1,6)],
+    'Acte II':[f"Scène {k}" for k in range (1,6)],
+    'Acte III':[f"Scène {k}" for k in range (1,12)]
+}
 
-actes_to_int = {'I':1,'II':2,'III':3}
+actes_to_int = {'Acte I':1,'Acte II':2,'Acte III':3}
+scenes_to_int = lambda x:  int(x.split(' ')[1])
 
 def reset_query():
     st.experimental_set_query_params()
@@ -82,9 +87,9 @@ def main(file):
 
     with st.sidebar:
 
-        acte_choice = st.selectbox("Choisis l'acte:", dict_actes.values(), key = 'menu_acte', on_change = reset_query)
+        acte_choice = st.selectbox("Choisis l'acte:", dict_actes.values(), key = 'menu_acte', on_change = reset_query, label_visibility = "collapsed")
         scene_options = dict_scenes[acte_choice]
-        scene_choice = st.selectbox("Choisis la scène:", scene_options, key = 'menu_scene' ,on_change = reset_query)
+        scene_choice = st.selectbox("Choisis la scène:", scene_options, key = 'menu_scene' ,on_change = reset_query, label_visibility = "collapsed")
         st.write(" \n")
         st.write(" \n")
         st.write(" \n")
@@ -107,15 +112,16 @@ def main(file):
 
 
     st.header("Le Médecin Malgré Lui")
-    st.subheader(f"Acte {acte_choice}, Scène {scene_choice}")
+    st.subheader(f"{acte_choice}, {scene_choice}")
     # st.caption(
     #     """Insert resume de la scene"""
     # )
     # link_previous, link_next = previous_next_link(df, int(actes_to_int[acte_choice]), int(scene_choice))
     current_acte = int(actes_to_int[acte_choice])
-    current_scene = int(scene_choice)
+    current_scene = scenes_to_int(scene_choice)
+    # current_scene = int(scene_choice)
     link_previous, link_next = previous_next_link(df, current_acte, current_scene)
-    data = df[(df.acte == int(actes_to_int[acte_choice])) & (df.scene == int(scene_choice))].copy()
+    data = df[(df.acte == current_acte) & (df.scene == current_scene)].copy()
     st.markdown(f"**{list_characters(data)}** ")
     st.caption(f"{data.shape[0]} répliques")
 
