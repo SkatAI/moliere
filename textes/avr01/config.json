@@ -3,8 +3,15 @@
         "source": "../textes/original/l-avare.json",
         "version": "avr01",
         "model": "gpt-3.5-turbo-0613",
-        "step": 4,
-        "window_size": 9,
-        "prompt": "Le texte suivant est extrait de la pièce de théatre 'Le Médecin Malgré Lui' de Molière.\nSimplifie ce dialogue en français moderne.\n\nLe texte à réécrire est: \n{text}"
+        "step": 1,
+        "window_size": 3,
+        "prompt": "Simplifie le texte suivant en français moderne: utilise des mots faciles et écris des phrases courtes.\nLes personnages se tutoie.\n\nLe texte à réécrire est: \n{text}",
+        "exp": [
+            {
+                "00": "Le texte suivant est extrait de la pièce de théatre L'Avare de Molière.\nRéécris ce texte: français moderne, mots simples, phrases courtes, paragraphes plus courts. \nLes personnages se tutoie.\n\nLe texte à réécrire est: \n{text}",
+                "01": "Le texte suivant est extrait de la pièce de théatre L'Avare de Molière.\nRéécris ce texte: français moderne, mots simples, phrases sans subordonnée, paragraphes courts. \nLes personnages se tutoie.\n\nLe texte à réécrire est: \n{text}",
+                "02": "Le texte suivant est extrait de la pièce de théatre L'Avare de Molière.\nSimplifie ce texte en français moderne avec des mots faciles\nRésume les paragraphes.\nLes personnages se tutoie.\n\nLe texte à réécrire est: \n{text}",
+            }
+        ]
     }
 ]

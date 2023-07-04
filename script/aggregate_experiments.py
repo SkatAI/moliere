@@ -20,10 +20,19 @@ import numpy as np
 def count_tokens(text):
     return len(text.split(' '))
 
+play_root = "medecin"
+play_root = "avare"
+play_title = "medecin-malgre-lui"
+play_title = "l-avare"
+
+verse_col = "verse_id"
+verse_col = "verse"
+
 
 if __name__ == "__main__":
-    folders = ["./textes/mml06", "./textes/mml07"]
-    folders = ["textes/mml05", "textes/mml06", "textes/mml07", "textes/mml08", "textes/mml09"]
+    # folders = ["./textes/mml06", "./textes/mml07"]
+    # folders = ["textes/mml05", "textes/mml06", "textes/mml07", "textes/mml08", "textes/mml09"]
+    folders = ["textes/avr01"]
     # folders = ["textes/mml07", "textes/mml08"]
     files = []
     if 'script' in os.getcwd():
@@ -32,7 +41,7 @@ if __name__ == "__main__":
         root = os.getcwd()
 
     for folder in folders:
-        files += glob.glob(os.path.join(root,folder, "medecin*acte*.json"))
+        files += glob.glob(os.path.join(root,folder, f"*{play_root}*acte*.json"))
     print(f"loaded {len(files)} files")
 
     data = []
@@ -44,7 +53,7 @@ if __name__ == "__main__":
             if isinstance(d.text, dict):
                 otexts = pd.DataFrame(index=d.text.keys(), data=d.text.values())
                 otexts.columns = ["text"]
-                otexts["verse_id"] = otexts.index
+                otexts[verse_col] = otexts.index
             if isinstance(d.text, list):
                 otexts = pd.DataFrame(d.text)
 
@@ -57,7 +66,7 @@ if __name__ == "__main__":
                         "scene": d.scene,
                         "version": "original",
                         "chunk": i,
-                        "verse_id": int(ot.verse_id),
+                        verse_col: int(ot[verse_col]),
                         "tokens": count_tokens(text),
                         "char": ot.text.split(":")[0],
                         "text": text,
@@ -67,7 +76,7 @@ if __name__ == "__main__":
             if isinstance(d.modern, dict):
                 mtexts = pd.DataFrame(index=d.modern.keys(), data=d.modern.values())
                 mtexts.columns = ["text"]
-                mtexts["verse_id"] = mtexts.index
+                mtexts[verse_col] = mtexts.index
             if isinstance(d.modern, list):
                 mtexts = pd.DataFrame(d.modern)
 
@@ -80,7 +89,7 @@ if __name__ == "__main__":
                         "scene": d.scene,
                         "version": "modern",
                         "chunk": i,
-                        "verse_id": int(mt.verse_id),
+                        verse_col: int(mt[verse_col]),
                         "tokens": count_tokens(text),
                         "char": mt.text.split(":")[0],
                         "text": text,
@@ -88,21 +97,21 @@ if __name__ == "__main__":
                 )
 
     data = pd.DataFrame(data)
-    data.sort_values(by=["version", "acte", "scene", "verse_id","tokens", "experiment", "chunk"], inplace=True)
+    data.sort_values(by=["version", "acte", "scene", verse_col,"tokens", "experiment", "chunk"], inplace=True)
 
     modern = data[data.version == "modern"].copy()
-    modern.drop_duplicates(inplace=True, subset=["acte", "scene", "verse_id", "char", "text"])
+    modern.drop_duplicates(inplace=True, subset=["acte", "scene", verse_col, "char", "text"])
 
     original = data[data.version == "original"].copy()
-    original.drop_duplicates(inplace=True, subset=["acte", "scene", "verse_id"])
+    original.drop_duplicates(inplace=True, subset=["acte", "scene", verse_col])
 
     data = pd.concat([original, modern])
-    data.sort_values(by=["acte", "scene", "verse_id", "version","tokens", "experiment", "chunk"], inplace=True)
+    data.sort_values(by=["acte", "scene", verse_col, "version","tokens", "experiment", "chunk"], inplace=True)
     data.reset_index(inplace=True, drop=True)
 
     data["selected"] = 0
 
-    filename = os.path.join(root,"textes/review", "medecin-malgre-lui_review.json")
+    filename = os.path.join(root,"textes/review", f"{play_title}_review.json")
 
     with open(filename, "w", encoding="utf-8") as f:
         data.to_json(f, force_ascii=False, orient="records", indent=4)

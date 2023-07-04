@@ -1,0 +1,294 @@
+[
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":1,
+        "verse_end":3,
+        "text":[
+            {
+                "verse":1,
+                "text":"Valère: Hé quoi ! charmante Élise, vous devenez mélancolique, après les obligeantes assurances que vous avez eu la bonté de me donner de votre foi ? Je vous vois soupirer, hélas ! au milieu de ma joie ! Est-ce du regret, dites-moi, de m'avoir fait heureux ? et vous repentez-vous de cet engagement où mes feux ont pu vous contraindre ? "
+            },
+            {
+                "verse":2,
+                "text":"Élise: Non, Valère, je ne puis pas me repentir de tout ce que je fais pour vous. Je m'y sens entraîner par une trop douce puissance, et je n'ai pas même la force de souhaiter que les choses ne fussent pas. Mais, a vous dire vrai, le succès me donne de l'inquiétude ; et je crains fort de vous aimer un peu plus que je ne devrais."
+            }
+        ],
+        "modern":[
+            {
+                "verse":1,
+                "text":"Valère: Élise, pourquoi es-tu triste alors que tu m'as assuré de ton amour ? Je te vois soupirer au milieu de ma joie. Regrettes-tu de m'avoir rendu heureux ? Te repentirais-tu d'avoir accepté mon amour ?"
+            },
+            {
+                "verse":2,
+                "text":"Élise: Non, Valère, je ne peux pas regretter tout ce que je fais pour toi. Je suis entraînée par une force douce et je n'ai même pas la force de souhaiter que les choses soient différentes. Mais, pour être honnête, le succès me rend inquiète et j'ai peur de t'aimer un peu trop."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":2,
+        "verse_end":4,
+        "text":[
+            {
+                "verse":2,
+                "text":"Élise: Non, Valère, je ne puis pas me repentir de tout ce que je fais pour vous. Je m'y sens entraîner par une trop douce puissance, et je n'ai pas même la force de souhaiter que les choses ne fussent pas. Mais, a vous dire vrai, le succès me donne de l'inquiétude ; et je crains fort de vous aimer un peu plus que je ne devrais. "
+            },
+            {
+                "verse":3,
+                "text":"Valère: Eh ! que pouvez-vous craindre, Élise, dans les bontés que vous avez pour moi ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse":2,
+                "text":"Élise: Non, Valère, je ne peux pas regretter tout ce que je fais pour toi. Je suis poussée par une force douce et je n'ai même pas la force de souhaiter que les choses soient différentes. Mais, pour être honnête, le succès me rend inquiète ; et j'ai peur de t'aimer un peu trop."
+            },
+            {
+                "verse":3,
+                "text":"Valère: Eh bien, qu'est-ce que tu peux craindre, Élise, dans les gentillesses que tu as pour moi ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":3,
+        "verse_end":5,
+        "text":[
+            {
+                "verse":3,
+                "text":"Valère: Eh ! que pouvez-vous craindre, Élise, dans les bontés que vous avez pour moi ? "
+            },
+            {
+                "verse":4,
+                "text":"Élise: Hélas ! cent choses à la fois : l'emportement d'un père, les reproches d'une famille, les censures du monde ; mais plus que tout, Valère, le changement de votre coeur, et cette froideur criminelle dont ceux de votre sexe payent le plus souvent les témoignages trop ardents d'un innocent amour."
+            }
+        ],
+        "modern":[
+            {
+                "verse":3,
+                "text":"Valère: Pourquoi t'inquiéter, Élise, de toutes les gentillesses que tu me montres ?"
+            },
+            {
+                "verse":4,
+                "text":"Élise: Malheureusement, j'ai peur de plusieurs choses à la fois : la colère de mon père, les critiques de ma famille, les jugements du monde ; mais surtout, Valère, j'ai peur que ton cœur change et que tu deviennes froid, comme beaucoup d'hommes qui réagissent ainsi aux preuves trop passionnées d'un amour innocent."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":4,
+        "verse_end":6,
+        "text":[
+            {
+                "verse":4,
+                "text":"Élise: Hélas ! cent choses à la fois : l'emportement d'un père, les reproches d'une famille, les censures du monde ; mais plus que tout, Valère, le changement de votre coeur, et cette froideur criminelle dont ceux de votre sexe payent le plus souvent les témoignages trop ardents d'un innocent amour. "
+            },
+            {
+                "verse":5,
+                "text":"Valère: Ah ! ne me faites pas ce tort, de juger de moi par les autres ! Soupçonnez-moi de tout, Élise, plutôt que de manquer à ce que je vous dois. Je vous aime trop pour cela ; et mon amour pour vous durera autant que ma vie."
+            }
+        ],
+        "modern":[
+            {
+                "verse":4,
+                "text":"Élise: Oh non ! Tellement de choses en même temps : la colère d'un père, les reproches d'une famille, les critiques du monde ; mais surtout, Valère, le changement dans ton cœur, et cette froideur cruelle que les hommes comme toi montrent souvent en réponse à un amour innocent et passionné."
+            },
+            {
+                "verse":5,
+                "text":"Valère: Ah ! Ne me juge pas d'après les autres ! Soupçonne-moi de tout, Élise, mais ne doute jamais de ma fidélité envers toi. Je t'aime trop pour te trahir ; mon amour pour toi durera aussi longtemps que ma vie."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":5,
+        "verse_end":7,
+        "text":[
+            {
+                "verse":5,
+                "text":"Valère: Ah ! ne me faites pas ce tort, de juger de moi par les autres ! Soupçonnez-moi de tout, Élise, plutôt que de manquer à ce que je vous dois. Je vous aime trop pour cela ; et mon amour pour vous durera autant que ma vie. "
+            },
+            {
+                "verse":6,
+                "text":"Élise: Ah ! Valère, chacun tient les mêmes discours ! Tous les hommes sont semblables par les paroles ; et ce n'est que les actions qui les découvrent différents."
+            }
+        ],
+        "modern":[
+            {
+                "verse":5,
+                "text":"Valère: Ne me juge pas comme les autres, s'il te plaît ! Doute de moi pour tout, Élise, mais ne pense pas que je te trahirai. Je t'aime trop pour ça, et mon amour pour toi durera aussi longtemps que je vivrai."
+            },
+            {
+                "verse":6,
+                "text":"Élise: Oh Valère, tout le monde dit la même chose ! Tous les hommes parlent de la même manière, mais ce sont leurs actions qui les rendent différents."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":6,
+        "verse_end":8,
+        "text":[
+            {
+                "verse":6,
+                "text":"Élise: Ah ! Valère, chacun tient les mêmes discours ! Tous les hommes sont semblables par les paroles ; et ce n'est que les actions qui les découvrent différents. "
+            },
+            {
+                "verse":7,
+                "text":"Valère: Puisque les seules actions font connaître ce que nous sommes, attendez donc, au moins, à juger de mon coeur par elles, et ne me cherchez point des crimes dans les injustes craintes d'une fâcheuse prévoyance. Ne m'assassinez point, je vous prie, par les sensibles coups d'un soupçon outrageux ; et donnez-moi le temps de vous convaincre, par mille et mille preuves, de l'honnêteté de mes feux."
+            }
+        ],
+        "modern":[
+            {
+                "verse":6,
+                "text":"Elise: Oh ! Valère, tout le monde dit la même chose ! Tous les hommes se ressemblent quand ils parlent ; ce n'est que leurs actions qui les rendent différents."
+            },
+            {
+                "verse":7,
+                "text":"Valère: Puisque ce sont seulement nos actions qui montrent qui nous sommes, attendez au moins de juger de mon cœur par mes actions, et ne cherchez pas à me trouver coupable à cause de vos craintes injustes. Ne me condamnez pas, je vous en prie, à cause de vos soupçons blessants ; donnez-moi le temps de vous prouver, par de nombreuses preuves, que mes sentiments sont sincères."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":7,
+        "verse_end":9,
+        "text":[
+            {
+                "verse":7,
+                "text":"Valère: Puisque les seules actions font connaître ce que nous sommes, attendez donc, au moins, à juger de mon coeur par elles, et ne me cherchez point des crimes dans les injustes craintes d'une fâcheuse prévoyance. Ne m'assassinez point, je vous prie, par les sensibles coups d'un soupçon outrageux ; et donnez-moi le temps de vous convaincre, par mille et mille preuves, de l'honnêteté de mes feux. "
+            },
+            {
+                "verse":8,
+                "text":"Élise: Hélas ! qu'avec facilité on se laisse persuader par les personnes que l'on aime ! Oui, Valère, je tiens votre coeur incapable de m'abuser. Je crois que vous m'aimez d'un véritable amour, et que vous me serez fidèle : je n'en veux point du tout douter, et je retranche mon chagrin aux appréhensions du blâme qu'on pourra me donner."
+            }
+        ],
+        "modern":[
+            {
+                "verse":7,
+                "text":"Valère: Attends de voir mes actions pour juger de qui je suis. Ne me soupçonne pas de faire des choses mauvaises par peur de l'avenir. Ne me blesse pas avec des accusations injustes. Laisse-moi te prouver par de nombreuses preuves que mes sentiments sont sincères et honnêtes.\n"
+            },
+            {
+                "verse":8,
+                "text":"Élise: C'est facile de se laisser convaincre par les personnes qu'on aime. Je crois en ton amour véritable et en ta fidélité envers moi. Je refuse de douter de toi et je ne me soucie pas de ce que les autres pensent de moi."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":8,
+        "verse_end":10,
+        "text":[
+            {
+                "verse":8,
+                "text":"Élise: Hélas ! qu'avec facilité on se laisse persuader par les personnes que l'on aime ! Oui, Valère, je tiens votre coeur incapable de m'abuser. Je crois que vous m'aimez d'un véritable amour, et que vous me serez fidèle : je n'en veux point du tout douter, et je retranche mon chagrin aux appréhensions du blâme qu'on pourra me donner. "
+            },
+            {
+                "verse":9,
+                "text":"Valère: Mais pourquoi cette inquiétude ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse":8,
+                "text":"Elise: Oh non ! C'est tellement facile de se laisser convaincre par les personnes qu'on aime ! Oui, Valère, je pense que ton cœur est incapable de me tromper. Je crois que tu m'aimes vraiment et que tu seras fidèle : je ne veux pas du tout en douter, et je me console en pensant que les autres pourraient me critiquer."
+            },
+            {
+                "verse":9,
+                "text":"Valère: Mais pourquoi es-tu si inquiète ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":9,
+        "verse_end":11,
+        "text":[
+            {
+                "verse":9,
+                "text":"Valère: Mais pourquoi cette inquiétude ? "
+            },
+            {
+                "verse":10,
+                "text":"Élise: Je n'aurais rien à craindre si tout le monde vous voyait des yeux dont je vous vois ; et je trouve en votre personne de quoi avoir raison aux choses que je fais pour vous. Mon coeur, pour sa défense, a tout votre mérite, appuyé du secours d'une reconnaissance où le ciel m'engage envers vous. Je me représente à toute heure ce péril étonnant qui commença de nous offrir aux regards l'un de l'autre ; cette générosité surprenante qui vous fit risquer votre vie, pour dérober la mienne à la fureur des ondes ; ces soins pleins de tendresse que vous me fîtes éclater après m'avoir tirée de l'eau, et les hommages assidus de cet ardent amour que ni le temps ni les difficultés n'ont rebuté, et qui, vous faisant négliger et parents et patrie, arrête vos pas en ces lieux, y tient en ma faveur votre fortune déguisée, et vous a réduit, pour me voir, à vous revêtir de l'emploi de domestique de mon père. Tout cela fait chez moi, sans doute, un merveilleux effet ; et c'en est assez, à mes yeux, pour me justifier l'engagement où j'ai pu consentir ; mais ce n'est pas assez peut-être pour le justifier aux autres, et je ne suis pas sûre qu'on entre dans mes sentiments."
+            }
+        ],
+        "modern":[
+            {
+                "verse":9,
+                "text":"Valère: Pourquoi tu t'inquiètes ?"
+            },
+            {
+                "verse":10,
+                "text":"Élise: Si tout le monde te voyait comme je te vois, je n'aurais rien à craindre. Je trouve en toi toutes les raisons de faire ce que je fais pour toi. Mon cœur est convaincu de ta valeur et je suis reconnaissante envers toi. Je pense tout le temps au danger incroyable qui nous a fait nous rencontrer. Ta générosité m'a sauvée de la noyade et tu m'as montré beaucoup de tendresse depuis. Ton amour ardent qui ne recule devant rien m'a fait négliger ma famille et ma patrie. Tu es venu ici déguisé en domestique pour me voir. Tout cela me convainc, mais je ne suis pas sûre que les autres comprennent."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":10,
+        "verse_end":12,
+        "text":[
+            {
+                "verse":10,
+                "text":"Élise: Je n'aurais rien à craindre si tout le monde vous voyait des yeux dont je vous vois ; et je trouve en votre personne de quoi avoir raison aux choses que je fais pour vous. Mon coeur, pour sa défense, a tout votre mérite, appuyé du secours d'une reconnaissance où le ciel m'engage envers vous. Je me représente à toute heure ce péril étonnant qui commença de nous offrir aux regards l'un de l'autre ; cette générosité surprenante qui vous fit risquer votre vie, pour dérober la mienne à la fureur des ondes ; ces soins pleins de tendresse que vous me fîtes éclater après m'avoir tirée de l'eau, et les hommages assidus de cet ardent amour que ni le temps ni les difficultés n'ont rebuté, et qui, vous faisant négliger et parents et patrie, arrête vos pas en ces lieux, y tient en ma faveur votre fortune déguisée, et vous a réduit, pour me voir, à vous revêtir de l'emploi de domestique de mon père. Tout cela fait chez moi, sans doute, un merveilleux effet ; et c'en est assez, à mes yeux, pour me justifier l'engagement où j'ai pu consentir ; mais ce n'est pas assez peut-être pour le justifier aux autres, et je ne suis pas sûre qu'on entre dans mes sentiments. "
+            },
+            {
+                "verse":11,
+                "text":"Valère: De tout ce que vous avez dit, ce n'est que par mon seul amour que je prétends auprès de vous mériter quelque chose ; et quant aux scrupules que vous avez, votre père lui-même ne prend que trop de soin de vous justifier à tout le monde, et l'excès de son avarice, et la manière austère dont il vit avec ses enfants, pourraient autoriser des choses plus étranges. Pardonnez-moi, charmante Élise, si j'en parle ainsi devant vous. Vous savez que, sur ce chapitre, on n'en peut pas dire de bien. Mais enfin, si je puis, comme je l'espère, retrouver mes parents, nous n'aurons pas beaucoup de peine à nous les rendre favorables. J'en attends des nouvelles avec impatience, et j'en irai chercher moi-même, si elles tardent à venir."
+            }
+        ],
+        "modern":[
+            {
+                "verse":10,
+                "text":"Élise: Si tout le monde vous voyait comme je vous vois, je n'aurais rien à craindre. Je trouve en vous de bonnes raisons pour faire ce que je fais pour vous. Mon cœur vous apprécie et je suis reconnaissante envers vous. Je pense souvent au danger que nous avons affronté ensemble, à votre générosité qui a risqué votre vie pour sauver la mienne, à votre tendresse après m'avoir sauvée de l'eau, et à votre amour qui ne s'est pas découragé malgré les difficultés. Vous avez même abandonné votre famille et votre pays pour rester ici déguisé en domestique de mon père, juste pour me voir. Tout cela me convainc de mon engagement envers vous, mais je ne suis pas sûre que les autres comprennent. "
+            },
+            {
+                "verse":11,
+                "text":"Valère: Je veux mériter votre amour par mon amour seul. Votre père, avec son avarice et son comportement sévère envers ses enfants, pourrait justifier des choses encore plus étranges. Excusez-moi de parler ainsi devant vous, mais vous savez que l'on ne peut pas dire de bonnes choses à son sujet. Mais si je retrouve mes parents, nous pourrons les convaincre de nous soutenir. J'attends avec impatience des nouvelles à ce sujet, et j'irai les chercher moi-même si elles tardent à venir."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":11,
+        "verse_end":13,
+        "text":null,
+        "modern":null
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":12,
+        "verse_end":14,
+        "text":null,
+        "modern":null
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":13,
+        "verse_end":15,
+        "text":null,
+        "modern":null
+    },
+    {
+        "acte":1,
+        "scene":1,
+        "verse_start":14,
+        "verse_end":16,
+        "text":null,
+        "modern":null
+    }
+]

@@ -18,13 +18,20 @@ pd.options.display.width = 160
 pd.set_option("display.float_format", "{:.2f}".format)
 import numpy as np
 
+play_title = "medecin-malgre-lui"
+play_title = "l-avare"
+
+verse_col = "verse_id"
+verse_col = "verse"
+
+
 def count_tokens(text):
     return len(text.split(' '))
 
 
 def progress(subset):
-    verses_count = len(subset.verse_id.unique())
-    verses_reviewed = len(subset[subset.selected == 1].verse_id.unique())
+    verses_count = len(subset[verse_col].unique())
+    verses_reviewed = len(subset[subset.selected == 1][verse_col].unique())
     pct = str(np.round(100.0 * verses_reviewed / verses_count, 2))
     return f" {verses_reviewed}/ {verses_count} verses; {pct}% done  "
 
@@ -37,7 +44,7 @@ def select(idx):
 
     acte = data.loc[idx].acte
     scene = data.loc[idx].scene
-    filename = f"./textes/review/medecin-malgre-lui_reviewed_{str(acte).zfill(2)}_{str(scene).zfill(2)}.json"
+    filename = f"./textes/review/{play_title}_reviewed_{str(acte).zfill(2)}_{str(scene).zfill(2)}.json"
     # data.sort_values(
     #     by=["acte", "scene", "verse_id", "version", "selected", "tokens", "experiment", "chunk"],
     #     ascending = [True, True, True, True, False, True, True, True],
@@ -55,7 +62,7 @@ def add_text(verse_id, acte, scene, char):
         "scene": scene,
         "version": "modern",
         "chunk": 0,
-        "verse_id": verse_id,
+        verse_col: verse_id,
         "tokens": count_tokens(text),
         "char": char,
         "text": text,
@@ -64,7 +71,7 @@ def add_text(verse_id, acte, scene, char):
     data.loc[data.shape[0] + 1] = new_item
 
 
-    filename = f"./textes/review/medecin-malgre-lui_reviewed_{str(acte).zfill(2)}_{str(scene).zfill(2)}.json"
+    filename = f"./textes/review/{play_title}_reviewed_{str(acte).zfill(2)}_{str(scene).zfill(2)}.json"
     with open(filename, "w", encoding="utf-8") as f:
         data[(data.acte == acte) & (data.scene == scene)].to_json(f, force_ascii=False, orient="records", indent=4)
 
@@ -79,7 +86,7 @@ if __name__ == "__main__":
     scene = int(query_params["scene"][0]) if "scene" in query_params else None
 
     # by default load review file
-    main_filename = f"./textes/review/medecin-malgre-lui_review.json"
+    main_filename = f"./textes/review/{play_title}_review.json"
     data = pd.read_json(main_filename)
     acte_scene_cond = None
 
@@ -87,7 +94,7 @@ if __name__ == "__main__":
         acte_scene_cond = (data.acte == int(acte)) & (data.scene == int(scene))
 
         # load already reviewed file if it exists
-        filename = f"./textes/review/medecin-malgre-lui_reviewed_{str(acte).zfill(2)}_{str(scene).zfill(2)}.json"
+        filename = f"./textes/review/{play_title}_reviewed_{str(acte).zfill(2)}_{str(scene).zfill(2)}.json"
         if os.path.exists(filename):
             data = pd.read_json(filename)
         else:
@@ -119,18 +126,18 @@ if __name__ == "__main__":
         # st.table(subset)
 
 
-        verse_ids = sorted(subset.verse_id.unique())
+        verse_ids = sorted(subset[verse_col].unique())
 
         for verse_id in verse_ids:
             # col1, col2, col3, col4 = st.columns([1, 2, 5, 5])
             col1, col2, col3 = st.columns([1, 2, 12])
-            verse_cond = subset.verse_id == verse_id
+            verse_cond = subset[verse_col] == verse_id
             char = subset[verse_cond]["char"].unique()[0]
             # verse_id status
             with col1:
-                if subset[(subset.verse_id == verse_id) & (subset.selected == 1)].shape[0] < 1:
+                if subset[(subset[verse_col] == verse_id) & (subset.selected == 1)].shape[0] < 1:
                     st.markdown(f"**:red[{verse_id}]**")
-                elif subset[(subset.verse_id == verse_id) & (subset.selected == 1)].shape[0] > 1:
+                elif subset[(subset[verse_col] == verse_id) & (subset.selected == 1)].shape[0] > 1:
                     st.markdown(f"**:orange[{verse_id}]**")
                 else:
                     st.markdown(f"**:blue[{verse_id}]**")

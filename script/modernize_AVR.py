@@ -1,3 +1,6 @@
+# "prompt": "Le texte suivant est extrait de la pièce de théatre 'L'Avare' de Molière.\nSimplifie ce dialogue en français moderne. Utilise un vocabulaire simple.\n\nLe texte à réécrire est: \n{text}"
+
+
 import openai
 import os
 import re, json
@@ -51,18 +54,18 @@ def sliding_window(array, config):
 
 def chunk_scene(df, config):
 
-    from_verse_id = df.verse_id.min()
-    to_verse_id = df.verse_id.max()
+    from_verse = df.verse.min()
+    to_verse = df.verse.max()
 
-    windows = sliding_window(list(range(from_verse_id, to_verse_id + 1)), config)
+    windows = sliding_window(list(range(from_verse, to_verse + 1)), config)
     chunks = []
     for w in windows:
         chunks.append(
             {
                 "acte": acte,
                 "scene": scene,
-                "verse_id_start": w[0],
-                "verse_id_end": w[-1],
+                "verse_start": w[0],
+                "verse_end": w[-1],
             }
         )
 
@@ -71,13 +74,13 @@ def chunk_scene(df, config):
 
 def build_text(df, **kwargs):
     # load file
-    cond = df.verse_id > 0
+    cond = df.verse > 0
 
-    if "verse_id_start" in kwargs.keys():
-        cond = cond & (df.verse_id >= kwargs["verse_id_start"])
+    if "verse_start" in kwargs.keys():
+        cond = cond & (df.verse >= kwargs["verse_start"])
 
-    if "verse_id_end" in kwargs.keys():
-        cond = cond & (df.verse_id < kwargs["verse_id_end"])
+    if "verse_end" in kwargs.keys():
+        cond = cond & (df.verse < kwargs["verse_end"])
 
     # get extract
     df = df[cond].copy()
@@ -92,17 +95,18 @@ def build_text(df, **kwargs):
                 dialogue.append('\n'.join(text))
             text = []
             dialogue.append(f"\n{d.text.replace('.','').strip()}:")
-        elif d.category == "replique":
+        elif d.category == "verse":
             text.append(d.text.strip())
+
     dialogue.append('\n'.join(text))
     dialogue = " ".join(dialogue).strip()
-    print(f"===== repliques: {len(df.verse_id.unique())}")
+    print(f"===== repliques: {len(df.verse.unique())}")
     return dialogue
 
 def replique_id(start_id,lines):
     result = []
     text =[]
-    verse_id = start_id
+    verse = start_id
     for n in range(len(lines)):
 
         line = lines[n]
@@ -116,12 +120,12 @@ def replique_id(start_id,lines):
         if (n+1 < len(lines)):
             if (re.match(char_pattern, lines[n+1])):
                 result.append({
-                    'verse_id': verse_id,
+                    'verse': verse,
                     'text':  '\n'.join(text)
                 })
-                verse_id +=1
+                verse +=1
     result.append({
-        'verse_id': verse_id,
+        'verse': verse,
         'text':  '\n'.join(text)
     })
     return result
@@ -137,6 +141,16 @@ def get_completion(prompt, model="gpt-3.5-turbo", temp=0):
     return response.choices[0].message["content"]
 
 def save(input, filename):
+    # input.append(
+    #     {
+    #         "acte": -1,
+    #         "scene": -1,
+    #         "verse_start": -1,
+    #         "verse_end": -1,
+    #         "text": {"verse_id": -1, "text": [config["prompt"]]},
+    #     }
+    # )
+
     df = pd.DataFrame(input)
     with open(filename, "w", encoding="utf-8") as f:
         df.to_json(f, force_ascii=False, orient="records", indent=4)
@@ -146,22 +160,13 @@ def save(input, filename):
         data.to_json(f, force_ascii=False, orient="records", indent=4)
 
 
-def get_prompt_mml09(acte, scene, personnages, text):
-    prompt = config['prompt']
-    prompt = prompt.replace("{text}", text)
-    prompt = prompt.replace("{acte}", str(acte))
-    prompt = prompt.replace("{scene}", str(scene))
-    str_personnages = f"{', '.join(personnages[:-1]) } et {personnages[-1]}"
-    prompt = prompt.replace("{personnages}", str_personnages)
-    return prompt
-
-def get_prompt_mml08(text):
+def get_prompt(text):
     prompt = config['prompt']
     prompt = prompt.replace("{text}", text)
     return prompt
 
 def get_personnages(df, chunk):
-    texts = df[(df.verse_id >= chunk['verse_id_start']) & (df.verse_id < chunk['verse_id_end']) & (df.category == 'character')].text.unique()
+    texts = df[(df.verse >= chunk['verse_start']) & (df.verse < chunk['verse_end']) & (df.category == 'character')].text.unique()
     personnages = []
     punct_pattern = f"(,|\.|\s)"
     for line in texts:
@@ -171,6 +176,7 @@ def get_personnages(df, chunk):
 
 
 char_pattern = r"(SGANARELLE|MARTINE|M. ROBERT|M ROBERT|GÉRONTE|LÉANDRE|LUCINDE|JACQUELINE|PERRIN|LUCAS|VALÈRE|THIBAUT)"
+char_pattern = r"(Anselme|Brindavoine|Cléante|Dame Claude|Élise|Frosine|Harpagon|La Flèche|La Merluche|Maître Jacques|Maître Simon|Mariane|Valère|Le commissaire)"
 SLEEP_FOR = 10
 
 if __name__ == "__main__":
@@ -183,7 +189,7 @@ if __name__ == "__main__":
     scene = int(args.scene)
     print(args)
     config = initialize(args.experiment)
-    output_filename = f"../textes/{args.experiment}/medecin-malgre-lui_{args.experiment}_acte_{str(acte).zfill(2)}_scene_{str(scene).zfill(2)}.json"
+    output_filename = f"../textes/{args.experiment}/l-avare_{args.experiment}_acte_{str(acte).zfill(2)}_scene_{str(scene).zfill(2)}.json"
     print("output_filename:", output_filename)
 
     # load texte, subset to scene
@@ -191,24 +197,20 @@ if __name__ == "__main__":
     df = df[(df.acte == acte) & (df.scene == scene)].copy()
     df.reset_index(inplace=True, drop=True)
 
-    chunks = chunk_scene(df[df.verse_id > 0], config)
+    chunks = chunk_scene(df[df.verse > 0], config)
+    print(f"{len(df.verse.unique())} repliques; {len(chunks)} chunks")
+
     k = 0
-    for chunk in chunks:
+    for chunk in chunks[:10]:
         text = build_text(df,**chunk).strip()
         print('--'*20)
         print(chunk)
         chunk["text"] = replique_id(
-            chunk['verse_id_start'],
+            chunk['verse_start'],
             text.strip().split('\n')
         )
 
-        if args.experiment == 'mml08':
-            prompt = get_prompt_mml08(text)
-        if args.experiment == 'mml09':
-            personnages = get_personnages(df, chunk)
-            print(personnages)
-            prompt = get_prompt_mml09(acte, scene, personnages, text)
-        # print(prompt)
+        prompt = get_prompt(text)
 
         try:
             modern =  get_completion(
@@ -216,7 +218,7 @@ if __name__ == "__main__":
                 model=config['model'],
                 temp=0)
             chunk["modern"] = replique_id(
-                chunk['verse_id_start'],
+                chunk['verse_start'],
                 modern.strip().split('\n')
             )
 
