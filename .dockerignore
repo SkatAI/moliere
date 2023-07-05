@@ -4,6 +4,7 @@ streamlit/pages/compare.py
 streamlit/pages/build_prompt.py
 streamlit/pages/build_prompt_config.json
 tests/
+midjourney/
 textes/
 script/
 papers/

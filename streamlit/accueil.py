@@ -1,5 +1,5 @@
 import streamlit as st
-
+from PIL import Image
 # import importlib
 # import traceback
 import os
@@ -15,11 +15,22 @@ def main():
 
 
 def home_page():
-    st.title(":orange[Molière.love]")
-    st.header(":violet[Le théâtre de Molière en français moderne.]")
+    col1, col2 = st.columns([5,4])
+    with col1:
+        st.title(":orange[Molière.love,]")
+        st.header(" :violet[Le théâtre de Molière en français moderne.]")
+        st.subheader("Qui n'adore pas Molière?*")
+        st.write("Oh Molière firmament de la culture française :flag-fr:, alpha et oméga des arts :art: du divertissement :performing_arts:. Parangon du savoir-écrire, éphèbe de l'humour et du tendre! Startupeur vérulent de la critique sociale!. ok, ok ...")
 
-    st.write("Qui n'adore pas Molière? Hein?*")
-    st.write("Oh Molière firmament de la culture française :flag-fr:, alpha et oméga des arts :art: du divertissement :performing_arts:. Parangon du savoir-écrire, éphèbe de l'humour et du tendre! Startupeur vérulent de la critique sociale!. ok, ok ...")
+
+    with col2:
+
+        # image = Image.open('./streamlit/img/sganarelle_00.png')
+        image = Image.open('./streamlit/img/sganarelle_full_height.png')
+        st.image(image, caption='Sganarelle, le médecin malgré lui')
+
+
+
     # st.write()
     st.write("Molière c'est très sympa, surtout en live au théâtre.",
     # " \n",
@@ -28,7 +39,7 @@ def home_page():
     "Le français est peut être la langue de Molière, mais depuis 400 ans, le français a bien évolué.",
     " \n",
     )
-    st.markdown("**Il était temps de rafraîchir Molière!**")
+    st.subheader("**Il était temps de rafraîchir Molière!**")
 
     st.markdown("""Voici donc :drum_with_drumsticks:
         <a href="./" target = "_self">

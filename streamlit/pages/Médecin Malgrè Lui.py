@@ -1,4 +1,5 @@
 import streamlit as st
+from PIL import Image
 
 import json
 import pandas as pd
@@ -117,29 +118,45 @@ def main(file):
 """
             )
 
-
-    st.header("Le Médecin Malgré Lui")
-    st.subheader(f"{acte_choice}, {scene_choice}")
-    # st.caption(
-    #     """Insert resume de la scene"""
-    # )
-    # link_previous, link_next = previous_next_link(df, int(actes_to_int[acte_choice]), int(scene_choice))
     current_acte = int(actes_to_int[acte_choice])
     current_scene = scenes_to_int(scene_choice)
     # current_scene = int(scene_choice)
     link_previous, link_next = previous_next_link(df, current_acte, current_scene)
     data = df[(df.acte == current_acte) & (df.scene == current_scene)].copy()
+
+    # header
+    col1, col2, col3 = st.columns([14, 2, 8])
+    with col1:
+        st.header("Le Médecin Malgré Lui")
+        st.subheader(f"{acte_choice}, {scene_choice}")
+
+    with col3:
+        # image = Image.open('./streamlit/img/sganarelle_wide_head.png')
+        image = None
+        if current_acte == 1:
+            if current_scene == 1:
+                image = Image.open('./streamlit/img/alexis808_17th_century_faggot_maker_brandishes_a_stick_poor_woo_f1bdfb90-6ed0-4cfa-9ad5-231e826be9ac.png')
+            elif current_scene == 2:
+                image = Image.open('./streamlit/img/alexis808_17th_century_peasant_surprised_stupid_poor_wood_works_e6ea7218-ddd5-4439-98fe-f1618d9a9c54.png')
+            elif current_scene == 3:
+                image = Image.open('./streamlit/img/alexis808_17th_century_walking_housewife_looks_to_the_left_of_t_6e0dc49f-94e7-49e5-8ceb-0404e55a720e.png')
+
+        if image is not None:
+            st.image(image, width = 300)
+
+
     st.markdown(f"**{list_characters(data)}** ")
     st.caption(f"{data.shape[0]} répliques")
 
     tab1, tab2, tab3 = st.tabs([" :page_facing_up: + :scroll: Côte à Côte ", " :page_facing_up: Version Moderne ", " :scroll: Version Original "])
 
     with tab1:
-        col1, col2, col3, col4 = st.columns([1, 12, 1, 10])
+        col1, col2, col3, col4, col5 = st.columns([1, 12, 1, 10, 4])
         with col2:
             st.subheader(":page_facing_up: Texte modernisé")
         with col4:
             st.subheader(":scroll: Texte original")
+
 
         for i, d in data.iterrows():
 
