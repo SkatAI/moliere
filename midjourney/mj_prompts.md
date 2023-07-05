@@ -54,3 +54,7 @@ Quality (default 1, else 0.25 / 0.5)
 --q 0.5 saves money
 
 --niji will use a parallel version of the model heavily tuned to anime stylization.
+
+ILLUSTRATION for frame, 80's comic model, a boy walking with his sister, medieval era, intricate details
+striking female walking with her 8 year od brother walking through the woods
+--ar 9:14

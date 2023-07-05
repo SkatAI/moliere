@@ -21,9 +21,6 @@ import numpy as np
 play_title = "medecin-malgre-lui"
 play_title = "l-avare"
 
-verse_col = "verse_id"
-verse_col = "verse"
-
 actes_options = [1,2,3]
 scenes_options = {
     1: [n for n in range(1,6)],
@@ -50,10 +47,10 @@ def load_config():
 def build_text(config, **kwargs):
     df = pd.read_json(config['source'])
     cond = (df.acte == kwargs['acte_choice']) & (df.scene == kwargs['scene_choice'])
-    min_verse = df[cond & (df.verse > 0)].verse.min()
-    cond = cond & (df.verse >= kwargs['verse_start'] + min_verse) & (df.verse < kwargs['verse_start'] + min_verse + kwargs['verse_count'])
+    min_verse = df[cond & (df.verse_id > 0)].verse_id.min()
+    cond = cond & (df.verse_id >= kwargs['verse_start'] + min_verse) & (df.verse_id < kwargs['verse_start'] + min_verse + kwargs['verse_count'])
     df = df[cond].copy()
-    print(f"===== {len(df.verse.unique())} originales repliques")
+    print(f"===== {len(df.verse_id.unique())} originales repliques")
 
     dialogue = []
     for i, d in df.iterrows():
@@ -63,7 +60,7 @@ def build_text(config, **kwargs):
                 dialogue.append('\n'.join(text))
             text = []
             dialogue.append(f"\n\n{d.text.replace('.','').strip()}:")
-            # dialogue.append(f"\n[{d.verse}] **{d.text.replace('.','').strip()}**:")
+
         elif d.category in ["verse","action"]:
             text.append(d.text.strip())
 

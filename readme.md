@@ -1,12 +1,19 @@
 # flow
 
 1. parse texte original into lines
-    - script: parse
+    - script: parse_{XXX}
     - input: ./textes/original/medecin-malgre-lui.txt
     - resultat: ./textes/original/medecin-malgre-lui.json
+    - input: ./textes/original/l-avare.txt
+    - resultat: ./textes/original/l-avare.json
+
+1.1. test different prompts
+    - script: streamlit/pages/build_prompt
+    - input: ./textes/original/l-avare.json
+    - resultat:
 
 2. GPT transliteration
-    - script: modernize
+    - script: modernize_{XXX}
     - input: ./textes/original/medecin-malgre-lui.json
     - resultat: ./textes/{experiment}/acte_xx_scene_xx.json
 
