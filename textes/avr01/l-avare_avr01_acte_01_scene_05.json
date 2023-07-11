@@ -1,0 +1,1356 @@
+[
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":104,
+        "verse_end":105,
+        "text":[
+            {
+                "verse_id":104,
+                "text":"Harpagon: Cependant, je ne sais si j'aurai bien fait d'avoir enterré, dans mon jardin, dix mille écus qu'on me rendit hier. Dix mille écus en or, chez soi, est une somme assez...\nO ciel ! je me serai trahi moi-même ! la chaleur m'aura emporté, et je crois que j'ai parlé haut, en raisonnant tout seul.\nQu'est-ce ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":104,
+                "text":"Harpagon: Je ne sais pas si j'ai bien fait d'enterrer dix mille écus dans mon jardin hier. Avoir une telle somme chez soi en or, c'est assez...\nOh mon Dieu ! Je me suis trahi moi-même ! La chaleur m'a fait perdre la tête et je crois que j'ai parlé fort en réfléchissant tout seul.\nQu'est-ce que c'est ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":105,
+        "verse_end":106,
+        "text":[
+            {
+                "verse_id":105,
+                "text":"Cléante: Rien, mon père."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":105,
+                "text":"Cléante: Non, papa."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":106,
+        "verse_end":107,
+        "text":[
+            {
+                "verse_id":106,
+                "text":"Harpagon: Y a-t-il longtemps que vous êtes là ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":106,
+                "text":"Harpagon: Ça fait longtemps que vous êtes ici ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":107,
+        "verse_end":108,
+        "text":[
+            {
+                "verse_id":107,
+                "text":"Élise: Nous ne venons que d'arriver."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":107,
+                "text":"Elise: Nous venons d'arriver."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":108,
+        "verse_end":109,
+        "text":[
+            {
+                "verse_id":108,
+                "text":"Harpagon: Vous avez entendu..."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":108,
+                "text":"Harpagon: Avez-vous entendu..."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":109,
+        "verse_end":110,
+        "text":[
+            {
+                "verse_id":109,
+                "text":"Cléante: Quoi, mon père ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":109,
+                "text":"Cléante: Quoi, mon père ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":110,
+        "verse_end":111,
+        "text":[
+            {
+                "verse_id":110,
+                "text":"Harpagon: Là..."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":110,
+                "text":"Harpagon: Regardez..."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":111,
+        "verse_end":112,
+        "text":[
+            {
+                "verse_id":111,
+                "text":"Élise: Quoi ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":111,
+                "text":"Elise: Qu'est-ce que tu dis ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":112,
+        "verse_end":113,
+        "text":[
+            {
+                "verse_id":112,
+                "text":"Harpagon: Ce que je viens de dire."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":112,
+                "text":"Harpagon: Ce que je viens de dire."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":113,
+        "verse_end":114,
+        "text":[
+            {
+                "verse_id":113,
+                "text":"Cléante: Non."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":113,
+                "text":"Cléante: Non."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":114,
+        "verse_end":115,
+        "text":[
+            {
+                "verse_id":114,
+                "text":"Harpagon: Si fait, si fait."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":114,
+                "text":"Harpagon: Oui, oui."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":115,
+        "verse_end":116,
+        "text":[
+            {
+                "verse_id":115,
+                "text":"Élise: Pardonnez-moi."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":115,
+                "text":"Elise: Excusez-moi."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":116,
+        "verse_end":117,
+        "text":[
+            {
+                "verse_id":116,
+                "text":"Harpagon: Je vois bien que vous en avez ouï quelques mots. C'est que je m'entretenais en moi-même de la peine qu'il y a aujourd'hui à trouver de l'argent, et je disais qu'il est bien heureux qui peut avoir dix mille écus chez soi."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":116,
+                "text":"Harpagon: Je vois que vous avez entendu quelques mots. Je pensais à la difficulté de trouver de l'argent de nos jours et je disais que celui qui peut avoir dix mille écus chez lui est vraiment chanceux."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":117,
+        "verse_end":118,
+        "text":[
+            {
+                "verse_id":117,
+                "text":"Cléante: Nous feignions à vous aborder, de peur de vous interrompre."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":117,
+                "text":"Cléante: On hésitait à venir vous parler, de peur de vous déranger."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":118,
+        "verse_end":119,
+        "text":[
+            {
+                "verse_id":118,
+                "text":"Harpagon: Je suis bien aise de vous dire cela, afin que vous n'alliez pas prendre les choses de travers, et vous imaginer que je dise que c'est moi qui ai dix mille écus."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":118,
+                "text":"Harpagon: Je veux vous dire ça pour éviter toute confusion. Je ne prétends pas avoir dix mille écus."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":119,
+        "verse_end":120,
+        "text":[
+            {
+                "verse_id":119,
+                "text":"Cléante: Nous n'entrons point dans vos affaires."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":119,
+                "text":"Cléante: On ne se mêle pas de vos affaires."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":120,
+        "verse_end":121,
+        "text":[
+            {
+                "verse_id":120,
+                "text":"Harpagon: Plût à Dieu que je les eusse, dix mille écus !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":120,
+                "text":"Harpagon: J'aurais tellement aimé les avoir, ces dix mille écus !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":121,
+        "verse_end":122,
+        "text":[
+            {
+                "verse_id":121,
+                "text":"Cléante: Je ne crois pas..."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":121,
+                "text":"Cléante: Je ne pense pas..."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":122,
+        "verse_end":123,
+        "text":[
+            {
+                "verse_id":122,
+                "text":"Harpagon: Ce serait une bonne affaire pour moi."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":122,
+                "text":"Harpagon: Ça me ferait une bonne affaire."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":123,
+        "verse_end":124,
+        "text":[
+            {
+                "verse_id":123,
+                "text":"Élise: Ces sont des choses..."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":123,
+                "text":"Elise: Ce sont des choses..."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":124,
+        "verse_end":125,
+        "text":[
+            {
+                "verse_id":124,
+                "text":"Harpagon: J'en aurais bon besoin."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":124,
+                "text":"Harpagon: J'en ai vraiment besoin."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":125,
+        "verse_end":126,
+        "text":[
+            {
+                "verse_id":125,
+                "text":"Cléante: Je pense que..."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":125,
+                "text":"Cléante: Je pense que..."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":126,
+        "verse_end":127,
+        "text":[
+            {
+                "verse_id":126,
+                "text":"Harpagon: Cela m'accommoderait fort."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":126,
+                "text":"Harpagon: Ça m'arrangerait beaucoup."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":127,
+        "verse_end":128,
+        "text":[
+            {
+                "verse_id":127,
+                "text":"Élise: Vous êtes..."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":127,
+                "text":"Elise: Qui êtes-vous..."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":128,
+        "verse_end":129,
+        "text":[
+            {
+                "verse_id":128,
+                "text":"Harpagon: Et je ne me plaindrais pas, comme je le fais, que le temps est misérable."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":128,
+                "text":"Harpagon: Et je ne me plaindrais pas autant du temps misérable."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":129,
+        "verse_end":130,
+        "text":[
+            {
+                "verse_id":129,
+                "text":"Cléante: Mon Dieu ! mon père, vous n'avez pas lieu de vous plaindre et l'on sait que vous avez assez de bien."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":129,
+                "text":"Cléante: Mon Dieu ! Papa, tu n'as pas à te plaindre, tout le monde sait que tu es riche."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":130,
+        "verse_end":131,
+        "text":[
+            {
+                "verse_id":130,
+                "text":"Harpagon: Comment, j'ai assez de bien ! Ceux qui le disent en ont menti. Il n'y a rien de plus faux ; et ce sont des coquins qui font courir tous ces bruits-là."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":130,
+                "text":"Harpagon: Quoi, j'ai beaucoup d'argent ! Ceux qui le prétendent mentent. C'est totalement faux ; ce sont des escrocs qui répandent ces rumeurs."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":131,
+        "verse_end":132,
+        "text":[
+            {
+                "verse_id":131,
+                "text":"Élise: Ne vous mettez point en colère."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":131,
+                "text":"Elise: Ne vous fâchez pas."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":132,
+        "verse_end":133,
+        "text":[
+            {
+                "verse_id":132,
+                "text":"Harpagon: Cela est étrange que mes propres enfants me trahissent et deviennent mes ennemis."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":132,
+                "text":"Harpagon: C'est bizarre que mes propres enfants me trahissent et deviennent mes ennemis."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":133,
+        "verse_end":134,
+        "text":[
+            {
+                "verse_id":133,
+                "text":"Cléante: Est-ce être votre ennemi que de dire que vous avez du bien ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":133,
+                "text":"Cléante: Est-ce que c'est vous considérer comme un ennemi que de dire que vous possédez des biens ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":134,
+        "verse_end":135,
+        "text":[
+            {
+                "verse_id":134,
+                "text":"Harpagon: Oui. De pareils discours, et les dépenses que vous faites, seront cause qu'un de ces jours on me viendra chez moi couper la gorge, dans la pensée que je suis tout cousu de pistoles."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":134,
+                "text":"Harpagon: Oui. Tes paroles et tes dépenses vont finir par attirer des gens chez moi qui voudront me tuer, en pensant que je suis plein d'argent."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":135,
+        "verse_end":136,
+        "text":[
+            {
+                "verse_id":135,
+                "text":"Cléante: Quelle grande dépense est-ce que je fais ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":135,
+                "text":"Cléante se demande pourquoi il dépense autant d'argent."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":136,
+        "verse_end":137,
+        "text":[
+            {
+                "verse_id":136,
+                "text":"Harpagon: Quelle ? Est-il rien de plus scandaleux que ce somptueux équipage que vous promenez par la ville ? Je querellais hier votre soeur ; mais c'est encore pis. Voilà qui crie vengeance au ciel ; et, à vous prendre depuis les pieds jusqu'à la tête, il y aurait là de quoi faire une bonne constitution. Je vous l'ai dit vingt fois, mon fils, toutes vos manières me déplaisent fort ; vous donnez furieusement dans le marquis ; et, pour aller ainsi vêtu, il faut bien que vous me dérobiez."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":136,
+                "text":"Harpagon: Quoi ? Est-ce qu'il y a quelque chose de plus scandaleux que cet équipage somptueux que vous promenez en ville ? Hier, je me suis disputé avec votre sœur, mais c'est encore pire. Cela crie vengeance au ciel ; et si je vous prenais de la tête aux pieds, cela suffirait à faire une bonne constitution. Je vous l'ai déjà dit vingt fois, mon fils, toutes vos manières me déplaisent énormément ; vous vous comportez furieusement comme un marquis ; et pour vous habiller ainsi, il faut bien que vous me voliez."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":137,
+        "verse_end":138,
+        "text":[
+            {
+                "verse_id":137,
+                "text":"Cléante: Hé ! comment vous dérober ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":137,
+                "text":"Cléante: Hé ! Comment vous échapper ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":138,
+        "verse_end":139,
+        "text":[
+            {
+                "verse_id":138,
+                "text":"Harpagon: Que sais-je ? Où pouvez-vous donc prendre de quoi entretenir l'état que vous portez ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":138,
+                "text":"Harpagon: Je ne comprends pas. Comment pouvez-vous subvenir à vos besoins avec si peu d'argent ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":139,
+        "verse_end":140,
+        "text":[
+            {
+                "verse_id":139,
+                "text":"Cléante: Moi, mon père ? C'est que je joue ; et, comme je suis fort heureux, je mets sur moi tout l'argent que je gagne."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":139,
+                "text":"Cléante: Mon père, je joue et je suis très chanceux, donc je garde tout l'argent que je gagne sur moi."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":140,
+        "verse_end":141,
+        "text":[
+            {
+                "verse_id":140,
+                "text":"Harpagon: C'est fort mal fait. Si vous êtes heureux au jeu, vous en devriez profiter, et mettre à honnête intérêt l'argent que vous gagnez, afin de le trouver un jour. Je voudrais bien savoir, sans parler du reste, à quoi servent tous ces rubans dont vous voilà lardé depuis les pieds jusqu'à la tête, et si une demi-douzaine d'aiguillettes ne suffit pas pour attacher un haut-de-chausses. Il est bien nécessaire d'employer de l'argent à des perruques, lorsque l'on peut porter des cheveux de son cru, qui ne coûtent rien ! Je vais gager qu'en perruques et rubans il y a du moins vingt pistoles ; et vingt pistoles rapportent par année dix-huit livres six sols huit deniers, à ne les placer qu'au denier douze ."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":140,
+                "text":"Harpagon: C'est vraiment mal fait. Si tu es heureux au jeu, tu devrais en profiter et mettre l'argent que tu gagnes à bon escient, afin de le retrouver un jour. Je me demande bien, sans parler du reste, à quoi servent tous ces rubans dont tu es couvert de la tête aux pieds, et si une demi-douzaine d'aiguillettes ne suffit pas pour attacher un pantalon. Est-il vraiment nécessaire de dépenser de l'argent pour des perruques, alors qu'on peut porter ses propres cheveux qui ne coûtent rien ! Je parie qu'il y a au moins vingt pistoles dépensées en perruques et rubans ; et vingt pistoles rapportent chaque année dix-huit livres six sols huit deniers, si on les place à un taux d'intérêt de douze pour cent."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":141,
+        "verse_end":142,
+        "text":[
+            {
+                "verse_id":141,
+                "text":"Cléante: Vous avez raison."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":141,
+                "text":"Cléante: Oui, vous avez raison."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":142,
+        "verse_end":143,
+        "text":[
+            {
+                "verse_id":142,
+                "text":"Harpagon: Laissons cela, et parlons d'autre affaire. Euh ?\nHé !\nJe crois qu'ils se font signe l'un à l'autre de me voler ma bourse.\nQue veulent dire ces gestes-là ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":142,
+                "text":"Harpagon: Oublions ça, et parlons d'autre chose. Hein ?\nHé !\nJe pense qu'ils se font des signes pour me voler ma bourse.\nQue signifient ces gestes ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":143,
+        "verse_end":144,
+        "text":[
+            {
+                "verse_id":143,
+                "text":"Élise: Nous marchandons, mon frère et moi, à qui parlera le premier, et nous avons tous deux quelque chose à vous dire."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":143,
+                "text":"Elise: Mon frère et moi, on se dispute pour savoir qui va parler en premier, et on a tous les deux quelque chose à vous dire."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":144,
+        "verse_end":145,
+        "text":[
+            {
+                "verse_id":144,
+                "text":"Harpagon: Et moi, j'ai quelque chose aussi à vous dire à tous deux."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":144,
+                "text":"Harpagon: J'ai aussi quelque chose à vous dire, à tous les deux."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":145,
+        "verse_end":146,
+        "text":[
+            {
+                "verse_id":145,
+                "text":"Cléante: C'est de mariage, mon père, que nous désirons vous parler."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":145,
+                "text":"Cléante: Papa, nous voulons te parler de mariage."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":146,
+        "verse_end":147,
+        "text":[
+            {
+                "verse_id":146,
+                "text":"Harpagon: Et c'est de mariage aussi que je veux vous entretenir."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":146,
+                "text":"Harpagon: Je veux vous parler de mariage."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":147,
+        "verse_end":148,
+        "text":[
+            {
+                "verse_id":147,
+                "text":"Élise: Ah ! mon père !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":147,
+                "text":"Elise: Oh ! mon père !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":148,
+        "verse_end":149,
+        "text":[
+            {
+                "verse_id":148,
+                "text":"Harpagon: Pourquoi ce cri ? Est-ce le mot, ma fille, ou la chose, qui vous fait peur ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":148,
+                "text":"Harpagon: Pourquoi tu cries ? Est-ce le mot ou la chose qui te fait peur, ma fille ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":149,
+        "verse_end":150,
+        "text":[
+            {
+                "verse_id":149,
+                "text":"Cléante: Le mariage peut nous faire peur à tous deux, de la façon que vous pouvez l'entendre ; et nous craignons que nos sentiments ne soient pas d'accord avec votre choix."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":149,
+                "text":"Cléante: Le mariage peut nous effrayer tous les deux, comme vous pouvez le comprendre. Nous avons peur que nos sentiments ne soient pas en accord avec votre décision."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":150,
+        "verse_end":151,
+        "text":[
+            {
+                "verse_id":150,
+                "text":"Harpagon: Un peu de patience ; ne vous alarmez point. Je sais ce qu'il faut à tous deux, et vous n'aurez, ni l'un ni l'autre, aucun lieu de vous plaindre de tout ce que je prétends faire ; et, pour commencer par un bout,\navez-vous vu, dites-moi, une jeune personne appelée Mariane, qui ne loge pas loin d'ici ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":150,
+                "text":"Harpagon: Attendez un peu, ne vous inquiétez pas. Je sais ce dont vous avez tous les deux besoin, et vous ne pourrez vous plaindre d'aucune de mes intentions. Pour commencer, avez-vous vu une jeune fille nommée Mariane, qui habite près d'ici ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":151,
+        "verse_end":152,
+        "text":[
+            {
+                "verse_id":151,
+                "text":"Cléante: Oui, mon père. - Harpagon- Et vous ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":151,
+                "text":"Cléante: Oui, papa. "
+            },
+            {
+                "verse_id":152,
+                "text":"Harpagon: Et toi ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":152,
+        "verse_end":153,
+        "text":[
+            {
+                "verse_id":152,
+                "text":"Élise: J'en ai ouï parler."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":152,
+                "text":"Elise: J'ai entendu parler de ça."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":153,
+        "verse_end":154,
+        "text":[
+            {
+                "verse_id":153,
+                "text":"Harpagon: Comment, mon fils, trouvez-vous cette fille ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":153,
+                "text":"Harpagon: Que pensez-vous de cette fille, mon fils ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":154,
+        "verse_end":155,
+        "text":[
+            {
+                "verse_id":154,
+                "text":"Cléante: Une fort charmante personne."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":154,
+                "text":"Cléante: Elle est vraiment charmante."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":155,
+        "verse_end":156,
+        "text":[
+            {
+                "verse_id":155,
+                "text":"Harpagon: Sa physionomie ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":155,
+                "text":"Harpagon : Comment est-il physiquement ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":156,
+        "verse_end":157,
+        "text":[
+            {
+                "verse_id":156,
+                "text":"Cléante: Tout honnête et pleine d'esprit."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":156,
+                "text":"Cléante: Très honnête et intelligent."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":157,
+        "verse_end":158,
+        "text":[
+            {
+                "verse_id":157,
+                "text":"Harpagon: Son air et sa manière ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":157,
+                "text":"Harpagon : Comment est-il habillé et comment se comporte-t-il ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":158,
+        "verse_end":159,
+        "text":[
+            {
+                "verse_id":158,
+                "text":"Cléante: Admirables, sans doute."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":158,
+                "text":"Cléante: Ils sont vraiment admirables."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":159,
+        "verse_end":160,
+        "text":[
+            {
+                "verse_id":159,
+                "text":"Harpagon: Ne croyez-vous pas qu'une fille comme cela mériterait assez que l'on songeât à elle ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":159,
+                "text":"Harpagon: Ne pensez-vous pas qu'une fille comme ça mériterait qu'on s'intéresse à elle ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":160,
+        "verse_end":161,
+        "text":[
+            {
+                "verse_id":160,
+                "text":"Cléante: Oui, mon père."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":160,
+                "text":"Cléante: Oui, papa."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":161,
+        "verse_end":162,
+        "text":[
+            {
+                "verse_id":161,
+                "text":"Harpagon: Que ce serait un parti souhaitable ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":161,
+                "text":"Harpagon: Ce serait vraiment une bonne idée ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":162,
+        "verse_end":163,
+        "text":[
+            {
+                "verse_id":162,
+                "text":"Cléante: Très souhaitable."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":162,
+                "text":"Cléante: C'est vraiment souhaitable."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":163,
+        "verse_end":164,
+        "text":[
+            {
+                "verse_id":163,
+                "text":"Harpagon: Qu'elle a toute la mine de faire un bon ménage ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":163,
+                "text":"Harpagon: Elle semble capable de bien s'occuper de la maison."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":164,
+        "verse_end":165,
+        "text":[
+            {
+                "verse_id":164,
+                "text":"Cléante: Sans doute."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":164,
+                "text":"Cléante: Oui, certainement."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":165,
+        "verse_end":166,
+        "text":[
+            {
+                "verse_id":165,
+                "text":"Harpagon: Et qu'un mari aurait satisfaction avec elle ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":165,
+                "text":"Harpagon: Et un mari serait satisfait d'elle ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":166,
+        "verse_end":167,
+        "text":[
+            {
+                "verse_id":166,
+                "text":"Cléante: Assurément."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":166,
+                "text":"Cléante: Bien sûr."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":167,
+        "verse_end":168,
+        "text":[
+            {
+                "verse_id":167,
+                "text":"Harpagon: Il y a une petite difficulté : c'est que j'ai peur qu'il n'y ait pas, avec elle, tout le bien qu'on pourrait prétendre."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":167,
+                "text":"Harpagon: Il y a un petit problème : j'ai peur qu'avec elle, on ne puisse pas obtenir tout le bien qu'on voudrait."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":168,
+        "verse_end":169,
+        "text":[
+            {
+                "verse_id":168,
+                "text":"Cléante: Ah ! mon père, le bien n'est pas considérable, lorsqu'il est question d'épouser une honnête personne."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":168,
+                "text":"Cléante: Oh ! père, le bonheur n'est pas mesuré par la richesse quand il s'agit d'épouser quelqu'un de bien."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":169,
+        "verse_end":170,
+        "text":[
+            {
+                "verse_id":169,
+                "text":"Harpagon: Pardonnez-moi, pardonnez-moi. Mais ce qu'il y a à dire, c'est que, si l'on n'y trouve pas tout le bien qu'on souhaite, on peut tâcher de regagner cela sur autre chose."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":169,
+                "text":"Harpagon: Excusez-moi, excusez-moi. Mais ce que je veux dire, c'est que si on ne trouve pas tout ce qu'on souhaite, on peut essayer de compenser cela avec autre chose."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":170,
+        "verse_end":171,
+        "text":[
+            {
+                "verse_id":170,
+                "text":"Cléante: Cela s'entend."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":170,
+                "text":"Cléante: Bien sûr."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":171,
+        "verse_end":172,
+        "text":[
+            {
+                "verse_id":171,
+                "text":"Harpagon: Enfin je suis bien aise de vous voir dans mes sentiments ; car son maintien honnête et sa douceur m'ont gagné l'âme, et je suis résolu de l'épouser, pourvu que j'y trouve quelque bien."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":171,
+                "text":"Harpagon: Je suis content de vous voir d'accord avec moi. Son attitude et sa gentillesse m'ont touché, et je veux l'épouser, à condition d'y trouver un avantage."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":172,
+        "verse_end":173,
+        "text":[
+            {
+                "verse_id":172,
+                "text":"Cléante: Euh ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":172,
+                "text":"Cléante: Hein ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":173,
+        "verse_end":174,
+        "text":[
+            {
+                "verse_id":173,
+                "text":"Harpagon: Comment ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":173,
+                "text":"Harpagon: Quoi ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":174,
+        "verse_end":175,
+        "text":[
+            {
+                "verse_id":174,
+                "text":"Cléante: Vous êtes résolu, dites-vous... ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":174,
+                "text":"Cléante: Vous êtes sûr de vous, n'est-ce pas... ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":175,
+        "verse_end":176,
+        "text":[
+            {
+                "verse_id":175,
+                "text":"Harpagon: D'épouser Mariane."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":175,
+                "text":"Harpagon: Je veux me marier avec Mariane."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":176,
+        "verse_end":177,
+        "text":[
+            {
+                "verse_id":176,
+                "text":"Cléante: Qui ? Vous, vous ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":176,
+                "text":"Cléante: Qui ? C'est vous, n'est-ce pas ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":177,
+        "verse_end":178,
+        "text":[
+            {
+                "verse_id":177,
+                "text":"Harpagon: Oui, moi, moi, moi. Que veut dire cela ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":177,
+                "text":"Harpagon: Oui, moi, moi, moi. Qu'est-ce que cela signifie ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":5,
+        "verse_start":178,
+        "verse_end":179,
+        "text":[
+            {
+                "verse_id":178,
+                "text":"Cléante: Il m'a pris tout à coup un éblouissement, et je me retire d'ici."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":178,
+                "text":"Cléante: Soudain, j'ai été aveuglé et je vais partir d'ici."
+            }
+        ]
+    }
+]

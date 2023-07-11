@@ -1,4 +1,15 @@
+# follow
+https://www.midjourney.com/app/users/837788a1-e9dd-4c4c-8b4b-5c145eb9bb2f/?sort=new
+
 #
+https://www.midjourney.com/app/jobs/c87c4b3f-5d05-45bc-9e5a-b184204bb1e0/
+portrait of medieval peasant in the 14th century, wearing a leather cap, dirty and tired face, ugly
+--q 2 --v 5.1
+
+
+https://www.midjourney.com/app/jobs/87456283-134f-47d8-88e5-80b697719966/
+18th century mad cornish fisherman close up looking straight at camera --uplight --s 250 --q 2
+
 
 A Paris narrow street, thirsty old woman at a café during a heatwave, scorching sun, year is 2053, climate change, dynamic perspective with street cobblestones --ar 8:3 --s 500 --no eiffel
 

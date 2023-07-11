@@ -1,0 +1,326 @@
+[
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":17,
+        "verse_end":18,
+        "text":[
+            {
+                "verse_id":17,
+                "text":"Cléante: Je suis bien aise de vous trouver seule, ma soeur ; et je brûlais de vous parler, pour m'ouvrir à vous d'un secret."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":17,
+                "text":"Cléante: Je suis content de te trouver seule, ma sœur. Je voulais te parler d'un secret."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":18,
+        "verse_end":19,
+        "text":[
+            {
+                "verse_id":18,
+                "text":"Élise: Me voilà prête à vous ouïr, mon frère. Qu'avez-vous à me dire ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":18,
+                "text":"Elise: Je suis prête à t'écouter, mon frère. Qu'as-tu à me dire ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":19,
+        "verse_end":20,
+        "text":[
+            {
+                "verse_id":19,
+                "text":"Cléante: Bien des choses, ma soeur, enveloppées dans un mot. J'aime."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":19,
+                "text":"Cléante: Salut, ma sœur, beaucoup de choses résumées en un mot. J'aime."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":20,
+        "verse_end":21,
+        "text":[
+            {
+                "verse_id":20,
+                "text":"Élise: Vous aimez ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":20,
+                "text":"Elise: Vous aimez ça ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":21,
+        "verse_end":22,
+        "text":[
+            {
+                "verse_id":21,
+                "text":"Cléante: Oui, j'aime. Mais, avant que d'aller plus loin, je sais que je dépends d'un père, et que le nom de fils me soumet à ses volontés ; que nous ne devons point engager notre foi sans le consentement de ceux dont nous tenons le jour ; que le ciel les a faits les maîtres de nos voeux, et qu'il nous est enjoint de n'en disposer que par leur conduite ; que, n'étant prévenus d'aucune folle ardeur, ils sont en état de se tromper bien moins que nous et de voir beaucoup mieux ce qui nous est propre ; qu'il en faut plutôt croire les lumières de leur prudence que l'aveuglement de notre passion ; et que l'emportement de la jeunesse nous entraîne le plus souvent dans des précipices fâcheux. Je vous dis tout cela, ma soeur, afin que vous ne vous donniez pas la peine de me le dire ? car enfin mon amour ne veut rien écouter, et je vous prie de ne me point faire de remontrances."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":21,
+                "text":"Cléante: Oui, j'aime. Mais avant d'aller plus loin, je sais que je dépends de mon père et que mon nom de fils me soumet à ses volontés. Nous ne devons pas engager notre foi sans le consentement de nos parents. Le ciel les a faits les maîtres de nos souhaits et nous sommes tenus de ne les réaliser qu'en suivant leur conduite. Ils sont moins susceptibles de se tromper que nous et voient mieux ce qui nous convient. Il vaut mieux croire en leur sagesse plutôt qu'en notre passion aveugle. La jeunesse est souvent entraînée dans des situations fâcheuses par son impétuosité. Je vous dis tout cela, ma sœur, pour que vous n'ayez pas à me le dire. Car en fin de compte, mon amour refuse d'écouter et je vous prie de ne pas me faire de reproches."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":22,
+        "verse_end":23,
+        "text":[
+            {
+                "verse_id":22,
+                "text":"Élise: Vous êtes-vous engagé, mon frère, avec celle que vous aimez ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":22,
+                "text":"Elise: As-tu pris l'engagement avec celle que tu aimes, mon frère ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":23,
+        "verse_end":24,
+        "text":[
+            {
+                "verse_id":23,
+                "text":"Cléante: Non ; mais j'y suis résolu, et je vous conjure encore une fois de ne me point apporter de raisons pour m'en dissuader."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":23,
+                "text":"Cléante: Non, je suis déterminé et je vous demande encore une fois de ne pas me donner de raisons pour me dissuader."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":24,
+        "verse_end":25,
+        "text":[
+            {
+                "verse_id":24,
+                "text":"Élise: Suis-je, mon frère, une si étrange personne ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":24,
+                "text":"Elise: Suis-je vraiment si étrange, mon frère ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":25,
+        "verse_end":26,
+        "text":[
+            {
+                "verse_id":25,
+                "text":"Cléante: Non, ma soeur ; mais vous n'aimez pas ; vous ignorez la douce violence qu'un tendre amour fait sur nos coeurs, et j'appréhende votre sagesse."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":25,
+                "text":"Cléante: Non, ma sœur, mais tu ne comprends pas l'amour ; tu ne sais pas comment il peut doucement bouleverser nos cœurs, et je crains que ta sagesse ne te permette pas de le comprendre."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":26,
+        "verse_end":27,
+        "text":[
+            {
+                "verse_id":26,
+                "text":"Élise: Hélas ! mon frère, ne parlons point de ma sagesse : il n'est personne qui n'en manque, du moins une fois en sa vie ; et, si je vous ouvre mon coeur, peut-être serai-je à vos yeux bien moins sage que vous."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":26,
+                "text":"Elise: Malheureusement, mon frère, ne parlons pas de ma sagesse. Personne n'en a toujours, du moins une fois dans sa vie. Et si je vous montre mes sentiments, vous me trouverez peut-être moins sage que vous."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":27,
+        "verse_end":28,
+        "text":[
+            {
+                "verse_id":27,
+                "text":"Cléante: Ah ! plût au ciel que votre âme, comme la mienne... !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":27,
+                "text":"Cléante: Ah ! J'espère que votre âme est comme la mienne... !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":28,
+        "verse_end":29,
+        "text":[
+            {
+                "verse_id":28,
+                "text":"Élise: Finissons auparavant votre affaire, et me dites qui est celle que vous aimez."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":28,
+                "text":"Elise: Terminons d'abord votre affaire et dites-moi qui est celle que vous aimez."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":29,
+        "verse_end":30,
+        "text":[
+            {
+                "verse_id":29,
+                "text":"Cléante: Une jeune personne qui loge depuis peu en ces quartiers, et qui semble être faite pour donner de l'amour à tous ceux qui la voient. La nature, ma soeur, n'a rien formé de plus aimable ; et je me sentis transporté dès le moment que je la vis. Elle se nomme Mariane, et vit sous la conduite d'une bonne femme de mère qui est presque toujours malade, et pour qui cette aimable fille a des sentiments d'amitié qui ne sont pas imaginables. Elle la sert, la plaint et la console, avec une tendresse qui vous toucherait l'âme. Elle se prend d'un air le plus charmant du monde aux choses qu'elle fait ; et l'on voit briller mille grâces en toutes ses actions, une douceur pleine d'attraits, une bonté toute engageante, une honnêteté adorable, une... Ah ! ma soeur, je voudrais que vous l'eussiez vue !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":29,
+                "text":"Cléante: Il y a une jeune personne qui vient d'emménager ici et qui semble être faite pour inspirer de l'amour à tous ceux qui la voient. Elle est vraiment charmante, ma sœur, la nature n'a rien créé de plus aimable. Dès que je l'ai vue, j'ai été transporté. Elle s'appelle Mariane et elle vit avec sa mère qui est souvent malade. Mariane a des sentiments d'amitié pour sa mère qui sont indescriptibles. Elle la sert, la plaint et la console avec une tendresse qui touche l'âme. Elle fait tout avec un charme irrésistible et on peut voir mille grâces dans tout ce qu'elle fait. Elle est douce, gentille, honnête... Ah! ma sœur, j'aurais aimé que tu la voies !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":30,
+        "verse_end":31,
+        "text":[
+            {
+                "verse_id":30,
+                "text":"Élise: J'en vois beaucoup, mon frère, dans les choses que vous me dites ; et, pour comprendre ce qu'elle est, il me suffit que vous l'aimez."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":30,
+                "text":"Elise: Je comprends beaucoup de choses dans ce que vous me dites, mon frère. Et pour moi, il suffit que vous l'aimiez pour comprendre qui elle est."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":31,
+        "verse_end":32,
+        "text":[
+            {
+                "verse_id":31,
+                "text":"Cléante: J'ai découvert sous main qu'elles ne sont pas fort accommodées , et que leur discrète conduite a de la peine à étendre à tous leurs besoins le bien qu'elles peuvent avoir. Figurez-vous, ma soeur, quelle joie ce peut être que de relever la fortune d'une personne que l'on aime ; que de donner adroitement quelques petits secours aux modestes nécessités d'une vertueuse famille ; et concevez quel déplaisir ce m'est de voir que, par l'avarice d'un père, je sois dans l'impuissance de goûter cette joie, et de faire éclater à cette belle aucun témoignage de mon amour."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":31,
+                "text":"Cléante: J'ai découvert en secret qu'elles ne sont pas très bien loties, et que leur comportement discret a du mal à subvenir à tous leurs besoins malgré leur richesse. Imaginez, ma sœur, quelle joie ce serait de pouvoir améliorer la situation financière d'une personne que l'on aime ; de pouvoir discrètement aider une famille vertueuse dans le besoin ; et comprenez ma déception de ne pas pouvoir ressentir cette joie et de ne pas pouvoir montrer mon amour à cette belle à cause de l'avarice de mon père."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":32,
+        "verse_end":33,
+        "text":[
+            {
+                "verse_id":32,
+                "text":"Élise: Oui, je conçois assez, mon frère, quel doit être votre chagrin."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":32,
+                "text":"Elise: Oui, je comprends bien, mon frère, combien vous devez être triste."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":33,
+        "verse_end":34,
+        "text":[
+            {
+                "verse_id":33,
+                "text":"Cléante: Ah ! ma soeur, il est plus grand qu'on ne peut croire. Car, enfin, peut-on rien voir de plus cruel que cette rigoureuse épargne qu'on exerce sur nous, que cette sécheresse étrange où l'on nous fait languir ? Hé ! que nous servira d'avoir du bien, s'il ne nous vient que dans le temps que nous ne serons plus dans le bel âge d'en jouir, et si, pour m'entretenir même, il faut que maintenant je m'engage de tous côtés ; si je suis réduit avec vous à chercher tous les jours le secours des marchands, pour avoir moyen de porter des habits raisonnables ? Enfin, j'ai voulu vous parler pour m'aider à sonder mon père sur les sentiments où je suis ; et, si je l'y trouve contraire, j'ai résolu d'aller en d'autres lieux, avec cette aimable personne, jouir de la fortune que le ciel voudra nous offrir. Je fais chercher partout, pour ce dessein, de l'argent à emprunter ; et, si vos affaires, ma soeur, sont semblables aux miennes, et qu'il faille que notre père s'oppose à nos désirs, nous le quitterons là tous deux, et nous affranchirons de cette tyrannie où nous tient depuis si longtemps son avarice insupportable."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":33,
+                "text":"Cléante: Ma sœur, il est plus grand qu'on ne peut croire. On nous fait subir une rigoureuse épargne, une sécheresse étrange. À quoi bon avoir du bien si on ne peut en profiter qu'une fois qu'on est trop vieux, et si je dois m'engager de tous côtés pour subvenir à mes besoins, même pour m'habiller convenablement ? Je voulais te parler pour t'aider à sonder notre père sur mes sentiments. Si je le trouve opposé à mes désirs, j'ai décidé de partir avec cette personne charmante et de profiter de la fortune que le ciel nous offrira. Je cherche de l'argent à emprunter pour cela. Si tes affaires sont similaires aux miennes et que notre père s'oppose à nos désirs, nous le quitterons tous les deux et nous libérerons de cette tyrannie que son insupportable avarice nous impose depuis si longtemps."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":2,
+        "verse_start":34,
+        "verse_end":35,
+        "text":[
+            {
+                "verse_id":34,
+                "text":"Élise: Il est bien vrai que tous les jours il nous donne de plus en plus sujet de regretter la mort de notre mère, et que..."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":34,
+                "text":"Élise: C'est vrai, chaque jour il nous donne de plus en plus de raisons de regretter la mort de notre mère."
+            }
+        ]
+    }
+]

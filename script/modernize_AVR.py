@@ -22,7 +22,8 @@ def initialize(experiment):
     conf = pd.read_json(config_file).to_dict(orient="records")[0]
     conf["version"] = str(conf["version"]).zfill(2)
     conf["step"] = int(conf["step"])
-    conf["window_size"] = 2 * conf["step"] + 1
+    # conf["window_size"] = 2 * conf["step"] + 1
+    conf["window_size"] = conf["window_size"]
 
     return conf
 
@@ -54,8 +55,8 @@ def sliding_window(array, config):
 
 def chunk_scene(df, config):
 
-    from_verse = df.verse.min()
-    to_verse = df.verse.max()
+    from_verse = df.verse_id.min()
+    to_verse = df.verse_id.max()
 
     windows = sliding_window(list(range(from_verse, to_verse + 1)), config)
     chunks = []
@@ -74,13 +75,13 @@ def chunk_scene(df, config):
 
 def build_text(df, **kwargs):
     # load file
-    cond = df.verse > 0
+    cond = df.verse_id > 0
 
     if "verse_start" in kwargs.keys():
-        cond = cond & (df.verse >= kwargs["verse_start"])
+        cond = cond & (df.verse_id >= kwargs["verse_start"])
 
     if "verse_end" in kwargs.keys():
-        cond = cond & (df.verse < kwargs["verse_end"])
+        cond = cond & (df.verse_id < kwargs["verse_end"])
 
     # get extract
     df = df[cond].copy()
@@ -100,13 +101,13 @@ def build_text(df, **kwargs):
 
     dialogue.append('\n'.join(text))
     dialogue = " ".join(dialogue).strip()
-    print(f"===== repliques: {len(df.verse.unique())}")
+    print(f"===== repliques: {len(df.verse_id.unique())}")
     return dialogue
 
 def replique_id(start_id,lines):
     result = []
     text =[]
-    verse = start_id
+    verse_id = start_id
     for n in range(len(lines)):
 
         line = lines[n]
@@ -120,18 +121,18 @@ def replique_id(start_id,lines):
         if (n+1 < len(lines)):
             if (re.match(char_pattern, lines[n+1])):
                 result.append({
-                    'verse': verse,
+                    'verse_id': verse_id,
                     'text':  '\n'.join(text)
                 })
-                verse +=1
+                verse_id +=1
     result.append({
-        'verse': verse,
+        'verse_id': verse_id,
         'text':  '\n'.join(text)
     })
     return result
 
 
-def get_completion(prompt, model="gpt-3.5-turbo", temp=0):
+def get_completion(prompt, model, temp):
     messages = [{"role": "user", "content": prompt}]
     response = openai.ChatCompletion.create(
         model=model,
@@ -141,16 +142,6 @@ def get_completion(prompt, model="gpt-3.5-turbo", temp=0):
     return response.choices[0].message["content"]
 
 def save(input, filename):
-    # input.append(
-    #     {
-    #         "acte": -1,
-    #         "scene": -1,
-    #         "verse_start": -1,
-    #         "verse_end": -1,
-    #         "text": {"verse_id": -1, "text": [config["prompt"]]},
-    #     }
-    # )
-
     df = pd.DataFrame(input)
     with open(filename, "w", encoding="utf-8") as f:
         df.to_json(f, force_ascii=False, orient="records", indent=4)
@@ -166,7 +157,7 @@ def get_prompt(text):
     return prompt
 
 def get_personnages(df, chunk):
-    texts = df[(df.verse >= chunk['verse_start']) & (df.verse < chunk['verse_end']) & (df.category == 'character')].text.unique()
+    texts = df[(df.verse_id >= chunk['verse_start']) & (df.verse_id < chunk['verse_end']) & (df.category == 'character')].text.unique()
     personnages = []
     punct_pattern = f"(,|\.|\s)"
     for line in texts:
@@ -175,7 +166,6 @@ def get_personnages(df, chunk):
     return sorted(set(personnages))
 
 
-char_pattern = r"(SGANARELLE|MARTINE|M. ROBERT|M ROBERT|GÉRONTE|LÉANDRE|LUCINDE|JACQUELINE|PERRIN|LUCAS|VALÈRE|THIBAUT)"
 char_pattern = r"(Anselme|Brindavoine|Cléante|Dame Claude|Élise|Frosine|Harpagon|La Flèche|La Merluche|Maître Jacques|Maître Simon|Mariane|Valère|Le commissaire)"
 SLEEP_FOR = 10
 
@@ -197,11 +187,11 @@ if __name__ == "__main__":
     df = df[(df.acte == acte) & (df.scene == scene)].copy()
     df.reset_index(inplace=True, drop=True)
 
-    chunks = chunk_scene(df[df.verse > 0], config)
-    print(f"{len(df.verse.unique())} repliques; {len(chunks)} chunks")
+    chunks = chunk_scene(df[df.verse_id > 0], config)
+    print(f"{len(df.verse_id.unique())} repliques; {len(chunks)} chunks")
 
     k = 0
-    for chunk in chunks[:10]:
+    for chunk in chunks:
         text = build_text(df,**chunk).strip()
         print('--'*20)
         print(chunk)
@@ -216,7 +206,8 @@ if __name__ == "__main__":
             modern =  get_completion(
                 prompt,
                 model=config['model'],
-                temp=0)
+                temp=config['temperature'])
+
             chunk["modern"] = replique_id(
                 chunk['verse_start'],
                 modern.strip().split('\n')

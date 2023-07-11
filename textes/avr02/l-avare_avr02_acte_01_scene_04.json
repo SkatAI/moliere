@@ -1,0 +1,20 @@
+[
+    {
+        "acte":1,
+        "scene":4,
+        "verse_start":103,
+        "verse_end":104,
+        "text":[
+            {
+                "verse_id":103,
+                "text":"Harpagon: Voilà un pendard de valet qui m'incommode fort ; et je ne me plais point à voir ce chien de boiteux-là. Certes, ce n'est pas une petite peine que de garder chez soi une grande somme d'argent ; et bienheureux qui a tout son fait bien placé, et ne conserve seulement que ce qu'il faut pour sa dépense ! On n'est pas peu embarrassé à inventer, dans toute une maison, une cache fidèle ; car pour moi, les coffres-forts me sont suspects, et je ne veux jamais m'y fier. Je les tiens justement une franche amorce à voleurs, et c'est toujours la première chose que l'on va attaquer."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":103,
+                "text":"Harpagon: Ce valet malhonnête me dérange énormément ; je n'aime pas du tout voir ce boiteux-là. C'est vraiment difficile de garder une grande somme d'argent chez soi ; heureux celui qui a tout bien placé et ne garde que ce dont il a besoin pour ses dépenses ! Il est très compliqué de trouver une cachette sûre dans toute la maison ; personnellement, je me méfie des coffres-forts et je ne veux jamais leur faire confiance. Je les considère comme une véritable invitation aux voleurs, c'est toujours la première chose qu'ils attaquent."
+            }
+        ]
+    }
+]

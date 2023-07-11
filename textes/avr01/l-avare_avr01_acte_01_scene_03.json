@@ -1,0 +1,1190 @@
+[
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":36,
+        "verse_end":37,
+        "text":[
+            {
+                "verse_id":36,
+                "text":"Harpagon: Hors d'ici tout à l'heure, et qu'on ne réplique pas. Allons, que l'on détale de chez moi, maître juré filou, vrai gibier de potence !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":36,
+                "text":"Harpagon: Sors d'ici tout de suite, et pas de réplique. Allez, décampez de chez moi, espèce de voleur juré, véritable criminel !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":37,
+        "verse_end":38,
+        "text":[
+            {
+                "verse_id":37,
+                "text":"La Flèche: Je n'ai jamais rien vu de si méchant que ce maudit vieillard, et je pense, sauf correction, qu'il a le diable au corps."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":37,
+                "text":"La Flèche: Ce vieux est vraiment méchant, je n'ai jamais rien vu de pire. Je pense même qu'il est possédé par le diable."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":38,
+        "verse_end":39,
+        "text":[
+            {
+                "verse_id":38,
+                "text":"Harpagon: Tu murmures entre tes dents ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":38,
+                "text":"Harpagon: Tu murmures ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":39,
+        "verse_end":40,
+        "text":[
+            {
+                "verse_id":39,
+                "text":"La Flèche: Pourquoi me chassez-vous ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":39,
+                "text":"La Flèche: Pourquoi me poursuivez-vous ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":40,
+        "verse_end":41,
+        "text":[
+            {
+                "verse_id":40,
+                "text":"Harpagon: C'est bien à toi, pendard, à me demander des raisons ! Sors vite, que je ne t'assomme."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":40,
+                "text":"Harpagon: C'est à toi, espèce de vaurien, de me demander des explications ! Sors immédiatement avant que je te frappe."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":41,
+        "verse_end":42,
+        "text":[
+            {
+                "verse_id":41,
+                "text":"La Flèche: Qu'est-ce que je vous ai fait ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":41,
+                "text":"La Flèche: Pourquoi est-ce que vous m'en voulez ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":42,
+        "verse_end":43,
+        "text":[
+            {
+                "verse_id":42,
+                "text":"Harpagon: Tu m'as fait que je veux que tu sortes."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":42,
+                "text":"Harpagon: Sors de chez moi, c'est ce que je veux."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":43,
+        "verse_end":44,
+        "text":[
+            {
+                "verse_id":43,
+                "text":"La Flèche: Mon maître, votre fils, m'a donné ordre de l'attendre."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":43,
+                "text":"La Flèche: Votre fils m'a dit de vous attendre."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":44,
+        "verse_end":45,
+        "text":[
+            {
+                "verse_id":44,
+                "text":"Harpagon: Va-t'en l'attendre dans la rue, et ne sois point dans ma maison, planté tout droit comme un piquet à observer ce qui se passe, et faire ton profit de tout. Je ne veux point avoir sans cesse devant moi un espion de mes affaires, un traître dont les yeux maudits assiègent toutes mes actions, dévorent ce que je possède, et furettent de tous côtés pour voir s'il n'y a rien à voler."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":44,
+                "text":"Harpagon: Sors et attends-la dans la rue, ne reste pas dans ma maison à observer tout et à profiter de tout. Je ne veux pas avoir constamment un espion de mes affaires devant moi, un traître dont les yeux maudits scrutent toutes mes actions, dévorent mes biens et fouillent partout pour voir s'il y a quelque chose à voler."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":45,
+        "verse_end":46,
+        "text":[
+            {
+                "verse_id":45,
+                "text":"La Flèche: Comment diantre voulez-vous qu'on fasse pour vous voler ? Êtes-vous un homme volable, quand vous renfermez toutes choses, et faites sentinelle jour et nuit ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":45,
+                "text":"La Flèche: Comment voulez-vous qu'on vous vole ? Vous gardez tout et vous êtes toujours sur vos gardes ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":46,
+        "verse_end":47,
+        "text":[
+            {
+                "verse_id":46,
+                "text":"Harpagon: Je veux renfermer ce que bon me semble, et faire sentinelle comme il me plaît. Ne voilà pas de mes mouchards , qui prennent garde à ce qu'on fait ?\nJe tremble qu'il n'ait soupçonné quelque chose de mon argent.\nNe serais-tu point homme à aller faire courir le bruit que j'ai chez moi de l'argent caché ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":46,
+                "text":"Harpagon: Je veux garder ce que je veux et être le gardien comme je le souhaite. Mes espions ne sont-ils pas là pour surveiller ce qui se passe ?\nJe crains qu'il ne soupçonne quelque chose à propos de mon argent.\nNe serais-tu pas capable de répandre la rumeur que j'ai de l'argent caché chez moi ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":47,
+        "verse_end":48,
+        "text":[
+            {
+                "verse_id":47,
+                "text":"La Flèche: Vous avez de l'argent caché ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":47,
+                "text":"La Flèche: Tu as de l'argent caché ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":48,
+        "verse_end":49,
+        "text":[
+            {
+                "verse_id":48,
+                "text":"Harpagon: Non, coquin, je ne dis pas cela.\nJ'enrage !\nJe demande si, malicieusement, tu n'irais point faire courir le bruit que j'en ai."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":48,
+                "text":"Harpagon: Non, voyou, je ne dis pas ça. Ça me met en colère ! Je me demande si, malicieusement, tu ne vas pas répandre la rumeur que j'en ai."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":49,
+        "verse_end":50,
+        "text":[
+            {
+                "verse_id":49,
+                "text":"La Flèche: Hé ! que nous importe que vous en ayez, ou que vous n'en ayez pas, si c'est pour nous la même chose ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":49,
+                "text":"La Flèche: Hé ! On s'en fiche que vous en ayez ou pas, ça ne change rien pour nous."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":50,
+        "verse_end":51,
+        "text":[
+            {
+                "verse_id":50,
+                "text":"Harpagon: Tu fais le raisonneur ! Je te baillerai de ce raisonnement-ci par les oreilles. Sors d'ici, encore une fois."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":50,
+                "text":"Harpagon: Arrête de raisonner ! Je vais te donner ce raisonnement par les oreilles. Sors d'ici, une fois de plus."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":51,
+        "verse_end":52,
+        "text":[
+            {
+                "verse_id":51,
+                "text":"La Flèche: Eh bien, je sors."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":51,
+                "text":"La Flèche: Je vais sortir."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":52,
+        "verse_end":53,
+        "text":[
+            {
+                "verse_id":52,
+                "text":"Harpagon: Attends : ne m'emportes-tu rien ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":52,
+                "text":"Harpagon: Attends, est-ce que tu ne m'emportes rien ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":53,
+        "verse_end":54,
+        "text":[
+            {
+                "verse_id":53,
+                "text":"La Flèche: Que vous emporterais-je ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":53,
+                "text":"La Flèche: Qu'est-ce que je devrais prendre avec moi ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":54,
+        "verse_end":55,
+        "text":[
+            {
+                "verse_id":54,
+                "text":"Harpagon: Tiens, viens çà, que je voie. Montre-moi tes mains."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":54,
+                "text":"Harpagon: Viens ici, laisse-moi voir. Montre-moi tes mains."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":55,
+        "verse_end":56,
+        "text":[
+            {
+                "verse_id":55,
+                "text":"La Flèche: Les voilà."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":55,
+                "text":"Les voici."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":56,
+        "verse_end":57,
+        "text":[
+            {
+                "verse_id":56,
+                "text":"Harpagon: Les autres."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":56,
+                "text":"Harpagon: Les autres."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":57,
+        "verse_end":58,
+        "text":[
+            {
+                "verse_id":57,
+                "text":"La Flèche: Les autres ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":57,
+                "text":"La Flèche: Où sont les autres ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":58,
+        "verse_end":59,
+        "text":[
+            {
+                "verse_id":58,
+                "text":"Harpagon: Oui."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":58,
+                "text":"Harpagon: Oui."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":59,
+        "verse_end":60,
+        "text":[
+            {
+                "verse_id":59,
+                "text":"La Flèche: Les voilà."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":59,
+                "text":"Les voici."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":60,
+        "verse_end":61,
+        "text":[
+            {
+                "verse_id":60,
+                "text":"Harpagon: N'as-tu rien mis ici dedans ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":60,
+                "text":"Harpagon: Tu n'as rien mis ici ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":61,
+        "verse_end":62,
+        "text":[
+            {
+                "verse_id":61,
+                "text":"La Flèche: Voyez vous-même."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":61,
+                "text":"La Flèche: Regardez par vous-même."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":62,
+        "verse_end":63,
+        "text":[
+            {
+                "verse_id":62,
+                "text":"Harpagon: Ces grands hauts-de-chausses sont propres à devenir les recéleurs des choses qu'on dérobe ; et je voudrais qu'on en eût fait pendre quelqu'un."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":62,
+                "text":"Harpagon: Ces pantalons larges sont parfaits pour cacher les objets volés ; j'aimerais qu'on pende quelqu'un pour les avoir portés."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":63,
+        "verse_end":64,
+        "text":[
+            {
+                "verse_id":63,
+                "text":"La Flèche: Ah ! qu'un homme comme cela mériterait bien ce qu'il craint ! Et que j'aurais de joie à la voler !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":63,
+                "text":"La Flèche pense : \"Oh, cet homme mériterait vraiment ce qu'il redoute ! Et je serais tellement heureux de le lui prendre !\""
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":64,
+        "verse_end":65,
+        "text":[
+            {
+                "verse_id":64,
+                "text":"Harpagon: Euh ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":64,
+                "text":"Harpagon: Hein ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":65,
+        "verse_end":66,
+        "text":[
+            {
+                "verse_id":65,
+                "text":"La Flèche: Quoi ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":65,
+                "text":"La Flèche: Qu'est-ce que c'est ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":66,
+        "verse_end":67,
+        "text":[
+            {
+                "verse_id":66,
+                "text":"Harpagon: Qu'est-ce que tu parles de voler ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":66,
+                "text":"Harpagon: De quoi parles-tu en parlant de voler ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":67,
+        "verse_end":68,
+        "text":[
+            {
+                "verse_id":67,
+                "text":"La Flèche: Je vous dis que vous fouillez bien partout, pour voir si je vous ai volé."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":67,
+                "text":"La Flèche: Cherchez partout pour voir si je vous ai volé."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":68,
+        "verse_end":69,
+        "text":[
+            {
+                "verse_id":68,
+                "text":"Harpagon: C'est ce que je veux faire."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":68,
+                "text":"Harpagon: C'est ce que je veux faire."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":69,
+        "verse_end":70,
+        "text":[
+            {
+                "verse_id":69,
+                "text":"La Flèche: La peste soit de l'avarice et des avaricieux !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":69,
+                "text":"La Flèche : Maudite soit la cupidité et ceux qui sont avares !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":70,
+        "verse_end":71,
+        "text":[
+            {
+                "verse_id":70,
+                "text":"Harpagon: Comment ? que dis-tu ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":70,
+                "text":"Harpagon: Quoi ? Qu'est-ce que tu dis ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":71,
+        "verse_end":72,
+        "text":[
+            {
+                "verse_id":71,
+                "text":"La Flèche: Ce que je dis ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":71,
+                "text":"La Flèche: Qu'est-ce que je dis ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":72,
+        "verse_end":73,
+        "text":[
+            {
+                "verse_id":72,
+                "text":"Harpagon: Oui. Qu'est-ce que tu dis d'avarice et d'avaricieux ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":72,
+                "text":"Harpagon: Oui. Que penses-tu de l'avarice et des personnes avares ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":73,
+        "verse_end":74,
+        "text":[
+            {
+                "verse_id":73,
+                "text":"La Flèche: Je dis que la peste soit de l'avarice et des avaricieux !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":73,
+                "text":"La Flèche: Je pense que la peste, c'est l'avarice et les personnes avares !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":74,
+        "verse_end":75,
+        "text":[
+            {
+                "verse_id":74,
+                "text":"Harpagon: De qui veux-tu parler ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":74,
+                "text":"Harpagon: De qui parles-tu ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":75,
+        "verse_end":76,
+        "text":[
+            {
+                "verse_id":75,
+                "text":"La Flèche: Des avaricieux."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":75,
+                "text":"La Flèche: Des personnes avares."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":76,
+        "verse_end":77,
+        "text":[
+            {
+                "verse_id":76,
+                "text":"Harpagon: Et qui sont-ils, ces avaricieux ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":76,
+                "text":"Harpagon: Et qui sont-ils, ces avares ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":77,
+        "verse_end":78,
+        "text":[
+            {
+                "verse_id":77,
+                "text":"La Flèche: Des vilains et des ladres."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":77,
+                "text":"La Flèche : Des méchants et des voleurs."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":78,
+        "verse_end":79,
+        "text":[
+            {
+                "verse_id":78,
+                "text":"Harpagon: Mais qui est-ce que tu entends par là ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":78,
+                "text":"Harpagon: Qui veux-tu dire par là ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":79,
+        "verse_end":80,
+        "text":[
+            {
+                "verse_id":79,
+                "text":"La Flèche: De quoi vous mettez-vous en peine ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":79,
+                "text":"La Flèche: Pourquoi vous inquiétez-vous ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":80,
+        "verse_end":81,
+        "text":[
+            {
+                "verse_id":80,
+                "text":"Harpagon: Je me mets en peine de ce qu'il faut."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":80,
+                "text":"Harpagon: Je me préoccupe de ce qu'il faut."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":81,
+        "verse_end":82,
+        "text":[
+            {
+                "verse_id":81,
+                "text":"La Flèche: Est-ce que vous croyez que je veux parler de vous ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":81,
+                "text":"La Flèche: Vous pensez que je veux parler de vous ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":82,
+        "verse_end":83,
+        "text":[
+            {
+                "verse_id":82,
+                "text":"Harpagon: Je crois ce que je crois ; mais je veux que tu me dises à qui tu parles quand tu dis cela."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":82,
+                "text":"Harpagon: Je crois ce que je crois. Mais dis-moi à qui tu parles quand tu dis cela."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":83,
+        "verse_end":84,
+        "text":[
+            {
+                "verse_id":83,
+                "text":"La Flèche: Je parle... je parle à mon bonnet."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":83,
+                "text":"La Flèche: Je parle à mon bonnet."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":84,
+        "verse_end":85,
+        "text":[
+            {
+                "verse_id":84,
+                "text":"Harpagon: Et moi, je pourrais bien parler à ta barrette ."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":84,
+                "text":"Harpagon: Et moi, je pourrais bien parler à ton chapeau."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":85,
+        "verse_end":86,
+        "text":[
+            {
+                "verse_id":85,
+                "text":"La Flèche: M'empêcherez-vous de maudire les avaricieux ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":85,
+                "text":"La Flèche: Est-ce que vous allez m'empêcher de maudire les personnes avares ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":86,
+        "verse_end":87,
+        "text":[
+            {
+                "verse_id":86,
+                "text":"Harpagon: Non ; mais je t'empêcherai de jaser et d'être insolent. Tais-toi."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":86,
+                "text":"Harpagon: Non, je ne te laisserai pas parler et être impertinent. Silence."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":87,
+        "verse_end":88,
+        "text":[
+            {
+                "verse_id":87,
+                "text":"La Flèche: Je ne nomme personne."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":87,
+                "text":"La Flèche: Je ne dis pas de nom."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":88,
+        "verse_end":89,
+        "text":[
+            {
+                "verse_id":88,
+                "text":"Harpagon: Je te rosserai si tu parles."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":88,
+                "text":"Harpagon: Je te frapperai si tu parles."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":89,
+        "verse_end":90,
+        "text":[
+            {
+                "verse_id":89,
+                "text":"La Flèche: Qui se sent morveux, qu'il se mouche."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":89,
+                "text":"La Flèche: Si tu as le nez qui coule, mouche-toi."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":90,
+        "verse_end":91,
+        "text":[
+            {
+                "verse_id":90,
+                "text":"Harpagon: Te tairas-tu ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":90,
+                "text":"Harpagon: Vas-tu te taire ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":91,
+        "verse_end":92,
+        "text":[
+            {
+                "verse_id":91,
+                "text":"La Flèche: Oui, malgré moi."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":91,
+                "text":"La Flèche: Oui, mais je n'ai pas le choix."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":92,
+        "verse_end":93,
+        "text":[
+            {
+                "verse_id":92,
+                "text":"Harpagon: Ah ! Ah !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":92,
+                "text":"Harpagon: Oh ! Oh !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":93,
+        "verse_end":94,
+        "text":[
+            {
+                "verse_id":93,
+                "text":"La Flèche: Tenez, voilà encore une poche : êtes-vous satisfait ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":93,
+                "text":"La Flèche: Voici une autre poche, ça vous convient ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":94,
+        "verse_end":95,
+        "text":[
+            {
+                "verse_id":94,
+                "text":"Harpagon: Allons, rends-le-moi sans te fouiller."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":94,
+                "text":"Harpagon: Donne-le moi sans me fouiller."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":95,
+        "verse_end":96,
+        "text":[
+            {
+                "verse_id":95,
+                "text":"La Flèche: Quoi ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":95,
+                "text":"La Flèche: Qu'est-ce que c'est ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":96,
+        "verse_end":97,
+        "text":[
+            {
+                "verse_id":96,
+                "text":"Harpagon: Ce que tu m'as pris."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":96,
+                "text":"Harpagon: Ce que tu m'as volé."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":97,
+        "verse_end":98,
+        "text":[
+            {
+                "verse_id":97,
+                "text":"La Flèche: Je ne vous ai rien pris du tout."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":97,
+                "text":"La Flèche: Je n'ai rien pris de vous."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":98,
+        "verse_end":99,
+        "text":[
+            {
+                "verse_id":98,
+                "text":"Harpagon: Assurément ?"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":98,
+                "text":"Harpagon: Vraiment ?"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":99,
+        "verse_end":100,
+        "text":[
+            {
+                "verse_id":99,
+                "text":"La Flèche: Assurément."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":99,
+                "text":"La Flèche: Oui, c'est sûr."
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":100,
+        "verse_end":101,
+        "text":[
+            {
+                "verse_id":100,
+                "text":"Harpagon: Adieu. Va-t-en à tous les diables !"
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":100,
+                "text":"Harpagon: Au revoir. Va-t'en au diable !"
+            }
+        ]
+    },
+    {
+        "acte":1,
+        "scene":3,
+        "verse_start":101,
+        "verse_end":102,
+        "text":[
+            {
+                "verse_id":101,
+                "text":"La Flèche: Me voilà fort bien congédié."
+            }
+        ],
+        "modern":[
+            {
+                "verse_id":101,
+                "text":"La Flèche: Je suis renvoyé."
+            }
+        ]
+    }
+]

@@ -21,17 +21,14 @@ import numpy as np
 play_title = "medecin-malgre-lui"
 play_title = "l-avare"
 
-verse_col = "verse_id"
-verse_col = "verse"
-
 
 def count_tokens(text):
     return len(text.split(' '))
 
 
 def progress(subset):
-    verses_count = len(subset[verse_col].unique())
-    verses_reviewed = len(subset[subset.selected == 1][verse_col].unique())
+    verses_count = len(subset["verse_id"].unique())
+    verses_reviewed = len(subset[subset.selected == 1]["verse_id"].unique())
     pct = str(np.round(100.0 * verses_reviewed / verses_count, 2))
     return f" {verses_reviewed}/ {verses_count} verses; {pct}% done  "
 
@@ -45,11 +42,7 @@ def select(idx):
     acte = data.loc[idx].acte
     scene = data.loc[idx].scene
     filename = f"./textes/review/{play_title}_reviewed_{str(acte).zfill(2)}_{str(scene).zfill(2)}.json"
-    # data.sort_values(
-    #     by=["acte", "scene", "verse_id", "version", "selected", "tokens", "experiment", "chunk"],
-    #     ascending = [True, True, True, True, False, True, True, True],
-    #     inplace=True
-    # )
+
     with open(filename, "w", encoding="utf-8") as f:
         data[(data.acte == acte) & (data.scene == scene)].to_json(f, force_ascii=False, orient="records", indent=4)
 
@@ -62,7 +55,7 @@ def add_text(verse_id, acte, scene, char):
         "scene": scene,
         "version": "modern",
         "chunk": 0,
-        verse_col: verse_id,
+        "verse_id": verse_id,
         "tokens": count_tokens(text),
         "char": char,
         "text": text,
@@ -126,18 +119,18 @@ if __name__ == "__main__":
         # st.table(subset)
 
 
-        verse_ids = sorted(subset[verse_col].unique())
+        verse_ids = sorted(subset["verse_id"].unique())
 
         for verse_id in verse_ids:
             # col1, col2, col3, col4 = st.columns([1, 2, 5, 5])
             col1, col2, col3 = st.columns([1, 2, 12])
-            verse_cond = subset[verse_col] == verse_id
+            verse_cond = subset["verse_id"] == verse_id
             char = subset[verse_cond]["char"].unique()[0]
             # verse_id status
             with col1:
-                if subset[(subset[verse_col] == verse_id) & (subset.selected == 1)].shape[0] < 1:
+                if subset[(subset["verse_id"] == verse_id) & (subset.selected == 1)].shape[0] < 1:
                     st.markdown(f"**:red[{verse_id}]**")
-                elif subset[(subset[verse_col] == verse_id) & (subset.selected == 1)].shape[0] > 1:
+                elif subset[(subset["verse_id"] == verse_id) & (subset.selected == 1)].shape[0] > 1:
                     st.markdown(f"**:orange[{verse_id}]**")
                 else:
                     st.markdown(f"**:blue[{verse_id}]**")
@@ -150,7 +143,7 @@ if __name__ == "__main__":
                 tmp = subset[verse_cond & (subset.version == "original")].to_dict(orient="records")
                 idx = subset[verse_cond & (subset.version == "original")].index[0]
 
-                subcol1, subcol2, subcol3 = st.columns([1, 8, 1])
+                subcol1, subcol2, subcol3 = st.columns([1, 8, 2])
                 with subcol1:
                     st.checkbox(
                         str(idx),
@@ -161,13 +154,14 @@ if __name__ == "__main__":
                 with subcol2:
                     st.write(f":blue[{tmp[0]['text'] }]")
                 with subcol3:
-                    st.caption(f"{subset.loc[idx].tokens}")
+                    # st.caption(f"{subset.loc[idx].tokens} {subset.loc[idx].sentences} {subset.loc[idx].idt} {subset.loc[idx].le}")
+                    st.caption(f"tk:{subset.loc[idx].tokens} \nidt:{subset.loc[idx].idt} \nle:{subset.loc[idx]['le']} ")
 
                 tmp = subset[verse_cond & (subset.version == "modern")].copy()
                 tmp["idx"] = tmp.index
 
                 for i, d in tmp.iterrows():
-                    subcol1, subcol2, subcol3 = st.columns([1, 8, 1])
+                    subcol1, subcol2, subcol3 = st.columns([1, 8, 2])
                     with subcol1:
                         st.checkbox(
                             str(d.idx),
@@ -179,7 +173,7 @@ if __name__ == "__main__":
                         st.write(f":orange[{d.text}]")
 
                     with subcol3:
-                        st.caption(f"{d.selected} idx:{d.idx}  {d.tokens} {d.experiment}:{d.chunk}")
+                        st.markdown(f" {d.experiment}:{d.chunk} <br> tk:{d.tokens} {d.sentences} idt:{np.round(d.idt,2)} le:{d['le']} ",  unsafe_allow_html=True)
 
                 st.text_area(
                     "enter text",

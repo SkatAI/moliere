@@ -10,11 +10,16 @@
 1.1. test different prompts
     - script: streamlit/pages/build_prompt
     - input: ./textes/original/l-avare.json
-    - resultat:
+    - resultat: online
 
 2. GPT transliteration
+
+    write config file for experiment
+
     - script: modernize_{XXX}
     - input: ./textes/original/medecin-malgre-lui.json
+    - input: ./textes/original/l-avare.json
+    
     - resultat: ./textes/{experiment}/acte_xx_scene_xx.json
 
 2.1 Review preparation

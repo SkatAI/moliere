@@ -1,10 +1,10 @@
 [
     {
         "source": "../textes/original/l-avare.json",
-        "version": "avr01",
+        "version": "avr02",
         "model": "gpt-3.5-turbo",
-        "step": 1,
-        "window_size": 2,
+        "step": 3,
+        "window_size": 7,
         "temperature": 0,
         "prompt": "Récris le texte en français moderne: \n- vocabulaire élémentaire; \n- phrases claires et courtes \n- réduit la longueur des paragraphes \n{text}",
     }

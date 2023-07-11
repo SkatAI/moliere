@@ -1,0 +1,12 @@
+[
+    {
+        "source": "../textes/original/l-avare.json",
+        "version": "avr03",
+        "model": "gpt-3.5-turbo",
+        "step": 1,
+        "window_size": 2,
+        "temperature": 0,
+        "prompt": "raccourcis ce texte, réécrit en français moderne, supprime les subordonnées: \n{text}",
+    }
+
+]
